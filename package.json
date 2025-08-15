@@ -1,8 +1,16 @@
 {
+  "name": "market-circulars",
+  "version": "1.0.0",
+  "description": "Market circulars scraping and viewing app",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
   "dependencies": {
-    "cheerio": "^1.1.2",
+    "cheerio": "^1.0.0-rc.12",
     "cors": "^2.8.5",
-    "express": "^5.1.0",
-    "node-fetch": "^3.3.2"
+    "express": "^4.18.2",
+    "node-fetch": "^2.6.7"
   }
 }
