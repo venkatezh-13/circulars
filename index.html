@@ -8,26 +8,29 @@
 <body class="bg-black text-white p-6">
   <h1 class="text-3xl font-bold mb-4">Market Circulars</h1>
   <div id="circulars" class="space-y-4"></div>
-
   <script>
     async function loadCirculars() {
-      const res = await fetch('http://localhost:3000/api/all');
-      const data = await res.json();
-      const container = document.getElementById('circulars');
-      container.innerHTML = '';
-
-      data.forEach(c => {
-        container.innerHTML += `
-          <div class="p-4 border border-gray-700 rounded-lg">
-            <span class="bg-blue-500 px-2 py-1 rounded text-sm">${c.exchange}</span>
-            <h2 class="text-lg font-bold mt-2">${c.title}</h2>
-            <p class="text-gray-400 text-sm">${c.date}</p>
-            <a href="${c.link}" target="_blank" class="text-blue-400 underline">View Full Circular</a>
-          </div>
-        `;
-      });
+      try {
+        const res = await fetch('/api/all');
+        if (!res.ok) throw new Error('Network response was not ok');
+        const data = await res.json();
+        const container = document.getElementById('circulars');
+        container.innerHTML = '';
+        data.forEach(c => {
+          container.innerHTML += `
+            <div class="p-4 border border-gray-700 rounded-lg">
+              <span class="bg-blue-500 px-2 py-1 rounded text-sm">${c.exchange}</span>
+              <h2 class="text-lg font-bold mt-2">${c.title}</h2>
+              <p class="text-gray-400 text-sm">${c.date}</p>
+              <a href="${c.link}" target="_blank" class="text-blue-400 underline">View Full Circular</a>
+            </div>
+          `;
+        });
+      } catch (err) {
+        document.getElementById('circulars').innerHTML = `<p class="text-red-500">Failed to load circulars.</p>`;
+        console.error(err);
+      }
     }
-
     loadCirculars();
   </script>
 </body>
