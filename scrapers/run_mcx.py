@@ -1,65 +1,41 @@
 """
 MCX daily scraper — called by GitHub Actions.
-Scrapes today's circulars and saves to SQLite database.
+Scrapes today's circulars and saves to data/mcx/raw/YYYY-MM-DD.json
 """
-import json, sys, os, re
+import json, sys, os
 from datetime import date
 from dataclasses import asdict
 sys.path.insert(0, os.path.dirname(__file__))
-sys.path.insert(0, os.path.join(os.path.dirname(__file__), "..", "scripts"))
 from mcx_circulars import scrape_mcx_circulars
-from db import init_db, get_connection
-
-MONTH_MAP = {
-    "jan":1,"feb":2,"mar":3,"apr":4,"may":5,"jun":6,
-    "jul":7,"aug":8,"sep":9,"oct":10,"nov":11,"dec":12,
-}
-
-def to_iso(date_str: str) -> str:
-    """Convert MCX date (01 Jan 2026) to ISO date"""
-    m = re.match(r"(\d{1,2})\s+([A-Za-z]+)\s+(\d{4})", date_str)
-    if m:
-        mon = MONTH_MAP.get(m.group(2).lower()[:3], 0)
-        if mon:
-            return f"{m.group(3)}-{mon:02d}-{int(m.group(1)):02d}"
-    return ""
 
 def main():
-    # Ensure database is initialized
-    init_db()
-    
     today = date.today()
     circulars = scrape_mcx_circulars(today, today)
 
-    # Insert into SQLite database
-    conn = get_connection()
-    inserted = 0
-    for c in circulars:
-        item = c if isinstance(c, dict) else asdict(c)
-        date_iso = to_iso(item.get("date", ""))
-        ref = str(item.get("circular_no", ""))
-        if ref and date_iso:
-            try:
-                conn.execute("""
-                    INSERT INTO circulars (exchange, date_iso, ref, subject, category, link, segment, department)
-                    VALUES (?, ?, ?, ?, ?, ?, ?, ?)
-                """, (
-                    "MCX",
-                    date_iso,
-                    ref,
-                    item.get("title", ""),
-                    item.get("category", ""),
-                    item.get("link", ""),
-                    None,
-                    None,
-                ))
-                inserted += 1
-            except Exception:
-                pass  # Duplicate
-    conn.commit()
-    conn.close()
+    out_dir = os.path.join(os.path.dirname(__file__), "..", "data", "mcx", "raw")
+    os.makedirs(out_dir, exist_ok=True)
+    out_file = os.path.join(out_dir, f"{today}.json")
 
-    print(f"Inserted {inserted} new MCX circulars into database")
+    records = []
+    for c in circulars:
+        records.append(c if isinstance(c, dict) else asdict(c))
+
+    existing = []
+    if os.path.exists(out_file):
+        with open(out_file, encoding="utf-8") as f:
+            existing = json.load(f)
+
+    seen, unique = set(), []
+    for item in existing + records:
+        key = item.get("circular_no", "") or item.get("title", "")
+        if key not in seen:
+            seen.add(key)
+            unique.append(item)
+
+    with open(out_file, "w", encoding="utf-8") as f:
+        json.dump(unique, f, indent=2, ensure_ascii=False)
+
+    print(f"Saved {len(unique)} MCX circulars to {out_file}")
 
 if __name__ == "__main__":
     main()

@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.env
+venv/
+.venv/
+
+# Local cache dirs created by scrapers
+nse_cache/
+bse_cache/
+mcx_cache/
+bse_circulars_cache.json
+mcx_circulars.json
+nse_circulars.json
+bse_circulars.json
+mcx_debug.html
+bse_archive_post.html
+
+# OS
+.DS_Store
+Thumbs.db

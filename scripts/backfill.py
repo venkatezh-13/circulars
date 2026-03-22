@@ -103,11 +103,8 @@ def to_iso(date_str: str) -> str:
 
 
 def save_batch(exchange: str, from_date: date, to_date: date, records: list):
-    """Save records split by their individual dates into daily files and SQLite."""
-    import sqlite3
-    sys.path.insert(0, os.path.join(REPO_ROOT, "scripts"))
-    from db import get_connection
-    
+    """Save records split by their individual dates into daily files."""
+
     # Group by date
     by_date: dict[str, list] = {}
     for r in records:
@@ -127,10 +124,6 @@ def save_batch(exchange: str, from_date: date, to_date: date, records: list):
     raw_dir = os.path.join(REPO_ROOT, "data", exchange, "raw")
     os.makedirs(raw_dir, exist_ok=True)
     total_saved = 0
-    
-    # Insert into SQLite
-    conn = get_connection()
-    inserted_db = 0
 
     for iso, day_records in by_date.items():
         out_file = os.path.join(raw_dir, f"{iso}.json")
@@ -154,47 +147,9 @@ def save_batch(exchange: str, from_date: date, to_date: date, records: list):
         with open(out_file, "w", encoding="utf-8") as f:
             json.dump(all_data, f, indent=2, ensure_ascii=False)
 
-        # Insert new records into SQLite
-        for r in new:
-            try:
-                if exchange == "bse":
-                    ref = r.get("notice_no", "")
-                    subject = r.get("subject", "")
-                    category = f"{r.get('segment','')} / {r.get('category','')}".strip(" /")
-                    link = r.get("pdf_url", "")
-                    segment = r.get("segment", "")
-                    department = r.get("department", "")
-                elif exchange == "nse":
-                    ref = r.get("circular_ref", "")
-                    subject = r.get("subject", "")
-                    category = r.get("department", "")
-                    link = r.get("link", "")
-                    segment = None
-                    department = r.get("department", "")
-                else:  # mcx
-                    ref = str(r.get("circular_no", ""))
-                    subject = r.get("title", "")
-                    category = r.get("category", "")
-                    link = r.get("link", "")
-                    segment = None
-                    department = None
-                
-                if ref and iso:
-                    conn.execute("""
-                        INSERT INTO circulars (exchange, date_iso, ref, subject, category, link, segment, department)
-                        VALUES (?, ?, ?, ?, ?, ?, ?, ?)
-                    """, (exchange.upper(), iso, ref, subject, category, link, segment, department))
-                    inserted_db += 1
-            except Exception:
-                pass  # Duplicate
-
         total_saved += len(new)
 
-    conn.commit()
-    conn.close()
-
     print(f"  Saved {total_saved} new records across {len(by_date)} dates")
-    print(f"  Inserted {inserted_db} records into database")
     return total_saved
 
 

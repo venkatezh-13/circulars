@@ -1,8 +1,10 @@
 """
-build_index.py — Rebuilds docs/search_index.json from SQLite database.
+build_index.py — Rebuilds docs/search_index.json from JSON files.
 
 Reads from:
-  - data/circulars.db (SQLite database with all circulars)
+  - data/nse/raw/*.json
+  - data/bse/raw/*.json
+  - data/mcx/raw/*.json
 
 Writes:
   - docs/search_index.json (flat list, used by the frontend)
@@ -21,9 +23,9 @@ Each record in the index:
 
 import os
 import json
+import glob
 from datetime import datetime
 from generate_rss import generate_rss
-from db import get_all_circulars, get_db_size, get_stats
 
 REPO_ROOT = os.path.join(os.path.dirname(__file__), "..")
 OUT_FILE = os.path.join(REPO_ROOT, "docs", "search_index.json")
@@ -37,14 +39,62 @@ def to_display(iso: str) -> str:
         return iso
 
 
+def load_exchange_json(exchange: str):
+    """Load all JSON files for an exchange."""
+    records = []
+    raw_dir = os.path.join(REPO_ROOT, "data", exchange.lower(), "raw")
+    
+    for json_file in glob.glob(os.path.join(raw_dir, "*.json")):
+        with open(json_file, encoding="utf-8") as f:
+            data = json.load(f)
+            for item in data:
+                # Extract date from file name
+                filename = os.path.basename(json_file)
+                date_iso = filename.replace(".json", "")
+                
+                if exchange == "NSE":
+                    records.append({
+                        "exchange": "NSE",
+                        "date_iso": date_iso,
+                        "ref": item.get("circular_ref", ""),
+                        "subject": item.get("subject", ""),
+                        "category": item.get("department", ""),
+                        "link": item.get("link", ""),
+                    })
+                elif exchange == "BSE":
+                    records.append({
+                        "exchange": "BSE",
+                        "date_iso": date_iso,
+                        "ref": item.get("notice_no", ""),
+                        "subject": item.get("subject", ""),
+                        "category": f"{item.get('segment','')} / {item.get('category','')}".strip(" /"),
+                        "link": item.get("pdf_url", ""),
+                    })
+                else:  # MCX
+                    records.append({
+                        "exchange": "MCX",
+                        "date_iso": date_iso,
+                        "ref": str(item.get("circular_no", "")),
+                        "subject": item.get("title", ""),
+                        "category": item.get("category", ""),
+                        "link": item.get("link", ""),
+                    })
+    
+    return records
+
+
 def main():
-    # Read all circulars from SQLite
-    records = get_all_circulars()
+    # Load all circulars from JSON files
+    all_records = []
+    
+    for exchange in ["NSE", "BSE", "MCX"]:
+        records = load_exchange_json(exchange)
+        all_records.extend(records)
     
     # Transform to frontend format
-    all_records = []
-    for r in records:
-        all_records.append({
+    formatted_records = []
+    for r in all_records:
+        formatted_records.append({
             "exchange": r["exchange"],
             "date": to_display(r["date_iso"]) if r["date_iso"] else "",
             "date_iso": r["date_iso"] or "",
@@ -57,15 +107,19 @@ def main():
     # Write index
     os.makedirs(os.path.dirname(OUT_FILE), exist_ok=True)
     with open(OUT_FILE, "w", encoding="utf-8") as f:
-        json.dump(all_records, f, separators=(",", ":"), ensure_ascii=False)
+        json.dump(formatted_records, f, separators=(",", ":"), ensure_ascii=False)
 
     # Print stats
-    stats = get_stats()
-    print(f"\nIndex built: {len(all_records):,} total records → {OUT_FILE}")
+    print(f"\nIndex built: {len(formatted_records):,} total records → {OUT_FILE}")
     size_kb = os.path.getsize(OUT_FILE) / 1024
     print(f"Index size: {size_kb:.1f} KB")
-    print(f"Database size: {get_db_size() / 1024:.1f} KB")
-    for ex, count in stats['by_exchange'].items():
+    
+    by_exchange = {}
+    for r in formatted_records:
+        ex = r["exchange"]
+        by_exchange[ex] = by_exchange.get(ex, 0) + 1
+    
+    for ex, count in sorted(by_exchange.items()):
         print(f"  [{ex}] {count:,} records")
 
     generate_rss()

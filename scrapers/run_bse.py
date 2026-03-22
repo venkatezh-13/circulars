@@ -1,36 +1,24 @@
 """
 BSE daily scraper — called by GitHub Actions.
-Scrapes today's circulars and saves to SQLite database.
+Scrapes today's circulars and saves to data/bse/raw/YYYY-MM-DD.json
 """
 import json
 import sys
 import os
 from datetime import date
 sys.path.insert(0, os.path.dirname(__file__))
-sys.path.insert(0, os.path.join(os.path.dirname(__file__), "..", "scripts"))
 from bse_circulars import main as bse_main  # Import main function
-from db import init_db, get_connection
 
 def fmt_date(d):
     """Format date as DD/MM/YYYY for BSE"""
     return d.strftime("%d/%m/%Y")
 
-def to_iso(date_str: str) -> str:
-    """Convert BSE notice_no (YYYYMMDD-N) to ISO date"""
-    import re
-    m = re.match(r"(\d{4})(\d{2})(\d{2})", date_str)
-    if m:
-        return f"{m.group(1)}-{m.group(2)}-{m.group(3)}"
-    return ""
-
 def main():
-    # Ensure database is initialized
-    init_db()
-    
     today = date.today()
     date_str = fmt_date(today)
     
     # Set up command-line arguments for bse_circulars.py
+    # Save to a temporary file first
     temp_file = "bse_temp.json"
     sys.argv = ["bse_circulars.py", "--date", date_str, "--out", temp_file]
     
@@ -42,34 +30,30 @@ def main():
         with open(temp_file, encoding="utf-8") as f:
             circulars = json.load(f)
         
-        # Insert into SQLite database
-        conn = get_connection()
-        inserted = 0
+        # Save to data/bse/raw/ directory
+        out_dir = os.path.join(os.path.dirname(__file__), "..", "data", "bse", "raw")
+        os.makedirs(out_dir, exist_ok=True)
+        out_file = os.path.join(out_dir, f"{today}.json")
+        
+        # Load existing if any
+        existing = []
+        if os.path.exists(out_file):
+            with open(out_file, encoding="utf-8") as f:
+                existing = json.load(f)
+        
+        # Merge and deduplicate
+        seen = {c.get("notice_no", "") for c in existing}
         for c in circulars:
             notice_no = c.get("notice_no", "")
-            date_iso = to_iso(notice_no)
-            if notice_no and date_iso:
-                try:
-                    conn.execute("""
-                        INSERT INTO circulars (exchange, date_iso, ref, subject, category, link, segment, department)
-                        VALUES (?, ?, ?, ?, ?, ?, ?, ?)
-                    """, (
-                        "BSE",
-                        date_iso,
-                        notice_no,
-                        c.get("subject", ""),
-                        f"{c.get('segment','')} / {c.get('category','')}".strip(" /"),
-                        c.get("pdf_url", ""),
-                        c.get("segment", ""),
-                        c.get("department", ""),
-                    ))
-                    inserted += 1
-                except Exception:
-                    pass  # Duplicate
-        conn.commit()
-        conn.close()
+            if notice_no and notice_no not in seen:
+                existing.append(c)
+                seen.add(notice_no)
         
-        print(f"Inserted {inserted} new BSE circulars into database")
+        # Save merged results
+        with open(out_file, "w", encoding="utf-8") as f:
+            json.dump(existing, f, indent=2, ensure_ascii=False)
+        
+        print(f"Saved {len(existing)} BSE circulars to {out_file}")
         
         # Clean up temp file
         os.remove(temp_file)
