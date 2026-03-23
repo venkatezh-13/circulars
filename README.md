@@ -111,7 +111,7 @@ backfill─┘
 
 | Job | Frequency | Window | Days |
 |-----|-----------|--------|------|
-| Poll (NSE + BSE + MCX) | Every 15 min | 9:00 AM – 6:00 PM | Daily |
+| Poll (NSE + BSE + MCX) | Every 15 min | 6:00 AM – 1:00 AM | Daily |
 | Backfill (historical) | Once daily | 8:30 AM | Daily |
 | Index + RSS rebuild | After each poll/backfill | — | Daily |
 
