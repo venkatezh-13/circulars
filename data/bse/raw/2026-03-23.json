@@ -86,5 +86,45 @@
     "category": "Company related",
     "department": "DCS-Listing",
     "pdf_url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260323-10/20260323-10.pdf"
+  },
+  {
+    "notice_no": "20260323-16",
+    "subject": "Listing of New Securities of Venmax Drugs and Pharmaceuticals Ltd.",
+    "segment": "Equity",
+    "category": "Company related",
+    "department": "Listing Operations",
+    "pdf_url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260323-16/20260323-16.pdf"
+  },
+  {
+    "notice_no": "20260323-15",
+    "subject": "Strike prices interval in Equity Derivatives",
+    "segment": "Derivatives",
+    "category": "Trading",
+    "department": "Trading Operations",
+    "pdf_url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260323-15/20260323-15.pdf"
+  },
+  {
+    "notice_no": "20260323-14",
+    "subject": "Change in Name of the Company Deep Diamond India Ltd",
+    "segment": "Equity",
+    "category": "Company related",
+    "department": "Listing Operations",
+    "pdf_url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260323-14/20260323-14.pdf"
+  },
+  {
+    "notice_no": "20260323-13",
+    "subject": "Suspension of Trading of KUDGI TRANSMISSION LIMITED",
+    "segment": "Debt",
+    "category": "Corporate Actions",
+    "department": "Listing Operations",
+    "pdf_url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260323-13/20260323-13.pdf"
+  },
+  {
+    "notice_no": "20260323-12",
+    "subject": "Listing of privately placed securities on the debt market segment of the Exchange",
+    "segment": "Debt",
+    "category": "Company related",
+    "department": "DCS-Listing",
+    "pdf_url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260323-12/20260323-12.pdf"
   }
 ]
