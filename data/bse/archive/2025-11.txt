@@ -1,0 +1,128 @@
+# date|notice_no|segment|category|department|subject|attachment
+|20251127-66|Debt|Circulars Listed Companies|Listing Compliance-Monitoring|Modifications to Chapter IV of the Master Circular for Debenture Trustees dated August 13, 2025.|https://www.bseindia.com/downloads/UploadDocs/Notices/20251127-66/20251127-66.pdf
+|20251127-65|Debt|Circulars Listed Companies|Listing Compliance-Monitoring|Specification of the terms and conditions for Debenture Trustees for carrying out activities outside the purview of SEBI.|https://www.bseindia.com/downloads/UploadDocs/Notices/20251127-65/20251127-65.pdf
+|20251127-64|Debt|Circulars Listed Companies|Listing Compliance-Monitoring|Timeline for submission of information by the Issuer to the Debenture Trustee(s)|https://www.bseindia.com/downloads/UploadDocs/Notices/20251127-64/20251127-64.pdf
+|20251127-63|Equity|Circulars Listed Companies|Listing Compliance-Monitoring|SEBI (Listing obligations and disclosure requirements) (Fifth amendment) regulations, 2025|https://www.bseindia.com/downloads/UploadDocs/Notices/20251127-63/20251127-63.pdf
+|20251127-62|General|Company related|Listing Operations|Daily Bulletin|https://www.bseindia.com/downloads/UploadDocs/Notices/20251127-62/20251127-62.pdf
+|20251127-61|Research Analysts|Others|Membership Compliance|Gazette Notification issued by SEBI related to second amendment in “SECURITIES AND EXCHANGE BOARD OF INDIA (RESEARCH ANALYSTS) Regulation”|https://www.bseindia.com/downloads/UploadDocs/Notices/20251127-61/20251127-61.pdf
+|20251127-60|Investment Advisers|Others|Membership Compliance|Gazette Notification issued by SEBI related to second amendment in SECURITIES AND EXCHANGE BOARD OF INDIA (INVESTMENT ADVISERS) Regulation|https://www.bseindia.com/downloads/UploadDocs/Notices/20251127-60/20251127-60.pdf
+|20251127-59|Equity|Corporate Actions|Listing Operations|Scheme of Arrangement (for Demerger) of Hindustan Unilever Ltd (Scrip Code 500696)|https://www.bseindia.com/downloads/UploadDocs/Notices/20251127-59/20251127-59.pdf
+|20251127-58|Equity|Company related|Listing Operations|Listing of Equity Shares of SUDEEP PHARMA LIMITED|https://www.bseindia.com/downloads/UploadDocs/Notices/20251127-58/20251127-58.pdf
+|20251127-57|Equity|Trading|DOSS|Applicability of Long Term Additional Surveillance Measure (LT-ASM)|https://www.bseindia.com/downloads/UploadDocs/Notices/20251127-57/20251127-57.pdf
+|20251127-56|Equity|Trading|DOSS|Applicability of Short Term Additional Surveillance Measure (ST-ASM)|https://www.bseindia.com/downloads/UploadDocs/Notices/20251127-56/20251127-56.pdf
+|20251127-55|Equity|Trading|DOSS|CHANGES IN PRICE BAND|https://www.bseindia.com/downloads/UploadDocs/Notices/20251127-55/20251127-55.pdf
+|20251127-54|Equity|Trading|DOSS|Graded Surveillance Measure (GSM) - List of securities moving into their respective GSM Stages|https://www.bseindia.com/downloads/UploadDocs/Notices/20251127-54/20251127-54.pdf
+|20251127-53|Equity|Trading|DOSS|Enhanced Surveillance Measure (ESM)|https://www.bseindia.com/downloads/UploadDocs/Notices/20251127-53/20251127-53.pdf
+|20251127-52|Equity|Company related|DOSS|Clarifications received from the companies|https://www.bseindia.com/downloads/UploadDocs/Notices/20251127-52/20251127-52.pdf
+|20251127-51|Equity|Trading|DOSS|REVISION OF SCRIPS IN TRADE TO TRADE SEGMENT|https://www.bseindia.com/downloads/UploadDocs/Notices/20251127-51/20251127-51.pdf
+|20251127-50|Equity|Company related|Listing Operations|Public Issue of PURPLE WAVE INFOCOM LIMITED - Allocation to Anchor Investors|https://www.bseindia.com/downloads/UploadDocs/Notices/20251127-50/20251127-50.pdf
+|20251127-49|Equity|Company related|Listing Operations|Listing of 1,600 Bonus Equity Shares kept in abeyance of Torrent Pharmaceuticals Ltd|https://www.bseindia.com/downloads/UploadDocs/Notices/20251127-49/20251127-49.pdf
+|20251127-48|Equity|Company related|Listing Operations|Listing of new securities of K&R Rail Engineering Limited|https://www.bseindia.com/downloads/UploadDocs/Notices/20251127-48/20251127-48.pdf
+|20251127-47|Equity|Company related|Listing Operations|Listing of New Securities of Black Box Limited|https://www.bseindia.com/downloads/UploadDocs/Notices/20251127-47/20251127-47.pdf
+|20251127-46|Equity|Company related|Listing Operations|Listing of New Securities of Remi Edelstahl Tubulars Limited|https://www.bseindia.com/downloads/UploadDocs/Notices/20251127-46/20251127-46.pdf
+|20251127-45|Equity|Company related|Listing Operations|Listing of New Securities of Apollo Micro Systems Limited|https://www.bseindia.com/downloads/UploadDocs/Notices/20251127-45/20251127-45.pdf
+|20251127-44|Debt|Company related|Listing Operations|Listing of new Commercial Paper of Aarti Industries Ltd|https://www.bseindia.com/downloads/UploadDocs/Notices/20251127-44/20251127-44.pdf
+|20251127-43|Debt|Company related|Listing Operations|Listing of new Commercial Paper of Manappuram Finance Limited|https://www.bseindia.com/downloads/UploadDocs/Notices/20251127-43/20251127-43.pdf
+|20251127-42|Debt|Company related|Listing Operations|Listing of new debt securities of Keertana Finserv Limited|https://www.bseindia.com/downloads/UploadDocs/Notices/20251127-42/20251127-42.pdf
+|20251127-41|Debt|Company related|Listing Operations|Listing of new Commercial Paper of PCBL Chemical Limited|https://www.bseindia.com/downloads/UploadDocs/Notices/20251127-41/20251127-41.pdf
+|20251127-40|Debt|Others|Listing Operations|Listing of new Treasury Bills (T-Bills)|https://www.bseindia.com/downloads/UploadDocs/Notices/20251127-40/20251127-40.pdf
+|20251127-39|Debt|Company related|Listing Operations|Listing of new Commercial Paper of Adani Enterprises Ltd|https://www.bseindia.com/downloads/UploadDocs/Notices/20251127-39/20251127-39.pdf
+|20251127-38|Debt|Company related|Listing Operations|Listing of new Commercial Paper of Tata Power Co. Ltd|https://www.bseindia.com/downloads/UploadDocs/Notices/20251127-38/20251127-38.pdf
+|20251127-37|Debt|Company related|Listing Operations|Listing of new Commercial Paper of SBICAP Securities Limited|https://www.bseindia.com/downloads/UploadDocs/Notices/20251127-37/20251127-37.pdf
+|20251127-36|Debt|Company related|Listing Operations|Listing of new Commercial Paper of 360 ONE WAM LIMITED|https://www.bseindia.com/downloads/UploadDocs/Notices/20251127-36/20251127-36.pdf
+|20251127-35|Debt|Company related|Listing Operations|Listing of new Commercial Paper of Godrej Finance Limited|https://www.bseindia.com/downloads/UploadDocs/Notices/20251127-35/20251127-35.pdf
+|20251127-34|Debt|Company related|Listing Operations|Listing of new debt securities of Mangal Credit and Fincorp Limited|https://www.bseindia.com/downloads/UploadDocs/Notices/20251127-34/20251127-34.pdf
+|20251127-33|Debt|Corporate Actions|Listing Operations|Suspension of Tradingin Debentures of KINARA CAPITAL PVT LTD|https://www.bseindia.com/downloads/UploadDocs/Notices/20251127-33/20251127-33.pdf
+|20251127-32|Debt|Company related|Listing Operations|Update Regarding debt securities of Edelweiss Retail Finance Limited|https://www.bseindia.com/downloads/UploadDocs/Notices/20251127-32/20251127-32.pdf
+|20251127-31|Equity|Company related|Listing Operations|Listing of further securities issued by the companies under ESOP/ESOS|https://www.bseindia.com/downloads/UploadDocs/Notices/20251127-31/20251127-31.pdf
+|20251127-30|Equity|Company related|Listing Operations|Listing of New Securities of Rajvi Logitrade Limited|https://www.bseindia.com/downloads/UploadDocs/Notices/20251127-30/20251127-30.pdf
+|20251127-29|Debt|Corporate Actions|Listing Operations|Part Redemption of Debentures of UNIGOLD FINANCE LTD|https://www.bseindia.com/downloads/UploadDocs/Notices/20251127-29/20251127-29.pdf
+|20251127-28|Debt|Corporate Actions|Listing Operations|Part Redemption(Revised) of Debentures of MAGNUM VENTURES LIMITED|https://www.bseindia.com/downloads/UploadDocs/Notices/20251127-28/20251127-28.pdf
+|20251127-27|Currency Derivatives|Trading|Trading Operations|Mock Trading on Saturday, November 29th, 2025 for Currency Derivatives segment|https://www.bseindia.com/downloads/UploadDocs/Notices/20251127-27/20251127-27.pdf
+|20251127-26|Commodity Derivatives|Trading|Trading Operations|Mock Trading on Saturday, November 29th, 2025 for Commodity Derivatives segment|https://www.bseindia.com/downloads/UploadDocs/Notices/20251127-26/20251127-26.pdf
+|20251127-25|EGR|Trading|Trading Operations|Mock Trading on Saturday, November 29th, 2025 for Electronic Gold Receipts segment|https://www.bseindia.com/downloads/UploadDocs/Notices/20251127-25/20251127-25.pdf
+|20251127-24|Derivatives|Trading|Trading Operations|Mock Trading on Saturday November 29, 2025 for Equity Derivatives segment|https://www.bseindia.com/downloads/UploadDocs/Notices/20251127-24/20251127-24.pdf
+|20251127-23|Equity|Trading|Trading Operations|Mock Trading on Saturday, November 29th, 2025 for Equity segment|https://www.bseindia.com/downloads/UploadDocs/Notices/20251127-23/20251127-23.pdf
+|20251127-22|Equity|Company related|Listing Operations|Public Issue of EXATO TECHNOLOGIES LIMITED - Allocation to Anchor Investors|https://www.bseindia.com/downloads/UploadDocs/Notices/20251127-22/20251127-22.pdf
+|20251127-21|General|Others|Membership Compliance|Admission of Member.|https://www.bseindia.com/downloads/UploadDocs/Notices/20251127-21/20251127-21.pdf
+|20251127-20|Debt|Company related|Listing Operations|Listing of new debt securities of AXIS Bank Ltd.|https://www.bseindia.com/downloads/UploadDocs/Notices/20251127-20/20251127-20.pdf
+|20251127-19|Mutual Fund|Trading|Trading Operations|Availability of HELIOS SMALL CAP FUND for ongoing transactions on BSE StAR MF Platform|https://www.bseindia.com/downloads/UploadDocs/Notices/20251127-19/20251127-19.pdf
+|20251127-18|Equity|Company related|Listing Operations|Change in Group of Equity Shares of KSR Footwear Limited|https://www.bseindia.com/downloads/UploadDocs/Notices/20251127-18/20251127-18.pdf
+|20251127-17|Equity|Company related|Listing Compliance-Monitoring|Change in status of company|https://www.bseindia.com/downloads/UploadDocs/Notices/20251127-17/20251127-17.pdf
+|20251127-16|Equity|Trading|Trading Operations|Offer to Buy – Acquisition Window (Takeover) for SOMA PAPERS AND INDUSTRIES LTD –Live Activities Schedule|https://www.bseindia.com/downloads/UploadDocs/Notices/20251127-16/20251127-16.pdf
+|20251127-15|Equity|Trading|Trading Operations|Offer to Buy – Acquisition Window (Takeover) for OCTAWARE TECHNOLOGIES LTD – Live Activities Schedule|https://www.bseindia.com/downloads/UploadDocs/Notices/20251127-15/20251127-15.pdf
+|20251127-14|General|Settlement/RMS|Post Trade|Settlement Schedule Offer to Buy – Acquisition Window (Takeover) for OCTAWARE TECHNOLOGIES LIMITED|https://www.bseindia.com/downloads/UploadDocs/Notices/20251127-14/20251127-14.pdf
+|20251127-13|Equity|Company related|Listing Operations|Listing of Equity Shares of SUDEEP PHARMA LIMITED|https://www.bseindia.com/downloads/UploadDocs/Notices/20251127-13/20251127-13.pdf
+|20251127-12|Debt|Company related|Listing Operations|Listing of new debt securities of MUFIN GREEN FINANCE LIMITED|https://www.bseindia.com/downloads/UploadDocs/Notices/20251127-12/20251127-12.pdf
+|20251127-11|Debt|Company related|Listing Operations|Listing of new debt securities of Anzen India Energy Yield Plus Trust|https://www.bseindia.com/downloads/UploadDocs/Notices/20251127-11/20251127-11.pdf
+|20251127-10|General|Settlement/RMS|Post Trade|Demat Auction - 764|https://www.bseindia.com/downloads/UploadDocs/Notices/20251127-10/20251127-10.pdf
+|20251127-9|Debt|Corporate Actions|Listing Operations|Suspension of Trading in Commercial Paper|https://www.bseindia.com/downloads/UploadDocs/Notices/20251127-9/20251127-9.pdf
+|20251127-8|Equity|Company related|Listing Operations|Rights Entitlements of INDOWIND ENERGY LIMITED.|https://www.bseindia.com/downloads/UploadDocs/Notices/20251127-8/20251127-8.pdf
+|20251127-7|Debt|Corporate Actions|Listing Operations|Suspension of Trading in Debentures of TATA HOUSING DEVELOPMENT COMPANY LIMITED|https://www.bseindia.com/downloads/UploadDocs/Notices/20251127-7/20251127-7.pdf
+|20251127-6|Debt|Corporate Actions|Listing Operations|Suspension of Trading in Debenture of MUTHOOT MERCANTILE LIMITED|https://www.bseindia.com/downloads/UploadDocs/Notices/20251127-6/20251127-6.pdf
+|20251127-5|Equity|Company related|Listing Operations|Rights Entitlements of JAINEX AAMCOL LIMITED.|https://www.bseindia.com/downloads/UploadDocs/Notices/20251127-5/20251127-5.pdf
+|20251127-4|Equity|Corporate Actions|Listing Operations|New ISIN Number of MINI DIAMONDS INDIA LTD (Scrip Code: 523373)|https://www.bseindia.com/downloads/UploadDocs/Notices/20251127-4/20251127-4.pdf
+|20251127-3|General|Settlement/RMS|Post Trade|Settlement Schedule Offer to Buy – Acquisition Window (Takeover) for SOMA PAPERS AND INDUSTRIES LIMITED|https://www.bseindia.com/downloads/UploadDocs/Notices/20251127-3/20251127-3.pdf
+|20251127-2|General|Compliance|DOSS|Extension towards timeline for submission of the System Audit report of Trading Members (TYPE - III)|https://www.bseindia.com/downloads/UploadDocs/Notices/20251127-2/20251127-2.pdf
+|20251127-1|Debt|Trading|Trading Operations|Non-Competitive Bidding for Auction of GoI dated Securities (G-secs) on November 28, 2025|https://www.bseindia.com/downloads/UploadDocs/Notices/20251127-1/20251127-1.pdf
+|20251128-58|General|Company related|Listing Operations|Daily Bulletin|https://www.bseindia.com/downloads/UploadDocs/Notices/20251128-58/20251128-58.pdf
+|20251128-57|Equity|Corporate Actions|Listing Operations|Amend the Name of Maxheights Infrastructure Ltd (Scrip Code: 534338)|https://www.bseindia.com/downloads/UploadDocs/Notices/20251128-57/20251128-57.pdf
+|20251128-56|Derivatives|Trading|Trading Operations|Pre-Trade Risk Control – Limit Price Protection in Equity Derivatives Segment|https://www.bseindia.com/downloads/UploadDocs/Notices/20251128-56/20251128-56.pdf
+|20251128-55|Equity|Company related|Listing Operations|Listing of Equity Shares of Galada Power & Telecommunication Limited|https://www.bseindia.com/downloads/UploadDocs/Notices/20251128-55/20251128-55.pdf
+|20251128-54|Equity|Company related|Listing Operations|Listing of new Securities of PC JEWELLER LIMITED.|https://www.bseindia.com/downloads/UploadDocs/Notices/20251128-54/20251128-54.pdf
+|20251128-53|Equity|Company related|Listing Operations|Listing of new securities of Shree Hari Chemicals Export Ltd|https://www.bseindia.com/downloads/UploadDocs/Notices/20251128-53/20251128-53.pdf
+|20251128-52|Equity|Trading|DOSS|Applicability of Long Term Additional Surveillance Measure (LT-ASM)|https://www.bseindia.com/downloads/UploadDocs/Notices/20251128-52/20251128-52.pdf
+|20251128-51|Equity|Trading|DOSS|Enhanced Surveillance Measure (ESM)|https://www.bseindia.com/downloads/UploadDocs/Notices/20251128-51/20251128-51.pdf
+|20251128-50|Commodity Derivatives|Settlement/RMS|Post Trade|BCX – Tender Period Margin Tracker – December 2025|https://www.bseindia.com/downloads/UploadDocs/Notices/20251128-50/20251128-50.pdf
+|20251128-49|Equity|Company related|Listing Operations|Listing of New Securities of SEPC Ltd.|https://www.bseindia.com/downloads/UploadDocs/Notices/20251128-49/20251128-49.pdf
+|20251128-48|Equity|Trading|DOSS|CHANGES IN PRICE BAND|https://www.bseindia.com/downloads/UploadDocs/Notices/20251128-48/20251128-48.pdf
+|20251128-47|Equity|Trading|DOSS|Graded Surveillance Measure (GSM) - List of securities moving into their respective GSM Stages|https://www.bseindia.com/downloads/UploadDocs/Notices/20251128-47/20251128-47.pdf
+|20251128-46|Equity|Company related|DOSS|Clarifications received from the companies|https://www.bseindia.com/downloads/UploadDocs/Notices/20251128-46/20251128-46.pdf
+|20251128-45|Equity|Trading|DOSS|Applicability of Short Term Additional Surveillance Measure (ST-ASM)|https://www.bseindia.com/downloads/UploadDocs/Notices/20251128-45/20251128-45.pdf
+|20251128-44|Equity|Trading|DOSS|Surveillance Measure for securities under IBC|https://www.bseindia.com/downloads/UploadDocs/Notices/20251128-44/20251128-44.pdf
+|20251128-43|Equity|Trading|DOSS|Measure in respect of companies with high Promoter as well as non- Promoter ‘Encumbrance’ as per Reg. 28(3) of SEBI (SAST) Regulation 2011.|https://www.bseindia.com/downloads/UploadDocs/Notices/20251128-43/20251128-43.pdf
+|20251128-42|Mutual Fund|Trading|Trading Operations|Change in minimum number of Instalments for GROWW MUTUAL FUND on BSE StAR MF platform|https://www.bseindia.com/downloads/UploadDocs/Notices/20251128-42/20251128-42.pdf
+|20251128-41|Equity|Company related|Listing Operations|Update on listing and trading of DS Kulkarni Developers Limited (Scrip Code – 523890)|https://www.bseindia.com/downloads/UploadDocs/Notices/20251128-41/20251128-41.pdf
+|20251128-40|General|Compliance|DOSS|Order in respect of Droneacharya Aerial Innovations Limited.|https://www.bseindia.com/downloads/UploadDocs/Notices/20251128-40/20251128-40.pdf
+|20251128-39|Mutual Fund|Trading|Trading Operations|Launch of New Fund Offer with SIP facility of UNION Mutual Fund on BSE StAR MF Platform|https://www.bseindia.com/downloads/UploadDocs/Notices/20251128-39/20251128-39.pdf
+|20251128-38|Equity|Company related|Listing Operations|Public Issue of RAVELCARE LIMITED - Allocation to Anchor Investors|https://www.bseindia.com/downloads/UploadDocs/Notices/20251128-38/20251128-38.pdf
+|20251128-37|Debt|Corporate Actions|Listing Operations|Part Redemption of Debentures of AAVAS FINANCIERS LIMITED|https://www.bseindia.com/downloads/UploadDocs/Notices/20251128-37/20251128-37.pdf
+|20251128-36|Mutual Fund|Trading|Trading Operations|Launch of ETF New Fund Offer of Bandhan Mutual Fund on BSE StAR MF Platform|https://www.bseindia.com/downloads/UploadDocs/Notices/20251128-36/20251128-36.pdf
+|20251128-35|Mutual Fund|Trading|Trading Operations|Launch of ETF New Fund Offer of Bandhan Mutual Fund on BSE StAR MF Platform|https://www.bseindia.com/downloads/UploadDocs/Notices/20251128-35/20251128-35.pdf
+|20251128-34|Debt|Corporate Actions|Listing Operations|Part Redemption of Bonds of VIVRITI CAPITAL LIMITED|https://www.bseindia.com/downloads/UploadDocs/Notices/20251128-34/20251128-34.pdf
+|20251128-33|Debt|Corporate Actions|Listing Operations|Part Redemption of Debentures of VERITAS FINANCE LIMITED|https://www.bseindia.com/downloads/UploadDocs/Notices/20251128-33/20251128-33.pdf
+|20251128-32|Debt|Company related|Listing Operations|Update Regarding debt securities of Setco Auto Systems Pvt. Ltd|https://www.bseindia.com/downloads/UploadDocs/Notices/20251128-32/20251128-32.pdf
+|20251128-31|Debt|Company related|Listing Operations|Update Regarding debt securities of Piramal Finance Limited|https://www.bseindia.com/downloads/UploadDocs/Notices/20251128-31/20251128-31.pdf
+|20251128-30|Debt|Company related|Listing Operations|Listing of new Commercial Paper of Manappuram Finance Limited|https://www.bseindia.com/downloads/UploadDocs/Notices/20251128-30/20251128-30.pdf
+|20251128-29|Debt|Company related|Listing Operations|Listing of new Commercial Paper of Fedbank Financial Services Limited|https://www.bseindia.com/downloads/UploadDocs/Notices/20251128-29/20251128-29.pdf
+|20251128-28|Debt|Company related|Listing Operations|Listing of new debt securities of HDB Financial Services Limited|https://www.bseindia.com/downloads/UploadDocs/Notices/20251128-28/20251128-28.pdf
+|20251128-27|Debt|Company related|Listing Operations|Listing of new debt securities of NAMDEV FINVEST PRIVATE LIMITED|https://www.bseindia.com/downloads/UploadDocs/Notices/20251128-27/20251128-27.pdf
+|20251128-26|Debt|Company related|Listing Operations|Listing of new debt securities of CSA Investments Private Limited|https://www.bseindia.com/downloads/UploadDocs/Notices/20251128-26/20251128-26.pdf
+|20251128-25|Debt|Company related|Listing Operations|Listing of new debt securities of UGRO CAPITAL LIMITED|https://www.bseindia.com/downloads/UploadDocs/Notices/20251128-25/20251128-25.pdf
+|20251128-24|Debt|Company related|Listing Operations|Listing of new debt securities of India Shelter Finance Corporation Limited|https://www.bseindia.com/downloads/UploadDocs/Notices/20251128-24/20251128-24.pdf
+|20251128-23|Debt|Company related|Listing Operations|Listing of new debt securities of Midland Microfin Limited|https://www.bseindia.com/downloads/UploadDocs/Notices/20251128-23/20251128-23.pdf
+|20251128-22|Debt|Company related|Listing Operations|Listing of new debt securities of Nuvama Wealth Finance Limited|https://www.bseindia.com/downloads/UploadDocs/Notices/20251128-22/20251128-22.pdf
+|20251128-21|Equity|Company related|Listing Operations|Listing of New Securities of Aurum PropTech Ltd|https://www.bseindia.com/downloads/UploadDocs/Notices/20251128-21/20251128-21.pdf
+|20251128-20|Debt|Corporate Actions|Listing Operations|Part Redemption of Debentures of UGRO CAPITAL LIMITED|https://www.bseindia.com/downloads/UploadDocs/Notices/20251128-20/20251128-20.pdf
+|20251128-19|Debt|Corporate Actions|Listing Operations|Part Redemption of Debentures of MANBA FINANCE LIMITED|https://www.bseindia.com/downloads/UploadDocs/Notices/20251128-19/20251128-19.pdf
+|20251128-18|Equity|Company related|Listing Operations|Listing of New Securities of Bridge Securities Ltd.|https://www.bseindia.com/downloads/UploadDocs/Notices/20251128-18/20251128-18.pdf
+|20251128-17|Equity|Company related|Listing Operations|Listing of New Securities of Shree Ganesh Remedies Ltd|https://www.bseindia.com/downloads/UploadDocs/Notices/20251128-17/20251128-17.pdf
+|20251128-16|Debt|Company related|Listing Operations|Listing of new debt securities of Power Finance Corporation Ltd|https://www.bseindia.com/downloads/UploadDocs/Notices/20251128-16/20251128-16.pdf
+|20251128-15|Equity|Company related|Listing Operations|Listing of further securities issued by the companies under ESOP/ESOS|https://www.bseindia.com/downloads/UploadDocs/Notices/20251128-15/20251128-15.pdf
+|20251128-14|Mutual Fund|Trading|Trading Operations|Revise and Revamp of Nomination Facilities in Mutual Funds Segment- Update|https://www.bseindia.com/downloads/UploadDocs/Notices/20251128-14/20251128-14.pdf
+|20251128-13|Mutual Fund|Company related|Listing Operations|Listing of Units Of DSP MSCI India ETF a scheme under DSP Mutual Fund|https://www.bseindia.com/downloads/UploadDocs/Notices/20251128-13/20251128-13.pdf
+|20251128-12|Equity|Index|Index Cell|Addition to the BSE IPO INDEX|https://www.bseindia.com/downloads/UploadDocs/Notices/20251128-12/20251128-12.pdf
+|20251128-11|Equity|Index|Index Cell|Corporate Action Announcement for Hindustan Unilever Ltd. in BSE Indices|https://www.bseindia.com/downloads/UploadDocs/Notices/20251128-11/20251128-11.pdf
+|20251128-10|Debt|Corporate Actions|Listing Operations|Suspension of Trading in Debentures of SAMUNNATI FINANCE PRIVATE LIMITED|https://www.bseindia.com/downloads/UploadDocs/Notices/20251128-10/20251128-10.pdf
+|20251128-9|Equity|Company related|Listing Compliance-Monitoring|Discontinuation of weekly trading in securities of company suspended for non-compliances with provisions of certain Regulations of SEBI (Depositories and Participants) Regulations, 2018|https://www.bseindia.com/downloads/UploadDocs/Notices/20251128-9/20251128-9.pdf
+|20251128-8|General|Settlement/RMS|Post Trade|Demat Auction -765|https://www.bseindia.com/downloads/UploadDocs/Notices/20251128-8/20251128-8.pdf
+|20251128-7|Debt|Company related|Listing Operations|Change in Name of the Company.|https://www.bseindia.com/downloads/UploadDocs/Notices/20251128-7/20251128-7.pdf
+|20251128-6|Derivatives|Settlement/RMS|Post Trade|Measures for Enhancing Trading Convenience and Strengthening Risk Monitoring in Equity Derivatives|https://www.bseindia.com/downloads/UploadDocs/Notices/20251128-6/20251128-6.pdf
+|20251128-5|Equity|Company related|Listing Operations|Listing of Securities Darshan Orna Limited|https://www.bseindia.com/downloads/UploadDocs/Notices/20251128-5/20251128-5.pdf
+|20251128-4|Debt|Corporate Actions|Listing Operations|Part Redemption of Debentures of VISTAAR FINANCIAL SERVICES PVT LTD|https://www.bseindia.com/downloads/UploadDocs/Notices/20251128-4/20251128-4.pdf
+|20251128-3|Debt|Corporate Actions|Listing Operations|Part Redemption of Debentures of INDEL MONEY LIMITED|https://www.bseindia.com/downloads/UploadDocs/Notices/20251128-3/20251128-3.pdf
+|20251128-2|Debt|Corporate Actions|Listing Operations|Part Redemption of Debentures of VISTAAR FINANCIAL SERVICES PVT LTD|https://www.bseindia.com/downloads/UploadDocs/Notices/20251128-2/20251128-2.pdf
+|20251128-1|General|Others|Membership Compliance|Payment of SEBI Turnover Fees across segments including applicable GST|https://www.bseindia.com/downloads/UploadDocs/Notices/20251128-1/20251128-1.pdf
+|20251129-3|Debt|Trading|Trading Operations|Non-Competitive Bidding Facility for Auction of Treasury Bills (T-Bills) on December 03, 2025|https://www.bseindia.com/downloads/UploadDocs/Notices/20251129-3/20251129-3.pdf
+|20251129-2|Debt|Trading|Trading Operations|Non-Competitive Bidding Facility for Auction of State Government Securities (SDL) on December 02, 2025|https://www.bseindia.com/downloads/UploadDocs/Notices/20251129-2/20251129-2.pdf
+|20251129-1|SLB|Settlement/RMS|Post Trade|Market Wide Position Limits for stocks traded under SLBS – December 2025|https://www.bseindia.com/downloads/UploadDocs/Notices/20251129-1/20251129-1.pdf

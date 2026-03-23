@@ -1,0 +1,59 @@
+# date|circular_ref|department|subject|link
+November 27, 2025|NSE/CML/71518|Listing|Listing of Equity Shares of Sudeep Pharma Limited (IPO)|https://nsearchives.nseindia.com/content/circulars/CML71518.zip
+November 27, 2025|NSE/CML/71517|Listing|Listing of Non-Convertible Debentures of ECL Finance Limited on the capital market segment of the Exchange pursuant to the Scheme of Arrangement|https://nsearchives.nseindia.com/content/circulars/CML71517.pdf
+November 27, 2025|NSE/CML/71516|Emerge|Listing of further issues of C2C Advanced Systems Limited|https://nsearchives.nseindia.com/content/circulars/CML71516.pdf
+November 27, 2025|NSE/CML/71515|Listing|Listing of further issues of securities|https://nsearchives.nseindia.com/content/circulars/CML71515.pdf
+November 27, 2025|NSE/SURV/71514|Surveillance & Investigation|Trade for Trade|https://nsearchives.nseindia.com/content/circulars/SURV71514.zip
+November 27, 2025|NSE/MSD/71513|Futures & Options|Simulated Environment - Update in Market Timings|https://nsearchives.nseindia.com/content/circulars/MSD71513.pdf
+November 27, 2025|NSE/SURV/71512|Surveillance & Investigation|Applicability of Additional Surveillance Measure (ASM)|https://nsearchives.nseindia.com/content/circulars/SURV71512.zip
+November 27, 2025|NSE/CML/71511|Listing|Listing of Equity Shares of Paushak Limited (New Listing)|https://nsearchives.nseindia.com/content/circulars/CML71511.zip
+November 27, 2025|NSE/SURV/71510|Surveillance & Investigation|Applicability of Short-Term Additional Surveillance Measure (ST-ASM)|https://nsearchives.nseindia.com/content/circulars/SURV71510.zip
+November 27, 2025|NSE/FAOP/71509|Futures & Options|Scheme of Arrangement: Adjustment of Futures and Options contracts of Hindustan Unilever Limited (HINDUNILVR)|https://nsearchives.nseindia.com/content/circulars/FAOP71509.pdf
+November 27, 2025|NSE/CMTR/71508|Capital Market (Equities) Trade|Scheme of Arrangement: Special Pre-Open Session of Hindustan Unilever Limited (HINDUNILVR)|https://nsearchives.nseindia.com/content/circulars/CMTR71508.pdf
+November 27, 2025|NSE/SURV/71507|Surveillance & Investigation|Applicability of Enhanced Surveillance Measure (ESM)|https://nsearchives.nseindia.com/content/circulars/SURV71507.zip
+November 27, 2025|NSE/CML/71506|Listing|Listing of privately placed securities on capital market segment|https://nsearchives.nseindia.com/content/circulars/CML71506.pdf
+November 27, 2025|NSE/ISC/71505|Legal, ISC & Arbitration|Change in address of Common Investor Services Centre at Chennai|https://nsearchives.nseindia.com/content/circulars/ISC71505.pdf
+November 27, 2025|NSE/CML/71504|Listing|Listing of privately placed securities on the debt market segment of the Exchange|https://nsearchives.nseindia.com/content/circulars/CML71504.pdf
+November 27, 2025|71503|Listing|Trade for Trade - KSR Footwear Limited|https://nsearchives.nseindia.com/content/circulars/null71503.null
+November 27, 2025|71502|Listing|Suspension of trading in Non-Convertible Debentures (Privately Placed)|https://nsearchives.nseindia.com/content/circulars/null71502.null
+November 27, 2025|NCL/CMPT/71501|Futures & Options|Measure for Enhancing Trading Convenience and Strengthening Risk Monitoring in Equity Derivatives|https://nsearchives.nseindia.com/content/circulars/CMPT71501.pdf
+November 27, 2025|NSE/CML/71500|Listing|Listing of Equity Shares of Sudeep Pharma Limited (IPO)|https://nsearchives.nseindia.com/content/circulars/CML71500.pdf
+November 27, 2025|NSE/CML/71499|Listing|Trading of Rights Entitlements pursuant to Rights Issue of Indowind Energy Limited|https://nsearchives.nseindia.com/content/circulars/CML71499.pdf
+November 27, 2025|NSE/NMF/71498|Mutual Fund|Availability of Daily frequency in Systematic Investment Plan (SIP) under HSBC Mutual Fund on NSE MF Invest Platform|https://nsearchives.nseindia.com/content/circulars/NMF71498.zip
+November 27, 2025|NSE/NMF/71478|Mutual Fund|Availability of Helios Small Cap Fund for ongoing transactions on NSE MF Invest Platform|https://nsearchives.nseindia.com/content/circulars/NMF71478.pdf
+November 28, 2025|NCL/CMPT/71557|Securities Lending & Borrowing Scheme|Revised Applicable MWPL, Participant, Institutional Client and Non-Institutional Client Limits for Securities and ETFs - SLBS|https://nsearchives.nseindia.com/content/circulars/CMPT71557.zip
+November 28, 2025|NSE/CML/71556|Listing|Listing of further issue of Aurum PropTech Limited|https://nsearchives.nseindia.com/content/circulars/CML71556.pdf
+November 28, 2025|NSE/CML/71555|Listing|Listing of further issue of SEPC Limited|https://nsearchives.nseindia.com/content/circulars/CML71555.pdf
+November 28, 2025|NSE/INVG/71553|Surveillance & Investigation|SEBI order in respect of Droneacharya Aerial Innovations Limited|https://nsearchives.nseindia.com/content/circulars/INVG71553.pdf
+November 28, 2025|NSE/ISC/71552|Legal, ISC & Arbitration|Mock Trading on Saturday, November 29, 2025|https://nsearchives.nseindia.com/content/circulars/ISC71552.pdf
+November 28, 2025|NSE/SURV/71550|Surveillance & Investigation|Applicability of Enhanced Surveillance Measure (ESM)|https://nsearchives.nseindia.com/content/circulars/SURV71550.zip
+November 28, 2025|NCL/CMPT/71549|Futures & Options|Adjustment of Futures & Options Contracts and Physical Settlement in HINDUSTAN UNILEVER LIMITED (HINDUNILVR)|https://nsearchives.nseindia.com/content/circulars/CMPT71549.pdf
+November 28, 2025|NSE/CML/71548|Listing|Listing of privately placed securities on capital market segment|https://nsearchives.nseindia.com/content/circulars/CML71548.pdf
+November 28, 2025|NSE/CML/71547|Listing|Listing of privately placed securities on the debt market segment of the Exchange|https://nsearchives.nseindia.com/content/circulars/CML71547.pdf
+November 28, 2025|NSE/CMTR/71546|Capital Market (Equities) Trade|BONUS: Adjustment of Market Lot for Security INM in SME Platform|https://nsearchives.nseindia.com/content/circulars/CMTR71546.pdf
+November 28, 2025|NSE/CML/71545|Listing|Listing of further issues of securities|https://nsearchives.nseindia.com/content/circulars/CML71545.pdf
+November 28, 2025|NSE/CML/71544|Listing|Suspension of trading in Non-Convertible Debentures - Indian Railway Finance Corporation Limited|https://nsearchives.nseindia.com/content/circulars/CML71544.pdf
+November 28, 2025|NSE/CML/71543|Listing|Suspension of trading in Non-Convertible Debentures (Privately Placed)|https://nsearchives.nseindia.com/content/circulars/CML71543.pdf
+November 28, 2025|NCL/DS/71542|Debt Segment|Migration of services from CIM to NMASS|https://nsearchives.nseindia.com/content/circulars/DS71542.zip
+November 28, 2025|NCL/CMPT/71541|Securities Lending & Borrowing Scheme|Migration of services from CIM to NMASS|https://nsearchives.nseindia.com/content/circulars/CMPT71541.zip
+November 28, 2025|NSE/FAOP/71540|Futures & Options|Quantity Freeze Limits for Indices|https://nsearchives.nseindia.com/content/circulars/FAOP71540.pdf
+November 28, 2025|NCL/COM/71539|Commodity Derivatives|Migration of services from CIM to NMASS|https://nsearchives.nseindia.com/content/circulars/COM71539.zip
+November 28, 2025|NCL/CD/71538|Currency Derivatives|Migration of services from CIM to NMASS|https://nsearchives.nseindia.com/content/circulars/CD71538.zip
+November 28, 2025|NCL/CMPT/71537|Futures & Options|Migration of services from CIM to NMASS|https://nsearchives.nseindia.com/content/circulars/CMPT71537.zip
+November 28, 2025|NCL/CMPT/71536|NSE Clearing - Capital Market|Migration of services from CIM to NMASS|https://nsearchives.nseindia.com/content/circulars/CMPT71536.zip
+November 28, 2025|NSE/MSD/71535|Member Service Department|Connectivity- POP network changes - Reminder|https://nsearchives.nseindia.com/content/circulars/MSD71535.pdf
+November 28, 2025|NSE/CML/71534|Listing|Change in ISIN - Computer Age Management Services Limited (CAMS)|https://nsearchives.nseindia.com/content/circulars/CML71534.pdf
+November 28, 2025|NSE/CML/71533|Listing|Listing and Trading of DS Kulkarni Developers Limited |https://nsearchives.nseindia.com/content/circulars/CML71533.pdf
+November 28, 2025|NSE/CMTR/71532|Emerge|Mock trading on Saturday, November 29, 2025 - No new version release|https://nsearchives.nseindia.com/content/circulars/CMTR71532.pdf
+November 28, 2025|NSE/SURV/71531|Surveillance & Investigation|Measure in respect of companies with high Promoter as well as non- Promoter 'Encumbrance' as per Reg.28(3) of SEBI (SAST) Regulation 2011.|https://nsearchives.nseindia.com/content/circulars/SURV71531.zip
+November 28, 2025|NSE/SURV/71530|Surveillance & Investigation|Applicability of Additional Surveillance Measure under IBC|https://nsearchives.nseindia.com/content/circulars/SURV71530.zip
+November 28, 2025|NSE/SURV/71529|Surveillance & Investigation|Applicability of Short-Term Additional Surveillance Measure (ST-ASM)|https://nsearchives.nseindia.com/content/circulars/SURV71529.zip
+November 28, 2025|NSE/SURV/71528|Surveillance & Investigation|Applicability of Additional Surveillance Measure (ASM)|https://nsearchives.nseindia.com/content/circulars/SURV71528.zip
+November 28, 2025|NSE/FAOP/71527|Futures & Options|Mock trading on Saturday, November 29, 2025 - No new version release|https://nsearchives.nseindia.com/content/circulars/FAOP71527.pdf
+November 28, 2025|NSE/SURV/71526|Surveillance & Investigation|List of Securities Moving to Stage II of Graded Surveillance Measure (GSM)|https://nsearchives.nseindia.com/content/circulars/SURV71526.pdf
+November 28, 2025|NSE/CML/71525|Listing|Listing of units issued by DSP Asset Managers Private Limited (DSP MSCI India ETF)|https://nsearchives.nseindia.com/content/circulars/CML71525.pdf
+November 28, 2025|NSE/NMF/71524|Mutual Fund|Implementation of Revised Nomination Facilities for opt-out as per SEBI Circular dated January 10, 2025, on NSE MF Invest Platform|https://nsearchives.nseindia.com/content/circulars/NMF71524.zip
+November 28, 2025|NSE/CML/71522|Listing|Discontinuation of weekly trading in Securities|https://nsearchives.nseindia.com/content/circulars/CML71522.pdf
+November 28, 2025|NSE/NMF/71521|Mutual Fund|Launch of Bandhan Silver ETF NFO on NSE MF Invest Platform|https://nsearchives.nseindia.com/content/circulars/NMF71521.pdf
+November 28, 2025|NSE/NMF/71520|Mutual Fund|Launch of Bandhan Gold ETF NFO on NSE MF Invest Platform|https://nsearchives.nseindia.com/content/circulars/NMF71520.pdf
+November 28, 2025|NSE/NMF/71519|Mutual Fund|Launch of Union Consumption Fund NFO on NSE MF Invest Platform|https://nsearchives.nseindia.com/content/circulars/NMF71519.pdf

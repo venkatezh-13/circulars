@@ -1,0 +1,10 @@
+# date|circular_no|category|title|link
+27 Nov 2025|615|TECH|Mock Trading|https://www.mcxindia.com/docs/default-source/circulars/english/2025/november/circular-615-2025.pdf?sfvrsn=7be3d9e_0
+27 Nov 2025|614|Membership and Compliance|Approval of Surrender of Membership|https://www.mcxindia.com/docs/default-source/circulars/english/2025/november/circular-614-2025.pdf?sfvrsn=54b83d9e_0
+27 Nov 2025|613|MCXCCL|Acceptance of Electronic Bank Guarantee|https://www.mcxindia.com/docs/default-source/circulars/english/2025/november/circular-613---2025.pdf?sfvrsn=29b83d9e_0
+27 Nov 2025|612|MCXCCL|Due Date Rates|https://www.mcxindia.com/docs/default-source/circulars/english/2025/november/circular-612---2025.pdf?sfvrsn=f5b83d9e_0
+28 Nov 2025|620|MCXCCL|Due Date Rates|https://www.mcxindia.com/docs/default-source/circulars/english/2025/november/circular---620---2025.pdf?sfvrsn=20a33d9e_0
+28 Nov 2025|619|TECH|Adherence to TRAI Direction dated November 19, 2025 – Mandatory Phase-wise Adoption.|https://www.mcxindia.com/docs/default-source/circulars/english/2025/november/mcxtech619_2025_adherence-to-trai-direction-dated-november-19-2025-mandatory-phase-wise-adoption.pdf?sfvrsn=34ac3d9e_0
+28 Nov 2025|618|MCXCCL|Surrender of empanelment by Star Agriwarehousing & Collateral Management Limited as Warehouse Service Provider (WSP)|https://www.mcxindia.com/docs/default-source/circulars/english/2025/november/circular-618-2025.pdf?sfvrsn=7a83d9e_0
+28 Nov 2025|617|T&S|Futures and Options Contracts Launch Calendar for the month of December 2025|https://www.mcxindia.com/docs/default-source/circulars/english/2025/november/circular-617-2025.pdf?sfvrsn=f1a83d9e_0
+28 Nov 2025|616|MCXCCL|Adherence to TRAI Direction dated November 19, 2025 – Mandatory Phase-wise Adoption of 1600-Series Numbers|https://www.mcxindia.com/docs/default-source/circulars/english/2025/november/circular-616-2025.pdf?sfvrsn=9da83d9e_0
