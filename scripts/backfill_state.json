@@ -1,14 +1,14 @@
 {
   "nse": {
-    "next_to_date": "2025-12-03",
+    "next_to_date": "2025-11-26",
     "done": false
   },
   "bse": {
-    "next_to_date": "2025-12-03",
+    "next_to_date": "2025-11-26",
     "done": false
   },
   "mcx": {
-    "next_to_date": "2025-12-03",
+    "next_to_date": "2025-11-26",
     "done": false
   }
 }
