@@ -5,7 +5,7 @@
     <link>https://venkatezh-13.github.io/circulars</link>
     <description>NSE, BSE and MCX circulars — last 7 days</description>
     <language>en-in</language>
-    <lastBuildDate>Mon, 23 Mar 2026 11:11:32 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Mar 2026 11:56:01 +0000</lastBuildDate>
     <atom:link href="https://venkatezh-13.github.io/circulars/rss/all.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Listing of further issues of Grill Splendour Services Limited, E Factor Experiences Limited and Womancart Limited</title>
@@ -805,6 +805,22 @@
       <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/SURV73419.pdf</guid>
       <description>[NSE] NSE/SURV/73419 — List of Securities Moving to Stage I of Graded Surveillance Measure (GSM)</description>
       <category>Surveillance &amp; Investigation</category>
+      <pubDate>Mon, 23 Mar 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>Listing of privately placed securities on the debt market segment of the Exchange</title>
+      <link>https://nsearchives.nseindia.com/content/circulars/CML73427.pdf</link>
+      <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/CML73427.pdf</guid>
+      <description>[NSE] NSE/CML/73427 — Listing of privately placed securities on the debt market segment of the Exchange</description>
+      <category>Listing</category>
+      <pubDate>Mon, 23 Mar 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>Market Data - Discontinuation of Order Snapshot Recovery via Solace API for MTBT broadcast in CM, FO and CD Segments</title>
+      <link>https://nsearchives.nseindia.com/content/circulars/MSD73425.pdf</link>
+      <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/MSD73425.pdf</guid>
+      <description>[NSE] NSE/MSD/73425 — Market Data - Discontinuation of Order Snapshot Recovery via Solace API for MTBT broadcast in CM, FO and CD Segments</description>
+      <category>Capital Market (Equities) Trade</category>
       <pubDate>Mon, 23 Mar 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
@@ -2632,6 +2648,46 @@
       <pubDate>Mon, 23 Mar 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
+      <title>Delisting of Securities</title>
+      <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260323-21/20260323-21.pdf</link>
+      <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260323-21/20260323-21.pdf</guid>
+      <description>[BSE] 20260323-21 — Delisting of Securities</description>
+      <category>Debt / Corporate Actions</category>
+      <pubDate>Mon, 23 Mar 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>CORPORATE ACTION IN SLB SECURITIES</title>
+      <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260323-20/20260323-20.pdf</link>
+      <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260323-20/20260323-20.pdf</guid>
+      <description>[BSE] 20260323-20 — CORPORATE ACTION IN SLB SECURITIES</description>
+      <category>SLB / Corporate Actions</category>
+      <pubDate>Mon, 23 Mar 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>Offer to Buy – Acquisition Window (Takeover) for PHOTON CAPITAL ADVISORS LTD – Live Activities Schedule</title>
+      <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260323-19/20260323-19.pdf</link>
+      <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260323-19/20260323-19.pdf</guid>
+      <description>[BSE] 20260323-19 — Offer to Buy – Acquisition Window (Takeover) for PHOTON CAPITAL ADVISORS LTD – Live Activities Schedule</description>
+      <category>Equity / Trading</category>
+      <pubDate>Mon, 23 Mar 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>Listing of further securities issued by the companies under ESOP / ESOS</title>
+      <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260323-18/20260323-18.pdf</link>
+      <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260323-18/20260323-18.pdf</guid>
+      <description>[BSE] 20260323-18 — Listing of further securities issued by the companies under ESOP / ESOS</description>
+      <category>Equity / Company related</category>
+      <pubDate>Mon, 23 Mar 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>TRADING AND SETTLEMENT PROGRAMME FOR EGR SEGMENT FOR THE PERIOD FROM 01.04.2026 TO 30.04.2026</title>
+      <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260323-17/20260323-17.pdf</link>
+      <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260323-17/20260323-17.pdf</guid>
+      <description>[BSE] 20260323-17 — TRADING AND SETTLEMENT PROGRAMME FOR EGR SEGMENT FOR THE PERIOD FROM 01.04.2026 TO 30.04.2026</description>
+      <category>EGR / Settlement/RMS</category>
+      <pubDate>Mon, 23 Mar 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
       <title>Operational guidelines and Standard Operating Procedure SOP on Introduction of Closing Auction Session CAS in the Equity Cash Segment</title>
       <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260320-1/20260320-1.pdf</link>
       <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260320-1/20260320-1.pdf</guid>
@@ -3062,6 +3118,22 @@
       <description>[MCX] 135 — Acceptance of Electronic Fixed Deposit Receipts(eFDRs)</description>
       <category>MCXCCL</category>
       <pubDate>Wed, 18 Mar 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>Security Requirements for Members Connecting Through MCX SSL VPN Solution</title>
+      <link>https://www.mcxindia.com/docs/default-source/circulars/english/2026/march/circular-145-2026.pdf?sfvrsn=3953009e_0</link>
+      <guid isPermaLink="false">https://www.mcxindia.com/docs/default-source/circulars/english/2026/march/circular-145-2026.pdf?sfvrsn=3953009e_0</guid>
+      <description>[MCX] 145 — Security Requirements for Members Connecting Through MCX SSL VPN Solution</description>
+      <category>TECH</category>
+      <pubDate>Mon, 23 Mar 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>Cyber Security Awareness Session for Members – 24th March 2026</title>
+      <link>https://www.mcxindia.com/docs/default-source/circulars/english/2026/march/circulars-144-2026.pdf?sfvrsn=d15d009e_0</link>
+      <guid isPermaLink="false">https://www.mcxindia.com/docs/default-source/circulars/english/2026/march/circulars-144-2026.pdf?sfvrsn=d15d009e_0</guid>
+      <description>[MCX] 144 — Cyber Security Awareness Session for Members – 24th March 2026</description>
+      <category>MCXCCL</category>
+      <pubDate>Mon, 23 Mar 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
       <title>Cyber Security Awareness Program for Members - March 2026</title>

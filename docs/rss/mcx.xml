@@ -5,7 +5,7 @@
     <link>https://venkatezh-13.github.io/circulars</link>
     <description>MCX circulars — last 7 days</description>
     <language>en-in</language>
-    <lastBuildDate>Mon, 23 Mar 2026 11:11:32 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Mar 2026 11:56:02 +0000</lastBuildDate>
     <atom:link href="https://venkatezh-13.github.io/circulars/rss/mcx.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Mock Trading</title>
@@ -62,6 +62,22 @@
       <description>[MCX] 135 — Acceptance of Electronic Fixed Deposit Receipts(eFDRs)</description>
       <category>MCXCCL</category>
       <pubDate>Wed, 18 Mar 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>Security Requirements for Members Connecting Through MCX SSL VPN Solution</title>
+      <link>https://www.mcxindia.com/docs/default-source/circulars/english/2026/march/circular-145-2026.pdf?sfvrsn=3953009e_0</link>
+      <guid isPermaLink="false">https://www.mcxindia.com/docs/default-source/circulars/english/2026/march/circular-145-2026.pdf?sfvrsn=3953009e_0</guid>
+      <description>[MCX] 145 — Security Requirements for Members Connecting Through MCX SSL VPN Solution</description>
+      <category>TECH</category>
+      <pubDate>Mon, 23 Mar 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>Cyber Security Awareness Session for Members – 24th March 2026</title>
+      <link>https://www.mcxindia.com/docs/default-source/circulars/english/2026/march/circulars-144-2026.pdf?sfvrsn=d15d009e_0</link>
+      <guid isPermaLink="false">https://www.mcxindia.com/docs/default-source/circulars/english/2026/march/circulars-144-2026.pdf?sfvrsn=d15d009e_0</guid>
+      <description>[MCX] 144 — Cyber Security Awareness Session for Members – 24th March 2026</description>
+      <category>MCXCCL</category>
+      <pubDate>Mon, 23 Mar 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
       <title>Cyber Security Awareness Program for Members - March 2026</title>
