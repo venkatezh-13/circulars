@@ -216,8 +216,8 @@ jobs:
             git push
           fi
 
-  # ── Step 3: Archive old JSONs → monthly .txt (runs after poll+backfill) ─────
-  archive-and-index:
+  # ── Step 3: Rebuild search index (runs after poll+backfill) ──────────────────
+  rebuild-index:
     needs: [poll, backfill]
     # Run if at least one upstream job succeeded or was skipped; skip only on failure
     if: always() && (needs.poll.result == 'success' || needs.poll.result == 'skipped') && (needs.backfill.result == 'success' || needs.backfill.result == 'skipped') && (needs.poll.result == 'success' || needs.backfill.result == 'success')
@@ -239,21 +239,18 @@ jobs:
       - name: Install dependencies
         run: pip install httpx requests beautifulsoup4
 
-      - name: Archive old data (>30 days → monthly .txt)
-        run: python scripts/archive.py
-
-      - name: Final index rebuild (post-archive)
+      - name: Rebuild search index
         run: python scripts/build_index.py
 
-      - name: Commit archive + index
+      - name: Commit index
         run: |
           git config user.email "circulars-bot@github-actions"
           git config user.name  "Circulars Bot"
-          git add data/ docs/search_index.json docs/rss/ scripts/backfill_state.json || true
+          git add docs/search_index.json docs/rss/ || true
           if git diff --staged --quiet; then
-            echo "Nothing to archive."
+            echo "No index changes."
           else
-            git commit -m "archive+index: $(date -u +'%Y-%m-%d %H:%M UTC')"
+            git commit -m "index: $(date -u +'%Y-%m-%d %H:%M UTC')"
             git pull --rebase origin main
             git push
           fi
