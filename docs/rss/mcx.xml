@@ -5,16 +5,8 @@
     <link>https://venkatezh-13.github.io/circulars</link>
     <description>MCX circulars — last 7 days</description>
     <language>en-in</language>
-    <lastBuildDate>Mon, 23 Mar 2026 01:33:29 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Mar 2026 01:45:17 +0000</lastBuildDate>
     <atom:link href="https://venkatezh-13.github.io/circulars/rss/mcx.xml" rel="self" type="application/rss+xml"/>
-    <item>
-      <title>Mock Trading</title>
-      <link>https://www.mcxindia.com/docs/default-source/circulars/english/2026/march/mcxtech1372026-mock-trading.pdf?sfvrsn=a9af009e_0</link>
-      <guid isPermaLink="false">https://www.mcxindia.com/docs/default-source/circulars/english/2026/march/mcxtech1372026-mock-trading.pdf?sfvrsn=a9af009e_0</guid>
-      <description>[MCX] 137 — Mock Trading</description>
-      <category>TECH</category>
-      <pubDate>Thu, 19 Mar 2026 07:30:00 +0530</pubDate>
-    </item>
     <item>
       <title>Approval of Surrender of Membership</title>
       <link>https://www.mcxindia.com/docs/default-source/circulars/english/2026/march/circular-134-2026.pdf?sfvrsn=5c05079e_0</link>
@@ -62,6 +54,14 @@
       <description>[MCX] 135 — Acceptance of Electronic Fixed Deposit Receipts(eFDRs)</description>
       <category>MCXCCL</category>
       <pubDate>Wed, 18 Mar 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>Mock Trading</title>
+      <link>https://www.mcxindia.com/docs/default-source/circulars/english/2026/march/mcxtech1372026-mock-trading.pdf?sfvrsn=a9af009e_0</link>
+      <guid isPermaLink="false">https://www.mcxindia.com/docs/default-source/circulars/english/2026/march/mcxtech1372026-mock-trading.pdf?sfvrsn=a9af009e_0</guid>
+      <description>[MCX] 137 — Mock Trading</description>
+      <category>TECH</category>
+      <pubDate>Thu, 19 Mar 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
       <title>Cyber Security Awareness Program for Members - March 2026</title>
