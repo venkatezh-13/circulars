@@ -33,5 +33,19 @@
     "subject": "List of Securities Moving to Stage I of Graded Surveillance Measure (GSM)",
     "circular_ref": "NSE/SURV/73419",
     "link": "https://nsearchives.nseindia.com/content/circulars/SURV73419.pdf"
+  },
+  {
+    "date": "March 23, 2026",
+    "department": "Listing",
+    "subject": "Listing of privately placed securities on the debt market segment of the Exchange",
+    "circular_ref": "NSE/CML/73427",
+    "link": "https://nsearchives.nseindia.com/content/circulars/CML73427.pdf"
+  },
+  {
+    "date": "March 23, 2026",
+    "department": "Capital Market (Equities) Trade",
+    "subject": "Market Data - Discontinuation of Order Snapshot Recovery via Solace API for MTBT broadcast in CM, FO and CD Segments",
+    "circular_ref": "NSE/MSD/73425",
+    "link": "https://nsearchives.nseindia.com/content/circulars/MSD73425.pdf"
   }
 ]
