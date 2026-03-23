@@ -2,7 +2,7 @@ name: Circulars — Poll & Backfill
 
 # ──────────────────────────────────────────────────────────────────────────────
 # SCHEDULES
-#   • Poll  : every 15 min, Mon–Sat, 9:00 AM – 6:00 PM IST (3:30–12:30 UTC)
+#   • Poll  : every 15 min, 6:00 AM – 1:00 AM IST (0:30–19:30 UTC)
 #             GitHub's minimum cron interval is 5 min, but 15 min is safer
 #             against Actions queue delays and exchange rate-limits.
 #             Change to '*/5' if you want 5-min polling (uses ~3× more minutes).
@@ -11,8 +11,8 @@ name: Circulars — Poll & Backfill
 
 on:
   schedule:
-    # Poll — every 15 min during market hours (all days)
-    - cron: '*/15 3-12 * * *'
+    # Poll — every 15 min during market hours (6 AM – 1 AM IST = 0:30-19:30 UTC)
+    - cron: '*/15 0-19 * * *'
     # Backfill — once a day, off-peak
     - cron: '0 3 * * *'
 
