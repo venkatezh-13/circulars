@@ -259,3 +259,129 @@ December 24, 2025|NCL/CMPT/71981|Futures & Options|Additional Exposure Margin on
 December 24, 2025|NSE/NMF/71980|Mutual Fund|Launch of Zerodha Nifty Short Duration G-Sec Index Fund NFO on NSE MF Invest Platform|https://nsearchives.nseindia.com/content/circulars/NMF71980.pdf
 December 24, 2025|NSE/NMF/71979|Mutual Fund|Availability of Union Consumption Fund for ongoing transactions on NSE MF Invest Platform|https://nsearchives.nseindia.com/content/circulars/NMF71979.pdf
 December 24, 2025|NSE/CML/71955|Emerge|Trade for Trade - Marc Technocrats Limited (SME IPO)|https://nsearchives.nseindia.com/content/circulars/CML71955.pdf
+December 04, 2025|NCL/CMPT/71639|NSE Clearing - Capital Market|Settlement Calendar for Offer for sale of shares of D S KULKARNI DEVELOPERS.|https://nsearchives.nseindia.com/content/circulars/CMPT71639.pdf
+December 04, 2025|NSE/CML/71638|Listing|Listing of further issues of securities|https://nsearchives.nseindia.com/content/circulars/CML71638.pdf
+December 04, 2025|NCL/CMPT/71637|Securities Lending & Borrowing Scheme|Revised MWPL, Participant, Instutional and Non Institutional Client Limits for PATELENG|https://nsearchives.nseindia.com/content/circulars/CMPT71637.pdf
+December 04, 2025|NSE/CML/71636|Listing|Listing of further issues of securities|https://nsearchives.nseindia.com/content/circulars/CML71636.pdf
+December 04, 2025|NCL/CMPT/71635|Futures & Options|Revised MWPL, TM, FII/FPI & MF limits for COMPUTER AGE MANAGEMENT SERVICES LIMITED|https://nsearchives.nseindia.com/content/circulars/CMPT71635.pdf
+December 04, 2025|NSE/CMTR/71634|Capital Market (Equities) Trade|Proposed Offer for Sale of D.S. Kulkarni Developers Limited|https://nsearchives.nseindia.com/content/circulars/CMTR71634.zip
+December 04, 2025|NSE/SURV/71633|Surveillance & Investigation|Changes in price bands from December 05,2025|https://nsearchives.nseindia.com/content/circulars/SURV71633.zip
+December 04, 2025|NSE/SURV/71632|Surveillance & Investigation|Applicability of Enhanced Surveillance Measure (ESM)|https://nsearchives.nseindia.com/content/circulars/SURV71632.zip
+December 04, 2025|NSE/CML/71631|Listing|Listing of privately placed securities on capital market segment|https://nsearchives.nseindia.com/content/circulars/CML71631.pdf
+December 04, 2025|NSE/CML/71630|Debt Segment|Listing of privately placed securities on the debt market segment of the Exchange|https://nsearchives.nseindia.com/content/circulars/CML71630.pdf
+December 04, 2025|NSE/CML/71629|Listing|Suspension of trading in Non-Convertible Securities (Privately Placed)|https://nsearchives.nseindia.com/content/circulars/CML71629.pdf
+December 04, 2025|NSE/FAOP/71628|Futures & Options|SPLIT: Adjustment of Futures and Options contracts in the security CAMS|https://nsearchives.nseindia.com/content/circulars/FAOP71628.pdf
+December 04, 2025|NSE/FAOP/71627|Futures & Options|Scheme of Arrangement: Adjustment of Futures and Options contracts of Hindustan Unilever Limited (HINDUNILVR)|https://nsearchives.nseindia.com/content/circulars/FAOP71627.pdf
+December 04, 2025|NSE/SURV/71626|Surveillance & Investigation|Applicability of Short-Term Additional Surveillance Measure (ST-ASM)|https://nsearchives.nseindia.com/content/circulars/SURV71626.zip
+December 04, 2025|NSE/CML/71625|Listing|Change in ISIN - Bharat Rasayan Limited (BHARATRAS)|https://nsearchives.nseindia.com/content/circulars/CML71625.pdf
+December 04, 2025|NSE/NMF/71624|Mutual Fund|Merger of certain schemes of Aditya Birla Sunlife Mutual Fund on NSE MF Invest Platform|https://nsearchives.nseindia.com/content/circulars/NMF71624.zip
+December 04, 2025|NSE/NMF/71623|Mutual Fund|Revoke of Temporary Suspension for subscriptions in certain schemes of Invesco Mutual Fund on NSE MF Invest Platform|https://nsearchives.nseindia.com/content/circulars/NMF71623.zip
+December 04, 2025|NSE/NMF/71622|Mutual Fund|Change in Minimum application amount of Aditya Birla Sunlife Overnight Fund on NSE MF Invest platform|https://nsearchives.nseindia.com/content/circulars/NMF71622.zip
+December 04, 2025|NCL/CMPT/71607|NSE Clearing - Capital Market|Early Pay-in of Securities for Computer Age Management Services Limited (CAMS)|https://nsearchives.nseindia.com/content/circulars/CMPT71607.pdf
+December 05, 2025|NSE/SURV/71673|Surveillance & Investigation|Standard Operating Procedure for Future Equivalent (FutEq)/(Delta) Intraday Position Limits Monitoring for Equity Index Derivatives - Update|https://nsearchives.nseindia.com/content/circulars/SURV71673.pdf
+December 05, 2025|NSE/CML/71672|Listing|Listing of further issues of securities|https://nsearchives.nseindia.com/content/circulars/CML71672.pdf
+December 05, 2025|NSE/CML/71671|Emerge|Listing of Equity Shares of Invicta Diagnostic Limited (SME IPO)|https://nsearchives.nseindia.com/content/circulars/CML71671.pdf
+December 05, 2025|NSE/SURV/71670|Surveillance & Investigation|Graded Surveillance Measure (GSM) - Updated list of companies|https://nsearchives.nseindia.com/content/circulars/SURV71670.zip
+December 05, 2025|NSE/CML/71669|Emerge|Listing of Equity Shares of Clear Secured Services Limited (SME IPO)|https://nsearchives.nseindia.com/content/circulars/CML71669.zip
+December 05, 2025|NSE/CML/71668|Listing|Trade for Trade - SKF India (Industrial) Limited|https://nsearchives.nseindia.com/content/circulars/CML71668.pdf
+December 05, 2025|NSE/SURV/71667|Surveillance & Investigation|Applicability of Enhanced Surveillance Measure (ESM)|https://nsearchives.nseindia.com/content/circulars/SURV71667.zip
+December 05, 2025|NSE/CML/71666|Listing|Listing of equity shares of KN Agri Resources Limited on Capital Market Segment (Main Board) pursuant to migration from SME Emerge platform|https://nsearchives.nseindia.com/content/circulars/CML71666.zip
+December 05, 2025|NSE/CML/71665|Emerge|Listing of further issues of securities|https://nsearchives.nseindia.com/content/circulars/CML71665.pdf
+December 05, 2025|NSE/FA/71664|Finance & Accounts|Withdrawal of trading facilities of Members for non-payment of dues to the Exchange|https://nsearchives.nseindia.com/content/circulars/FA71664.pdf
+December 05, 2025|NSE/NMF/71663|Mutual Fund|Revoke of Temporary Suspension for subscriptions in certain schemes of PGIM Mutual Fund on NSE MF Invest Platform|https://nsearchives.nseindia.com/content/circulars/NMF71663.zip
+December 05, 2025|NSE/SURV/71662|Surveillance & Investigation|Applicability of Short-Term Additional Surveillance Measure (ST-ASM)|https://nsearchives.nseindia.com/content/circulars/SURV71662.zip
+December 05, 2025|NSE/CML/71661|Listing|Suspension of trading in Non-Convertible Securities (Privately Placed)|https://nsearchives.nseindia.com/content/circulars/CML71661.pdf
+December 05, 2025|NSE/SURV/71660|Surveillance & Investigation|Applicability of Additional Surveillance Measure (ASM)|https://nsearchives.nseindia.com/content/circulars/SURV71660.zip
+December 05, 2025|NSE/CML/71659|Listing|Listing of privately placed securities on capital market segment|https://nsearchives.nseindia.com/content/circulars/CML71659.pdf
+December 05, 2025|NSE/NMF/71658|Mutual Fund|Revoke of maximum subscription amount for certain schemes of Aditya Birla Sun Life Mutual Fund on NSE MF Invest Platform|https://nsearchives.nseindia.com/content/circulars/NMF71658.zip
+December 05, 2025|NSE/CML/71657|Emerge|Listing of Equity Shares of Speb Adhesives Limited (SME IPO)|https://nsearchives.nseindia.com/content/circulars/CML71657.zip
+December 05, 2025|NSE/CML/71656|Listing|Listing of privately placed securities on the debt market segment of the Exchange|https://nsearchives.nseindia.com/content/circulars/CML71656.pdf
+December 05, 2025|NSE/NMF/71655|Mutual Fund|Launch of Edelweiss Silver ETF FOF NFO on NSE MF Invest Platform|https://nsearchives.nseindia.com/content/circulars/NMF71655.pdf
+December 05, 2025|NSE/NMF/71654|Mutual Fund|Launch of Abakkus Liquid Fund NFO on NSE MF Invest Platform|https://nsearchives.nseindia.com/content/circulars/NMF71654.pdf
+December 05, 2025|NSE/NMF/71653|Mutual Fund|Launch of Abakkus Flexi Cap Fund NFO on NSE MF Invest Platform|https://nsearchives.nseindia.com/content/circulars/NMF71653.pdf
+December 05, 2025|NCL/CMPT/71652|Securities Lending & Borrowing Scheme|Revised MWPL, Participant, Institutional and Non Institutional Client Limits for CAMS|https://nsearchives.nseindia.com/content/circulars/CMPT71652.pdf
+December 05, 2025|NSE/ISC/71651|Legal, ISC & Arbitration|Mock Trading on Saturday, December 06, 2025|https://nsearchives.nseindia.com/content/circulars/ISC71651.pdf
+December 05, 2025|NSE/SLBS/71650|Securities Lending & Borrowing Scheme|Mock trading on Saturday, December 06, 2025 - No new version release|https://nsearchives.nseindia.com/content/circulars/SLBS71650.pdf
+December 05, 2025|NSE/FAOP/71649|Futures & Options|Mock trading on Saturday, December 06, 2025 - New version of NEAT+ 7.8.7|https://nsearchives.nseindia.com/content/circulars/FAOP71649.pdf
+December 05, 2025|NSE/COM/71648|Commodity Derivatives|Mock session on Saturday, December 06, 2025 - No new version release|https://nsearchives.nseindia.com/content/circulars/COM71648.pdf
+December 05, 2025|NSE/CMTR/71647|Capital Market (Equities) Trade|Mock trading on Saturday, December 06, 2025 - New version of NEAT+ 7.8.7|https://nsearchives.nseindia.com/content/circulars/CMTR71647.pdf
+December 05, 2025|NSE/CD/71646|Currency Derivatives|Mock trading on Saturday, December 06, 2025 - No new version release|https://nsearchives.nseindia.com/content/circulars/CD71646.pdf
+December 05, 2025|NSE/NMF/71644|Mutual Fund|Non-Business Day for certain schemes of Mutual Fund on NSE MF Invest Platform for December 2025|https://nsearchives.nseindia.com/content/circulars/NMF71644.zip
+December 05, 2025|NSE/NMF/71643|Mutual Fund|Availability of Mirae Asset Infrastructure Fund for ongoing transactions on NSE MF Invest Platform|https://nsearchives.nseindia.com/content/circulars/NMF71643.pdf
+December 05, 2025|NSE/NMF/71642|Mutual Fund|Availability of Mahindra Manulife Income Plus Arbitrage Active FOF for ongoing transactions on NSE MF Invest Platform|https://nsearchives.nseindia.com/content/circulars/NMF71642.pdf
+December 05, 2025|NSE/NMF/71641|Mutual Fund|Availability of Groww Nifty Capital Markets ETF FOF for ongoing transactions on NSE MF Invest Platform|https://nsearchives.nseindia.com/content/circulars/NMF71641.pdf
+December 05, 2025|NSE/FAOP/71640|Futures & Options|Introduction of Pre-Open Session in Equity Derivatives (F&O) Segment - Update|https://nsearchives.nseindia.com/content/circulars/FAOP71640.pdf
+December 05, 2025|NSE/INVG/71605|Surveillance & Investigation|SEBI Order in the matter of Avadhut Sathe Trading Academy Private Limited|https://nsearchives.nseindia.com/content/circulars/INVG71605.pdf
+December 08, 2025|NSE/CML/71693|Listing|Listing of Equity Shares of Neochem Bio Solutions Limited (SME IPO)|https://nsearchives.nseindia.com/content/circulars/CML71693.zip
+December 08, 2025|NSE/CML/71692|Listing|Face Value Split - Knowledge Marine & Engineering Works Limited (KMEW)|https://nsearchives.nseindia.com/content/circulars/CML71692.pdf
+December 08, 2025|NSE/SURV/71691|Surveillance & Investigation|List of securities moving out of Graded Surveillance Measure (GSM) - Update|https://nsearchives.nseindia.com/content/circulars/SURV71691.pdf
+December 08, 2025|NSE/CML/71690|Listing|Listing of further issue of UPL Limited|https://nsearchives.nseindia.com/content/circulars/CML71690.pdf
+December 08, 2025|NSE/CML/71689|Listing|Listing of further issues of securities|https://nsearchives.nseindia.com/content/circulars/CML71689.pdf
+December 08, 2025|NSE/NMF/71688|Mutual Fund|Launch of Tata BSE Multicap Consumption 50:30:20 Index Fund NFO on NSE MF Invest Platform|https://nsearchives.nseindia.com/content/circulars/NMF71688.pdf
+December 08, 2025|NSE/CML/71687|Listing|Listing of further issues of securities|https://nsearchives.nseindia.com/content/circulars/CML71687.pdf
+December 08, 2025|NSE/CML/71686|Listing|Change in symbol of Creative Newtech Limited|https://nsearchives.nseindia.com/content/circulars/CML71686.pdf
+December 08, 2025|NSE/SURV/71685|Surveillance & Investigation|Trade for Trade|https://nsearchives.nseindia.com/content/circulars/SURV71685.zip
+December 08, 2025|NSE/SURV/71684|Surveillance & Investigation|Applicability of Additional Surveillance Measure under IBC|https://nsearchives.nseindia.com/content/circulars/SURV71684.zip
+December 08, 2025|NSE/SURV/71683|Surveillance & Investigation|Applicability of Short-Term Additional Surveillance Measure (ST-ASM)|https://nsearchives.nseindia.com/content/circulars/SURV71683.zip
+December 08, 2025|NSE/SURV/71682|Surveillance & Investigation|Applicability of Enhanced Surveillance Measure (ESM)|https://nsearchives.nseindia.com/content/circulars/SURV71682.zip
+December 08, 2025|NSE/SURV/71681|Surveillance & Investigation|Applicability of Additional Surveillance Measure (ASM)|https://nsearchives.nseindia.com/content/circulars/SURV71681.zip
+December 08, 2025|NSE/CML/71680|Listing|Listing of privately placed securities on the debt market segment of the Exchange|https://nsearchives.nseindia.com/content/circulars/CML71680.pdf
+December 08, 2025|NSE/CML/71679|Listing|Trade for Trade - Invicta Diagnostic Limited (SME IPO)|https://nsearchives.nseindia.com/content/circulars/CML71679.pdf
+December 08, 2025|NSE/CML/71677|Listing|Trade for Trade - Speb Adhesives Limited (SME IPO)|https://nsearchives.nseindia.com/content/circulars/CML71677.pdf
+December 08, 2025|NSE/CML/71676|Emerge|Trade for Trade - Clear Secured Services Limited (SME IPO)|https://nsearchives.nseindia.com/content/circulars/CML71676.pdf
+December 08, 2025|NSE/NMF/71675|Mutual Fund|Availability of Samco Small Cap Fund for ongoing transactions on NSE MF Invest Platform|https://nsearchives.nseindia.com/content/circulars/NMF71675.pdf
+December 08, 2025|NSE/NMF/71674|Mutual Fund|Launch of JioBlackRock Arbitrage Fund NFO on NSE MF Invest Platform|https://nsearchives.nseindia.com/content/circulars/NMF71674.pdf
+December 08, 2025|NSE/CML/71645|Listing|Suspension of trading in Non-Convertible Securities (Privately Placed)|https://nsearchives.nseindia.com/content/circulars/CML71645.pdf
+December 09, 2025|NSE/NMF/71718|Mutual Fund|Launch of Axis Gold and Silver Passive FOF NFO on NSE MF Invest Platform|https://nsearchives.nseindia.com/content/circulars/NMF71718.pdf
+December 09, 2025|NSE/CML/71717|Emerge|Listing of Equity Shares of Shri Kanha Stainless Limited (SME IPO)|https://nsearchives.nseindia.com/content/circulars/CML71717.zip
+December 09, 2025|NSE/CML/71716|Listing|Listing of Equity Shares of Aequs Limited (IPO)|https://nsearchives.nseindia.com/content/circulars/CML71716.zip
+December 09, 2025|NSE/MSD/71715|Member Service Department|Connectivity - POP network changes - Extension|https://nsearchives.nseindia.com/content/circulars/MSD71715.zip
+December 09, 2025|NSE/CML/71714|Listing|Listing of Equity Shares of Meesho Limited (IPO)|https://nsearchives.nseindia.com/content/circulars/CML71714.zip
+December 09, 2025|NSE/CML/71713|Listing|Listing of further issues of securities|https://nsearchives.nseindia.com/content/circulars/CML71713.pdf
+December 09, 2025|NSE/CML/71712|Listing|Listing of further issues of M.V.K. Agro Food Product Limited and Quicktouch Technologies Limited|https://nsearchives.nseindia.com/content/circulars/CML71712.pdf
+December 09, 2025|NSE/CML/71711|Listing|Listing of Equity Shares of Modi Naturals Limited (New Listing)|https://nsearchives.nseindia.com/content/circulars/CML71711.zip
+December 09, 2025|NSE/NMF/71710|Mutual Fund|Update of correct and valid FATCA/CRS information - Update|https://nsearchives.nseindia.com/content/circulars/NMF71710.zip
+December 09, 2025|NSE/SURV/71709|Surveillance & Investigation|Measure in respect of companies with high Promoter as well as non- Promoter 'Encumbrance' as per Reg. 28(3) of SEBI (SAST) Regulation 2011|https://nsearchives.nseindia.com/content/circulars/SURV71709.zip
+December 09, 2025|NSE/SURV/71708|Surveillance & Investigation|Applicability of Short-Term Additional Surveillance Measure (ST-ASM)|https://nsearchives.nseindia.com/content/circulars/SURV71708.zip
+December 09, 2025|NSE/SURV/71707|Surveillance & Investigation|Applicability of Additional Surveillance Measure (ASM)|https://nsearchives.nseindia.com/content/circulars/SURV71707.zip
+December 09, 2025|NSE/COMP/71706|Inspection & Compliance|Clarification on the Digital Accessibility circulars of SEBI.|https://nsearchives.nseindia.com/content/circulars/COMP71706.zip
+December 09, 2025|NSE/SURV/71705|Surveillance & Investigation|Graded Surveillance Measure (GSM) - Periodic relaxation of Surveillance action|https://nsearchives.nseindia.com/content/circulars/SURV71705.zip
+December 09, 2025|NSE/CML/71704|Listing|Change in symbols of Exchange Traded Fund (ETF) Schemes of DSP Asset Managers Private Limited|https://nsearchives.nseindia.com/content/circulars/CML71704.pdf
+December 09, 2025|NSE/CML/71703|Listing|Listing of Equity Shares of Vidya Wires Limited (IPO)|https://nsearchives.nseindia.com/content/circulars/CML71703.zip
+December 09, 2025|NSE/CML/71702|Listing|Listing of privately placed securities on capital market segment|https://nsearchives.nseindia.com/content/circulars/CML71702.pdf
+December 09, 2025|NSE/CML/71701|Debt Segment|Listing of privately placed securities on the debt market segment of the Exchange|https://nsearchives.nseindia.com/content/circulars/CML71701.pdf
+December 09, 2025|NCL/CMPT/71700|NSE Clearing - Capital Market|Revised Settlement Calendar for Takeover offer under Tender Offer Scheme of SAL Steel Limited|https://nsearchives.nseindia.com/content/circulars/CMPT71700.pdf
+December 09, 2025|NSE/SURV/71699|Surveillance & Investigation|Applicability of Enhanced Surveillance Measure (ESM)|https://nsearchives.nseindia.com/content/circulars/SURV71699.zip
+December 09, 2025|NSE/NMF/71698|Mutual Fund|Change in scheme name of HDFC Mutual Fund on NSE MF Invest platform|https://nsearchives.nseindia.com/content/circulars/NMF71698.zip
+December 09, 2025|NSE/CML/71697|Listing|Suspension of trading in Non-Convertible Securities (Privately Placed)|https://nsearchives.nseindia.com/content/circulars/CML71697.pdf
+December 09, 2025|NSE/CML/71696|Listing|Trade for Trade - Neochem Bio Solutions Limited (SME IPO)|https://nsearchives.nseindia.com/content/circulars/CML71696.pdf
+December 09, 2025|NSE/CML/71695|Listing|Listing of Equity Shares of Meesho Limited (IPO)|https://nsearchives.nseindia.com/content/circulars/CML71695.pdf
+December 09, 2025|NSE/CML/71694|Listing|Listing of Equity Shares of Aequs Limited (IPO)|https://nsearchives.nseindia.com/content/circulars/CML71694.pdf
+December 09, 2025|NSE/CML/71678|Listing|Listing of Equity Shares of Vidya Wires Limited (IPO)|https://nsearchives.nseindia.com/content/circulars/CML71678.pdf
+December 10, 2025|NSE/CML/71748|Listing|Listing of further issues of securities|https://nsearchives.nseindia.com/content/circulars/CML71748.pdf
+December 10, 2025|NSE/CML/71747|Listing|Listing & Trading of Equity Shares pursuant to Bonus Issue of Bharat Rasayan Limited|https://nsearchives.nseindia.com/content/circulars/CML71747.pdf
+December 10, 2025|NSE/NMF/71746|Mutual Fund|Implementation of Revised Nomination Facilities for opt-out as per SEBI Circular dated January 10, 2025, on NSE MF Invest Platform.|https://nsearchives.nseindia.com/content/circulars/NMF71746.zip
+December 10, 2025|NCL/CD/71745|Currency Derivatives|Member Interface Testing of Two-way portability across Clearing Corporation - Software as a Service (SaaS) Model|https://nsearchives.nseindia.com/content/circulars/CD71745.pdf
+December 10, 2025|NCL/CMPT/71743|Futures & Options|Member Interface Testing of Two-way portability across Clearing Corporation - Software as a Service (SaaS) Model|https://nsearchives.nseindia.com/content/circulars/CMPT71743.pdf
+December 10, 2025|NCL/CMPT/71742|NSE Clearing - Capital Market|Member Interface Testing of Two-way portability across Clearing Corporation - Software as a Service (SaaS) Model|https://nsearchives.nseindia.com/content/circulars/CMPT71742.pdf
+December 10, 2025|NSE/FAOP/71741|Futures & Options|SPLIT: Adjustment of Futures and Options contracts in the security NUVAMA|https://nsearchives.nseindia.com/content/circulars/FAOP71741.pdf
+December 10, 2025|NSE/CML/71740|Listing|Listing & Trading of Equity Shares pursuant to Bonus Issue of Moneyboxx Finance Limited|https://nsearchives.nseindia.com/content/circulars/CML71740.pdf
+December 10, 2025|NSE/CML/71739|Listing|Listing of Treasury Bills (T-bills) and State Development Loans (SDLs) on capital market segment|https://nsearchives.nseindia.com/content/circulars/CML71739.pdf
+December 10, 2025|NSE/CML/71737|Listing|Listing of privately placed securities on capital market segment|https://nsearchives.nseindia.com/content/circulars/CML71737.pdf
+December 10, 2025|NSE/ISC/71736|Legal, ISC & Arbitration|Guidelines in pursuance of amendment to SEBI KYC (Know Your Client) Registration Agency (KRA) Regulations, 2011|https://nsearchives.nseindia.com/content/circulars/ISC71736.pdf
+December 10, 2025|NSE/CML/71735|Listing|Listing of privately placed securities on the debt market segment of the Exchange|https://nsearchives.nseindia.com/content/circulars/CML71735.pdf
+December 10, 2025|NSE/SURV/71733|Surveillance & Investigation|Applicability of Short-Term Additional Surveillance Measure (ST-ASM)|https://nsearchives.nseindia.com/content/circulars/SURV71733.zip
+December 10, 2025|NSE/SURV/71732|Surveillance & Investigation|Applicability of Enhanced Surveillance Measure (ESM)|https://nsearchives.nseindia.com/content/circulars/SURV71732.zip
+December 10, 2025|NSE/CML/71731|Listing|Revocation of suspension of trading in equity shares of Vivimed Labs Limited|https://nsearchives.nseindia.com/content/circulars/CML71731.pdf
+December 10, 2025|NSE/CML/71730|Listing|Suspension of trading in Non-Convertible Debentures - Sammaan Capital Limited|https://nsearchives.nseindia.com/content/circulars/CML71730.pdf
+December 10, 2025|NSE/CML/71729|Listing|Addendum to Circular for Listing of Equity Shares of Invicta Diagnostic Limited (SME IPO)|https://nsearchives.nseindia.com/content/circulars/CML71729.zip
+December 10, 2025|NSE/NMF/71728|Mutual Fund|Availability of Navi Nifty Midsmallcap 400 Index Fund for ongoing transactions on NSE MF Invest Platform|https://nsearchives.nseindia.com/content/circulars/NMF71728.pdf
+December 10, 2025|NSE/CML/71727|Listing|Change in name of Iris Business Services Limited|https://nsearchives.nseindia.com/content/circulars/CML71727.pdf
+December 10, 2025|NSE/SURV/71726|Surveillance & Investigation|List of Securities Moving to Stage I of Graded Surveillance Measure (GSM)|https://nsearchives.nseindia.com/content/circulars/SURV71726.pdf
+December 10, 2025|NSE/CML/71725|Listing|Trading of Rights Entitlements pursuant to Rights Issue of Patel Engineering Limited|https://nsearchives.nseindia.com/content/circulars/CML71725.pdf
+December 10, 2025|NSE/CML/71724|Listing|Trading of Rights Entitlements pursuant to Rights Issue of Hindustan Construction Company Limited|https://nsearchives.nseindia.com/content/circulars/CML71724.pdf
+December 10, 2025|NSE/CML/71723|Debt Segment|Suspension of trading in Non-Convertible Securities (Privately Placed)|https://nsearchives.nseindia.com/content/circulars/CML71723.pdf
+December 10, 2025|NSE/CML/71722|Emerge|Listing of equity shares of Le Merite Exports Limited on Capital Market Segment (Main Board) pursuant to migration from SME Emerge platform|https://nsearchives.nseindia.com/content/circulars/CML71722.zip
+December 10, 2025|NCL/CMPT/71721|NSE Clearing - Capital Market|Early Pay-in of Securities for Bharat Rasayan Limited (BHARATRAS)|https://nsearchives.nseindia.com/content/circulars/CMPT71721.pdf
+December 10, 2025|NCL/CMPT/71720|NSE Clearing - Capital Market|Early Pay-in of Securities for Mrs. Bectors Food Specialities Limited (BECTORFOOD)|https://nsearchives.nseindia.com/content/circulars/CMPT71720.pdf
+December 10, 2025|NSE/CML/71719|Listing|Trade for Trade - Shri Kanha Stainless Limited (SME IPO)|https://nsearchives.nseindia.com/content/circulars/CML71719.pdf

@@ -344,3 +344,34 @@ February 19, 2026|NSE/NMF/72886|Mutual Fund|Availability of Motilal Oswal Financ
 February 19, 2026|NSE/NMF/72885|Mutual Fund|Launch of Motilal Oswal Multi Factor Passive Fund of Funds NFO on NSE MF Invest Platform|https://nsearchives.nseindia.com/content/circulars/NMF72885.pdf
 February 19, 2026|NSE/CML/72883|Emerge|Trade for Trade - Marushika Technology Limited (SME IPO)|https://nsearchives.nseindia.com/content/circulars/CML72883.pdf
 February 19, 2026|NSE/CML/72869|Emerge|Trading of Rights Entitlements pursuant to Rights Issue of Durlax Top Surface Limited|https://nsearchives.nseindia.com/content/circulars/CML72869.pdf
+February 20, 2026|NCL/CMPT/72931|Securities Lending & Borrowing Scheme|Revised list of Approved Securities and Banks|https://nsearchives.nseindia.com/content/circulars/CMPT72931.zip
+February 20, 2026|NCL/COM/72930|Commodity Derivatives|Revised list of Approved Securities and Banks|https://nsearchives.nseindia.com/content/circulars/COM72930.zip
+February 20, 2026|NCL/DS/72929|Debt Segment|Revised list of Approved Securities and Banks|https://nsearchives.nseindia.com/content/circulars/DS72929.zip
+February 20, 2026|NCL/CD/72928|Currency Derivatives|Revised list of Approved Securities and Banks|https://nsearchives.nseindia.com/content/circulars/CD72928.zip
+February 20, 2026|NCL/CMPT/72927|Futures & Options|Revised list of Approved Securities and Banks|https://nsearchives.nseindia.com/content/circulars/CMPT72927.zip
+February 20, 2026|NCL/CMPT/72926|NSE Clearing - Capital Market|Revised list of Approved Securities and Banks|https://nsearchives.nseindia.com/content/circulars/CMPT72926.zip
+February 20, 2026|NCL/CMPT/72925|Futures & Options|Adjustment of Futures and Options Contracts in the Security ANGEL ONE LIMITED (ANGELONE)|https://nsearchives.nseindia.com/content/circulars/CMPT72925.pdf
+February 20, 2026|NSE/CML/72924|Listing|Listing of further issues of securities|https://nsearchives.nseindia.com/content/circulars/CML72924.pdf
+February 20, 2026|NSE/SURV/72923|Surveillance & Investigation|Applicability of Short-Term Additional Surveillance Measure (ST-ASM)|https://nsearchives.nseindia.com/content/circulars/SURV72923.zip
+February 20, 2026|NSE/SURV/72922|Surveillance & Investigation|Applicability of Additional Surveillance Measure (ASM)|https://nsearchives.nseindia.com/content/circulars/SURV72922.zip
+February 20, 2026|NSE/CML/72921|Listing|Listing of further issue of Fusion Finance Limited|https://nsearchives.nseindia.com/content/circulars/CML72921.pdf
+February 20, 2026|NCL/CMPT/72920|NSE Clearing - Capital Market|Discontinuation of separate clearing member Pool and EPI account in CDSL for SLB - Update|https://nsearchives.nseindia.com/content/circulars/CMPT72920.zip
+February 20, 2026|NCL/CMPT/72919|NSE Clearing - Capital Market|Discontinuation of separate EPI account for Cash segment|https://nsearchives.nseindia.com/content/circulars/CMPT72919.zip
+February 20, 2026|NSE/SURV/72918|Surveillance & Investigation|Applicability of Enhanced Surveillance Measure (ESM)|https://nsearchives.nseindia.com/content/circulars/SURV72918.zip
+February 20, 2026|NSE/CML/72917|Listing|Face Value Split - Aqylon Nexus Limited (AQYLON)|https://nsearchives.nseindia.com/content/circulars/CML72917.pdf
+February 20, 2026|NSE/CML/72916|Listing|Face Value Split - ETFs of Kotak Mahindra Asset Management Company Limited|https://nsearchives.nseindia.com/content/circulars/CML72916.pdf
+February 20, 2026|NSE/COM/72915|Commodity Derivatives|Introduction of Gold 10 grams Futures contracts in Commodity Derivatives Segment|https://nsearchives.nseindia.com/content/circulars/COM72915.pdf
+February 20, 2026|NSE/NMF/72912|Mutual Fund|Merger of certain schemes of HSBC Mutual Fund on NSE MF Invest Platform|https://nsearchives.nseindia.com/content/circulars/NMF72912.zip
+February 20, 2026|NSE/CML/72911|Listing|Listing of privately placed securities on capital market segment|https://nsearchives.nseindia.com/content/circulars/CML72911.pdf
+February 20, 2026|NSE/CML/72910|Listing|Listing of privately placed securities on the debt market segment of the Exchange|https://nsearchives.nseindia.com/content/circulars/CML72910.pdf
+February 20, 2026|NSE/CML/72909|Listing|Listing of further issues of securities|https://nsearchives.nseindia.com/content/circulars/CML72909.pdf
+February 20, 2026|NSE/SURV/72908|Surveillance & Investigation|List of Securities Moving to Stage II of Graded Surveillance Measure (GSM)|https://nsearchives.nseindia.com/content/circulars/SURV72908.pdf
+February 20, 2026|NSE/NMF/72907|Mutual Fund|Extension of Edelweiss Gold ETF FoF on NSE MF Invest Platform|https://nsearchives.nseindia.com/content/circulars/NMF72907.pdf
+February 20, 2026|NCL/CMPT/72906|Futures & Options|Calendar Spread margin benefit for Single Stock Derivatives on expiry day|https://nsearchives.nseindia.com/content/circulars/CMPT72906.zip
+February 20, 2026|NSE/NMF/72905|Mutual Fund|Availability of Bajaj Finserv Low Duration Fund for ongoing transactions on NSE MF Invest Platform|https://nsearchives.nseindia.com/content/circulars/NMF72905.pdf
+February 20, 2026|NSE/NMF/72904|Mutual Fund|Availability of SBI Quality Fund for ongoing transactions on NSE MF Invest Platform|https://nsearchives.nseindia.com/content/circulars/NMF72904.pdf
+February 20, 2026|NSE/NMF/72903|Mutual Fund|Launch of Capitalmind Arbitrage Fund Fund on NSE MF Invest Platform|https://nsearchives.nseindia.com/content/circulars/NMF72903.pdf
+February 20, 2026|NSE/NMF/72902|Mutual Fund|Launch of Nippon India CRISIL-IBX Financial Services 9-12 Months Debt Index Fund on NSE MF Invest Platform|https://nsearchives.nseindia.com/content/circulars/NMF72902.pdf
+February 20, 2026|NSE/NMF/72901|Mutual Fund|Launch of Capitalmind Multi Asset Allocation Fund on NSE MF Invest Platform|https://nsearchives.nseindia.com/content/circulars/NMF72901.pdf
+February 20, 2026|NSE/CML/72900|Listing|Suspension of trading in Non-Convertible Securities (Privately Placed)|https://nsearchives.nseindia.com/content/circulars/CML72900.pdf
+February 20, 2026|NCL/CMPT/72899|Debt Segment|CBRICS - Settlement Calendar for March 2026|https://nsearchives.nseindia.com/content/circulars/CMPT72899.pdf

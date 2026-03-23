@@ -17,3 +17,7 @@
 18 Feb 2026|79|Membership and Compliance|Forms for Registration of Stock Brokers and Clearing Members|https://www.mcxindia.com/docs/default-source/circulars/english/2026/february/circular---079-2026.pdf?sfvrsn=8e40059e_0
 18 Feb 2026|78|MCXCCL|Due Date Rates|https://www.mcxindia.com/docs/default-source/circulars/english/2026/february/circular---078---2026.pdf?sfvrsn=d041059e_0
 18 Feb 2026|77|MCXCCL|Withdrawal of Additional Margin in GOLD and SILVER|https://www.mcxindia.com/docs/default-source/circulars/english/2026/february/circular-077---2026.pdf?sfvrsn=6443059e_0
+20 Feb 2026|83|TECH|Mock Trading|https://www.mcxindia.com/docs/default-source/circulars/english/2026/february/circular--083-2025.pdf?sfvrsn=3a1c059e_0
+20 Feb 2026|82|T&S|Revision in Expiry Dates of Copper and Zinc March 2026 Options Contracts|https://www.mcxindia.com/docs/default-source/circulars/english/2026/february/circular---082--2026.pdf?sfvrsn=ed1d059e_0
+20 Feb 2026|81|T&S|Revision in Expiry Date of Futures Contracts|https://www.mcxindia.com/docs/default-source/circulars/english/2026/february/circular---081--2026.pdf?sfvrsn=891d059e_0
+20 Feb 2026|80|MCXCCL|Due Date Rates|https://www.mcxindia.com/docs/default-source/circulars/english/2026/february/circular---080---2025.pdf?sfvrsn=631e059e_0
