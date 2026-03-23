@@ -10,7 +10,7 @@ Automated near-real-time scraper and searchable library for NSE, BSE, and MCX ci
 
 - Polls NSE, BSE, and MCX every **15 minutes** during market hours (9 AM – 6 PM IST, Mon–Sat)
 - Deduplicates on every run — safe to poll frequently, no double entries
-- Archives daily JSON files older than 30 days into monthly `.txt` files
+- Stores all circulars as JSON files (no archiving)
 - Rebuilds `search_index.json` once per cycle after all scrapers finish
 - Generates **RSS feeds** (today's circulars only) after every index rebuild
 - Backfills historical data one week per exchange per day (back to 2020)
@@ -21,7 +21,7 @@ Automated near-real-time scraper and searchable library for NSE, BSE, and MCX ci
 ```
 circulars/
 ├── .github/workflows/
-│   └── circulars_all_in_one.yml  # single workflow: poll + backfill + archive
+│   └── circulars_all_in_one.yml  # single workflow: poll + backfill + index
 ├── scrapers/
 │   ├── nse_circulars.py          # NSE scraper core
 │   ├── bse_circulars.py          # BSE scraper core
@@ -30,18 +30,14 @@ circulars/
 │   ├── run_bse.py
 │   └── run_mcx.py
 ├── scripts/
-│   ├── archive.py                # archives old JSONs → monthly .txt
 │   ├── build_index.py            # rebuilds search_index.json + triggers RSS
 │   ├── generate_rss.py           # generates RSS feeds from search_index.json
 │   ├── backfill.py               # historical backfill with state tracking
 │   └── backfill_state.json       # tracks backfill progress (auto-updated)
 ├── data/
-│   ├── nse/raw/                  # daily JSONs (last 30 days)
-│   ├── nse/archive/              # monthly .txt files (older data)
+│   ├── nse/raw/                  # daily JSONs
 │   ├── bse/raw/
-│   ├── bse/archive/
-│   ├── mcx/raw/
-│   └── mcx/archive/
+│   └── mcx/raw/
 └── docs/
     ├── index.html                # frontend (GitHub Pages)
     ├── search_index.json         # flat search index (auto-generated)
@@ -101,7 +97,7 @@ It has three jobs that run in sequence:
 
 ```
 poll  ──┐
-         ├──▶  archive-and-index  (rebuilds index + RSS feeds)
+        ├──▶  rebuild-index  (rebuilds index + RSS feeds)
 backfill─┘
 ```
 
@@ -109,7 +105,7 @@ backfill─┘
 
 **backfill** — scrapes one week of historical data per exchange per run. Commits only `data/` and `backfill_state.json`. Runs once daily at 8:30 AM IST.
 
-**archive-and-index** — runs after both jobs finish. Does a fresh checkout, archives old JSONs, rebuilds `search_index.json`, generates RSS feeds, and commits. This is the only job that touches `search_index.json` and `docs/rss/`, which avoids merge conflicts.
+**rebuild-index** — runs after both jobs finish. Rebuilds `search_index.json`, generates RSS feeds, and commits. This is the only job that touches `search_index.json` and `docs/rss/`, which avoids merge conflicts.
 
 ## Schedule (all times IST)
 
@@ -117,7 +113,7 @@ backfill─┘
 |-----|-----------|--------|------|
 | Poll (NSE + BSE + MCX) | Every 15 min | 9:00 AM – 6:00 PM | Daily |
 | Backfill (historical) | Once daily | 8:30 AM | Daily |
-| Archive + index + RSS rebuild | After each poll/backfill | — | Daily |
+| Index + RSS rebuild | After each poll/backfill | — | Daily |
 
 > GitHub Actions cron has a minimum interval of 5 minutes. The workflow uses 15 min to stay well within free-tier limits and avoid exchange rate limits. Change `*/15` to `*/5` in the cron if you want faster polling.
 
