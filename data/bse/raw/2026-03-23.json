@@ -30,5 +30,37 @@
     "category": "Corporate Actions",
     "department": "Listing Operations",
     "pdf_url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260323-1/20260323-1.pdf"
+  },
+  {
+    "notice_no": "20260323-8",
+    "subject": "ENBEE TRADE AND FINANCE LIMITED - Extension of Issue Closing date and On-Market renunciation date.",
+    "segment": "Equity",
+    "category": "Company related",
+    "department": "Listing Business Relationship",
+    "pdf_url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260323-8/20260323-8.pdf"
+  },
+  {
+    "notice_no": "20260323-7",
+    "subject": "Change in group of Equity shares of Global Infratech & Finance Ltd. (Scrip Code: 531463)",
+    "segment": "Equity",
+    "category": "Company related",
+    "department": "Listing Compliance-Monitoring",
+    "pdf_url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260323-7/20260323-7.pdf"
+  },
+  {
+    "notice_no": "20260323-6",
+    "subject": "Algo Provider – Provisional Empanelment for providing Algorithmic Trading Solutions.",
+    "segment": "General",
+    "category": "Trading",
+    "department": "Business Operations",
+    "pdf_url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260323-6/20260323-6.pdf"
+  },
+  {
+    "notice_no": "20260323-5",
+    "subject": "Demat Auction 844",
+    "segment": "Equity",
+    "category": "Settlement/RMS",
+    "department": "ICCL",
+    "pdf_url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260323-5/20260323-5.pdf"
   }
 ]
