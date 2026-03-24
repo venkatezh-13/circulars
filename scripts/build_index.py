@@ -5,13 +5,14 @@ Reads from:
   - data/nse/raw/*.json
   - data/bse/raw/*.json
   - data/mcx/raw/*.json
+  - data/sebi/raw/*.json
 
 Writes:
   - docs/search_index.json (flat list, used by the frontend)
 
 Each record in the index:
   {
-    "exchange": "NSE" | "BSE" | "MCX",
+    "exchange": "NSE" | "BSE" | "MCX" | "SEBI",
     "date":     "18 Mar 2026",
     "date_iso": "2026-03-18",
     "ref":      "NSE/CML/73363",
@@ -70,7 +71,7 @@ def load_exchange_json(exchange: str):
                         "category": f"{item.get('segment','')} / {item.get('category','')}".strip(" /"),
                         "link": item.get("pdf_url", ""),
                     })
-                else:  # MCX
+                elif exchange == "MCX":
                     records.append({
                         "exchange": "MCX",
                         "date_iso": date_iso,
@@ -78,6 +79,15 @@ def load_exchange_json(exchange: str):
                         "subject": item.get("title", ""),
                         "category": item.get("category", ""),
                         "link": item.get("link", ""),
+                    })
+                elif exchange == "SEBI":
+                    records.append({
+                        "exchange": "SEBI",
+                        "date_iso": date_iso,
+                        "ref": item.get("notice_no", ""),
+                        "subject": item.get("subject", ""),
+                        "category": item.get("category", "Circular"),
+                        "link": item.get("pdf_url", ""),
                     })
     
     return records
@@ -87,7 +97,7 @@ def main():
     # Load all circulars from JSON files
     all_records = []
     
-    for exchange in ["NSE", "BSE", "MCX"]:
+    for exchange in ["NSE", "BSE", "MCX", "SEBI"]:
         records = load_exchange_json(exchange)
         all_records.extend(records)
     
