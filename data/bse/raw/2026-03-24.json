@@ -38,5 +38,37 @@
     "category": "Settlement/RMS",
     "department": "ICCL",
     "pdf_url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260324-5/20260324-5.pdf"
+  },
+  {
+    "notice_no": "20260324-9",
+    "subject": "SME IPO – Draft Offer Document",
+    "segment": "SME",
+    "category": "Company related",
+    "department": "DCS-Listing",
+    "pdf_url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260324-9/20260324-9.pdf"
+  },
+  {
+    "notice_no": "20260324-8",
+    "subject": "Rights Entitlements of 5PAISA CAPITAL LIMITED.",
+    "segment": "Equity",
+    "category": "Company related",
+    "department": "Listing Business Relationship",
+    "pdf_url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260324-8/20260324-8.pdf"
+  },
+  {
+    "notice_no": "20260324-7",
+    "subject": "Listing of New Securities of Remi Edelstahl Tubulars Limited",
+    "segment": "Equity",
+    "category": "Company related",
+    "department": "Listing Operations",
+    "pdf_url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260324-7/20260324-7.pdf"
+  },
+  {
+    "notice_no": "20260324-6",
+    "subject": "Listing of privately placed securities on the debt market segment of the Exchange",
+    "segment": "Debt",
+    "category": "Company related",
+    "department": "DCS-Listing",
+    "pdf_url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260324-6/20260324-6.pdf"
   }
 ]
