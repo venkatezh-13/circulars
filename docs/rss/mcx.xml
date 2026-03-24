@@ -5,16 +5,8 @@
     <link>https://venkatezh-13.github.io/circulars</link>
     <description>MCX circulars — last 7 days</description>
     <language>en-in</language>
-    <lastBuildDate>Tue, 24 Mar 2026 15:20:12 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Mar 2026 16:06:10 +0000</lastBuildDate>
     <atom:link href="https://venkatezh-13.github.io/circulars/rss/mcx.xml" rel="self" type="application/rss+xml"/>
-    <item>
-      <title>Mock Trading</title>
-      <link>https://www.mcxindia.com/docs/default-source/circulars/english/2026/march/mcxtech1372026-mock-trading.pdf?sfvrsn=a9af009e_0</link>
-      <guid isPermaLink="false">https://www.mcxindia.com/docs/default-source/circulars/english/2026/march/mcxtech1372026-mock-trading.pdf?sfvrsn=a9af009e_0</guid>
-      <description>[MCX] 137 — Mock Trading</description>
-      <category>TECH</category>
-      <pubDate>Thu, 19 Mar 2026 07:30:00 +0530</pubDate>
-    </item>
     <item>
       <title>Approval of Surrender of Membership</title>
       <link>https://www.mcxindia.com/docs/default-source/circulars/english/2026/march/circular-134-2026.pdf?sfvrsn=5c05079e_0</link>
@@ -64,12 +56,60 @@
       <pubDate>Wed, 18 Mar 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
+      <title>Mock Trading</title>
+      <link>https://www.mcxindia.com/docs/default-source/circulars/english/2026/march/mcxtech1372026-mock-trading.pdf?sfvrsn=a9af009e_0</link>
+      <guid isPermaLink="false">https://www.mcxindia.com/docs/default-source/circulars/english/2026/march/mcxtech1372026-mock-trading.pdf?sfvrsn=a9af009e_0</guid>
+      <description>[MCX] 137 — Mock Trading</description>
+      <category>TECH</category>
+      <pubDate>Thu, 19 Mar 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>Cyber Security Awareness Program for Members - March 2026</title>
+      <link>https://www.mcxindia.com/docs/default-source/circulars/english/2026/march/circular-140-2026.pdf?sfvrsn=7d9d009e_0</link>
+      <guid isPermaLink="false">https://www.mcxindia.com/docs/default-source/circulars/english/2026/march/circular-140-2026.pdf?sfvrsn=7d9d009e_0</guid>
+      <description>[MCX] 140 — Cyber Security Awareness Program for Members - March 2026</description>
+      <category>TECH</category>
+      <pubDate>Fri, 20 Mar 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>Status of Readiness and Compliance with Accessibility Requirements for Investor-Facing Digital Platforms – Submission Due Date March 31, 2026</title>
+      <link>https://www.mcxindia.com/docs/default-source/circulars/english/2026/march/circular-139-2026.pdf?sfvrsn=b69e009e_0</link>
+      <guid isPermaLink="false">https://www.mcxindia.com/docs/default-source/circulars/english/2026/march/circular-139-2026.pdf?sfvrsn=b69e009e_0</guid>
+      <description>[MCX] 139 — Status of Readiness and Compliance with Accessibility Requirements for Investor-Facing Digital Platforms – Submission Due Date March 31, 2026</description>
+      <category>Membership and Compliance</category>
+      <pubDate>Fri, 20 Mar 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
       <title>Due Date Rates</title>
-      <link>https://www.mcxindia.com/docs/default-source/circulars/english/2026/march/circular---150---2026.pdf?sfvrsn=2e34009e_0</link>
-      <guid isPermaLink="false">https://www.mcxindia.com/docs/default-source/circulars/english/2026/march/circular---150---2026.pdf?sfvrsn=2e34009e_0</guid>
-      <description>[MCX] 150 — Due Date Rates</description>
+      <link>https://www.mcxindia.com/docs/default-source/circulars/english/2026/march/circular---138---2026.pdf?sfvrsn=98009e_0</link>
+      <guid isPermaLink="false">https://www.mcxindia.com/docs/default-source/circulars/english/2026/march/circular---138---2026.pdf?sfvrsn=98009e_0</guid>
+      <description>[MCX] 138 — Due Date Rates</description>
       <category>MCXCCL</category>
-      <pubDate>Tue, 24 Mar 2026 07:30:00 +0530</pubDate>
+      <pubDate>Fri, 20 Mar 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>Product Movement Between Partition</title>
+      <link>https://www.mcxindia.com/docs/default-source/circulars/english/2026/march/circular-142-2026.pdf?sfvrsn=878b009e_0</link>
+      <guid isPermaLink="false">https://www.mcxindia.com/docs/default-source/circulars/english/2026/march/circular-142-2026.pdf?sfvrsn=878b009e_0</guid>
+      <description>[MCX] 142 — Product Movement Between Partition</description>
+      <category>TECH</category>
+      <pubDate>Fri, 20 Mar 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>Delivery &amp; Invoices Settlement Schedule for April 2026 expiry contracts</title>
+      <link>https://www.mcxindia.com/docs/default-source/circulars/english/2026/march/circular-141-2026.pdf?sfvrsn=e195009e_0</link>
+      <guid isPermaLink="false">https://www.mcxindia.com/docs/default-source/circulars/english/2026/march/circular-141-2026.pdf?sfvrsn=e195009e_0</guid>
+      <description>[MCX] 141 — Delivery &amp; Invoices Settlement Schedule for April 2026 expiry contracts</description>
+      <category>MCXCCL</category>
+      <pubDate>Fri, 20 Mar 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>Tender / Pre-Expiry Margin Schedule for the Month of April 2026</title>
+      <link>https://www.mcxindia.com/docs/default-source/circulars/english/2026/march/circular-143-2026.pdf?sfvrsn=a98a009e_0</link>
+      <guid isPermaLink="false">https://www.mcxindia.com/docs/default-source/circulars/english/2026/march/circular-143-2026.pdf?sfvrsn=a98a009e_0</guid>
+      <description>[MCX] 143 — Tender / Pre-Expiry Margin Schedule for the Month of April 2026</description>
+      <category>MCXCCL</category>
+      <pubDate>Fri, 20 Mar 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
       <title>Security Requirements for Members Connecting Through MCX SSL VPN Solution</title>
@@ -120,52 +160,12 @@
       <pubDate>Mon, 23 Mar 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
-      <title>Cyber Security Awareness Program for Members - March 2026</title>
-      <link>https://www.mcxindia.com/docs/default-source/circulars/english/2026/march/circular-140-2026.pdf?sfvrsn=7d9d009e_0</link>
-      <guid isPermaLink="false">https://www.mcxindia.com/docs/default-source/circulars/english/2026/march/circular-140-2026.pdf?sfvrsn=7d9d009e_0</guid>
-      <description>[MCX] 140 — Cyber Security Awareness Program for Members - March 2026</description>
-      <category>TECH</category>
-      <pubDate>Fri, 20 Mar 2026 07:30:00 +0530</pubDate>
-    </item>
-    <item>
-      <title>Status of Readiness and Compliance with Accessibility Requirements for Investor-Facing Digital Platforms – Submission Due Date March 31, 2026</title>
-      <link>https://www.mcxindia.com/docs/default-source/circulars/english/2026/march/circular-139-2026.pdf?sfvrsn=b69e009e_0</link>
-      <guid isPermaLink="false">https://www.mcxindia.com/docs/default-source/circulars/english/2026/march/circular-139-2026.pdf?sfvrsn=b69e009e_0</guid>
-      <description>[MCX] 139 — Status of Readiness and Compliance with Accessibility Requirements for Investor-Facing Digital Platforms – Submission Due Date March 31, 2026</description>
-      <category>Membership and Compliance</category>
-      <pubDate>Fri, 20 Mar 2026 07:30:00 +0530</pubDate>
-    </item>
-    <item>
       <title>Due Date Rates</title>
-      <link>https://www.mcxindia.com/docs/default-source/circulars/english/2026/march/circular---138---2026.pdf?sfvrsn=98009e_0</link>
-      <guid isPermaLink="false">https://www.mcxindia.com/docs/default-source/circulars/english/2026/march/circular---138---2026.pdf?sfvrsn=98009e_0</guid>
-      <description>[MCX] 138 — Due Date Rates</description>
+      <link>https://www.mcxindia.com/docs/default-source/circulars/english/2026/march/circular---150---2026.pdf?sfvrsn=2e34009e_0</link>
+      <guid isPermaLink="false">https://www.mcxindia.com/docs/default-source/circulars/english/2026/march/circular---150---2026.pdf?sfvrsn=2e34009e_0</guid>
+      <description>[MCX] 150 — Due Date Rates</description>
       <category>MCXCCL</category>
-      <pubDate>Fri, 20 Mar 2026 07:30:00 +0530</pubDate>
-    </item>
-    <item>
-      <title>Product Movement Between Partition</title>
-      <link>https://www.mcxindia.com/docs/default-source/circulars/english/2026/march/circular-142-2026.pdf?sfvrsn=878b009e_0</link>
-      <guid isPermaLink="false">https://www.mcxindia.com/docs/default-source/circulars/english/2026/march/circular-142-2026.pdf?sfvrsn=878b009e_0</guid>
-      <description>[MCX] 142 — Product Movement Between Partition</description>
-      <category>TECH</category>
-      <pubDate>Fri, 20 Mar 2026 07:30:00 +0530</pubDate>
-    </item>
-    <item>
-      <title>Delivery &amp; Invoices Settlement Schedule for April 2026 expiry contracts</title>
-      <link>https://www.mcxindia.com/docs/default-source/circulars/english/2026/march/circular-141-2026.pdf?sfvrsn=e195009e_0</link>
-      <guid isPermaLink="false">https://www.mcxindia.com/docs/default-source/circulars/english/2026/march/circular-141-2026.pdf?sfvrsn=e195009e_0</guid>
-      <description>[MCX] 141 — Delivery &amp; Invoices Settlement Schedule for April 2026 expiry contracts</description>
-      <category>MCXCCL</category>
-      <pubDate>Fri, 20 Mar 2026 07:30:00 +0530</pubDate>
-    </item>
-    <item>
-      <title>Tender / Pre-Expiry Margin Schedule for the Month of April 2026</title>
-      <link>https://www.mcxindia.com/docs/default-source/circulars/english/2026/march/circular-143-2026.pdf?sfvrsn=a98a009e_0</link>
-      <guid isPermaLink="false">https://www.mcxindia.com/docs/default-source/circulars/english/2026/march/circular-143-2026.pdf?sfvrsn=a98a009e_0</guid>
-      <description>[MCX] 143 — Tender / Pre-Expiry Margin Schedule for the Month of April 2026</description>
-      <category>MCXCCL</category>
-      <pubDate>Fri, 20 Mar 2026 07:30:00 +0530</pubDate>
+      <pubDate>Tue, 24 Mar 2026 07:30:00 +0530</pubDate>
     </item>
   </channel>
 </rss>

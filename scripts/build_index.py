@@ -81,9 +81,12 @@ def load_exchange_json(exchange: str):
                         "link": item.get("link", ""),
                     })
                 elif exchange == "SEBI":
+                    # SEBI data has date_iso in the item itself, not from filename
+                    item_date_iso = item.get("date_iso", date_iso)
                     records.append({
                         "exchange": "SEBI",
-                        "date_iso": date_iso,
+                        "date": to_display(item_date_iso),
+                        "date_iso": item_date_iso,
                         "ref": item.get("notice_no", ""),
                         "subject": item.get("subject", ""),
                         "category": item.get("category", "Circular"),
