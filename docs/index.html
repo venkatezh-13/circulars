@@ -24,6 +24,7 @@
     --nse:       #0a6640;
     --bse:       #8b1a1a;
     --mcx:       #7c4a00;
+    --sebi:      #0056b3;
     --r8:        8px;
     --r16:       16px;
     --r32:       32px;
@@ -363,6 +364,7 @@
   .stat-nse { color: var(--nse); font-weight: 600; }
   .stat-bse { color: var(--bse); font-weight: 600; }
   .stat-mcx { color: var(--mcx); font-weight: 600; }
+  .stat-sebi { color: var(--sebi); font-weight: 600; }
 
   /* ── Table ── */
   .table-wrap {
@@ -452,6 +454,7 @@
   .ex-NSE { background: rgba(10, 102, 64, .08); color: var(--nse); }
   .ex-BSE { background: rgba(139, 26, 26, .08); color: var(--bse); }
   .ex-MCX { background: rgba(124, 74,  0, .08); color: var(--mcx); }
+  .ex-SEBI { background: rgba(0, 86, 179, .08); color: var(--sebi); }
 
   .td-ref {
     width: 160px;
@@ -729,6 +732,7 @@
   .header-tab[data-ex=NSE].active { color: var(--nse); border-bottom-color: var(--nse); }
   .header-tab[data-ex=BSE].active { color: var(--bse); border-bottom-color: var(--bse); }
   .header-tab[data-ex=MCX].active { color: var(--mcx); border-bottom-color: var(--mcx); }
+  .header-tab[data-ex=SEBI].active { color: var(--sebi); border-bottom-color: var(--sebi); }
 
 </style>
 </head>
@@ -743,6 +747,7 @@
       <a href="#" class="header-tab" data-ex="NSE" onclick="setEx('NSE',this);return false;">NSE</a>
       <a href="#" class="header-tab" data-ex="BSE" onclick="setEx('BSE',this);return false;">BSE</a>
       <a href="#" class="header-tab" data-ex="MCX" onclick="setEx('MCX',this);return false;">MCX</a>
+      <a href="#" class="header-tab" data-ex="SEBI" onclick="setEx('SEBI',this);return false;">SEBI</a>
     </nav>
   </div>
 </div>
@@ -846,8 +851,12 @@
       <svg class="rss-icon" viewBox="0 0 24 24" fill="currentColor"><path d="M6.18 15.64a2.18 2.18 0 0 1 2.18 2.18C8.36 19.01 7.38 20 6.18 20C4.98 20 4 19.01 4 17.82a2.18 2.18 0 0 1 2.18-2.18M4 4.44A15.56 15.56 0 0 1 19.56 20h-2.83A12.73 12.73 0 0 0 4 7.27V4.44m0 5.66a9.9 9.9 0 0 1 9.9 9.9h-2.83A7.07 7.07 0 0 0 4 12.93V10.1z"/></svg>
       MCX
     </a>
+    <a class="rss-link" href="rss/sebi.xml" target="_blank" rel="noopener" style="font-size:12px; color:var(--sebi)">
+      <svg class="rss-icon" viewBox="0 0 24 24" fill="currentColor"><path d="M6.18 15.64a2.18 2.18 0 0 1 2.18 2.18C8.36 19.01 7.38 20 6.18 20C4.98 20 4 19.01 4 17.82a2.18 2.18 0 0 1 2.18-2.18M4 4.44A15.56 15.56 0 0 1 19.56 20h-2.83A12.73 12.73 0 0 0 4 7.27V4.44m0 5.66a9.9 9.9 0 0 1 9.9 9.9h-2.83A7.07 7.07 0 0 0 4 12.93V10.1z"/></svg>
+      SEBI
+    </a>
   </div>
-  Exchange Circulars — NSE · BSE · MCX
+  Exchange Circulars — NSE · BSE · MCX · SEBI
 </div>
 
 <script>
@@ -1042,12 +1051,14 @@ function render() {
   const nN = filtered.filter(r => r.exchange === 'NSE').length;
   const bN = filtered.filter(r => r.exchange === 'BSE').length;
   const mN = filtered.filter(r => r.exchange === 'MCX').length;
+  const sN = filtered.filter(r => r.exchange === 'SEBI').length;
 
   document.getElementById('stats').innerHTML =
     `<span><strong>${total.toLocaleString()}</strong> circulars</span>` +
     `<span class="stat-nse">NSE: ${nN}</span>` +
     `<span class="stat-bse">BSE: ${bN}</span>` +
     `<span class="stat-mcx">MCX: ${mN}</span>` +
+    `<span class="stat-sebi">SEBI: ${sN}</span>` +
     (kw ? `<span>Keyword: <strong>${esc(kw)}</strong></span>` : '');
 
   if (!slice.length) {
