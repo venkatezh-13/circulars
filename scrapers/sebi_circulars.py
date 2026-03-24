@@ -138,14 +138,13 @@ def _parse_rows(rows: list) -> list:
             circular_date = None
 
         # Create a shorter, cleaner reference number
-        # Format: SEBI/YYYY-MM-DD/XXXX where XXXX is last 4 chars of URL ID
+        # Format: Just the URL ID (e.g., "0511" instead of "SEBI/2026-03-23/0511")
         url_slug = detail_url.split('/')[-1] if detail_url else ""
         url_id_match = re.search(r'_(\d+)\.html$', url_slug)
         url_id = url_id_match.group(1) if url_id_match else "0000"
         
         # Use last 4 digits of URL ID, or pad if shorter
-        ref_suffix = url_id[-4:].zfill(4)
-        notice_no = f"SEBI/{circular_date.isoformat()}/{ref_suffix}" if circular_date else f"SEBI/{ref_suffix}"
+        notice_no = url_id[-4:].zfill(4)
 
         results.append({
             "notice_no": notice_no,
