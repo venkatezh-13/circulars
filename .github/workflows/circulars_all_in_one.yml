@@ -1,4 +1,4 @@
-name: Circulars — Poll & Backfill
+name: Circulars — Daily Poll
 
 # ──────────────────────────────────────────────────────────────────────────────
 # SCHEDULES
@@ -6,45 +6,21 @@ name: Circulars — Poll & Backfill
 #             GitHub's minimum cron interval is 5 min, but 15 min is safer
 #             against Actions queue delays and exchange rate-limits.
 #             Change to '*/5' if you want 5-min polling (uses ~3× more minutes).
-#   • Backfill: once daily at 8:30 AM IST (3:00 UTC), any day
 # ──────────────────────────────────────────────────────────────────────────────
 
 on:
   schedule:
     # Poll — every 15 min during market hours (6 AM – 1 AM IST = 0:30-19:30 UTC)
     - cron: '*/15 0-19 * * *'
-    # Backfill — once a day, off-peak
-    - cron: '0 3 * * *'
 
   workflow_dispatch:
     inputs:
-      mode:
-        description: 'What to run'
-        required: false
-        default: 'poll'
-        type: choice
-        options:
-          - poll           # scrape today only (NSE + BSE + MCX)
-          - backfill       # run one backfill batch
-          - poll+backfill  # both
       exchanges:
-        description: 'Which exchanges (for poll mode)'
+        description: 'Which exchanges to poll'
         required: false
         default: 'all'
         type: choice
-        options: [all, nse, bse, mcx]
-      exchange:
-        description: 'Exchange (for backfill mode)'
-        required: false
-        default: 'all'
-        type: choice
-        options: [all, nse, bse, mcx]
-      from_date:
-        description: 'Backfill from date YYYY-MM-DD (optional manual override)'
-        required: false
-      to_date:
-        description: 'Backfill to date YYYY-MM-DD (optional manual override)'
-        required: false
+        options: [all, nse, bse, mcx, sebi]
 
 # Only allow one run at a time per ref — prevents concurrent git push conflicts
 concurrency:
@@ -53,75 +29,30 @@ concurrency:
 
 jobs:
 
-  # ── Step 1: Decide what this run should do ──────────────────────────────────
+  # ── Step 1: Setup exchange flags ────────────────────────────────────────────
   setup:
     runs-on: ubuntu-latest
     outputs:
-      run_poll:     ${{ steps.decide.outputs.run_poll }}
-      run_backfill: ${{ steps.decide.outputs.run_backfill }}
-      run_nse:      ${{ steps.decide.outputs.run_nse }}
-      run_bse:      ${{ steps.decide.outputs.run_bse }}
-      run_mcx:      ${{ steps.decide.outputs.run_mcx }}
+      run_nse:      ${{ steps.setup_exchanges.outputs.run_nse }}
+      run_bse:      ${{ steps.setup_exchanges.outputs.run_bse }}
+      run_mcx:      ${{ steps.setup_exchanges.outputs.run_mcx }}
+      run_sebi:     ${{ steps.setup_exchanges.outputs.run_sebi }}
     steps:
-      - name: Decide mode
-        id: decide
+      - name: Setup exchanges
+        id: setup_exchanges
         run: |
-          EVENT="${{ github.event_name }}"
-          HOUR=$(date -u +%-H)     # 0–23, no leading zero
-          MINUTE=$(date -u +%-M)
-          MODE="${{ github.event.inputs.mode }}"
           EXCHANGES="${{ github.event.inputs.exchanges || 'all' }}"
-
-          # ── Manual trigger ──────────────────────────────────────────────────
-          if [ "$EVENT" = "workflow_dispatch" ]; then
-            case "$MODE" in
-              backfill)
-                echo "run_poll=false"     >> $GITHUB_OUTPUT
-                echo "run_backfill=true"  >> $GITHUB_OUTPUT
-                ;;
-              poll+backfill)
-                echo "run_poll=true"      >> $GITHUB_OUTPUT
-                echo "run_backfill=true"  >> $GITHUB_OUTPUT
-                ;;
-              *)  # poll (default)
-                echo "run_poll=true"      >> $GITHUB_OUTPUT
-                echo "run_backfill=false" >> $GITHUB_OUTPUT
-                ;;
-            esac
-
-            # Exchange flags for poll
-            for EX in nse bse mcx; do
-              if [ "$EXCHANGES" = "all" ] || [ "$EXCHANGES" = "$EX" ]; then
-                echo "run_${EX}=true"  >> $GITHUB_OUTPUT
-              else
-                echo "run_${EX}=false" >> $GITHUB_OUTPUT
-              fi
-            done
-
-          # ── Scheduled trigger ───────────────────────────────────────────────
-          else
-            # Is it the daily backfill slot? (cron '0 3 * * *' fires at HOUR=3, MINUTE=0)
-            # Is it a poll slot?  (cron '*/15 3-12 * * 1-6' fires inside 3–12 UTC)
-            if [ "$MINUTE" = "0" ] && [ "$HOUR" = "3" ]; then
-              # 3:00 UTC = 8:30 IST — both the daily backfill cron AND the first
-              # poll cron fire here. Run both.
-              echo "run_poll=true"      >> $GITHUB_OUTPUT
-              echo "run_backfill=true"  >> $GITHUB_OUTPUT
+          for EX in nse bse mcx sebi; do
+            if [ "$EXCHANGES" = "all" ] || [ "$EXCHANGES" = "$EX" ]; then
+              echo "run_${EX}=true" >> $GITHUB_OUTPUT
             else
-              echo "run_poll=true"      >> $GITHUB_OUTPUT
-              echo "run_backfill=false" >> $GITHUB_OUTPUT
+              echo "run_${EX}=false" >> $GITHUB_OUTPUT
             fi
+          done
 
-            # Always scrape all three during a scheduled poll
-            echo "run_nse=true" >> $GITHUB_OUTPUT
-            echo "run_bse=true" >> $GITHUB_OUTPUT
-            echo "run_mcx=true" >> $GITHUB_OUTPUT
-          fi
-
-  # ── Step 2a: Scrape today (poll) ────────────────────────────────────────────
+  # ── Step 2: Scrape today (poll) ────────────────────────────────────────────
   poll:
     needs: setup
-    if: needs.setup.outputs.run_poll == 'true'
     runs-on: ubuntu-latest
     permissions:
       contents: write
@@ -170,57 +101,10 @@ jobs:
             git push
           fi
 
-  # ── Step 2b: Backfill ────────────────────────────────────────────────────────
-  backfill:
-    needs: setup
-    if: needs.setup.outputs.run_backfill == 'true'
-    runs-on: ubuntu-latest
-    permissions:
-      contents: write
-
-    steps:
-      - uses: actions/checkout@v4.2.2
-        with:
-          fetch-depth: 1
-
-      - uses: actions/setup-python@v5.6.0
-        with:
-          python-version: '3.12'
-          cache: 'pip'
-
-      - name: Install dependencies
-        run: pip install httpx requests beautifulsoup4
-
-      - name: Run backfill batch
-        run: |
-          if [ -n "${{ github.event.inputs.from_date }}" ]; then
-            python scripts/backfill.py \
-              --exchange ${{ github.event.inputs.exchange || 'all' }} \
-              --from     ${{ github.event.inputs.from_date }} \
-              --to       ${{ github.event.inputs.to_date }}
-          else
-            python scripts/backfill.py --exchange ${{ github.event.inputs.exchange || 'all' }}
-          fi
-        timeout-minutes: 25
-
-      - name: Commit backfilled data
-        run: |
-          git config user.email "circulars-bot@github-actions"
-          git config user.name  "Circulars Bot"
-          git add data/ scripts/backfill_state.json
-          if git diff --staged --quiet; then
-            echo "No new backfill data."
-          else
-            git commit -m "backfill: batch $(date -u +'%Y-%m-%d')"
-            git pull --rebase origin main
-            git push
-          fi
-
-  # ── Step 3: Rebuild search index (runs after poll+backfill) ──────────────────
+  # ── Step 3: Rebuild search index ────────────────────────────────────────────
   rebuild-index:
-    needs: [poll, backfill]
-    # Run if at least one upstream job succeeded or was skipped; skip only on failure
-    if: always() && (needs.poll.result == 'success' || needs.poll.result == 'skipped') && (needs.backfill.result == 'success' || needs.backfill.result == 'skipped') && (needs.poll.result == 'success' || needs.backfill.result == 'success')
+    needs: poll
+    if: always() && needs.poll.result == 'success'
     runs-on: ubuntu-latest
     permissions:
       contents: write
