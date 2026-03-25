@@ -142,5 +142,45 @@
     "category": "Company related",
     "department": "Listing Operations",
     "pdf_url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260325-10/20260325-10.pdf"
+  },
+  {
+    "notice_no": "20260325-23",
+    "subject": "Listing of New Securities of TIL Ltd.",
+    "segment": "Equity",
+    "category": "Company related",
+    "department": "Listing Operations",
+    "pdf_url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260325-23/20260325-23.pdf"
+  },
+  {
+    "notice_no": "20260325-22",
+    "subject": "SEBI direction in respect of SAT order dated 17.12.2025 (Appeal No. 534 of 2025) in the matter of Insider Trading by certain entities in the scrip of IEX (Noticee - Bhoovan Singh and 3 Others).",
+    "segment": "General",
+    "category": "Compliance",
+    "department": "DOSS",
+    "pdf_url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260325-22/20260325-22.pdf"
+  },
+  {
+    "notice_no": "20260325-21",
+    "subject": "Settlement Schedule Offer to Buy – Acquisition Window (Takeover) for AAR SHYAM INDIA INVESTMENT COMPANY LIMITED",
+    "segment": "General",
+    "category": "Settlement/RMS",
+    "department": "ICCL",
+    "pdf_url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260325-21/20260325-21.pdf"
+  },
+  {
+    "notice_no": "20260325-20",
+    "subject": "Opening of Offer to Buy – Acquisition Window (Takeover) of GRAMEVA LIMITED",
+    "segment": "Equity",
+    "category": "Trading",
+    "department": "Listing Business Relationship",
+    "pdf_url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260325-20/20260325-20.pdf"
+  },
+  {
+    "notice_no": "20260325-19",
+    "subject": "Voluntary Closure of Business – R.N.Patwa Shares & Stock Brokers Pvt. Ltd",
+    "segment": "General",
+    "category": "Others",
+    "department": "Membership Compliance",
+    "pdf_url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260325-19/20260325-19.pdf"
   }
 ]
