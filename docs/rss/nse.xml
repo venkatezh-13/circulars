@@ -5,7 +5,7 @@
     <link>https://venkatezh-13.github.io/circulars</link>
     <description>NSE circulars — last 7 days</description>
     <language>en-in</language>
-    <lastBuildDate>Wed, 25 Mar 2026 10:33:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Mar 2026 11:28:29 +0000</lastBuildDate>
     <atom:link href="https://venkatezh-13.github.io/circulars/rss/nse.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Listing of further issues of Grill Splendour Services Limited, E Factor Experiences Limited and Womancart Limited</title>
@@ -949,6 +949,22 @@
       <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/COM73459.zip</guid>
       <description>[NSE] NCL/COM/73459 — Extending Inventory Management System (IMS) to Trading Members and Clients</description>
       <category>Commodity Derivatives</category>
+      <pubDate>Wed, 25 Mar 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>SLBS - Multiple settlements scheduled on April 02, 2026</title>
+      <link>https://nsearchives.nseindia.com/content/circulars/CMPT73461.pdf</link>
+      <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/CMPT73461.pdf</guid>
+      <description>[NSE] NCL/CMPT/73461 — SLBS - Multiple settlements scheduled on April 02, 2026</description>
+      <category>Securities Lending &amp; Borrowing Scheme</category>
+      <pubDate>Wed, 25 Mar 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>CM - Multiple Settlement Scheduled on April 02, 2026</title>
+      <link>https://nsearchives.nseindia.com/content/circulars/CMPT73460.pdf</link>
+      <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/CMPT73460.pdf</guid>
+      <description>[NSE] NCL/CMPT/73460 — CM - Multiple Settlement Scheduled on April 02, 2026</description>
+      <category>NSE Clearing - Capital Market</category>
       <pubDate>Wed, 25 Mar 2026 07:30:00 +0530</pubDate>
     </item>
   </channel>

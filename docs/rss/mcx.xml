@@ -5,7 +5,7 @@
     <link>https://venkatezh-13.github.io/circulars</link>
     <description>MCX circulars — last 7 days</description>
     <language>en-in</language>
-    <lastBuildDate>Wed, 25 Mar 2026 10:33:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Mar 2026 11:28:29 +0000</lastBuildDate>
     <atom:link href="https://venkatezh-13.github.io/circulars/rss/mcx.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Mock Trading</title>
@@ -149,6 +149,14 @@
       <guid isPermaLink="false">https://www.mcxindia.com/docs/default-source/circulars/english/2026/march/circular1522026.pdf?sfvrsn=9810009e_0</guid>
       <description>[MCX] 152 — Application for Surrender of Membership</description>
       <category>Membership and Compliance</category>
+      <pubDate>Wed, 25 Mar 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>Due Date Rates</title>
+      <link>https://www.mcxindia.com/docs/default-source/circulars/english/2026/march/circular---153---2026.pdf?sfvrsn=20f009e_0</link>
+      <guid isPermaLink="false">https://www.mcxindia.com/docs/default-source/circulars/english/2026/march/circular---153---2026.pdf?sfvrsn=20f009e_0</guid>
+      <description>[MCX] 153 — Due Date Rates</description>
+      <category>MCXCCL</category>
       <pubDate>Wed, 25 Mar 2026 07:30:00 +0530</pubDate>
     </item>
   </channel>
