@@ -5,7 +5,7 @@
     <link>https://venkatezh-13.github.io/circulars</link>
     <description>NSE circulars — last 7 days</description>
     <language>en-in</language>
-    <lastBuildDate>Wed, 25 Mar 2026 06:44:57 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Mar 2026 07:42:46 +0000</lastBuildDate>
     <atom:link href="https://venkatezh-13.github.io/circulars/rss/nse.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Listing of further issues of Grill Splendour Services Limited, E Factor Experiences Limited and Womancart Limited</title>
@@ -934,6 +934,14 @@
       <description>[NSE] NSE/SURV/73401 — Applicability of Additional Surveillance Measure (ASM)</description>
       <category>Surveillance &amp; Investigation</category>
       <pubDate>Fri, 20 Mar 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>Corrigendum to Circular on Listing of further issue of Adani Enterprises Limited</title>
+      <link>https://nsearchives.nseindia.com/content/circulars/CML73447.pdf</link>
+      <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/CML73447.pdf</guid>
+      <description>[NSE] NSE/CML/73447 — Corrigendum to Circular on Listing of further issue of Adani Enterprises Limited</description>
+      <category>Listing</category>
+      <pubDate>Wed, 25 Mar 2026 07:30:00 +0530</pubDate>
     </item>
   </channel>
 </rss>
