@@ -5,7 +5,7 @@
     <link>https://venkatezh-13.github.io/circulars</link>
     <description>BSE circulars — last 7 days</description>
     <language>en-in</language>
-    <lastBuildDate>Wed, 25 Mar 2026 05:44:48 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Mar 2026 06:44:57 +0000</lastBuildDate>
     <atom:link href="https://venkatezh-13.github.io/circulars/rss/bse.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Clarification received from the companies.</title>
@@ -1837,6 +1837,14 @@
       <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260325-1/20260325-1.pdf</guid>
       <description>[BSE] 20260325-1 — BCX – Tender Period Margin Tracker – April 2026</description>
       <category>Commodity Derivatives / Settlement/RMS</category>
+      <pubDate>Wed, 25 Mar 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>Listing of New Securities of VIRTUAL GLOBAL EDUCATION LTD.</title>
+      <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260325-2/20260325-2.pdf</link>
+      <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260325-2/20260325-2.pdf</guid>
+      <description>[BSE] 20260325-2 — Listing of New Securities of VIRTUAL GLOBAL EDUCATION LTD.</description>
+      <category>Equity / Company related</category>
       <pubDate>Wed, 25 Mar 2026 07:30:00 +0530</pubDate>
     </item>
   </channel>
