@@ -382,5 +382,61 @@
     "category": "Company related",
     "department": "Listing Operations",
     "pdf_url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260325-32/20260325-32.pdf"
+  },
+  {
+    "notice_no": "20260325-55",
+    "subject": "Listing of Units of HSBC Gold ETF a scheme under HSBC Mutual Fund",
+    "segment": "Mutual Fund",
+    "category": "Company related",
+    "department": "DCS-Listing",
+    "pdf_url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260325-55/20260325-55.pdf"
+  },
+  {
+    "notice_no": "20260325-54",
+    "subject": "Revocation of Suspension in trading of equity shares of Asian Hotels (West) Ltd (Scrip Code: 533221)",
+    "segment": "Equity",
+    "category": "Company related",
+    "department": "Listing Compliance-Monitoring",
+    "pdf_url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260325-54/20260325-54.pdf"
+  },
+  {
+    "notice_no": "20260325-53",
+    "subject": "Listing of Units of Mirae Asset Nifty 500 Value 50 ETF a scheme under Mirae Asset Mutual Fund",
+    "segment": "Mutual Fund",
+    "category": "Company related",
+    "department": "DCS-Listing",
+    "pdf_url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260325-53/20260325-53.pdf"
+  },
+  {
+    "notice_no": "20260325-52",
+    "subject": "Applicability of Short Term Additional Surveillance Measure (ST-ASM)",
+    "segment": "Equity",
+    "category": "Trading",
+    "department": "DOSS",
+    "pdf_url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260325-52/20260325-52.pdf"
+  },
+  {
+    "notice_no": "20260325-51",
+    "subject": "Listing of New Securities of NEXOME CAPITAL MARKETS LIMITED",
+    "segment": "Equity",
+    "category": "Company related",
+    "department": "Listing Operations",
+    "pdf_url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260325-51/20260325-51.pdf"
+  },
+  {
+    "notice_no": "20260325-50",
+    "subject": "Conversion factor for converting from USD to GBP, EURO and YEN",
+    "segment": "Currency Derivatives",
+    "category": "Trading",
+    "department": "DOSS",
+    "pdf_url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260325-50/20260325-50.pdf"
+  },
+  {
+    "notice_no": "20260325-49",
+    "subject": "Listing of Secured Redeemable Non-Convertible Debentures of Muthoot Fincorp Limited",
+    "segment": "Debt",
+    "category": "Company related",
+    "department": "DCS-Listing",
+    "pdf_url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260325-49/20260325-49.pdf"
   }
 ]
