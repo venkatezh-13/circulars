@@ -246,5 +246,77 @@
     "category": "Company related",
     "department": "DOSS",
     "pdf_url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260327-30/20260327-30.pdf"
+  },
+  {
+    "notice_no": "20260327-40",
+    "subject": "Change in status of company",
+    "segment": "Equity",
+    "category": "Company related",
+    "department": "Listing Compliance-Monitoring",
+    "pdf_url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260327-40/20260327-40.pdf"
+  },
+  {
+    "notice_no": "20260327-39",
+    "subject": "Delisting of Companies and Securities",
+    "segment": "Equity",
+    "category": "Corporate Actions",
+    "department": "Listing Operations",
+    "pdf_url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260327-39/20260327-39.pdf"
+  },
+  {
+    "notice_no": "20260327-38",
+    "subject": "Group Change",
+    "segment": "Equity",
+    "category": "Company related",
+    "department": "Listing Operations",
+    "pdf_url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260327-38/20260327-38.pdf"
+  },
+  {
+    "notice_no": "20260327-37",
+    "subject": "Listing of Equity Shares of Central Mine Planning & Design Institute Limited",
+    "segment": "Equity",
+    "category": "Company related",
+    "department": "DCS-Listing",
+    "pdf_url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260327-37/20260327-37.pdf"
+  },
+  {
+    "notice_no": "20260327-36",
+    "subject": "Listing of Equity Shares of Speciality Medicines Limited",
+    "segment": "SME",
+    "category": "Company related",
+    "department": "DCS-Listing",
+    "pdf_url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260327-36/20260327-36.pdf"
+  },
+  {
+    "notice_no": "20260327-35",
+    "subject": "Settlement Schedule Offer to Buy – Acquisition Window (Takeover) for GRAMEVA LIMITED.",
+    "segment": "General",
+    "category": "Settlement/RMS",
+    "department": "ICCL",
+    "pdf_url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260327-35/20260327-35.pdf"
+  },
+  {
+    "notice_no": "20260327-34",
+    "subject": "Listing of New Securities of Fineotex Chemical Limited",
+    "segment": "Equity",
+    "category": "Company related",
+    "department": "Listing Operations",
+    "pdf_url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260327-34/20260327-34.pdf"
+  },
+  {
+    "notice_no": "20260327-33",
+    "subject": "Discontinuation of weekly trading in securities of company suspended for non-compliances of certain Regulation of SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015",
+    "segment": "Equity",
+    "category": "Company related",
+    "department": "Listing Compliance-Monitoring",
+    "pdf_url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260327-33/20260327-33.pdf"
+  },
+  {
+    "notice_no": "20260327-32",
+    "subject": "Listing of New Securities of Lloyds Enterprises Ltd.",
+    "segment": "Equity",
+    "category": "Company related",
+    "department": "Listing Operations",
+    "pdf_url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260327-32/20260327-32.pdf"
   }
 ]
