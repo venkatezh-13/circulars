@@ -230,5 +230,21 @@
     "category": "Company related",
     "department": "Listing Operations",
     "pdf_url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260327-27/20260327-27.pdf"
+  },
+  {
+    "notice_no": "20260327-31",
+    "subject": "Clarification received from the company on news article.",
+    "segment": "Equity",
+    "category": "Company related",
+    "department": "DOSS",
+    "pdf_url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260327-31/20260327-31.pdf"
+  },
+  {
+    "notice_no": "20260327-30",
+    "subject": "Clarification received from the companies.",
+    "segment": "Equity",
+    "category": "Company related",
+    "department": "DOSS",
+    "pdf_url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260327-30/20260327-30.pdf"
   }
 ]
