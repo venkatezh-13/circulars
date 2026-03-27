@@ -318,5 +318,101 @@
     "category": "Company related",
     "department": "Listing Operations",
     "pdf_url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260327-32/20260327-32.pdf"
+  },
+  {
+    "notice_no": "20260327-52",
+    "subject": "CHANGES IN PRICE BAND",
+    "segment": "Equity",
+    "category": "Trading",
+    "department": "DOSS",
+    "pdf_url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260327-52/20260327-52.pdf"
+  },
+  {
+    "notice_no": "20260327-51",
+    "subject": "Applicability of Short Term Additional Surveillance Measure (ST-ASM)",
+    "segment": "Equity",
+    "category": "Trading",
+    "department": "DOSS",
+    "pdf_url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260327-51/20260327-51.pdf"
+  },
+  {
+    "notice_no": "20260327-50",
+    "subject": "Graded Surveillance Measure (GSM)",
+    "segment": "Equity",
+    "category": "Trading",
+    "department": "DOSS",
+    "pdf_url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260327-50/20260327-50.pdf"
+  },
+  {
+    "notice_no": "20260327-49",
+    "subject": "Applicability of Additional Measure for securities witnessing unusual price movement",
+    "segment": "Equity",
+    "category": "Trading",
+    "department": "DOSS",
+    "pdf_url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260327-49/20260327-49.pdf"
+  },
+  {
+    "notice_no": "20260327-48",
+    "subject": "Applicability of Long Term Additional Surveillance Measure (LT-ASM)",
+    "segment": "Equity",
+    "category": "Trading",
+    "department": "DOSS",
+    "pdf_url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260327-48/20260327-48.pdf"
+  },
+  {
+    "notice_no": "20260327-47",
+    "subject": "Listing of privately placed securities on the debt market segment of the Exchange",
+    "segment": "Debt",
+    "category": "Company related",
+    "department": "DCS-Listing",
+    "pdf_url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260327-47/20260327-47.pdf"
+  },
+  {
+    "notice_no": "20260327-46",
+    "subject": "Discontinuation of Trading and Delisting of Debentures of Kinara Capital Private Limited",
+    "segment": "Debt",
+    "category": "Company related",
+    "department": "DCS-Listing",
+    "pdf_url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260327-46/20260327-46.pdf"
+  },
+  {
+    "notice_no": "20260327-45",
+    "subject": "Update Regarding debt securities of Logix Buildtech Private Limited",
+    "segment": "Debt",
+    "category": "Company related",
+    "department": "DCS-Listing",
+    "pdf_url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260327-45/20260327-45.pdf"
+  },
+  {
+    "notice_no": "20260327-44",
+    "subject": "Listing of new Treasury Bills T-Bills",
+    "segment": "Debt",
+    "category": "Others",
+    "department": "DCS-Listing",
+    "pdf_url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260327-44/20260327-44.pdf"
+  },
+  {
+    "notice_no": "20260327-43",
+    "subject": "Listing of new securities of MIDWEST GOLD LIMITED",
+    "segment": "Equity",
+    "category": "Company related",
+    "department": "Listing Operations",
+    "pdf_url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260327-43/20260327-43.pdf"
+  },
+  {
+    "notice_no": "20260327-42",
+    "subject": "Suspension of Trading of Debt Securities",
+    "segment": "Debt",
+    "category": "Corporate Actions",
+    "department": "Listing Operations",
+    "pdf_url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260327-42/20260327-42.pdf"
+  },
+  {
+    "notice_no": "20260327-41",
+    "subject": "SEBI Order in respect of Front Running of Trades of Big Client by certain entities of Chaturvedi Group",
+    "segment": "General",
+    "category": "Compliance",
+    "department": "DOSS",
+    "pdf_url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260327-41/20260327-41.pdf"
   }
 ]
