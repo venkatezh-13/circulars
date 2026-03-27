@@ -414,5 +414,21 @@
     "category": "Compliance",
     "department": "DOSS",
     "pdf_url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260327-41/20260327-41.pdf"
+  },
+  {
+    "notice_no": "20260327-54",
+    "subject": "Enhanced Surveillance Measure ESM",
+    "segment": "Equity",
+    "category": "Trading",
+    "department": "DOSS",
+    "pdf_url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260327-54/20260327-54.pdf"
+  },
+  {
+    "notice_no": "20260327-53",
+    "subject": "SEBI Order in the matter of Mr Yash Garg Proprietor of Yash Trading Academy",
+    "segment": "General",
+    "category": "Compliance",
+    "department": "DOSS",
+    "pdf_url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260327-53/20260327-53.pdf"
   }
 ]
