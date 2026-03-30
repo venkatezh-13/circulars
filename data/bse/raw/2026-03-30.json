@@ -102,5 +102,29 @@
     "category": "Corporate Actions",
     "department": "Listing Operations",
     "pdf_url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260330-10/20260330-10.pdf"
+  },
+  {
+    "notice_no": "20260330-16",
+    "subject": "CORPORATE ACTION IN SLB SECURITIES",
+    "segment": "SLB",
+    "category": "Corporate Actions",
+    "department": "ICCL",
+    "pdf_url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260330-16/20260330-16.pdf"
+  },
+  {
+    "notice_no": "20260330-15",
+    "subject": "Demat Auction 2526848",
+    "segment": "Equity",
+    "category": "Settlement/RMS",
+    "department": "ICCL",
+    "pdf_url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260330-15/20260330-15.pdf"
+  },
+  {
+    "notice_no": "20260330-14",
+    "subject": "Listing of New Securities of Purple Finance Limited",
+    "segment": "Equity",
+    "category": "Company related",
+    "department": "Listing Operations",
+    "pdf_url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260330-14/20260330-14.pdf"
   }
 ]
