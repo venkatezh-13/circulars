@@ -5,7 +5,7 @@
     <link>https://venkatezh-13.github.io/circulars</link>
     <description>BSE circulars — last 7 days</description>
     <language>en-in</language>
-    <lastBuildDate>Mon, 30 Mar 2026 17:37:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 30 Mar 2026 18:39:23 +0000</lastBuildDate>
     <atom:link href="https://venkatezh-13.github.io/circulars/rss/bse.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>BCX – Tender Period Margin Tracker – April 2026</title>
@@ -1525,6 +1525,38 @@
       <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260330-60/20260330-60.pdf</guid>
       <description>[BSE] 20260330-60 — Enhanced Surveillance Measure (ESM)</description>
       <category>Equity / Trading</category>
+      <pubDate>Mon, 30 Mar 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>Market Wide Position Limits for newly introduced Scrips in Equity Derivatives Segment</title>
+      <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260330-65/20260330-65.pdf</link>
+      <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260330-65/20260330-65.pdf</guid>
+      <description>[BSE] 20260330-65 — Market Wide Position Limits for newly introduced Scrips in Equity Derivatives Segment</description>
+      <category>Derivatives / Settlement/RMS</category>
+      <pubDate>Mon, 30 Mar 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>Daily Bulletin</title>
+      <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260330-64/20260330-64.pdf</link>
+      <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260330-64/20260330-64.pdf</guid>
+      <description>[BSE] 20260330-64 — Daily Bulletin</description>
+      <category>General / Company related</category>
+      <pubDate>Mon, 30 Mar 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>Delisting of Securities</title>
+      <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260330-63/20260330-63.pdf</link>
+      <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260330-63/20260330-63.pdf</guid>
+      <description>[BSE] 20260330-63 — Delisting of Securities</description>
+      <category>Debt / Corporate Actions</category>
+      <pubDate>Mon, 30 Mar 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>Part Redemption of Debentures of Companies</title>
+      <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260330-62/20260330-62.pdf</link>
+      <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260330-62/20260330-62.pdf</guid>
+      <description>[BSE] 20260330-62 — Part Redemption of Debentures of Companies</description>
+      <category>Debt / Corporate Actions</category>
       <pubDate>Mon, 30 Mar 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
