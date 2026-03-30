@@ -5,7 +5,7 @@
     <link>https://venkatezh-13.github.io/circulars</link>
     <description>BSE circulars — last 7 days</description>
     <language>en-in</language>
-    <lastBuildDate>Mon, 30 Mar 2026 15:42:20 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 30 Mar 2026 16:40:36 +0000</lastBuildDate>
     <atom:link href="https://venkatezh-13.github.io/circulars/rss/bse.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>BCX – Tender Period Margin Tracker – April 2026</title>
@@ -1508,6 +1508,22 @@
       <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260330-40/20260330-40.pdf</link>
       <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260330-40/20260330-40.pdf</guid>
       <description>[BSE] 20260330-40 — Enhancement in Scrip Master File format</description>
+      <category>Equity / Trading</category>
+      <pubDate>Mon, 30 Mar 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>Revision in Market lot of Derivatives contracts on Individual Stocks &amp; Index</title>
+      <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260330-61/20260330-61.pdf</link>
+      <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260330-61/20260330-61.pdf</guid>
+      <description>[BSE] 20260330-61 — Revision in Market lot of Derivatives contracts on Individual Stocks &amp; Index</description>
+      <category>Derivatives / Trading</category>
+      <pubDate>Mon, 30 Mar 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>Enhanced Surveillance Measure (ESM)</title>
+      <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260330-60/20260330-60.pdf</link>
+      <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260330-60/20260330-60.pdf</guid>
+      <description>[BSE] 20260330-60 — Enhanced Surveillance Measure (ESM)</description>
       <category>Equity / Trading</category>
       <pubDate>Mon, 30 Mar 2026 07:30:00 +0530</pubDate>
     </item>
