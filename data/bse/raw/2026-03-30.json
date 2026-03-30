@@ -470,5 +470,21 @@
     "category": "Trading",
     "department": "Trading Development",
     "pdf_url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260330-40/20260330-40.pdf"
+  },
+  {
+    "notice_no": "20260330-61",
+    "subject": "Revision in Market lot of Derivatives contracts on Individual Stocks & Index",
+    "segment": "Derivatives",
+    "category": "Trading",
+    "department": "Trading Operations",
+    "pdf_url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260330-61/20260330-61.pdf"
+  },
+  {
+    "notice_no": "20260330-60",
+    "subject": "Enhanced Surveillance Measure (ESM)",
+    "segment": "Equity",
+    "category": "Trading",
+    "department": "DOSS",
+    "pdf_url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260330-60/20260330-60.pdf"
   }
 ]
