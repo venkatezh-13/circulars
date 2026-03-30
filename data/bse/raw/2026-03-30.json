@@ -486,5 +486,37 @@
     "category": "Trading",
     "department": "DOSS",
     "pdf_url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260330-60/20260330-60.pdf"
+  },
+  {
+    "notice_no": "20260330-65",
+    "subject": "Market Wide Position Limits for newly introduced Scrips in Equity Derivatives Segment",
+    "segment": "Derivatives",
+    "category": "Settlement/RMS",
+    "department": "ICCL",
+    "pdf_url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260330-65/20260330-65.pdf"
+  },
+  {
+    "notice_no": "20260330-64",
+    "subject": "Daily Bulletin",
+    "segment": "General",
+    "category": "Company related",
+    "department": "Listing Operations",
+    "pdf_url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260330-64/20260330-64.pdf"
+  },
+  {
+    "notice_no": "20260330-63",
+    "subject": "Delisting of Securities",
+    "segment": "Debt",
+    "category": "Corporate Actions",
+    "department": "Listing Operations",
+    "pdf_url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260330-63/20260330-63.pdf"
+  },
+  {
+    "notice_no": "20260330-62",
+    "subject": "Part Redemption of Debentures of Companies",
+    "segment": "Debt",
+    "category": "Corporate Actions",
+    "department": "Listing Operations",
+    "pdf_url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260330-62/20260330-62.pdf"
   }
 ]
