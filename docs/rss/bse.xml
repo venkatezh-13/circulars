@@ -5,7 +5,7 @@
     <link>https://venkatezh-13.github.io/circulars</link>
     <description>BSE circulars — last 7 days</description>
     <language>en-in</language>
-    <lastBuildDate>Mon, 30 Mar 2026 02:24:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 30 Mar 2026 05:10:51 +0000</lastBuildDate>
     <atom:link href="https://venkatezh-13.github.io/circulars/rss/bse.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>BCX – Tender Period Margin Tracker – April 2026</title>
@@ -1038,6 +1038,14 @@
       <description>[BSE] 20260329-1 — Non-Competitive Bidding for Auction of GoI dated Securities (G-secs) on April 02, 2025</description>
       <category>Debt / Trading</category>
       <pubDate>Sun, 29 Mar 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>Revision in STP INF515 Format</title>
+      <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260330-1/20260330-1.pdf</link>
+      <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260330-1/20260330-1.pdf</guid>
+      <description>[BSE] 20260330-1 — Revision in STP INF515 Format</description>
+      <category>General / Compliance</category>
+      <pubDate>Mon, 30 Mar 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
       <title>Ease of doing business measures – Relaxations in certain reporting requirements for certain Stockbrokers and doing away with the requirement of reporting of demat account.</title>
