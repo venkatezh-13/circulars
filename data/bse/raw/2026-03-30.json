@@ -54,5 +54,53 @@
     "category": "Others",
     "department": "Membership Compliance",
     "pdf_url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260330-2/20260330-2.pdf"
+  },
+  {
+    "notice_no": "20260330-9",
+    "subject": "Update Regarding debt securities of Setco Auto Systems Private Limited",
+    "segment": "Debt",
+    "category": "Company related",
+    "department": "DCS-Listing",
+    "pdf_url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260330-9/20260330-9.pdf"
+  },
+  {
+    "notice_no": "20260330-8",
+    "subject": "Opening of Offer to Buy – Acquisition Window (Delisting) of Voluntary Delisting of Equity Shares of ORIENT STEEL & INDUSTRIES LTD",
+    "segment": "Equity",
+    "category": "Trading",
+    "department": "Listing Business Relationship",
+    "pdf_url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260330-8/20260330-8.pdf"
+  },
+  {
+    "notice_no": "20260330-13",
+    "subject": "Demat Auction 848",
+    "segment": "Equity",
+    "category": "Settlement/RMS",
+    "department": "ICCL",
+    "pdf_url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260330-13/20260330-13.pdf"
+  },
+  {
+    "notice_no": "20260330-12",
+    "subject": "No Dealings in Partly Paid Equity Shares Yarn Syndicate Ltd. (Scrip Code 890197)",
+    "segment": "Equity",
+    "category": "Corporate Actions",
+    "department": "Listing Operations",
+    "pdf_url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260330-12/20260330-12.pdf"
+  },
+  {
+    "notice_no": "20260330-11",
+    "subject": "No Dealings in Partly Paid Equity Shares SOLARA ACTIVE PHARMA SCIENCES LIMITED (Scrip Code 890202)",
+    "segment": "Equity",
+    "category": "Corporate Actions",
+    "department": "Listing Operations",
+    "pdf_url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260330-11/20260330-11.pdf"
+  },
+  {
+    "notice_no": "20260330-10",
+    "subject": "Bonus issue of B2B Software Technologies Ltd.(Scrip Code: 531268)",
+    "segment": "Equity",
+    "category": "Corporate Actions",
+    "department": "Listing Operations",
+    "pdf_url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260330-10/20260330-10.pdf"
   }
 ]
