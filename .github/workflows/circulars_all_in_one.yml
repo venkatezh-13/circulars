@@ -88,6 +88,12 @@ jobs:
         run: python scrapers/run_mcx.py
         timeout-minutes: 10
 
+        # SEBI - ADD THIS STEP
+       - name: Scrape SEBI
+       if: needs.setup.outputs.run_sebi == 'true'
+       run: python scrapers/run_sebi.py
+       timeout-minutes: 10
+
       - name: Commit new data
         run: |
           git config user.email "circulars-bot@github-actions"
