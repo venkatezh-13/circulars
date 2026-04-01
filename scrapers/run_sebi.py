@@ -14,9 +14,8 @@ def fmt_date(d):
     return d.strftime("%d/%m/%Y")
 
 def main():
-    # Date range: March 23, 2026 to April 1, 2026
-    start_date = date(2026, 3, 23)
-    end_date = date(2026, 4, 1)
+    today = date.today()
+    date_str = fmt_date(today)
     
     # Set up command-line arguments for sebi_circulars.py
     # Save to a temporary file first
