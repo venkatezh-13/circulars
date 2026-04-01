@@ -190,5 +190,77 @@
     "category": "Company related",
     "department": "Listing Operations",
     "pdf_url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260401-20/20260401-20.pdf"
+  },
+  {
+    "notice_no": "20260401-33",
+    "subject": "Addition to the BSE SME IPO Index",
+    "segment": "Equity",
+    "category": "Index",
+    "department": "Index Cell",
+    "pdf_url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260401-33/20260401-33.pdf"
+  },
+  {
+    "notice_no": "20260401-32",
+    "subject": "Clarification received from the companies on news articles.",
+    "segment": "Equity",
+    "category": "Company related",
+    "department": "DOSS",
+    "pdf_url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260401-32/20260401-32.pdf"
+  },
+  {
+    "notice_no": "20260401-31",
+    "subject": "Clarification received from the companies",
+    "segment": "Equity",
+    "category": "Company related",
+    "department": "DOSS",
+    "pdf_url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260401-31/20260401-31.pdf"
+  },
+  {
+    "notice_no": "20260401-30",
+    "subject": "Settlement Schedule Offer to Buy – Acquisition Window (Takeover) for LCC INFOTECH LIMITED",
+    "segment": "General",
+    "category": "Settlement/RMS",
+    "department": "ICCL",
+    "pdf_url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260401-30/20260401-30.pdf"
+  },
+  {
+    "notice_no": "20260401-29",
+    "subject": "Submission of periodic report by Research Analysts",
+    "segment": "Research Analysts",
+    "category": "Others",
+    "department": "Membership Compliance",
+    "pdf_url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260401-29/20260401-29.pdf"
+  },
+  {
+    "notice_no": "20260401-28",
+    "subject": "Submission of periodic report by Investment Advisers",
+    "segment": "Investment Advisers",
+    "category": "Others",
+    "department": "Membership Compliance",
+    "pdf_url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260401-28/20260401-28.pdf"
+  },
+  {
+    "notice_no": "20260401-27",
+    "subject": "Updates for Implementation of Section 51A of UAPA, 1967: Updates to UNSC’s 1267/ 1989 ISIL (Da'esh) & Al-Qaida Sanctions List - Amendment in 02 entries",
+    "segment": "General",
+    "category": "Compliance",
+    "department": "DOSS",
+    "pdf_url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260401-27/20260401-27.pdf"
+  },
+  {
+    "notice_no": "20260401-26",
+    "subject": "FATF Public Statements after February 2026 Plenary",
+    "segment": "General",
+    "category": "Compliance",
+    "department": "DOSS",
+    "pdf_url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260401-26/20260401-26.pdf"
+  },
+  {
+    "notice_no": "20260401-25",
+    "subject": "Settlement Schedule Offer to Buy – Acquisition Window (Takeover) for SWARNSARITA JEWELS INDIA LIMITED",
+    "segment": "General",
+    "category": "Settlement/RMS",
+    "department": "ICCL",
+    "pdf_url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260401-25/20260401-25.pdf"
   }
 ]
