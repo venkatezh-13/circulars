@@ -62,5 +62,69 @@
     "category": "Others",
     "department": "Membership Compliance",
     "pdf_url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260401-5/20260401-5.pdf"
+  },
+  {
+    "notice_no": "20260401-9",
+    "subject": "New ISIN Number of R&B DENIMS LTD (Scrip Code: 538119)",
+    "segment": "Equity",
+    "category": "Corporate Actions",
+    "department": "Listing Operations",
+    "pdf_url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260401-9/20260401-9.pdf"
+  },
+  {
+    "notice_no": "20260401-16",
+    "subject": "Listing of Equity Shares of Amir Chand Jagdish Kumar (Exports) Limited",
+    "segment": "Equity",
+    "category": "Company related",
+    "department": "DCS-Listing",
+    "pdf_url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260401-16/20260401-16.pdf"
+  },
+  {
+    "notice_no": "20260401-15",
+    "subject": "Listing of Equity Shares of Powerica Limited",
+    "segment": "Equity",
+    "category": "Company related",
+    "department": "DCS-Listing",
+    "pdf_url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260401-15/20260401-15.pdf"
+  },
+  {
+    "notice_no": "20260401-14",
+    "subject": "Suspension of Trading in Commercial Paper",
+    "segment": "Debt",
+    "category": "Corporate Actions",
+    "department": "Listing Operations",
+    "pdf_url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260401-14/20260401-14.pdf"
+  },
+  {
+    "notice_no": "20260401-13",
+    "subject": "SME IPO - Draft Offer Document",
+    "segment": "SME",
+    "category": "Company related",
+    "department": "DCS-Listing",
+    "pdf_url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260401-13/20260401-13.pdf"
+  },
+  {
+    "notice_no": "20260401-12",
+    "subject": "Listing of Equity Shares of Highness Microelectronics Limited",
+    "segment": "SME",
+    "category": "Company related",
+    "department": "DCS-Listing",
+    "pdf_url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260401-12/20260401-12.pdf"
+  },
+  {
+    "notice_no": "20260401-11",
+    "subject": "Bonus issue of AVAX APPARELS AND ORNAMENTS LIMITED (Scrip Code: 544337)",
+    "segment": "Equity",
+    "category": "Corporate Actions",
+    "department": "Listing Operations",
+    "pdf_url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260401-11/20260401-11.pdf"
+  },
+  {
+    "notice_no": "20260401-10",
+    "subject": "Part Redemption of Debentures of Lodha Developers Ltd",
+    "segment": "Debt",
+    "category": "Corporate Actions",
+    "department": "Listing Operations",
+    "pdf_url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260401-10/20260401-10.pdf"
   }
 ]
