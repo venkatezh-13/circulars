@@ -5,7 +5,7 @@
     <link>https://venkatezh-13.github.io/circulars</link>
     <description>NSE, BSE and MCX circulars — last 7 days</description>
     <language>en-in</language>
-    <lastBuildDate>Wed, 01 Apr 2026 16:14:37 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Apr 2026 17:14:13 +0000</lastBuildDate>
     <atom:link href="https://venkatezh-13.github.io/circulars/rss/all.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Changes in rates of Securities Transaction Tax</title>
@@ -205,6 +205,14 @@
       <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/CML73562.pdf</guid>
       <description>[NSE] NSE/CML/73562 — Revocation of suspension of trading in equity shares of Gayatri Projects Limited</description>
       <category>Listing</category>
+      <pubDate>Wed, 01 Apr 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>FATF Public statement on jurisdictions on call for action and increased monitoring - February 2026 Plenary </title>
+      <link>https://nsearchives.nseindia.com/content/circulars/INSP73560.pdf</link>
+      <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/INSP73560.pdf</guid>
+      <description>[NSE] NSE/INSP/73560 — FATF Public statement on jurisdictions on call for action and increased monitoring - February 2026 Plenary </description>
+      <category>Inspection &amp; Compliance</category>
       <pubDate>Wed, 01 Apr 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
@@ -3029,6 +3037,14 @@
       <guid isPermaLink="false">https://www.mcxindia.com/docs/default-source/circulars/english/2026/april/circular-168-2026.pdf?sfvrsn=515e019e_0</guid>
       <description>[MCX] 168 — FATF Public Statements – Feb 2026 Plenary</description>
       <category>Membership and Compliance</category>
+      <pubDate>Wed, 01 Apr 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>Mock Trading</title>
+      <link>https://www.mcxindia.com/docs/default-source/circulars/english/2026/april/circular-169-2026.pdf?sfvrsn=6f53019e_0</link>
+      <guid isPermaLink="false">https://www.mcxindia.com/docs/default-source/circulars/english/2026/april/circular-169-2026.pdf?sfvrsn=6f53019e_0</guid>
+      <description>[MCX] 169 — Mock Trading</description>
+      <category>TECH</category>
       <pubDate>Wed, 01 Apr 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
