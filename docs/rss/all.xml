@@ -5,7 +5,7 @@
     <link>https://venkatezh-13.github.io/circulars</link>
     <description>NSE, BSE and MCX circulars — last 7 days</description>
     <language>en-in</language>
-    <lastBuildDate>Wed, 01 Apr 2026 09:38:42 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Apr 2026 10:40:40 +0000</lastBuildDate>
     <atom:link href="https://venkatezh-13.github.io/circulars/rss/all.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Changes in rates of Securities Transaction Tax</title>
@@ -981,6 +981,30 @@
       <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260401-10/20260401-10.pdf</guid>
       <description>[BSE] 20260401-10 — Part Redemption of Debentures of Lodha Developers Ltd</description>
       <category>Debt / Corporate Actions</category>
+      <pubDate>Wed, 01 Apr 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>SME IPO – Draft Offer Document</title>
+      <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260401-19/20260401-19.pdf</link>
+      <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260401-19/20260401-19.pdf</guid>
+      <description>[BSE] 20260401-19 — SME IPO – Draft Offer Document</description>
+      <category>SME / Company related</category>
+      <pubDate>Wed, 01 Apr 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>SME IPO – Draft Offer Document</title>
+      <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260401-18/20260401-18.pdf</link>
+      <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260401-18/20260401-18.pdf</guid>
+      <description>[BSE] 20260401-18 — SME IPO – Draft Offer Document</description>
+      <category>SME / Company related</category>
+      <pubDate>Wed, 01 Apr 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>SME IPO - Draft Offer Document</title>
+      <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260401-17/20260401-17.pdf</link>
+      <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260401-17/20260401-17.pdf</guid>
+      <description>[BSE] 20260401-17 — SME IPO - Draft Offer Document</description>
+      <category>SME / Company related</category>
       <pubDate>Wed, 01 Apr 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
@@ -2542,6 +2566,14 @@
       <description>[BSE] 20260328-7 — Non-Business Day for Certain Mutual Fund Schemes on the BSE StAR MF Platform</description>
       <category>Mutual Fund / Trading</category>
       <pubDate>Sat, 28 Mar 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>Annual Subscription Fees for the Financial Year 2026-27</title>
+      <link>https://www.mcxindia.com/docs/default-source/circulars/english/2026/april/circular-165-2026.pdf?sfvrsn=566d019e_0</link>
+      <guid isPermaLink="false">https://www.mcxindia.com/docs/default-source/circulars/english/2026/april/circular-165-2026.pdf?sfvrsn=566d019e_0</guid>
+      <description>[MCX] 165 — Annual Subscription Fees for the Financial Year 2026-27</description>
+      <category>Membership and Compliance</category>
+      <pubDate>Wed, 01 Apr 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
       <title>Application for Surrender of Membership</title>
