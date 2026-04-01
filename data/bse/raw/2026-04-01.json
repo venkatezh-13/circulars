@@ -30,5 +30,37 @@
     "category": "Compliance",
     "department": "DOSS",
     "pdf_url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260401-1/20260401-1.pdf"
+  },
+  {
+    "notice_no": "20260401-8",
+    "subject": "Listing of Equity Shares of Sai Parenteral's Limited",
+    "segment": "Equity",
+    "category": "Company related",
+    "department": "DCS-Listing",
+    "pdf_url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260401-8/20260401-8.pdf"
+  },
+  {
+    "notice_no": "20260401-7",
+    "subject": "Part Redemption of Debentures and Bonds",
+    "segment": "Debt",
+    "category": "Corporate Actions",
+    "department": "Listing Operations",
+    "pdf_url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260401-7/20260401-7.pdf"
+  },
+  {
+    "notice_no": "20260401-6",
+    "subject": "SME IPO - Draft Offer Document",
+    "segment": "SME",
+    "category": "Company related",
+    "department": "DCS-Listing",
+    "pdf_url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260401-6/20260401-6.pdf"
+  },
+  {
+    "notice_no": "20260401-5",
+    "subject": "Annual Membership Subscription Fees for the Financial Year 2026-2027",
+    "segment": "General",
+    "category": "Others",
+    "department": "Membership Compliance",
+    "pdf_url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260401-5/20260401-5.pdf"
   }
 ]
