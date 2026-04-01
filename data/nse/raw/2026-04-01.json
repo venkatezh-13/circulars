@@ -1,1 +1,23 @@
-[]
+[
+  {
+    "date": "April 01, 2026",
+    "department": "Listing",
+    "subject": "Listing of Equity Shares of Amir Chand Jagdish Kumar (Exports) Limited (IPO)",
+    "circular_ref": "NSE/CML/73554",
+    "link": "https://nsearchives.nseindia.com/content/circulars/CML73554.pdf"
+  },
+  {
+    "date": "April 01, 2026",
+    "department": "Listing",
+    "subject": "Listing of Equity Shares of Powerica Limited (IPO)",
+    "circular_ref": "NSE/CML/73551",
+    "link": "https://nsearchives.nseindia.com/content/circulars/CML73551.pdf"
+  },
+  {
+    "date": "April 01, 2026",
+    "department": "Surveillance & Investigation",
+    "subject": "SEBI Order in the matter of Elitecon International Limited",
+    "circular_ref": "NSE/INVG/73535",
+    "link": "https://nsearchives.nseindia.com/content/circulars/INVG73535.zip"
+  }
+]
