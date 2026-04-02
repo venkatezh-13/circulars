@@ -5,7 +5,7 @@
     <link>https://venkatezh-13.github.io/circulars</link>
     <description>NSE, BSE and MCX circulars — last 7 days</description>
     <language>en-in</language>
-    <lastBuildDate>Thu, 02 Apr 2026 07:43:52 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 Apr 2026 08:40:35 +0000</lastBuildDate>
     <atom:link href="https://venkatezh-13.github.io/circulars/rss/all.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Changes in rates of Securities Transaction Tax</title>
@@ -237,6 +237,14 @@
       <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/CML73559.pdf</guid>
       <description>[NSE] NSE/CML/73559 — Corrigendum to the Circular issued on Listing &amp; Trading of Equity Shares pursuant to Bonus Issue of R&amp;B Denims Limited</description>
       <category>Listing</category>
+      <pubDate>Thu, 02 Apr 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>Quarterly Cyber Incident reporting under Cyber Security and Cyber Resilience Framework for Regulated Entities (REs)</title>
+      <link>https://nsearchives.nseindia.com/content/circulars/INSP73557.pdf</link>
+      <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/INSP73557.pdf</guid>
+      <description>[NSE] NSE/INSP/73557 — Quarterly Cyber Incident reporting under Cyber Security and Cyber Resilience Framework for Regulated Entities (REs)</description>
+      <category>Inspection &amp; Compliance</category>
       <pubDate>Thu, 02 Apr 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
@@ -1293,6 +1301,14 @@
       <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260402-3/20260402-3.pdf</guid>
       <description>[BSE] 20260402-3 — Part Redemption of PTC of MAGNETRON AUG 2025</description>
       <category>Debt / Corporate Actions</category>
+      <pubDate>Thu, 02 Apr 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>Demat Auction 601</title>
+      <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260402-4/20260402-4.pdf</link>
+      <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260402-4/20260402-4.pdf</guid>
+      <description>[BSE] 20260402-4 — Demat Auction 601</description>
+      <category>General / Settlement/RMS</category>
       <pubDate>Thu, 02 Apr 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
