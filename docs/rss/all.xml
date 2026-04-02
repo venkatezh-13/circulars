@@ -5,7 +5,7 @@
     <link>https://venkatezh-13.github.io/circulars</link>
     <description>NSE, BSE and MCX circulars — last 7 days</description>
     <language>en-in</language>
-    <lastBuildDate>Thu, 02 Apr 2026 02:33:11 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 Apr 2026 04:54:29 +0000</lastBuildDate>
     <atom:link href="https://venkatezh-13.github.io/circulars/rss/all.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Changes in rates of Securities Transaction Tax</title>
@@ -222,6 +222,14 @@
       <description>[NSE] NSE/NMF/73552 — Launch of QSIF Active Asset Allocator Long-Short Fund NFO under Specialized Investment Fund (SIF) on NSE MF Invest Platform</description>
       <category>Mutual Fund</category>
       <pubDate>Wed, 01 Apr 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>SLBS - Settlement Calendar for May 2026</title>
+      <link>https://nsearchives.nseindia.com/content/circulars/CMPT73556.pdf</link>
+      <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/CMPT73556.pdf</guid>
+      <description>[NSE] NCL/CMPT/73556 — SLBS - Settlement Calendar for May 2026</description>
+      <category>Securities Lending &amp; Borrowing Scheme</category>
+      <pubDate>Thu, 02 Apr 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
       <title>CBRICS - Settlement Calendar for April 2026</title>
@@ -1254,6 +1262,14 @@
       <description>[BSE] 20260329-1 — Non-Competitive Bidding for Auction of GoI dated Securities (G-secs) on April 02, 2025</description>
       <category>Debt / Trading</category>
       <pubDate>Sun, 29 Mar 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>Measures to instill trust in securities market - Expanding the framework of Qualified Stock Brokers (QSBs) to more stock brokers</title>
+      <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260402-1/20260402-1.pdf</link>
+      <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260402-1/20260402-1.pdf</guid>
+      <description>[BSE] 20260402-1 — Measures to instill trust in securities market - Expanding the framework of Qualified Stock Brokers (QSBs) to more stock brokers</description>
+      <category>General / Compliance</category>
+      <pubDate>Thu, 02 Apr 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
       <title>Revision in STP INF515 Format</title>
