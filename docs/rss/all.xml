@@ -5,7 +5,7 @@
     <link>https://venkatezh-13.github.io/circulars</link>
     <description>NSE, BSE and MCX circulars — last 7 days</description>
     <language>en-in</language>
-    <lastBuildDate>Thu, 02 Apr 2026 08:40:35 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 Apr 2026 09:45:13 +0000</lastBuildDate>
     <atom:link href="https://venkatezh-13.github.io/circulars/rss/all.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Changes in rates of Securities Transaction Tax</title>
@@ -2382,6 +2382,14 @@
       <description>[MCX] 154 — Mock Trading</description>
       <category>TECH</category>
       <pubDate>Thu, 26 Mar 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>Annual Subscription Fees payable by the Clearing Members for the Financial Year 2026-2027</title>
+      <link>https://www.mcxindia.com/docs/default-source/circulars/english/2026/april/mcxmcxccl1712026.pdf?sfvrsn=8140019e_0</link>
+      <guid isPermaLink="false">https://www.mcxindia.com/docs/default-source/circulars/english/2026/april/mcxmcxccl1712026.pdf?sfvrsn=8140019e_0</guid>
+      <description>[MCX] 171 — Annual Subscription Fees payable by the Clearing Members for the Financial Year 2026-2027</description>
+      <category>MCXCCL</category>
+      <pubDate>Thu, 02 Apr 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
       <title>Revised Guidelines for Activation of Membership</title>
