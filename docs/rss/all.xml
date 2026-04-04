@@ -5,7 +5,7 @@
     <link>https://venkatezh-13.github.io/circulars</link>
     <description>NSE, BSE and MCX circulars — last 7 days</description>
     <language>en-in</language>
-    <lastBuildDate>Sat, 04 Apr 2026 14:07:52 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 04 Apr 2026 14:53:04 +0000</lastBuildDate>
     <atom:link href="https://venkatezh-13.github.io/circulars/rss/all.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Changes in rates of Securities Transaction Tax</title>
@@ -1222,6 +1222,14 @@
       <description>[BSE] 20260401-56 — Amalgamation of Sanghi Industries Ltd. (Scrip Code: 526521).</description>
       <category>Equity / Corporate Actions</category>
       <pubDate>Wed, 01 Apr 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>Important Information Regarding Ambuja Cements Limited in certain BSE Indices</title>
+      <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260404-1/20260404-1.pdf</link>
+      <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260404-1/20260404-1.pdf</guid>
+      <description>[BSE] 20260404-1 — Important Information Regarding Ambuja Cements Limited in certain BSE Indices</description>
+      <category>Equity / Index</category>
+      <pubDate>Sat, 04 Apr 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
       <title>Non-Competitive Bidding for Auction of GoI dated Securities (G-secs) on April 02, 2025</title>
