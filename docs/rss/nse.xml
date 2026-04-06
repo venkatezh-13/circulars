@@ -5,7 +5,7 @@
     <link>https://venkatezh-13.github.io/circulars</link>
     <description>NSE circulars — last 7 days</description>
     <language>en-in</language>
-    <lastBuildDate>Mon, 06 Apr 2026 12:01:34 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 06 Apr 2026 13:47:43 +0000</lastBuildDate>
     <atom:link href="https://venkatezh-13.github.io/circulars/rss/nse.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Changes in rates of Securities Transaction Tax</title>
@@ -789,6 +789,86 @@
       <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/NMF73611.pdf</guid>
       <description>[NSE] NSE/NMF/73611 — Availability of HSBC GOLD ETF Fund of Fund for ongoing transactions on NSE MF Invest Platform</description>
       <category>Mutual Fund</category>
+      <pubDate>Mon, 06 Apr 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>Applicability of Short-Term Additional Surveillance Measure (ST-ASM)</title>
+      <link>https://nsearchives.nseindia.com/content/circulars/SURV73628.zip</link>
+      <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/SURV73628.zip</guid>
+      <description>[NSE] NSE/SURV/73628 — Applicability of Short-Term Additional Surveillance Measure (ST-ASM)</description>
+      <category>Surveillance &amp; Investigation</category>
+      <pubDate>Mon, 06 Apr 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>Applicability of Additional Surveillance Measure (ASM)</title>
+      <link>https://nsearchives.nseindia.com/content/circulars/SURV73627.zip</link>
+      <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/SURV73627.zip</guid>
+      <description>[NSE] NSE/SURV/73627 — Applicability of Additional Surveillance Measure (ASM)</description>
+      <category>Surveillance &amp; Investigation</category>
+      <pubDate>Mon, 06 Apr 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>Listing of further issues of securities</title>
+      <link>https://nsearchives.nseindia.com/content/circulars/CML73626.pdf</link>
+      <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/CML73626.pdf</guid>
+      <description>[NSE] NSE/CML/73626 — Listing of further issues of securities</description>
+      <category>Listing</category>
+      <pubDate>Mon, 06 Apr 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>Suspension of trading in Non-Convertible Securities (Privately Placed)</title>
+      <link>https://nsearchives.nseindia.com/content/circulars/CML73625.pdf</link>
+      <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/CML73625.pdf</guid>
+      <description>[NSE] NSE/CML/73625 — Suspension of trading in Non-Convertible Securities (Privately Placed)</description>
+      <category>Debt Segment</category>
+      <pubDate>Mon, 06 Apr 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>Discontinuation as Market Maker for SUNREST LIFESCIENCE LIMITED (SUNREST)</title>
+      <link>https://nsearchives.nseindia.com/content/circulars/CMTR73624.pdf</link>
+      <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/CMTR73624.pdf</guid>
+      <description>[NSE] NSE/CMTR/73624 — Discontinuation as Market Maker for SUNREST LIFESCIENCE LIMITED (SUNREST)</description>
+      <category>Emerge</category>
+      <pubDate>Mon, 06 Apr 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>Listing of further issue of Fusion Finance Limited</title>
+      <link>https://nsearchives.nseindia.com/content/circulars/CML73622.pdf</link>
+      <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/CML73622.pdf</guid>
+      <description>[NSE] NSE/CML/73622 — Listing of further issue of Fusion Finance Limited</description>
+      <category>Listing</category>
+      <pubDate>Mon, 06 Apr 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>Settlement calendar for May 2026 - Debt Segment</title>
+      <link>https://nsearchives.nseindia.com/content/circulars/DS73621.pdf</link>
+      <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/DS73621.pdf</guid>
+      <description>[NSE] NCL/DS/73621 — Settlement calendar for May 2026 - Debt Segment</description>
+      <category>Debt Segment</category>
+      <pubDate>Mon, 06 Apr 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>Settlement Calendar for May 2026 - Capital Market Segment of T+1 &amp; T+0 settlement</title>
+      <link>https://nsearchives.nseindia.com/content/circulars/CMPT73620.pdf</link>
+      <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/CMPT73620.pdf</guid>
+      <description>[NSE] NCL/CMPT/73620 — Settlement Calendar for May 2026 - Capital Market Segment of T+1 &amp; T+0 settlement</description>
+      <category>NSE Clearing - Capital Market</category>
+      <pubDate>Mon, 06 Apr 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>Suspension of trading in units - on account of redemption</title>
+      <link>https://nsearchives.nseindia.com/content/circulars/CML73609.pdf</link>
+      <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/CML73609.pdf</guid>
+      <description>[NSE] NSE/CML/73609 — Suspension of trading in units - on account of redemption</description>
+      <category>Debt Segment</category>
+      <pubDate>Mon, 06 Apr 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>Suspension of trading in units - on account of redemption</title>
+      <link>https://nsearchives.nseindia.com/content/circulars/CML73608.pdf</link>
+      <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/CML73608.pdf</guid>
+      <description>[NSE] NSE/CML/73608 — Suspension of trading in units - on account of redemption</description>
+      <category>Listing</category>
       <pubDate>Mon, 06 Apr 2026 07:30:00 +0530</pubDate>
     </item>
   </channel>
