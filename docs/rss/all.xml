@@ -5,7 +5,7 @@
     <link>https://venkatezh-13.github.io/circulars</link>
     <description>NSE, BSE and MCX circulars — last 7 days</description>
     <language>en-in</language>
-    <lastBuildDate>Mon, 06 Apr 2026 11:14:27 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 06 Apr 2026 12:01:34 +0000</lastBuildDate>
     <atom:link href="https://venkatezh-13.github.io/circulars/rss/all.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Changes in rates of Securities Transaction Tax</title>
@@ -773,6 +773,22 @@
       <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/CMPT73613.pdf</guid>
       <description>[NSE] NCL/CMPT/73613 — F&amp;O MONTHLY SETTLEMENT SCHEDULE FOR MAY 2026</description>
       <category>Futures &amp; Options</category>
+      <pubDate>Mon, 06 Apr 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>Extension of Choice Nifty Next 50 Index Fund on NSE MF Invest Platform</title>
+      <link>https://nsearchives.nseindia.com/content/circulars/NMF73612.pdf</link>
+      <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/NMF73612.pdf</guid>
+      <description>[NSE] NSE/NMF/73612 — Extension of Choice Nifty Next 50 Index Fund on NSE MF Invest Platform</description>
+      <category>Mutual Fund</category>
+      <pubDate>Mon, 06 Apr 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>Availability of HSBC GOLD ETF Fund of Fund for ongoing transactions on NSE MF Invest Platform</title>
+      <link>https://nsearchives.nseindia.com/content/circulars/NMF73611.pdf</link>
+      <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/NMF73611.pdf</guid>
+      <description>[NSE] NSE/NMF/73611 — Availability of HSBC GOLD ETF Fund of Fund for ongoing transactions on NSE MF Invest Platform</description>
+      <category>Mutual Fund</category>
       <pubDate>Mon, 06 Apr 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
@@ -2237,6 +2253,14 @@
       <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260406-8/20260406-8.pdf</guid>
       <description>[BSE] 20260406-8 — Revision of Order-to-Trade Ratio (OTR) framework - Update</description>
       <category>General / Trading</category>
+      <pubDate>Mon, 06 Apr 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>Listing of further securities issued by the companies under ESOP / ESOS</title>
+      <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260406-9/20260406-9.pdf</link>
+      <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260406-9/20260406-9.pdf</guid>
+      <description>[BSE] 20260406-9 — Listing of further securities issued by the companies under ESOP / ESOS</description>
+      <category>Equity / Company related</category>
       <pubDate>Mon, 06 Apr 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
