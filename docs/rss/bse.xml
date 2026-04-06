@@ -5,7 +5,7 @@
     <link>https://venkatezh-13.github.io/circulars</link>
     <description>BSE circulars — last 7 days</description>
     <language>en-in</language>
-    <lastBuildDate>Mon, 06 Apr 2026 10:12:05 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 06 Apr 2026 11:14:27 +0000</lastBuildDate>
     <atom:link href="https://venkatezh-13.github.io/circulars/rss/bse.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Market Wide Position Limits for stocks traded under SLBS – April 2026</title>
@@ -1461,6 +1461,14 @@
       <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260406-5/20260406-5.pdf</guid>
       <description>[BSE] 20260406-5 — Non-Business Day for scheme of NIPPON INDIA</description>
       <category>Mutual Fund / Trading</category>
+      <pubDate>Mon, 06 Apr 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>Revision of Order-to-Trade Ratio (OTR) framework - Update</title>
+      <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260406-8/20260406-8.pdf</link>
+      <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260406-8/20260406-8.pdf</guid>
+      <description>[BSE] 20260406-8 — Revision of Order-to-Trade Ratio (OTR) framework - Update</description>
+      <category>General / Trading</category>
       <pubDate>Mon, 06 Apr 2026 07:30:00 +0530</pubDate>
     </item>
   </channel>
