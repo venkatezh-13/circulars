@@ -5,7 +5,7 @@
     <link>https://venkatezh-13.github.io/circulars</link>
     <description>BSE circulars — last 7 days</description>
     <language>en-in</language>
-    <lastBuildDate>Mon, 06 Apr 2026 08:47:37 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 06 Apr 2026 10:12:05 +0000</lastBuildDate>
     <atom:link href="https://venkatezh-13.github.io/circulars/rss/bse.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Market Wide Position Limits for stocks traded under SLBS – April 2026</title>
@@ -1437,6 +1437,30 @@
       <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260406-3/20260406-3.pdf</guid>
       <description>[BSE] 20260406-3 — Listing of new securities of Swojas Foods Limited</description>
       <category>Equity / Company related</category>
+      <pubDate>Mon, 06 Apr 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>Resumption of Subscriptions in TATA SMALL CAP FUND on BSE StAR MF Platform</title>
+      <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260406-7/20260406-7.pdf</link>
+      <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260406-7/20260406-7.pdf</guid>
+      <description>[BSE] 20260406-7 — Resumption of Subscriptions in TATA SMALL CAP FUND on BSE StAR MF Platform</description>
+      <category>Mutual Fund / Trading</category>
+      <pubDate>Mon, 06 Apr 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>Suspension of Trading in T-bills</title>
+      <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260406-6/20260406-6.pdf</link>
+      <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260406-6/20260406-6.pdf</guid>
+      <description>[BSE] 20260406-6 — Suspension of Trading in T-bills</description>
+      <category>Debt / Corporate Actions</category>
+      <pubDate>Mon, 06 Apr 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>Non-Business Day for scheme of NIPPON INDIA</title>
+      <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260406-5/20260406-5.pdf</link>
+      <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260406-5/20260406-5.pdf</guid>
+      <description>[BSE] 20260406-5 — Non-Business Day for scheme of NIPPON INDIA</description>
+      <category>Mutual Fund / Trading</category>
       <pubDate>Mon, 06 Apr 2026 07:30:00 +0530</pubDate>
     </item>
   </channel>
