@@ -174,5 +174,85 @@
     "category": "Company related",
     "department": "Listing Operations",
     "pdf_url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260407-14/20260407-14.pdf"
+  },
+  {
+    "notice_no": "20260407-32",
+    "subject": "Declaration as Defaulter",
+    "segment": "General",
+    "category": "Settlement/RMS",
+    "department": "ICCL",
+    "pdf_url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260407-32/20260407-32.pdf"
+  },
+  {
+    "notice_no": "20260407-31",
+    "subject": "SEBI Annual Clearing Membership fees payable by the Clearing Members for the Financial Year 2026-27",
+    "segment": "General",
+    "category": "Settlement/RMS",
+    "department": "ICCL",
+    "pdf_url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260407-31/20260407-31.pdf"
+  },
+  {
+    "notice_no": "20260407-30",
+    "subject": "Revision of Price Bands",
+    "segment": "Equity",
+    "category": "Trading",
+    "department": "DOSS",
+    "pdf_url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260407-30/20260407-30.pdf"
+  },
+  {
+    "notice_no": "20260407-29",
+    "subject": "Enhanced Surveillance Measure (ESM)",
+    "segment": "Equity",
+    "category": "Trading",
+    "department": "DOSS",
+    "pdf_url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260407-29/20260407-29.pdf"
+  },
+  {
+    "notice_no": "20260407-28",
+    "subject": "Surveillance Measure for securities under IBC",
+    "segment": "Equity",
+    "category": "Trading",
+    "department": "DOSS",
+    "pdf_url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260407-28/20260407-28.pdf"
+  },
+  {
+    "notice_no": "20260407-27",
+    "subject": "Applicability of Short Term Additional Surveillance Measure (ST-ASM)",
+    "segment": "Equity",
+    "category": "Trading",
+    "department": "DOSS",
+    "pdf_url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260407-27/20260407-27.pdf"
+  },
+  {
+    "notice_no": "20260407-26",
+    "subject": "Graded Surveillance Measure (GSM) - List of securities moving into their respective GSM Stages",
+    "segment": "Equity",
+    "category": "Trading",
+    "department": "DOSS",
+    "pdf_url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260407-26/20260407-26.pdf"
+  },
+  {
+    "notice_no": "20260407-25",
+    "subject": "Measure in respect of companies with high Promoter as well as non- Promoter ‘Encumbrance’ as per Reg. 28(3) of SEBI (SAST) Regulation 2011.",
+    "segment": "Equity",
+    "category": "Trading",
+    "department": "DOSS",
+    "pdf_url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260407-25/20260407-25.pdf"
+  },
+  {
+    "notice_no": "20260407-24",
+    "subject": "Periodic Call Auction for Illiquid scrips",
+    "segment": "Equity",
+    "category": "Trading",
+    "department": "DOSS",
+    "pdf_url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260407-24/20260407-24.pdf"
+  },
+  {
+    "notice_no": "20260407-23",
+    "subject": "Applicability of Long Term Additional Surveillance Measure (LT-ASM)",
+    "segment": "Equity",
+    "category": "Trading",
+    "department": "DOSS",
+    "pdf_url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260407-23/20260407-23.pdf"
   }
 ]
