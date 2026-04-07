@@ -5,7 +5,7 @@
     <link>https://venkatezh-13.github.io/circulars</link>
     <description>NSE, BSE and MCX circulars — last 7 days</description>
     <language>en-in</language>
-    <lastBuildDate>Tue, 07 Apr 2026 10:18:06 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 07 Apr 2026 11:30:29 +0000</lastBuildDate>
     <atom:link href="https://venkatezh-13.github.io/circulars/rss/all.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Changes in rates of Securities Transaction Tax</title>
@@ -222,6 +222,22 @@
       <description>[NSE] NSE/NMF/73552 — Launch of QSIF Active Asset Allocator Long-Short Fund NFO under Specialized Investment Fund (SIF) on NSE MF Invest Platform</description>
       <category>Mutual Fund</category>
       <pubDate>Wed, 01 Apr 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>Listing of privately placed securities on the debt market segment of the Exchange</title>
+      <link>https://nsearchives.nseindia.com/content/circulars/CML73637.pdf</link>
+      <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/CML73637.pdf</guid>
+      <description>[NSE] NSE/CML/73637 — Listing of privately placed securities on the debt market segment of the Exchange</description>
+      <category>Debt Segment</category>
+      <pubDate>Tue, 07 Apr 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>Listing of privately placed securities on capital market segment</title>
+      <link>https://nsearchives.nseindia.com/content/circulars/CML73636.pdf</link>
+      <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/CML73636.pdf</guid>
+      <description>[NSE] NSE/CML/73636 — Listing of privately placed securities on capital market segment</description>
+      <category>Listing</category>
+      <pubDate>Tue, 07 Apr 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
       <title>SLBS - Settlement Calendar for May 2026</title>
@@ -1245,6 +1261,22 @@
       <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260407-5/20260407-5.pdf</guid>
       <description>[BSE] 20260407-5 — Part Redemption (Revised) of Debentures of ADANI AIRPORT HOLDINGS LIMITED</description>
       <category>Debt / Corporate Actions</category>
+      <pubDate>Tue, 07 Apr 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>Part Redemption of PTCs of TRINITY TRUST SEP 2025</title>
+      <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260407-11/20260407-11.pdf</link>
+      <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260407-11/20260407-11.pdf</guid>
+      <description>[BSE] 20260407-11 — Part Redemption of PTCs of TRINITY TRUST SEP 2025</description>
+      <category>Debt / Corporate Actions</category>
+      <pubDate>Tue, 07 Apr 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>Call Money Notice for Partly Paid-up Equity Share of Kati Patang Lifestyle Limited.</title>
+      <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260407-10/20260407-10.pdf</link>
+      <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260407-10/20260407-10.pdf</guid>
+      <description>[BSE] 20260407-10 — Call Money Notice for Partly Paid-up Equity Share of Kati Patang Lifestyle Limited.</description>
+      <category>Equity / Company related</category>
       <pubDate>Tue, 07 Apr 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
