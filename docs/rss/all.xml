@@ -5,7 +5,7 @@
     <link>https://venkatezh-13.github.io/circulars</link>
     <description>NSE, BSE and MCX circulars — last 7 days</description>
     <language>en-in</language>
-    <lastBuildDate>Tue, 07 Apr 2026 11:30:29 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 07 Apr 2026 12:11:24 +0000</lastBuildDate>
     <atom:link href="https://venkatezh-13.github.io/circulars/rss/all.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Changes in rates of Securities Transaction Tax</title>
@@ -237,6 +237,22 @@
       <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/CML73636.pdf</guid>
       <description>[NSE] NSE/CML/73636 — Listing of privately placed securities on capital market segment</description>
       <category>Listing</category>
+      <pubDate>Tue, 07 Apr 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>Launch of Groww Arbitrage Fund NFO on NSE MF Invest Platform</title>
+      <link>https://nsearchives.nseindia.com/content/circulars/NMF73633.pdf</link>
+      <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/NMF73633.pdf</guid>
+      <description>[NSE] NSE/NMF/73633 — Launch of Groww Arbitrage Fund NFO on NSE MF Invest Platform</description>
+      <category>Mutual Fund</category>
+      <pubDate>Tue, 07 Apr 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>Launch of Kotak Multi Asset Active FOF NFO on NSE MF Invest Platform</title>
+      <link>https://nsearchives.nseindia.com/content/circulars/NMF73632.pdf</link>
+      <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/NMF73632.pdf</guid>
+      <description>[NSE] NSE/NMF/73632 — Launch of Kotak Multi Asset Active FOF NFO on NSE MF Invest Platform</description>
+      <category>Mutual Fund</category>
       <pubDate>Tue, 07 Apr 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
@@ -1280,6 +1296,22 @@
       <pubDate>Tue, 07 Apr 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
+      <title>Listing of new securities of Continental Securities Limited</title>
+      <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260407-13/20260407-13.pdf</link>
+      <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260407-13/20260407-13.pdf</guid>
+      <description>[BSE] 20260407-13 — Listing of new securities of Continental Securities Limited</description>
+      <category>Equity / Company related</category>
+      <pubDate>Tue, 07 Apr 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>Listing of New Securities of Concord Control Systems Limited</title>
+      <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260407-12/20260407-12.pdf</link>
+      <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260407-12/20260407-12.pdf</guid>
+      <description>[BSE] 20260407-12 — Listing of New Securities of Concord Control Systems Limited</description>
+      <category>Equity / Company related</category>
+      <pubDate>Tue, 07 Apr 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
       <title>Measures to instill trust in securities market - Expanding the framework of Qualified Stock Brokers (QSBs) to more stock brokers</title>
       <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260402-1/20260402-1.pdf</link>
       <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260402-1/20260402-1.pdf</guid>
@@ -1966,6 +1998,22 @@
       <description>[MCX] 173 — Real-time Trade Acceptance- API</description>
       <category>MCXCCL</category>
       <pubDate>Thu, 02 Apr 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>Relaxation from the applicability of SEBI Master Circular for compliance with the provisions of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015 on non-compliance with the Minimum Public Shareholding (MPS) requirements</title>
+      <link>https://www.sebi.gov.in/legal/circulars/apr-2026/relaxation-from-the-applicability-of-sebi-master-circular-for-compliance-with-the-provisions-of-the-sebi-listing-obligations-and-disclosure-requirements-regulations-2015-on-non-compliance-with-the-_100787.html</link>
+      <guid isPermaLink="false">https://www.sebi.gov.in/legal/circulars/apr-2026/relaxation-from-the-applicability-of-sebi-master-circular-for-compliance-with-the-provisions-of-the-sebi-listing-obligations-and-disclosure-requirements-regulations-2015-on-non-compliance-with-the-_100787.html</guid>
+      <description>[SEBI] 0787 — Relaxation from the applicability of SEBI Master Circular for compliance with the provisions of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015 on non-compliance with the Minimum Public Shareholding (MPS) requirements</description>
+      <category>Circular</category>
+      <pubDate>Tue, 07 Apr 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>One-time relaxation with respect to validity of SEBI Observations</title>
+      <link>https://www.sebi.gov.in/legal/circulars/apr-2026/one-time-relaxation-with-respect-to-validity-of-sebi-observations_100786.html</link>
+      <guid isPermaLink="false">https://www.sebi.gov.in/legal/circulars/apr-2026/one-time-relaxation-with-respect-to-validity-of-sebi-observations_100786.html</guid>
+      <description>[SEBI] 0786 — One-time relaxation with respect to validity of SEBI Observations</description>
+      <category>Circular</category>
+      <pubDate>Tue, 07 Apr 2026 07:30:00 +0530</pubDate>
     </item>
   </channel>
 </rss>
