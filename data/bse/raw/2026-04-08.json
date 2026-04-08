@@ -1,1 +1,58 @@
-[]
+[
+  {
+    "notice_no": "20260408-7",
+    "subject": "Suspension of Trading in Commercial Paper",
+    "segment": "Debt",
+    "category": "Corporate Actions",
+    "department": "Listing Operations",
+    "pdf_url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260408-7/20260408-7.pdf"
+  },
+  {
+    "notice_no": "20260408-6",
+    "subject": "Part Redemption of OBEROI REALTY LIMITED",
+    "segment": "Debt",
+    "category": "Corporate Actions",
+    "department": "Listing Operations",
+    "pdf_url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260408-6/20260408-6.pdf"
+  },
+  {
+    "notice_no": "20260408-5",
+    "subject": "Suspension of Trading in Debentures",
+    "segment": "Debt",
+    "category": "Corporate Actions",
+    "department": "Listing Operations",
+    "pdf_url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260408-5/20260408-5.pdf"
+  },
+  {
+    "notice_no": "20260408-4",
+    "subject": "Suspension on Maturity of HDFC Mutual Fund Plans",
+    "segment": "Mutual Fund",
+    "category": "Corporate Actions",
+    "department": "Listing Operations",
+    "pdf_url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260408-4/20260408-4.pdf"
+  },
+  {
+    "notice_no": "20260408-3",
+    "subject": "Suspension of Trading in Debentures of Oberoi Realty Ltd (Scrip Code: 976126)",
+    "segment": "Debt",
+    "category": "Corporate Actions",
+    "department": "Listing Operations",
+    "pdf_url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260408-3/20260408-3.pdf"
+  },
+  {
+    "notice_no": "20260408-2",
+    "subject": "Rights issue of Equity Shares of Automobile Products of India Ltd.",
+    "segment": "Equity",
+    "category": "Corporate Actions",
+    "department": "Listing Operations",
+    "pdf_url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260408-2/20260408-2.pdf"
+  },
+  {
+    "notice_no": "20260408-1",
+    "subject": "TRADING AND SETTLEMENT PROGRAMME FOR MUTUAL FUND SEGMENT FOR THE PERIOD 01.05.2026 to 31.05.2026",
+    "segment": "Mutual Fund",
+    "category": "Settlement/RMS",
+    "department": "ICCL",
+    "pdf_url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260408-1/20260408-1.pdf"
+  }
+]
