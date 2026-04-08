@@ -182,5 +182,37 @@
     "category": "Settlement/RMS",
     "department": "ICCL",
     "pdf_url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260408-14/20260408-14.pdf"
+  },
+  {
+    "notice_no": "20260408-27",
+    "subject": "Listing of privately placed securities on the debt market segment of the Exchange",
+    "segment": "Debt",
+    "category": "Company related",
+    "department": "DCS-Listing",
+    "pdf_url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260408-27/20260408-27.pdf"
+  },
+  {
+    "notice_no": "20260408-26",
+    "subject": "Cancellation of shifting of scrips to ‘Z’ group",
+    "segment": "Equity",
+    "category": "Company related",
+    "department": "Listing Compliance-Monitoring",
+    "pdf_url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260408-26/20260408-26.pdf"
+  },
+  {
+    "notice_no": "20260408-25",
+    "subject": "Listing of further securities issued by the companies under ESOP / ESOS",
+    "segment": "Equity",
+    "category": "Company related",
+    "department": "Listing Operations",
+    "pdf_url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260408-25/20260408-25.pdf"
+  },
+  {
+    "notice_no": "20260408-24",
+    "subject": "Listing of new Securities of BLACK BOX LIMITED.",
+    "segment": "Equity",
+    "category": "Company related",
+    "department": "Listing Operations",
+    "pdf_url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260408-24/20260408-24.pdf"
   }
 ]
