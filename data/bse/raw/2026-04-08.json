@@ -102,5 +102,85 @@
     "category": "Settlement/RMS",
     "department": "ICCL",
     "pdf_url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260408-11/20260408-11.pdf"
+  },
+  {
+    "notice_no": "20260408-23",
+    "subject": "Opening of Offer for Sale for HMA Agro Industries Limited.",
+    "segment": "Equity",
+    "category": "Trading",
+    "department": "Listing Business Relationship",
+    "pdf_url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260408-23/20260408-23.pdf"
+  },
+  {
+    "notice_no": "20260408-22",
+    "subject": "Listing of New Securities of Hi-Klass Trading and Investment Limited",
+    "segment": "Equity",
+    "category": "Company related",
+    "department": "Listing Operations",
+    "pdf_url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260408-22/20260408-22.pdf"
+  },
+  {
+    "notice_no": "20260408-21",
+    "subject": "Listing of New Securities of ASTAL LABORATORIES LIMITED",
+    "segment": "Equity",
+    "category": "Company related",
+    "department": "Listing Operations",
+    "pdf_url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260408-21/20260408-21.pdf"
+  },
+  {
+    "notice_no": "20260408-20",
+    "subject": "SETTLEMENT PROGRAMME FOR THE CURRENCY DERIVATIVES SEGMENT FOR THE PERIOD FROM 01.05.2026 TO 31.05.2026",
+    "segment": "Currency Derivatives",
+    "category": "Settlement/RMS",
+    "department": "ICCL",
+    "pdf_url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260408-20/20260408-20.pdf"
+  },
+  {
+    "notice_no": "20260408-19",
+    "subject": "SETTLEMENT PROGRAMME FOR THE F & O SEGMENT FOR THE PERIOD FROM 01.05.2026 TO 31.05.2026",
+    "segment": "Derivatives",
+    "category": "Settlement/RMS",
+    "department": "ICCL",
+    "pdf_url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260408-19/20260408-19.pdf"
+  },
+  {
+    "notice_no": "20260408-18",
+    "subject": "TRADING AND SETTLEMENT PROGRAMME FOR CORPORATE DEBT SEGMENT FOR THE PERIOD FROM 01.05.2026 to 31.05.2026",
+    "segment": "Debt",
+    "category": "Settlement/RMS",
+    "department": "ICCL",
+    "pdf_url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260408-18/20260408-18.pdf"
+  },
+  {
+    "notice_no": "20260408-17",
+    "subject": "TRADING AND SETTLEMENT PROGRAMME FOR INSTITUTIONAL TRADING PLATFORM (ITP) - SME SEGMENT FOR PERIOD FROM 01.05.2026 TO 31.05.2026",
+    "segment": "SME",
+    "category": "Settlement/RMS",
+    "department": "ICCL",
+    "pdf_url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260408-17/20260408-17.pdf"
+  },
+  {
+    "notice_no": "20260408-16",
+    "subject": "TRADING AND SETTLEMENT PROGRAMME FOR NEW DEBT SEGMENT (NDS) FOR PERIOD FROM 01.05.2026 TO 31.05.2026",
+    "segment": "NDS",
+    "category": "Settlement/RMS",
+    "department": "ICCL",
+    "pdf_url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260408-16/20260408-16.pdf"
+  },
+  {
+    "notice_no": "20260408-15",
+    "subject": "TRADING AND SETTLEMENT PROGRAMME FOR BASKET REPO & SPECIAL REPO SEGMENT FOR THE PERIOD FROM 01.05.2026 to 31.05.2026",
+    "segment": "General",
+    "category": "Settlement/RMS",
+    "department": "ICCL",
+    "pdf_url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260408-15/20260408-15.pdf"
+  },
+  {
+    "notice_no": "20260408-14",
+    "subject": "TRADING AND SETTLEMENT PROGRAMME FOR SLB SEGMENT FOR PERIOD FROM 01.05.2026 TO 31.05.2026",
+    "segment": "SLB",
+    "category": "Settlement/RMS",
+    "department": "ICCL",
+    "pdf_url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260408-14/20260408-14.pdf"
   }
 ]
