@@ -5,7 +5,7 @@
     <link>https://venkatezh-13.github.io/circulars</link>
     <description>NSE, BSE and MCX circulars — last 7 days</description>
     <language>en-in</language>
-    <lastBuildDate>Thu, 09 Apr 2026 05:00:16 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Apr 2026 06:27:13 +0000</lastBuildDate>
     <atom:link href="https://venkatezh-13.github.io/circulars/rss/all.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>SLBS - Settlement Calendar for May 2026</title>
@@ -1766,6 +1766,22 @@
       <description>[BSE] 20260405-1 — Offer to Buy - Acquisition Window (Takeover) for Swansarita Jewels India Ltd Takeover - Live Activities Schedule</description>
       <category>Equity / Trading</category>
       <pubDate>Sun, 05 Apr 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>Update regarding debt securities of IKAT Exports Private Limited</title>
+      <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260409-2/20260409-2.pdf</link>
+      <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260409-2/20260409-2.pdf</guid>
+      <description>[BSE] 20260409-2 — Update regarding debt securities of IKAT Exports Private Limited</description>
+      <category>Debt / Company related</category>
+      <pubDate>Thu, 09 Apr 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>Update Regarding debt securities of Aditya Birla Real Estate Ltd</title>
+      <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260409-1/20260409-1.pdf</link>
+      <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260409-1/20260409-1.pdf</guid>
+      <description>[BSE] 20260409-1 — Update Regarding debt securities of Aditya Birla Real Estate Ltd</description>
+      <category>Debt / Company related</category>
+      <pubDate>Thu, 09 Apr 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
       <title>Non-Competitive Bidding Facility for Auction of Treasury Bills (T-Bills) on April 08, 2026</title>
