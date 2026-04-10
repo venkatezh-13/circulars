@@ -30,5 +30,85 @@
     "category": "Company related",
     "department": "Listing Operations",
     "pdf_url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260410-3/20260410-3.pdf"
+  },
+  {
+    "notice_no": "20260410-9",
+    "subject": "Mock Trading on Saturday, April 11, 2026 for Currency Derivatives segment",
+    "segment": "Currency Derivatives",
+    "category": "Trading",
+    "department": "Trading Operations",
+    "pdf_url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260410-9/20260410-9.pdf"
+  },
+  {
+    "notice_no": "20260410-8",
+    "subject": "Mock Trading on Saturday, April 11, 2026 for Electronic Gold Receipts segment",
+    "segment": "EGR",
+    "category": "Trading",
+    "department": "Trading Operations",
+    "pdf_url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260410-8/20260410-8.pdf"
+  },
+  {
+    "notice_no": "20260410-7",
+    "subject": "Mock Trading on Saturday, April 11, 2026 for Equity Derivatives segment",
+    "segment": "Derivatives",
+    "category": "Trading",
+    "department": "Trading Operations",
+    "pdf_url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260410-7/20260410-7.pdf"
+  },
+  {
+    "notice_no": "20260410-6",
+    "subject": "Mock Trading on Saturday, April 11, 2026 for Equity segment",
+    "segment": "Equity",
+    "category": "Trading",
+    "department": "Trading Operations",
+    "pdf_url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260410-6/20260410-6.pdf"
+  },
+  {
+    "notice_no": "20260410-5",
+    "subject": "Suspension of Trading in T-bills/Government Securities",
+    "segment": "Debt",
+    "category": "Corporate Actions",
+    "department": "Listing Operations",
+    "pdf_url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260410-5/20260410-5.pdf"
+  },
+  {
+    "notice_no": "20260410-14",
+    "subject": "Demat Auction 607",
+    "segment": "Equity",
+    "category": "Settlement/RMS",
+    "department": "ICCL",
+    "pdf_url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260410-14/20260410-14.pdf"
+  },
+  {
+    "notice_no": "20260410-13",
+    "subject": "Listing of Equity Shares of Emiac Technologies Limited",
+    "segment": "SME",
+    "category": "Company related",
+    "department": "DCS-Listing",
+    "pdf_url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260410-13/20260410-13.pdf"
+  },
+  {
+    "notice_no": "20260410-12",
+    "subject": "Listing of Equity Shares of Safety Controls & Devices Limited",
+    "segment": "SME",
+    "category": "Company related",
+    "department": "DCS-Listing",
+    "pdf_url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260410-12/20260410-12.pdf"
+  },
+  {
+    "notice_no": "20260410-11",
+    "subject": "Part Redemption of Debentures of Companies",
+    "segment": "Debt",
+    "category": "Corporate Actions",
+    "department": "Listing Operations",
+    "pdf_url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260410-11/20260410-11.pdf"
+  },
+  {
+    "notice_no": "20260410-10",
+    "subject": "Mock Trading on Saturday, April 11, 2026 for Commodity Derivatives segment",
+    "segment": "Commodity Derivatives",
+    "category": "Trading",
+    "department": "Trading Operations",
+    "pdf_url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260410-10/20260410-10.pdf"
   }
 ]
