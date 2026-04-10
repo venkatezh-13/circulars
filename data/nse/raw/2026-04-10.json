@@ -33,5 +33,33 @@
     "subject": "Mock trading on Saturday, April 11, 2026 - No new version release",
     "circular_ref": "NSE/FAOP/73687",
     "link": "https://nsearchives.nseindia.com/content/circulars/FAOP73687.pdf"
+  },
+  {
+    "date": "April 10, 2026",
+    "department": "NSE Clearing - Capital Market",
+    "subject": "Collateral Blocking for bids in OFS - Retail Category",
+    "circular_ref": "NCL/CMPT/73695",
+    "link": "https://nsearchives.nseindia.com/content/circulars/CMPT73695.pdf"
+  },
+  {
+    "date": "April 10, 2026",
+    "department": "Capital Market (Equities) Trade",
+    "subject": "Mock bidding session on eOFS platform in Live environment",
+    "circular_ref": "NSE/CMTR/73693",
+    "link": "https://nsearchives.nseindia.com/content/circulars/CMTR73693.pdf"
+  },
+  {
+    "date": "April 10, 2026",
+    "department": "Currency Derivatives",
+    "subject": "Mock trading on Saturday, April 11, 2026 - No new version release",
+    "circular_ref": "NSE/CD/73690",
+    "link": "https://nsearchives.nseindia.com/content/circulars/CD73690.pdf"
+  },
+  {
+    "date": "April 10, 2026",
+    "department": "Securities Lending & Borrowing Scheme",
+    "subject": "Mock trading on Saturday, April 11, 2026 - No new version release",
+    "circular_ref": "NSE/SLBS/73686",
+    "link": "https://nsearchives.nseindia.com/content/circulars/SLBS73686.pdf"
   }
 ]
