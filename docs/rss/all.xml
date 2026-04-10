@@ -5,7 +5,7 @@
     <link>https://venkatezh-13.github.io/circulars</link>
     <description>NSE, BSE and MCX circulars — last 7 days</description>
     <language>en-in</language>
-    <lastBuildDate>Fri, 10 Apr 2026 07:03:19 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 10 Apr 2026 08:49:22 +0000</lastBuildDate>
     <atom:link href="https://venkatezh-13.github.io/circulars/rss/all.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Listing of privately placed securities on the debt market segment of the Exchange</title>
@@ -677,6 +677,86 @@
       <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260410-3/20260410-3.pdf</guid>
       <description>[BSE] 20260410-3 — Listing of New Securities of VIKRAM KAMATS HOSPITALITY LIMITED</description>
       <category>Equity / Company related</category>
+      <pubDate>Fri, 10 Apr 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>Mock Trading on Saturday, April 11, 2026 for Currency Derivatives segment</title>
+      <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260410-9/20260410-9.pdf</link>
+      <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260410-9/20260410-9.pdf</guid>
+      <description>[BSE] 20260410-9 — Mock Trading on Saturday, April 11, 2026 for Currency Derivatives segment</description>
+      <category>Currency Derivatives / Trading</category>
+      <pubDate>Fri, 10 Apr 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>Mock Trading on Saturday, April 11, 2026 for Electronic Gold Receipts segment</title>
+      <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260410-8/20260410-8.pdf</link>
+      <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260410-8/20260410-8.pdf</guid>
+      <description>[BSE] 20260410-8 — Mock Trading on Saturday, April 11, 2026 for Electronic Gold Receipts segment</description>
+      <category>EGR / Trading</category>
+      <pubDate>Fri, 10 Apr 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>Mock Trading on Saturday, April 11, 2026 for Equity Derivatives segment</title>
+      <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260410-7/20260410-7.pdf</link>
+      <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260410-7/20260410-7.pdf</guid>
+      <description>[BSE] 20260410-7 — Mock Trading on Saturday, April 11, 2026 for Equity Derivatives segment</description>
+      <category>Derivatives / Trading</category>
+      <pubDate>Fri, 10 Apr 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>Mock Trading on Saturday, April 11, 2026 for Equity segment</title>
+      <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260410-6/20260410-6.pdf</link>
+      <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260410-6/20260410-6.pdf</guid>
+      <description>[BSE] 20260410-6 — Mock Trading on Saturday, April 11, 2026 for Equity segment</description>
+      <category>Equity / Trading</category>
+      <pubDate>Fri, 10 Apr 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>Suspension of Trading in T-bills/Government Securities</title>
+      <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260410-5/20260410-5.pdf</link>
+      <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260410-5/20260410-5.pdf</guid>
+      <description>[BSE] 20260410-5 — Suspension of Trading in T-bills/Government Securities</description>
+      <category>Debt / Corporate Actions</category>
+      <pubDate>Fri, 10 Apr 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>Demat Auction 607</title>
+      <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260410-14/20260410-14.pdf</link>
+      <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260410-14/20260410-14.pdf</guid>
+      <description>[BSE] 20260410-14 — Demat Auction 607</description>
+      <category>Equity / Settlement/RMS</category>
+      <pubDate>Fri, 10 Apr 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>Listing of Equity Shares of Emiac Technologies Limited</title>
+      <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260410-13/20260410-13.pdf</link>
+      <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260410-13/20260410-13.pdf</guid>
+      <description>[BSE] 20260410-13 — Listing of Equity Shares of Emiac Technologies Limited</description>
+      <category>SME / Company related</category>
+      <pubDate>Fri, 10 Apr 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>Listing of Equity Shares of Safety Controls &amp; Devices Limited</title>
+      <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260410-12/20260410-12.pdf</link>
+      <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260410-12/20260410-12.pdf</guid>
+      <description>[BSE] 20260410-12 — Listing of Equity Shares of Safety Controls &amp; Devices Limited</description>
+      <category>SME / Company related</category>
+      <pubDate>Fri, 10 Apr 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>Part Redemption of Debentures of Companies</title>
+      <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260410-11/20260410-11.pdf</link>
+      <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260410-11/20260410-11.pdf</guid>
+      <description>[BSE] 20260410-11 — Part Redemption of Debentures of Companies</description>
+      <category>Debt / Corporate Actions</category>
+      <pubDate>Fri, 10 Apr 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>Mock Trading on Saturday, April 11, 2026 for Commodity Derivatives segment</title>
+      <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260410-10/20260410-10.pdf</link>
+      <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260410-10/20260410-10.pdf</guid>
+      <description>[BSE] 20260410-10 — Mock Trading on Saturday, April 11, 2026 for Commodity Derivatives segment</description>
+      <category>Commodity Derivatives / Trading</category>
       <pubDate>Fri, 10 Apr 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
