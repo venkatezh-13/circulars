@@ -1,1 +1,37 @@
-[]
+[
+  {
+    "date": "April 10, 2026",
+    "department": "Debt Segment",
+    "subject": "Listing of privately placed securities on the debt market segment of the Exchange",
+    "circular_ref": "NSE/CML/73694",
+    "link": "https://nsearchives.nseindia.com/content/circulars/CML73694.pdf"
+  },
+  {
+    "date": "April 10, 2026",
+    "department": "Capital Market (Equities) Trade",
+    "subject": "Mock trading on Saturday, April 11, 2026 - No new version release",
+    "circular_ref": "NSE/CMTR/73692",
+    "link": "https://nsearchives.nseindia.com/content/circulars/CMTR73692.pdf"
+  },
+  {
+    "date": "April 10, 2026",
+    "department": "Commodity Derivatives",
+    "subject": "Mock session on Saturday, April 11, 2026 - No new version release",
+    "circular_ref": "NSE/COM/73691",
+    "link": "https://nsearchives.nseindia.com/content/circulars/COM73691.pdf"
+  },
+  {
+    "date": "April 10, 2026",
+    "department": "Inspection & Compliance",
+    "subject": "Segmental Surrender of Membership",
+    "circular_ref": "NSE/COMP/73689",
+    "link": "https://nsearchives.nseindia.com/content/circulars/COMP73689.pdf"
+  },
+  {
+    "date": "April 10, 2026",
+    "department": "Futures & Options",
+    "subject": "Mock trading on Saturday, April 11, 2026 - No new version release",
+    "circular_ref": "NSE/FAOP/73687",
+    "link": "https://nsearchives.nseindia.com/content/circulars/FAOP73687.pdf"
+  }
+]
