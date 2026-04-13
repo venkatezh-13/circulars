@@ -5,7 +5,7 @@
     <link>https://venkatezh-13.github.io/circulars</link>
     <description>NSE, BSE and MCX circulars — last 7 days</description>
     <language>en-in</language>
-    <lastBuildDate>Mon, 13 Apr 2026 09:21:08 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 13 Apr 2026 11:02:54 +0000</lastBuildDate>
     <atom:link href="https://venkatezh-13.github.io/circulars/rss/all.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Listing of privately placed securities on the debt market segment of the Exchange</title>
@@ -189,6 +189,38 @@
       <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/CMPT73712.pdf</guid>
       <description>[NSE] NCL/CMPT/73712 — Change in timings for Early pay-in and Collateral allocation</description>
       <category>NSE Clearing - Capital Market</category>
+      <pubDate>Mon, 13 Apr 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>Change in name and symbol of Akzo Nobel India Limited</title>
+      <link>https://nsearchives.nseindia.com/content/circulars/CMPT73717.pdf</link>
+      <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/CMPT73717.pdf</guid>
+      <description>[NSE] NCL/CMPT/73717 — Change in name and symbol of Akzo Nobel India Limited</description>
+      <category>Securities Lending &amp; Borrowing Scheme</category>
+      <pubDate>Mon, 13 Apr 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>Change in timings for Collateral allocation</title>
+      <link>https://nsearchives.nseindia.com/content/circulars/CMPT73715.pdf</link>
+      <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/CMPT73715.pdf</guid>
+      <description>[NSE] NCL/CMPT/73715 — Change in timings for Collateral allocation</description>
+      <category>Securities Lending &amp; Borrowing Scheme</category>
+      <pubDate>Mon, 13 Apr 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>Change in timings for Collateral allocation</title>
+      <link>https://nsearchives.nseindia.com/content/circulars/CD73714.pdf</link>
+      <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/CD73714.pdf</guid>
+      <description>[NSE] NCL/CD/73714 — Change in timings for Collateral allocation</description>
+      <category>Currency Derivatives</category>
+      <pubDate>Mon, 13 Apr 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>Change in timings for Collateral allocation</title>
+      <link>https://nsearchives.nseindia.com/content/circulars/CMPT73713.pdf</link>
+      <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/CMPT73713.pdf</guid>
+      <description>[NSE] NCL/CMPT/73713 — Change in timings for Collateral allocation</description>
+      <category>Futures &amp; Options</category>
       <pubDate>Mon, 13 Apr 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
@@ -1389,6 +1421,30 @@
       <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260413-10/20260413-10.pdf</guid>
       <description>[BSE] 20260413-10 — Offer to Buy – Acquisition Window (Takeover) for ASPIRA PATHLAB &amp; DIAGNOSTICS LTD – Live Activities Schedule</description>
       <category>Equity / Trading</category>
+      <pubDate>Mon, 13 Apr 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>Settlement Schedule Offer to Buy – Acquisition Window (Delisting) for TULIVE DEVELOPERS LIMITED</title>
+      <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260413-18/20260413-18.pdf</link>
+      <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260413-18/20260413-18.pdf</guid>
+      <description>[BSE] 20260413-18 — Settlement Schedule Offer to Buy – Acquisition Window (Delisting) for TULIVE DEVELOPERS LIMITED</description>
+      <category>General / Settlement/RMS</category>
+      <pubDate>Mon, 13 Apr 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>Listing of further securities issued by the companies under ESOP / ESOS</title>
+      <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260413-17/20260413-17.pdf</link>
+      <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260413-17/20260413-17.pdf</guid>
+      <description>[BSE] 20260413-17 — Listing of further securities issued by the companies under ESOP / ESOS</description>
+      <category>Equity / Company related</category>
+      <pubDate>Mon, 13 Apr 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>Update Regarding debt securities of Edelweiss Asset Reconstruction Company Limited</title>
+      <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260413-16/20260413-16.pdf</link>
+      <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260413-16/20260413-16.pdf</guid>
+      <description>[BSE] 20260413-16 — Update Regarding debt securities of Edelweiss Asset Reconstruction Company Limited</description>
+      <category>Debt / Company related</category>
       <pubDate>Mon, 13 Apr 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
