@@ -142,5 +142,117 @@
     "category": "Company related",
     "department": "DOSS",
     "pdf_url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260415-12/20260415-12.pdf"
+  },
+  {
+    "notice_no": "20260415-32",
+    "subject": "Enhanced Surveillance Measure (ESM)",
+    "segment": "Equity",
+    "category": "Trading",
+    "department": "DOSS",
+    "pdf_url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260415-32/20260415-32.pdf"
+  },
+  {
+    "notice_no": "20260415-31",
+    "subject": "Applicability of Short Term Additional Surveillance Measure (ST-ASM)",
+    "segment": "Equity",
+    "category": "Trading",
+    "department": "DOSS",
+    "pdf_url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260415-31/20260415-31.pdf"
+  },
+  {
+    "notice_no": "20260415-30",
+    "subject": "Graded Surveillance Measure (GSM) - List of securities moving into their respective GSM Stages",
+    "segment": "Equity",
+    "category": "Trading",
+    "department": "DOSS",
+    "pdf_url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260415-30/20260415-30.pdf"
+  },
+  {
+    "notice_no": "20260415-29",
+    "subject": "CHANGES IN PRICE BAND",
+    "segment": "Equity",
+    "category": "Trading",
+    "department": "DOSS",
+    "pdf_url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260415-29/20260415-29.pdf"
+  },
+  {
+    "notice_no": "20260415-28",
+    "subject": "Applicability of Long Term Additional Surveillance Measure (LT-ASM)",
+    "segment": "Equity",
+    "category": "Trading",
+    "department": "DOSS",
+    "pdf_url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260415-28/20260415-28.pdf"
+  },
+  {
+    "notice_no": "20260415-27",
+    "subject": "SEBI (Stockbrokers) Regulations, 2026 - Clarification on Networth",
+    "segment": "General",
+    "category": "Settlement/RMS",
+    "department": "ICCL",
+    "pdf_url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260415-27/20260415-27.pdf"
+  },
+  {
+    "notice_no": "20260415-26",
+    "subject": "Submission of Half Yearly Internal Audit Report by Clearing Members",
+    "segment": "General",
+    "category": "Settlement/RMS",
+    "department": "ICCL",
+    "pdf_url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260415-26/20260415-26.pdf"
+  },
+  {
+    "notice_no": "20260415-25",
+    "subject": "Listing of privately placed securities on the debt market segment of the Exchange",
+    "segment": "Debt",
+    "category": "Company related",
+    "department": "DCS-Listing",
+    "pdf_url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260415-25/20260415-25.pdf"
+  },
+  {
+    "notice_no": "20260415-24",
+    "subject": "Availability of JIOBLACKROCK LARGE CAP FUND for Ongoing Transactions on BSE StAR MF Platform",
+    "segment": "Mutual Fund",
+    "category": "Trading",
+    "department": "Trading Operations",
+    "pdf_url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260415-24/20260415-24.pdf"
+  },
+  {
+    "notice_no": "20260415-23",
+    "subject": "Update regarding debt securities of Shri Ram Finance Corporation Pvt Ltd",
+    "segment": "Debt",
+    "category": "Company related",
+    "department": "DCS-Listing",
+    "pdf_url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260415-23/20260415-23.pdf"
+  },
+  {
+    "notice_no": "20260415-22",
+    "subject": "Guidelines in pursuance of amendment to SEBI KYC (Know Your Client) Registration Agency (KRA) Regulations, 2011",
+    "segment": "General",
+    "category": "Compliance",
+    "department": "DOSS",
+    "pdf_url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260415-22/20260415-22.pdf"
+  },
+  {
+    "notice_no": "20260415-21",
+    "subject": "Listing of new securities of POONAWALLA FINCORP LIMITED",
+    "segment": "Equity",
+    "category": "Company related",
+    "department": "Listing Operations",
+    "pdf_url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260415-21/20260415-21.pdf"
+  },
+  {
+    "notice_no": "20260415-20",
+    "subject": "Merger of AXIS AAA BOND PLUS SDL ETF - 2026 MATURITY FUND OF FUND to AXIS CRISIL IBX 50:50 GILT PLUS SDL JUNE 2028 INDEX FUND",
+    "segment": "Mutual Fund",
+    "category": "Trading",
+    "department": "Trading Operations",
+    "pdf_url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260415-20/20260415-20.pdf"
+  },
+  {
+    "notice_no": "20260415-19",
+    "subject": "Listing of new securities of Ugro Capital Ltd",
+    "segment": "Equity",
+    "category": "Company related",
+    "department": "Listing Operations",
+    "pdf_url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260415-19/20260415-19.pdf"
   }
 ]
