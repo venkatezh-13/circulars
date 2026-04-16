@@ -5,7 +5,7 @@
     <link>https://venkatezh-13.github.io/circulars</link>
     <description>NSE, BSE and MCX circulars — last 7 days</description>
     <language>en-in</language>
-    <lastBuildDate>Thu, 16 Apr 2026 08:58:21 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 16 Apr 2026 10:23:21 +0000</lastBuildDate>
     <atom:link href="https://venkatezh-13.github.io/circulars/rss/all.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Storage charges for Bullion (Silver 100gm) in commodity Derivatives Segment </title>
@@ -357,6 +357,14 @@
       <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/CML73758.pdf</guid>
       <description>[NSE] NSE/CML/73758 — Listing of Equity Shares of Om Power Transmission Limited (IPO)</description>
       <category>Listing</category>
+      <pubDate>Thu, 16 Apr 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>Takeover offer under Tender Offer scheme of Stylam Industries Limited</title>
+      <link>https://nsearchives.nseindia.com/content/circulars/CMTR73761.pdf</link>
+      <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/CMTR73761.pdf</guid>
+      <description>[NSE] NSE/CMTR/73761 — Takeover offer under Tender Offer scheme of Stylam Industries Limited</description>
+      <category>Capital Market (Equities) Trade</category>
       <pubDate>Thu, 16 Apr 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
@@ -1588,6 +1596,14 @@
       <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260416-4/20260416-4.pdf</link>
       <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260416-4/20260416-4.pdf</guid>
       <description>[BSE] 20260416-4 — Settlement Schedule Offer to Buy – Acquisition Window (Buyback) for PURETROP FRUITS LIMITED</description>
+      <category>General / Settlement/RMS</category>
+      <pubDate>Thu, 16 Apr 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>Revised Settlement Schedule Offer to Buy – Acquisition Window (Takeover) for PHOTON CAPITAL ADVISORS LIMITED</title>
+      <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260416-8/20260416-8.pdf</link>
+      <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260416-8/20260416-8.pdf</guid>
+      <description>[BSE] 20260416-8 — Revised Settlement Schedule Offer to Buy – Acquisition Window (Takeover) for PHOTON CAPITAL ADVISORS LIMITED</description>
       <category>General / Settlement/RMS</category>
       <pubDate>Thu, 16 Apr 2026 07:30:00 +0530</pubDate>
     </item>
