@@ -102,5 +102,61 @@
     "category": "Trading",
     "department": "Trading Operations",
     "pdf_url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260417-12/20260417-12.pdf"
+  },
+  {
+    "notice_no": "20260417-20",
+    "subject": "Listing of New Securities of Umiya Tubes Limited",
+    "segment": "Equity",
+    "category": "Company related",
+    "department": "Listing Operations",
+    "pdf_url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260417-20/20260417-20.pdf"
+  },
+  {
+    "notice_no": "20260417-19",
+    "subject": "Calendar Spread margin benefit for Single Stock Derivatives on expiry day",
+    "segment": "Derivatives",
+    "category": "Settlement/RMS",
+    "department": "ICCL",
+    "pdf_url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260417-19/20260417-19.pdf"
+  },
+  {
+    "notice_no": "20260417-18",
+    "subject": "Listing of further securities issued by the companies under ESOP / ESOS",
+    "segment": "Equity",
+    "category": "Company related",
+    "department": "Listing Operations",
+    "pdf_url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260417-18/20260417-18.pdf"
+  },
+  {
+    "notice_no": "20260417-17",
+    "subject": "Addition to the BSE IPO Index",
+    "segment": "Equity",
+    "category": "Index",
+    "department": "Index Cell",
+    "pdf_url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260417-17/20260417-17.pdf"
+  },
+  {
+    "notice_no": "20260417-16",
+    "subject": "Updates for Implementation of Section 51A of UAPA, 1967: Updates to UNSC’s 1267/ 1989 ISIL (Da'esh) & Al-Qaida Sanctions List - Amendment in 04 entries",
+    "segment": "General",
+    "category": "Compliance",
+    "department": "DOSS",
+    "pdf_url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260417-16/20260417-16.pdf"
+  },
+  {
+    "notice_no": "20260417-15",
+    "subject": "CORPORATE ACTION IN SLB SECURITIES",
+    "segment": "SLB",
+    "category": "Corporate Actions",
+    "department": "ICCL",
+    "pdf_url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260417-15/20260417-15.pdf"
+  },
+  {
+    "notice_no": "20260417-14",
+    "subject": "Change in Group of Equity Shares of Om Power Transmission Limited",
+    "segment": "Equity",
+    "category": "Company related",
+    "department": "DCS-Listing",
+    "pdf_url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260417-14/20260417-14.pdf"
   }
 ]
