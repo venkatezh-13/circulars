@@ -1,1 +1,42 @@
-[]
+[
+  {
+    "notice_no": "20260417-5",
+    "subject": "Mock Trading on Saturday, April 18, 2026, for Electronic Gold Receipts segment",
+    "segment": "EGR",
+    "category": "Trading",
+    "department": "Trading Operations",
+    "pdf_url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260417-5/20260417-5.pdf"
+  },
+  {
+    "notice_no": "20260417-4",
+    "subject": "Mock Trading on Saturday, April 18, 2026, for Commodity Derivatives segment",
+    "segment": "Commodity Derivatives",
+    "category": "Trading",
+    "department": "Trading Operations",
+    "pdf_url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260417-4/20260417-4.pdf"
+  },
+  {
+    "notice_no": "20260417-3",
+    "subject": "Mock Trading on Saturday, April 18, 2026, for Currency Derivatives segment",
+    "segment": "Currency Derivatives",
+    "category": "Trading",
+    "department": "Trading Operations",
+    "pdf_url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260417-3/20260417-3.pdf"
+  },
+  {
+    "notice_no": "20260417-2",
+    "subject": "Mock Trading on Saturday, April 18, 2026, for Equity Derivatives segment",
+    "segment": "Derivatives",
+    "category": "Trading",
+    "department": "Trading Operations",
+    "pdf_url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260417-2/20260417-2.pdf"
+  },
+  {
+    "notice_no": "20260417-1",
+    "subject": "Mock Trading on Saturday, April 18, 2026, for Equity segment",
+    "segment": "Equity",
+    "category": "Trading",
+    "department": "Trading Operations",
+    "pdf_url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260417-1/20260417-1.pdf"
+  }
+]
