@@ -1,1 +1,37 @@
-[]
+[
+  {
+    "date": "April 17, 2026",
+    "department": "Futures & Options",
+    "subject": "Mock trading on Saturday, April 18, 2026 - No new version release",
+    "circular_ref": "NSE/FAOP/73779",
+    "link": "https://nsearchives.nseindia.com/content/circulars/FAOP73779.pdf"
+  },
+  {
+    "date": "April 17, 2026",
+    "department": "Capital Market (Equities) Trade",
+    "subject": "Mock trading on Saturday, April 18, 2026 - No new version release",
+    "circular_ref": "NSE/CMTR/73778",
+    "link": "https://nsearchives.nseindia.com/content/circulars/CMTR73778.pdf"
+  },
+  {
+    "date": "April 17, 2026",
+    "department": "Commodity Derivatives",
+    "subject": "Mock session on Saturday, April 18, 2026 - No new version release",
+    "circular_ref": "NSE/COM/73775",
+    "link": "https://nsearchives.nseindia.com/content/circulars/COM73775.pdf"
+  },
+  {
+    "date": "April 17, 2026",
+    "department": "Securities Lending & Borrowing Scheme",
+    "subject": "Mock trading on Saturday, April 18, 2026 - No new version release",
+    "circular_ref": "NSE/SLBS/73774",
+    "link": "https://nsearchives.nseindia.com/content/circulars/SLBS73774.pdf"
+  },
+  {
+    "date": "April 17, 2026",
+    "department": "Currency Derivatives",
+    "subject": "Mock trading on Saturday, April 18, 2026 - No new version release",
+    "circular_ref": "NSE/CD/73773",
+    "link": "https://nsearchives.nseindia.com/content/circulars/CD73773.pdf"
+  }
+]
