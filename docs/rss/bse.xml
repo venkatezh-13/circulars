@@ -5,7 +5,7 @@
     <link>https://venkatezh-13.github.io/circulars</link>
     <description>BSE circulars — last 7 days</description>
     <language>en-in</language>
-    <lastBuildDate>Fri, 17 Apr 2026 02:47:09 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 17 Apr 2026 05:31:00 +0000</lastBuildDate>
     <atom:link href="https://venkatezh-13.github.io/circulars/rss/bse.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Non-Competitive Bidding for Auction of GoI dated Securities (G-secs) on April 17, 2026</title>
@@ -326,6 +326,46 @@
       <description>[BSE] 20260415-40 — Daily Bulletin</description>
       <category>General / Company related</category>
       <pubDate>Wed, 15 Apr 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>Mock Trading on Saturday, April 18, 2026, for Electronic Gold Receipts segment</title>
+      <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260417-5/20260417-5.pdf</link>
+      <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260417-5/20260417-5.pdf</guid>
+      <description>[BSE] 20260417-5 — Mock Trading on Saturday, April 18, 2026, for Electronic Gold Receipts segment</description>
+      <category>EGR / Trading</category>
+      <pubDate>Fri, 17 Apr 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>Mock Trading on Saturday, April 18, 2026, for Commodity Derivatives segment</title>
+      <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260417-4/20260417-4.pdf</link>
+      <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260417-4/20260417-4.pdf</guid>
+      <description>[BSE] 20260417-4 — Mock Trading on Saturday, April 18, 2026, for Commodity Derivatives segment</description>
+      <category>Commodity Derivatives / Trading</category>
+      <pubDate>Fri, 17 Apr 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>Mock Trading on Saturday, April 18, 2026, for Currency Derivatives segment</title>
+      <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260417-3/20260417-3.pdf</link>
+      <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260417-3/20260417-3.pdf</guid>
+      <description>[BSE] 20260417-3 — Mock Trading on Saturday, April 18, 2026, for Currency Derivatives segment</description>
+      <category>Currency Derivatives / Trading</category>
+      <pubDate>Fri, 17 Apr 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>Mock Trading on Saturday, April 18, 2026, for Equity Derivatives segment</title>
+      <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260417-2/20260417-2.pdf</link>
+      <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260417-2/20260417-2.pdf</guid>
+      <description>[BSE] 20260417-2 — Mock Trading on Saturday, April 18, 2026, for Equity Derivatives segment</description>
+      <category>Derivatives / Trading</category>
+      <pubDate>Fri, 17 Apr 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>Mock Trading on Saturday, April 18, 2026, for Equity segment</title>
+      <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260417-1/20260417-1.pdf</link>
+      <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260417-1/20260417-1.pdf</guid>
+      <description>[BSE] 20260417-1 — Mock Trading on Saturday, April 18, 2026, for Equity segment</description>
+      <category>Equity / Trading</category>
+      <pubDate>Fri, 17 Apr 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
       <title>Enabling of SMART Switch Feature under AXIS NIFTY INDIA DEFENCE INDEX FUND – NFO on BSE StAR MF Platform</title>
