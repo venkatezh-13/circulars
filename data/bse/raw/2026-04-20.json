@@ -54,5 +54,21 @@
     "category": "Compliance",
     "department": "DOSS",
     "pdf_url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260420-3/20260420-3.pdf"
+  },
+  {
+    "notice_no": "20260420-9",
+    "subject": "Temporary Suspension of subscription in certain schemes NIPPON INDIA on BSE StAR MF Platform",
+    "segment": "Mutual Fund",
+    "category": "Trading",
+    "department": "Trading Operations",
+    "pdf_url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260420-9/20260420-9.pdf"
+  },
+  {
+    "notice_no": "20260420-8",
+    "subject": "Demat Auction 612.",
+    "segment": "Equity",
+    "category": "Settlement/RMS",
+    "department": "ICCL",
+    "pdf_url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260420-8/20260420-8.pdf"
   }
 ]
