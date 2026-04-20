@@ -182,5 +182,85 @@
     "category": "Trading",
     "department": "Listing Business Relationship",
     "pdf_url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260420-15/20260420-15.pdf"
+  },
+  {
+    "notice_no": "20260420-33",
+    "subject": "Enhancement in Online Dissemination of Indices",
+    "segment": "Equity",
+    "category": "Trading",
+    "department": "Trading Development",
+    "pdf_url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260420-33/20260420-33.pdf"
+  },
+  {
+    "notice_no": "20260420-32",
+    "subject": "Opening Offer for Sale for STRING METAVERSE LTD - Live Activities Schedule",
+    "segment": "Equity",
+    "category": "Trading",
+    "department": "Trading Operations",
+    "pdf_url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260420-32/20260420-32.pdf"
+  },
+  {
+    "notice_no": "20260420-31",
+    "subject": "Update of single filing system through API-based integration between Stock Exchanges",
+    "segment": "General",
+    "category": "Circulars Listed Companies",
+    "department": "Listing Compliance-Monitoring",
+    "pdf_url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260420-31/20260420-31.pdf"
+  },
+  {
+    "notice_no": "20260420-30",
+    "subject": "Listing of privately placed securities on the debt market segment of the Exchange",
+    "segment": "Debt",
+    "category": "Company related",
+    "department": "DCS-Listing",
+    "pdf_url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260420-30/20260420-30.pdf"
+  },
+  {
+    "notice_no": "20260420-29",
+    "subject": "Listing of New Securities of Aurum PropTech Ltd.",
+    "segment": "Equity",
+    "category": "Company related",
+    "department": "Listing Operations",
+    "pdf_url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260420-29/20260420-29.pdf"
+  },
+  {
+    "notice_no": "20260420-28",
+    "subject": "Clarification Received from the Companies",
+    "segment": "Equity",
+    "category": "Company related",
+    "department": "DOSS",
+    "pdf_url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260420-28/20260420-28.pdf"
+  },
+  {
+    "notice_no": "20260420-27",
+    "subject": "Listing of New Securities of Power & Instrumentation (Gujarat) Limited",
+    "segment": "Equity",
+    "category": "Company related",
+    "department": "Listing Operations",
+    "pdf_url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260420-27/20260420-27.pdf"
+  },
+  {
+    "notice_no": "20260420-26",
+    "subject": "Listing of New Securities of SPML Infra Limited",
+    "segment": "Equity",
+    "category": "Company related",
+    "department": "Listing Operations",
+    "pdf_url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260420-26/20260420-26.pdf"
+  },
+  {
+    "notice_no": "20260420-25",
+    "subject": "Listing of New Securities of STELLANT SECURITIES (INDIA) LIMITED",
+    "segment": "Equity",
+    "category": "Company related",
+    "department": "Listing Operations",
+    "pdf_url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260420-25/20260420-25.pdf"
+  },
+  {
+    "notice_no": "20260420-24",
+    "subject": "Clarification Received from the Company on News Article",
+    "segment": "Equity",
+    "category": "Company related",
+    "department": "DOSS",
+    "pdf_url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260420-24/20260420-24.pdf"
   }
 ]
