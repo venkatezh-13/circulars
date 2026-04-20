@@ -14,5 +14,45 @@
     "category": "Trading",
     "department": "Trading Operations",
     "pdf_url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260420-1/20260420-1.pdf"
+  },
+  {
+    "notice_no": "20260420-7",
+    "subject": "Change in Name of the Company - Triton Corp Ltd",
+    "segment": "Equity",
+    "category": "Company related",
+    "department": "Listing Operations",
+    "pdf_url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260420-7/20260420-7.pdf"
+  },
+  {
+    "notice_no": "20260420-6",
+    "subject": "New ISIN Number on Sub-Division of STRING METAVERSE LTD (Scrip Code: 534535)",
+    "segment": "Equity",
+    "category": "Corporate Actions",
+    "department": "Listing Operations",
+    "pdf_url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260420-6/20260420-6.pdf"
+  },
+  {
+    "notice_no": "20260420-5",
+    "subject": "Settlement Schedule Offer to Buy – Acquisition Window (Takeover) for STYLAM INDUSTRIES LIMITED",
+    "segment": "General",
+    "category": "Settlement/RMS",
+    "department": "ICCL",
+    "pdf_url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260420-5/20260420-5.pdf"
+  },
+  {
+    "notice_no": "20260420-4",
+    "subject": "Suspension of Trading in T-bills/Government Securities",
+    "segment": "Debt",
+    "category": "Corporate Actions",
+    "department": "Listing Operations",
+    "pdf_url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260420-4/20260420-4.pdf"
+  },
+  {
+    "notice_no": "20260420-3",
+    "subject": "Discontinuation of Reporting of Demat Accounts",
+    "segment": "General",
+    "category": "Compliance",
+    "department": "DOSS",
+    "pdf_url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260420-3/20260420-3.pdf"
   }
 ]
