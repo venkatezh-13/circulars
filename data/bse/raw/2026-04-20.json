@@ -70,5 +70,45 @@
     "category": "Settlement/RMS",
     "department": "ICCL",
     "pdf_url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260420-8/20260420-8.pdf"
+  },
+  {
+    "notice_no": "20260420-14",
+    "subject": "SME IPO - Draft Offer Document",
+    "segment": "SME",
+    "category": "Company related",
+    "department": "DCS-Listing",
+    "pdf_url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260420-14/20260420-14.pdf"
+  },
+  {
+    "notice_no": "20260420-13",
+    "subject": "Suspension of Trading in PTCs",
+    "segment": "Debt",
+    "category": "Corporate Actions",
+    "department": "Listing Operations",
+    "pdf_url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260420-13/20260420-13.pdf"
+  },
+  {
+    "notice_no": "20260420-12",
+    "subject": "Offer to Buy – Acquisition Window (Takeover) for JAUSS POLYMERS LTD – Live Activities Schedule",
+    "segment": "Equity",
+    "category": "Trading",
+    "department": "Trading Operations",
+    "pdf_url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260420-12/20260420-12.pdf"
+  },
+  {
+    "notice_no": "20260420-11",
+    "subject": "Offer to Buy – Acquisition Window (Takeover) for STYLAM INDUSTRIES LTD – Live Activities Schedule",
+    "segment": "Equity",
+    "category": "Trading",
+    "department": "Trading Operations",
+    "pdf_url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260420-11/20260420-11.pdf"
+  },
+  {
+    "notice_no": "20260420-10",
+    "subject": "Settlement Schedule Offer to Buy – Acquisition Window (Takeover) for JAUSS POLYMERS LIMITED",
+    "segment": "General",
+    "category": "Settlement/RMS",
+    "department": "ICCL",
+    "pdf_url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260420-10/20260420-10.pdf"
   }
 ]
