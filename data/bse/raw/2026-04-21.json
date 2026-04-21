@@ -6,5 +6,21 @@
     "category": "Trading",
     "department": "Trading Operations",
     "pdf_url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260421-1/20260421-1.pdf"
+  },
+  {
+    "notice_no": "20260421-3",
+    "subject": "Suspension of Trading in T-bills/Government Securities",
+    "segment": "Debt",
+    "category": "Corporate Actions",
+    "department": "Listing Operations",
+    "pdf_url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260421-3/20260421-3.pdf"
+  },
+  {
+    "notice_no": "20260421-2",
+    "subject": "SME IPO - Draft Offer Document",
+    "segment": "SME",
+    "category": "Company related",
+    "department": "DCS-Listing",
+    "pdf_url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260421-2/20260421-2.pdf"
   }
 ]
