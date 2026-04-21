@@ -1,1 +1,23 @@
-[]
+[
+  {
+    "date": "April 21, 2026",
+    "department": "Inspection & Compliance",
+    "subject": "Submission of Half Yearly Networth Certificate as on March 31, 2026",
+    "circular_ref": "NSE/COMP/73822",
+    "link": "https://nsearchives.nseindia.com/content/circulars/COMP73822.zip"
+  },
+  {
+    "date": "April 21, 2026",
+    "department": "Debt Segment",
+    "subject": "CBRICS - Settlement Calendar for May 2026",
+    "circular_ref": "NCL/CMPT/73821",
+    "link": "https://nsearchives.nseindia.com/content/circulars/CMPT73821.pdf"
+  },
+  {
+    "date": "April 21, 2026",
+    "department": "Mutual Fund",
+    "subject": "Availability of Zerodha Nifty LargeMidcap250 Plus 8-13 yr G-Sec 70:30 Index Fund Direct Growth for ongoing transactions on NSE MF Invest Platform",
+    "circular_ref": "NSE/NMF/73819",
+    "link": "https://nsearchives.nseindia.com/content/circulars/NMF73819.pdf"
+  }
+]
