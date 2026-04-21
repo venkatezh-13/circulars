@@ -5,7 +5,7 @@
     <link>https://venkatezh-13.github.io/circulars</link>
     <description>NSE, BSE and MCX circulars — last 7 days</description>
     <language>en-in</language>
-    <lastBuildDate>Tue, 21 Apr 2026 05:30:09 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 Apr 2026 07:12:52 +0000</lastBuildDate>
     <atom:link href="https://venkatezh-13.github.io/circulars/rss/all.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Storage charges for Bullion (Silver 100gm) in commodity Derivatives Segment </title>
@@ -2149,6 +2149,22 @@
       <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260421-1/20260421-1.pdf</guid>
       <description>[BSE] 20260421-1 — Merger of UTI NIFTY SDL PLUS AAA PSU BOND APR 2026 75:25 INDEX FUND to UTI FLOATER FUND</description>
       <category>Mutual Fund / Trading</category>
+      <pubDate>Tue, 21 Apr 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>Suspension of Trading in T-bills/Government Securities</title>
+      <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260421-3/20260421-3.pdf</link>
+      <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260421-3/20260421-3.pdf</guid>
+      <description>[BSE] 20260421-3 — Suspension of Trading in T-bills/Government Securities</description>
+      <category>Debt / Corporate Actions</category>
+      <pubDate>Tue, 21 Apr 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>SME IPO - Draft Offer Document</title>
+      <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260421-2/20260421-2.pdf</link>
+      <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260421-2/20260421-2.pdf</guid>
+      <description>[BSE] 20260421-2 — SME IPO - Draft Offer Document</description>
+      <category>SME / Company related</category>
       <pubDate>Tue, 21 Apr 2026 07:30:00 +0530</pubDate>
     </item>
   </channel>
