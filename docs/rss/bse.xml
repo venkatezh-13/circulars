@@ -5,7 +5,7 @@
     <link>https://venkatezh-13.github.io/circulars</link>
     <description>BSE circulars — last 7 days</description>
     <language>en-in</language>
-    <lastBuildDate>Tue, 21 Apr 2026 02:48:01 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 Apr 2026 05:30:09 +0000</lastBuildDate>
     <atom:link href="https://venkatezh-13.github.io/circulars/rss/bse.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Non-Competitive Bidding for Auction of GoI dated Securities (G-secs) on April 17, 2026</title>
@@ -1478,6 +1478,14 @@
       <description>[BSE] 20260414-1 — Launch of SBI Mutual Fund New Fund Offers (NFOs) with SIP Facility on BSE StAR MF Platform</description>
       <category>Mutual Fund / Trading</category>
       <pubDate>Tue, 14 Apr 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>Merger of UTI NIFTY SDL PLUS AAA PSU BOND APR 2026 75:25 INDEX FUND to UTI FLOATER FUND</title>
+      <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260421-1/20260421-1.pdf</link>
+      <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260421-1/20260421-1.pdf</guid>
+      <description>[BSE] 20260421-1 — Merger of UTI NIFTY SDL PLUS AAA PSU BOND APR 2026 75:25 INDEX FUND to UTI FLOATER FUND</description>
+      <category>Mutual Fund / Trading</category>
+      <pubDate>Tue, 21 Apr 2026 07:30:00 +0530</pubDate>
     </item>
   </channel>
 </rss>
