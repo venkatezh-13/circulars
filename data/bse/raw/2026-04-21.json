@@ -22,5 +22,53 @@
     "category": "Company related",
     "department": "DCS-Listing",
     "pdf_url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260421-2/20260421-2.pdf"
+  },
+  {
+    "notice_no": "20260421-9",
+    "subject": "Merger of Bandhan CRISIL IBX Gilt April 2026 Index Fund to Bandhan Short Duration Fund",
+    "segment": "Mutual Fund",
+    "category": "Trading",
+    "department": "Trading Operations",
+    "pdf_url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260421-9/20260421-9.pdf"
+  },
+  {
+    "notice_no": "20260421-8",
+    "subject": "TRADING AND SETTLEMENT PROGRAMME FOR EGR SEGMENT FOR THE PERIOD FROM 01.05.2026 TO 31.05.2026",
+    "segment": "EGR",
+    "category": "Settlement/RMS",
+    "department": "ICCL",
+    "pdf_url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260421-8/20260421-8.pdf"
+  },
+  {
+    "notice_no": "20260421-7",
+    "subject": "Update Regarding debt securities of Sadbhav Gadag Highway Private Limited",
+    "segment": "Debt",
+    "category": "Company related",
+    "department": "DCS-Listing",
+    "pdf_url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260421-7/20260421-7.pdf"
+  },
+  {
+    "notice_no": "20260421-6",
+    "subject": "Demat Auct 613",
+    "segment": "Equity",
+    "category": "Settlement/RMS",
+    "department": "ICCL",
+    "pdf_url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260421-6/20260421-6.pdf"
+  },
+  {
+    "notice_no": "20260421-5",
+    "subject": "Update Regarding debt securities of MUTHOOTTU MCRED LIMITED (formerly known as Muthoottu Mini Financiers Ltd)",
+    "segment": "Debt",
+    "category": "Company related",
+    "department": "DCS-Listing",
+    "pdf_url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260421-5/20260421-5.pdf"
+  },
+  {
+    "notice_no": "20260421-4",
+    "subject": "Part Redemption of PTCs of INDIA UNIVERSAL TRUST AL1 - SERIES A1, A2 & A3.",
+    "segment": "Debt",
+    "category": "Corporate Actions",
+    "department": "Listing Operations",
+    "pdf_url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260421-4/20260421-4.pdf"
   }
 ]
