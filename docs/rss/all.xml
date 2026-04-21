@@ -5,7 +5,7 @@
     <link>https://venkatezh-13.github.io/circulars</link>
     <description>NSE, BSE and MCX circulars — last 7 days</description>
     <language>en-in</language>
-    <lastBuildDate>Tue, 21 Apr 2026 16:37:11 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 Apr 2026 17:43:38 +0000</lastBuildDate>
     <atom:link href="https://venkatezh-13.github.io/circulars/rss/all.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Storage charges for Bullion (Silver 100gm) in commodity Derivatives Segment </title>
@@ -797,6 +797,14 @@
       <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/SURV73827.zip</guid>
       <description>[NSE] NSE/SURV/73827 — Applicability of Additional Surveillance Measure (ASM)</description>
       <category>Surveillance &amp; Investigation</category>
+      <pubDate>Tue, 21 Apr 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>Segmental Surrender of Membership</title>
+      <link>https://nsearchives.nseindia.com/content/circulars/COMP73832.pdf</link>
+      <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/COMP73832.pdf</guid>
+      <description>[NSE] NSE/COMP/73832 — Segmental Surrender of Membership</description>
+      <category>Inspection &amp; Compliance</category>
       <pubDate>Tue, 21 Apr 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
@@ -2573,6 +2581,22 @@
       <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260421-37/20260421-37.pdf</guid>
       <description>[BSE] 20260421-37 — New ISIN Number of ANLON HEALTHCARE LTD (Scrip Code: 544497)</description>
       <category>Equity / Corporate Actions</category>
+      <pubDate>Tue, 21 Apr 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>Daily Bulletin</title>
+      <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260421-40/20260421-40.pdf</link>
+      <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260421-40/20260421-40.pdf</guid>
+      <description>[BSE] 20260421-40 — Daily Bulletin</description>
+      <category>General / Company related</category>
+      <pubDate>Tue, 21 Apr 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>Change in name of the company.</title>
+      <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260421-39/20260421-39.pdf</link>
+      <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260421-39/20260421-39.pdf</guid>
+      <description>[BSE] 20260421-39 — Change in name of the company.</description>
+      <category>Equity / Company related</category>
       <pubDate>Tue, 21 Apr 2026 07:30:00 +0530</pubDate>
     </item>
   </channel>
