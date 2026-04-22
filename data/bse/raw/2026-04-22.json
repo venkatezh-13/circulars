@@ -22,5 +22,21 @@
     "category": "Trading",
     "department": "Trading Operations",
     "pdf_url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260422-2/20260422-2.pdf"
+  },
+  {
+    "notice_no": "20260422-5",
+    "subject": "Demat Auction 614",
+    "segment": "Equity",
+    "category": "Settlement/RMS",
+    "department": "ICCL",
+    "pdf_url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260422-5/20260422-5.pdf"
+  },
+  {
+    "notice_no": "20260422-4",
+    "subject": "Part Redemption of PTCs of TRINITY TRUST SEP 2025",
+    "segment": "Debt",
+    "category": "Corporate Actions",
+    "department": "Listing Operations",
+    "pdf_url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260422-4/20260422-4.pdf"
   }
 ]
