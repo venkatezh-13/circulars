@@ -62,5 +62,61 @@
     "category": "Settlement/RMS",
     "department": "ICCL",
     "pdf_url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260422-6/20260422-6.pdf"
+  },
+  {
+    "notice_no": "20260422-9",
+    "subject": "Listing of new Securities of Kilburn Engineering Ltd.",
+    "segment": "Equity",
+    "category": "Company related",
+    "department": "Listing Operations",
+    "pdf_url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260422-9/20260422-9.pdf"
+  },
+  {
+    "notice_no": "20260422-15",
+    "subject": "Enhancement in Scrip Master File format - Update",
+    "segment": "Equity",
+    "category": "Trading",
+    "department": "Trading Development",
+    "pdf_url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260422-15/20260422-15.pdf"
+  },
+  {
+    "notice_no": "20260422-14",
+    "subject": "Listing of further securities issued by the companies under ESOP / ESOS",
+    "segment": "Equity",
+    "category": "Company related",
+    "department": "Listing Operations",
+    "pdf_url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260422-14/20260422-14.pdf"
+  },
+  {
+    "notice_no": "20260422-13",
+    "subject": "Listing of new Securities of AXENTRA CORP LIMITED.",
+    "segment": "Equity",
+    "category": "Company related",
+    "department": "Listing Operations",
+    "pdf_url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260422-13/20260422-13.pdf"
+  },
+  {
+    "notice_no": "20260422-12",
+    "subject": "Settlement Schedule Offer to Buy – Acquisition Window (Buyback) for AUROBINDO PHARMA LIMITED",
+    "segment": "General",
+    "category": "Settlement/RMS",
+    "department": "ICCL",
+    "pdf_url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260422-12/20260422-12.pdf"
+  },
+  {
+    "notice_no": "20260422-11",
+    "subject": "Settlement Schedule Offer to Buy – Acquisition Window (Takeover) for AAA TECHNOLOGIES LIMITED",
+    "segment": "General",
+    "category": "Settlement/RMS",
+    "department": "ICCL",
+    "pdf_url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260422-11/20260422-11.pdf"
+  },
+  {
+    "notice_no": "20260422-10",
+    "subject": "Rights Entitlements of PANAFIC INDUSTRIALS LIMITED.",
+    "segment": "Equity",
+    "category": "Company related",
+    "department": "Listing Business Relationship",
+    "pdf_url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260422-10/20260422-10.pdf"
   }
 ]
