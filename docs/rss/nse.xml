@@ -5,7 +5,7 @@
     <link>https://venkatezh-13.github.io/circulars</link>
     <description>NSE circulars — last 7 days</description>
     <language>en-in</language>
-    <lastBuildDate>Thu, 23 Apr 2026 10:49:11 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Apr 2026 11:59:54 +0000</lastBuildDate>
     <atom:link href="https://venkatezh-13.github.io/circulars/rss/nse.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Mock trading on Saturday, April 18, 2026 - No new version release</title>
@@ -525,6 +525,22 @@
       <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/COM73863.zip</guid>
       <description>[NSE] NCL/COM/73863 — Recovery of Making charges levied by empaneled refinery</description>
       <category>Commodity Derivatives</category>
+      <pubDate>Thu, 23 Apr 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>Listing of privately placed securities on the debt market segment of the Exchange</title>
+      <link>https://nsearchives.nseindia.com/content/circulars/CML73867.pdf</link>
+      <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/CML73867.pdf</guid>
+      <description>[NSE] NSE/CML/73867 — Listing of privately placed securities on the debt market segment of the Exchange</description>
+      <category>Debt Segment</category>
+      <pubDate>Thu, 23 Apr 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>Listing of privately placed securities on capital market segment</title>
+      <link>https://nsearchives.nseindia.com/content/circulars/CML73865.pdf</link>
+      <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/CML73865.pdf</guid>
+      <description>[NSE] NSE/CML/73865 — Listing of privately placed securities on capital market segment</description>
+      <category>Listing</category>
       <pubDate>Thu, 23 Apr 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
