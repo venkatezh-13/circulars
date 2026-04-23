@@ -22,5 +22,53 @@
     "category": "Trading",
     "department": "Trading Operations",
     "pdf_url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260423-1/20260423-1.pdf"
+  },
+  {
+    "notice_no": "20260423-9",
+    "subject": "Mock Trading on Saturday, April 25, 2026, for Commodity Derivatives segment",
+    "segment": "Commodity Derivatives",
+    "category": "Trading",
+    "department": "Trading Operations",
+    "pdf_url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260423-9/20260423-9.pdf"
+  },
+  {
+    "notice_no": "20260423-8",
+    "subject": "Mock Trading on Saturday, April 25, 2026, for Currency Derivatives segment",
+    "segment": "Currency Derivatives",
+    "category": "Trading",
+    "department": "Trading Operations",
+    "pdf_url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260423-8/20260423-8.pdf"
+  },
+  {
+    "notice_no": "20260423-7",
+    "subject": "Mock Trading on Saturday, April 25, 2026, for Electronic Gold Receipts segment",
+    "segment": "EGR",
+    "category": "Trading",
+    "department": "Trading Operations",
+    "pdf_url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260423-7/20260423-7.pdf"
+  },
+  {
+    "notice_no": "20260423-6",
+    "subject": "Mock Trading on Saturday, April 25, 2026, for Equity Derivatives segment",
+    "segment": "Derivatives",
+    "category": "Trading",
+    "department": "Trading Operations",
+    "pdf_url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260423-6/20260423-6.pdf"
+  },
+  {
+    "notice_no": "20260423-5",
+    "subject": "Mock Trading on Saturday, April 25, 2026, for Equity segment",
+    "segment": "Equity",
+    "category": "Trading",
+    "department": "Trading Operations",
+    "pdf_url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260423-5/20260423-5.pdf"
+  },
+  {
+    "notice_no": "20260423-4",
+    "subject": "Listing of new Securities Regal Entertainment & Consultants Ltd.",
+    "segment": "Equity",
+    "category": "Company related",
+    "department": "Listing Operations",
+    "pdf_url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260423-4/20260423-4.pdf"
   }
 ]
