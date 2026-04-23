@@ -5,7 +5,7 @@
     <link>https://venkatezh-13.github.io/circulars</link>
     <description>BSE circulars — last 7 days</description>
     <language>en-in</language>
-    <lastBuildDate>Thu, 23 Apr 2026 02:49:48 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Apr 2026 05:33:30 +0000</lastBuildDate>
     <atom:link href="https://venkatezh-13.github.io/circulars/rss/bse.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Non-Competitive Bidding Facility for Auction of Treasury Bills (T-Bills) on April 22, 2026</title>
@@ -382,6 +382,30 @@
       <description>[BSE] 20260418-2 — PR DR switchover mock for 18 April 2026</description>
       <category>General / Trading</category>
       <pubDate>Sat, 18 Apr 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>Non-Competitive Bidding for Auction of GoI dated Securities (G-secs) on April 24, 2026</title>
+      <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260423-3/20260423-3.pdf</link>
+      <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260423-3/20260423-3.pdf</guid>
+      <description>[BSE] 20260423-3 — Non-Competitive Bidding for Auction of GoI dated Securities (G-secs) on April 24, 2026</description>
+      <category>Debt / Trading</category>
+      <pubDate>Thu, 23 Apr 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>Offer to Buy – Acquisition Window (Takeover) for AAA TECHNOLOGIES LTD – Live Activities Schedule</title>
+      <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260423-2/20260423-2.pdf</link>
+      <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260423-2/20260423-2.pdf</guid>
+      <description>[BSE] 20260423-2 — Offer to Buy – Acquisition Window (Takeover) for AAA TECHNOLOGIES LTD – Live Activities Schedule</description>
+      <category>Equity / Trading</category>
+      <pubDate>Thu, 23 Apr 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>Offer to Buy – Acquisition Window (Buyback) for AUROBINDO PHARMA LTD – Live Activities Schedule</title>
+      <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260423-1/20260423-1.pdf</link>
+      <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260423-1/20260423-1.pdf</guid>
+      <description>[BSE] 20260423-1 — Offer to Buy – Acquisition Window (Buyback) for AUROBINDO PHARMA LTD – Live Activities Schedule</description>
+      <category>Equity / Trading</category>
+      <pubDate>Thu, 23 Apr 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
       <title>Merger of UTI NIFTY SDL PLUS AAA PSU BOND APR 2026 75:25 INDEX FUND to UTI FLOATER FUND</title>
