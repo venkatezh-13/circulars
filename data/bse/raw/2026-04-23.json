@@ -70,5 +70,29 @@
     "category": "Company related",
     "department": "Listing Operations",
     "pdf_url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260423-4/20260423-4.pdf"
+  },
+  {
+    "notice_no": "20260423-12",
+    "subject": "Demat Auction 615",
+    "segment": "Equity",
+    "category": "Settlement/RMS",
+    "department": "ICCL",
+    "pdf_url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260423-12/20260423-12.pdf"
+  },
+  {
+    "notice_no": "20260423-11",
+    "subject": "Update Regarding debt securities of Logix Buildtech Pvt Ltd",
+    "segment": "Debt",
+    "category": "Company related",
+    "department": "DCS-Listing",
+    "pdf_url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260423-11/20260423-11.pdf"
+  },
+  {
+    "notice_no": "20260423-10",
+    "subject": "Listing of Equity Shares of MEHUL TELECOM LIMITED",
+    "segment": "SME",
+    "category": "Company related",
+    "department": "DCS-Listing",
+    "pdf_url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260423-10/20260423-10.pdf"
   }
 ]
