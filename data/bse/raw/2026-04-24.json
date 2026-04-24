@@ -198,5 +198,77 @@
     "category": "Settlement/RMS",
     "department": "ICCL",
     "pdf_url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260424-11/20260424-11.pdf"
+  },
+  {
+    "notice_no": "20260424-34",
+    "subject": "Applicability of Short Term Additional Surveillance Measure (ST-ASM)",
+    "segment": "Equity",
+    "category": "Trading",
+    "department": "DOSS",
+    "pdf_url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260424-34/20260424-34.pdf"
+  },
+  {
+    "notice_no": "20260424-33",
+    "subject": "Adjustment of Futures and Options contracts of Vedanta Ltd on account of Scheme of Arrangement",
+    "segment": "Derivatives",
+    "category": "Corporate Actions",
+    "department": "Trading Operations",
+    "pdf_url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260424-33/20260424-33.pdf"
+  },
+  {
+    "notice_no": "20260424-32",
+    "subject": "Applicability of Additional Measure for securities witnessing unusual price movement",
+    "segment": "Equity",
+    "category": "Trading",
+    "department": "DOSS",
+    "pdf_url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260424-32/20260424-32.pdf"
+  },
+  {
+    "notice_no": "20260424-31",
+    "subject": "Applicability of Long Term Additional Surveillance Measure (LT-ASM)",
+    "segment": "Equity",
+    "category": "Trading",
+    "department": "DOSS",
+    "pdf_url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260424-31/20260424-31.pdf"
+  },
+  {
+    "notice_no": "20260424-30",
+    "subject": "Surveillance Measure for securities under IBC",
+    "segment": "Equity",
+    "category": "Trading",
+    "department": "DOSS",
+    "pdf_url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260424-30/20260424-30.pdf"
+  },
+  {
+    "notice_no": "20260424-29",
+    "subject": "Enhanced Surveillance Measure (ESM)",
+    "segment": "Equity",
+    "category": "Trading",
+    "department": "DOSS",
+    "pdf_url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260424-29/20260424-29.pdf"
+  },
+  {
+    "notice_no": "20260424-28",
+    "subject": "Graded Surveillance Measure (GSM) - List of securities moving into their respective GSM Stages",
+    "segment": "Equity",
+    "category": "Trading",
+    "department": "DOSS",
+    "pdf_url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260424-28/20260424-28.pdf"
+  },
+  {
+    "notice_no": "20260424-27",
+    "subject": "CHANGES IN PRICE BAND",
+    "segment": "Equity",
+    "category": "Trading",
+    "department": "DOSS",
+    "pdf_url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260424-27/20260424-27.pdf"
+  },
+  {
+    "notice_no": "20260424-26",
+    "subject": "Movement of Scrip out of ‘Z’ Group",
+    "segment": "Equity",
+    "category": "Company related",
+    "department": "Listing Compliance-Monitoring",
+    "pdf_url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260424-26/20260424-26.pdf"
   }
 ]
