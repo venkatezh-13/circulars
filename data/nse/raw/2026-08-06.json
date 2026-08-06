@@ -71,13 +71,6 @@
   },
   {
     "date": "August 06, 2026",
-    "department": "Debt Segment",
-    "subject": "Listing of privately placed securities on the debt market segment of the Exchange",
-    "circular_ref": "NSE/CML/75618",
-    "link": "https://nsearchives.nseindia.com/content/circulars/CML75618.pdf"
-  },
-  {
-    "date": "August 06, 2026",
     "department": "Surveillance & Investigation",
     "subject": "Applicability of Enhanced Surveillance Measure (ESM)",
     "circular_ref": "NSE/SURV/75608",
@@ -113,9 +106,9 @@
   },
   {
     "date": "August 06, 2026",
-    "department": "Debt Segment",
-    "subject": "Suspension of trading in Non-Convertible Securities (Privately Placed)",
-    "circular_ref": "NSE/CML/75606",
-    "link": "https://nsearchives.nseindia.com/content/circulars/CML75606.pdf"
+    "department": "Surveillance & Investigation",
+    "subject": "Applicability of Additional Surveillance Measure (ASM)",
+    "circular_ref": "NSE/SURV/75609",
+    "link": "https://nsearchives.nseindia.com/content/circulars/SURV75609.zip"
   }
 ]
