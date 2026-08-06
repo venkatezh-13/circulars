@@ -96,6 +96,121 @@ def load_exchange_json(exchange: str):
     return records
 
 
+from concurrent.futures import ThreadPoolExecutor
+
+def parse_single_md(entry_path, is_nse):
+    try:
+        with open(entry_path, "rb") as file:
+            raw = file.read(4096)
+
+        p1 = raw.find(b"---")
+        if p1 == -1: return None
+        p2 = raw.find(b"---", p1 + 3)
+        if p2 == -1: return None
+        fm = raw[p1+3:p2].decode("utf-8", "ignore")
+
+        guid = ""
+        date_iso = ""
+        description = ""
+        category = "Circular"
+
+        for line in fm.splitlines():
+            if line.startswith("guid:"):
+                guid = line[5:].strip().strip("'\"")
+            elif line.startswith("date:"):
+                date_iso = line[5:].strip().strip("'\"")
+            elif line.startswith("description:"):
+                description = line[12:].strip().strip("'\"")
+            elif line.startswith("category:"):
+                category = line[9:].strip().strip("'\"")
+
+        notice_no = ""
+        idx_no = guid.find("noticeno=")
+        if idx_no != -1:
+            end = guid.find("&", idx_no)
+            notice_no = guid[idx_no+9:end] if end != -1 else guid[idx_no+9:]
+
+        if not notice_no:
+            fname = os.path.basename(entry_path)
+            if fname.startswith("bse-"):
+                parts = fname.split("-")
+                if len(parts) >= 5:
+                    notice_no = parts[4]
+
+        if not notice_no: return None
+
+        if not date_iso:
+            idx_dt = guid.find("dt=")
+            if idx_dt != -1:
+                end = guid.find("&", idx_dt)
+                raw_dt = guid[idx_dt+3:end] if end != -1 else guid[idx_dt+3:]
+                try:
+                    date_iso = datetime.strptime(raw_dt, "%m/%d/%Y").strftime("%Y-%m-%d")
+                except Exception: pass
+
+        if not date_iso:
+            fname = os.path.basename(entry_path)
+            if len(fname) >= 14 and fname[4] == "-" and fname[7] == "-":
+                date_iso = fname[4:14]
+
+        if not date_iso: return None
+
+        subject = description or os.path.basename(entry_path).replace(".md", "")
+        pdf_url = f"https://www.bseindia.com/downloads/UploadDocs/Notices/{notice_no}/{notice_no}.pdf" if "-" in notice_no and notice_no.replace("-","").isdigit() else guid
+
+        return {
+            "exchange": "NSE" if is_nse else "BSE",
+            "date": to_display(date_iso),
+            "date_iso": date_iso,
+            "ref": notice_no,
+            "subject": subject,
+            "category": category,
+            "link": pdf_url,
+        }
+    except Exception:
+        return None
+
+
+def load_rhnvrm_records():
+    rhnvrm_dir = os.path.join(REPO_ROOT, "scratch", "rhnvrm_repo", "hugo-site", "content", "circulars")
+    if not os.path.exists(rhnvrm_dir):
+        print("Cloning Rohan's stock-market-circulars repository (live data fetch)...")
+        target_clone = os.path.join(REPO_ROOT, "scratch", "rhnvrm_repo")
+        os.makedirs(os.path.dirname(target_clone), exist_ok=True)
+        try:
+            import subprocess
+            subprocess.run(["git", "clone", "--depth", "1", "https://github.com/rhnvrm/stock-market-circulars.git", target_clone], check=True)
+        except Exception as e:
+            print(f"Error cloning Rohan's repo: {e}")
+            return []
+
+    print("Reading Rohan's stock-market-circulars dataset directly...")
+    
+    target_dirs = [
+        os.path.join(rhnvrm_dir, "bse", "2025"),
+        os.path.join(rhnvrm_dir, "bse", "2026"),
+        os.path.join(rhnvrm_dir, "nse", "2025"),
+        os.path.join(rhnvrm_dir, "nse", "2026"),
+    ]
+
+    tasks = []
+    for tdir in target_dirs:
+        if not os.path.exists(tdir):
+            continue
+        is_nse = "nse" in tdir
+        for entry in os.scandir(tdir):
+            if entry.name.endswith(".md"):
+                tasks.append((entry.path, is_nse))
+
+    records = []
+    with ThreadPoolExecutor(max_workers=16) as executor:
+        results = executor.map(lambda t: parse_single_md(t[0], t[1]), tasks)
+        records = [r for r in results if r is not None]
+
+    print(f"Loaded {len(records):,} records directly from Rohan's dataset.")
+    return records
+
+
 def main():
     # Load all circulars from JSON files
     all_records = []
@@ -103,18 +218,28 @@ def main():
     for exchange in ["NSE", "BSE", "MCX", "SEBI"]:
         records = load_exchange_json(exchange)
         all_records.extend(records)
+
+    # Load Rohan's dataset directly without storing raw files in git data/
+    rhn_records = load_rhnvrm_records()
     
-    # Transform to frontend format
+    # Deduplicate
+    seen_keys = set()
     formatted_records = []
-    for r in all_records:
+
+    for r in all_records + rhn_records:
+        key = (r.get("exchange"), r.get("ref") or r.get("subject"))
+        if key in seen_keys:
+            continue
+        seen_keys.add(key)
+
         formatted_records.append({
             "exchange": r["exchange"],
-            "date": to_display(r["date_iso"]) if r["date_iso"] else "",
-            "date_iso": r["date_iso"] or "",
-            "ref": r["ref"] or "",
-            "subject": r["subject"] or "",
-            "category": r["category"] or "",
-            "link": r["link"] or "",
+            "date": to_display(r["date_iso"]) if r.get("date_iso") else "",
+            "date_iso": r.get("date_iso") or "",
+            "ref": r.get("ref") or "",
+            "subject": r.get("subject") or "",
+            "category": r.get("category") or "",
+            "link": r.get("link") or "",
         })
 
     # Write index

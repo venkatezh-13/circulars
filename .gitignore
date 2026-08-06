@@ -6,7 +6,9 @@ __pycache__/
 venv/
 .venv/
 
-# Local cache dirs created by scrapers
+# Local data & cache dirs
+data/
+scratch/
 nse_cache/
 bse_cache/
 mcx_cache/

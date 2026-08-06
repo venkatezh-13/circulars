@@ -1,16 +1,8 @@
-name: Circulars — Daily Poll
-
-# ──────────────────────────────────────────────────────────────────────────────
-# SCHEDULES
-#   • Poll  : every 15 min, 6:00 AM – 1:00 AM IST (0:30–19:30 UTC)
-#             GitHub's minimum cron interval is 5 min, but 15 min is safer
-#             against Actions queue delays and exchange rate-limits.
-#             Change to '*/5' if you want 5-min polling (uses ~3× more minutes).
-# ──────────────────────────────────────────────────────────────────────────────
+name: Circulars — Daily Poll & Deploy
 
 on:
   schedule:
-    # Poll — every 15 min during market hours (6 AM – 1 AM IST = 0:30-19:30 UTC)
+    # Run twice a day (e.g. 6:00 AM and 6:00 PM IST = 0:30 and 12:30 UTC) & market hours
     - cron: '*/15 0-19 * * *'
 
   workflow_dispatch:
@@ -22,10 +14,9 @@ on:
         type: choice
         options: [all, nse, bse, mcx, sebi]
 
-# Only allow one run at a time per ref — prevents concurrent git push conflicts
 concurrency:
   group: circulars-${{ github.ref }}
-  cancel-in-progress: false   # don't cancel; queue instead
+  cancel-in-progress: false
 
 jobs:
 
@@ -33,10 +24,10 @@ jobs:
   setup:
     runs-on: ubuntu-latest
     outputs:
-      run_nse:      ${{ steps.setup_exchanges.outputs.run_nse }}
-      run_bse:      ${{ steps.setup_exchanges.outputs.run_bse }}
-      run_mcx:      ${{ steps.setup_exchanges.outputs.run_mcx }}
-      run_sebi:     ${{ steps.setup_exchanges.outputs.run_sebi }}
+      run_nse:  ${{ steps.setup_exchanges.outputs.run_nse }}
+      run_bse:  ${{ steps.setup_exchanges.outputs.run_bse }}
+      run_mcx:  ${{ steps.setup_exchanges.outputs.run_mcx }}
+      run_sebi: ${{ steps.setup_exchanges.outputs.run_sebi }}
     steps:
       - name: Setup exchanges
         id: setup_exchanges
@@ -50,8 +41,8 @@ jobs:
             fi
           done
 
-  # ── Step 2: Scrape today (poll) ────────────────────────────────────────────
-  poll:
+  # ── Step 2: Poll live circulars & Rebuild index ────────────────────────────
+  poll-and-index:
     needs: setup
     runs-on: ubuntu-latest
     permissions:
@@ -70,68 +61,37 @@ jobs:
       - name: Install dependencies
         run: pip install httpx requests beautifulsoup4
 
-      # NSE
+      # Scrape live circulars
       - name: Scrape NSE
         if: needs.setup.outputs.run_nse == 'true'
         run: python scrapers/run_nse.py
         timeout-minutes: 10
 
-      # BSE
       - name: Scrape BSE
         if: needs.setup.outputs.run_bse == 'true'
         run: python scrapers/run_bse.py
         timeout-minutes: 15
 
-      # MCX
       - name: Scrape MCX
         if: needs.setup.outputs.run_mcx == 'true'
         run: python scrapers/run_mcx.py
         timeout-minutes: 10
 
-      # SEBI ────────────────────────────────────────────────────────────────────
       - name: Scrape SEBI
         if: needs.setup.outputs.run_sebi == 'true'
         run: python scrapers/run_sebi.py
         timeout-minutes: 10
 
-      - name: Commit new data
+      # Clone Rohan's repo for historical data
+      - name: Fetch Rohan Verma circulars dataset
         run: |
-          git config user.email "circulars-bot@github-actions"
-          git config user.name  "Circulars Bot"
-          git add data/
-          if git diff --staged --quiet; then
-            echo "No new circulars this poll."
-          else
-            git commit -m "poll: circulars $(date -u +'%Y-%m-%d %H:%M UTC') [skip ci]"
-            git pull --rebase origin main
-            git push
-          fi
+          git clone --depth 1 https://github.com/rhnvrm/stock-market-circulars.git scratch/rhnvrm_repo
 
-  # ── Step 3: Rebuild search index ────────────────────────────────────────────
-  rebuild-index:
-    needs: poll
-    if: always() && needs.poll.result == 'success'
-    runs-on: ubuntu-latest
-    permissions:
-      contents: write
-
-    steps:
-      - uses: actions/checkout@v4.2.2
-        with:
-          ref: main           # pull latest — picks up commits from above jobs
-          fetch-depth: 1
-
-      - uses: actions/setup-python@v5.6.0
-        with:
-          python-version: '3.12'
-          cache: 'pip'
-
-      - name: Install dependencies
-        run: pip install httpx requests beautifulsoup4
-
+      # Rebuild index combining live circulars + Rohan dataset
       - name: Rebuild search index
         run: python scripts/build_index.py
 
+      # Commit ONLY search_index.json and RSS feeds (0 raw files in git data/)
       - name: Commit index
         run: |
           git config user.email "circulars-bot@github-actions"
@@ -145,10 +105,10 @@ jobs:
             git push
           fi
 
-  # ── Step 4: Fast GitHub Pages Deploy ──────────────────────────────────────
+  # ── Step 3: Fast GitHub Pages Deploy ──────────────────────────────────────
   deploy-pages:
-    needs: rebuild-index
-    if: always() && needs.poll.result == 'success'
+    needs: poll-and-index
+    if: always() && needs.poll-and-index.result == 'success'
     runs-on: ubuntu-latest
     permissions:
       pages: write
