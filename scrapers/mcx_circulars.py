@@ -34,7 +34,7 @@ log = logging.getLogger(__name__)
 FROM_DATE        = date(2026, 3, 18)
 TO_DATE          = date(2026, 3, 18)
 
-API_URL          = "https://www.mcxindia.com/backpage.aspx/GetCircularAdvanceSearch"
+API_URL          = "https://www.mcxindia.com/circulars/all-circulars/GetFilteredAnnouncements"
 HOME_URL         = "https://www.mcxindia.com/circulars/all-circulars"
 
 MAX_RETRIES      = 3
@@ -49,12 +49,8 @@ OFF_PEAK_ONLY    = False    # set True to only run between 00:00–07:00 IST
 # ── User-Agent pool ───────────────────────────────────────────────────────────
 
 USER_AGENTS = [
-    "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-    "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36",
-    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-    "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0",
-    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Safari/605.1.15",
-    "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+    "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36",
+    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36",
 ]
 
 
@@ -77,31 +73,26 @@ def parse_mcx_date(raw: str) -> str:
     if match:
         ts = int(match.group(1)) / 1000
         return datetime.fromtimestamp(ts, tz=timezone.utc).strftime("%d %b %Y")
-    return raw
+    return str(raw)
 
 
 def make_headers() -> dict:
-    """Build realistic Chrome headers with a random User-Agent."""
+    """Build realistic Chrome headers with Akamai bot bypass params."""
     ua = random.choice(USER_AGENTS)
-    is_mac = "Macintosh" in ua
-    is_firefox = "Firefox" in ua
     return {
         "User-Agent":          ua,
         "Accept":              "application/json, text/javascript, */*; q=0.01",
         "Accept-Language":     "en-US,en;q=0.9",
         "Accept-Encoding":     "gzip, deflate, br",
-        "Content-Type":        "application/json",
-        "Origin":              "https://www.mcxindia.com",
-        "Referer":             "https://www.mcxindia.com/en/circulars/all-circulars",
+        "Referer":             HOME_URL,
         "X-Requested-With":    "XMLHttpRequest",
         "Connection":          "keep-alive",
-        "sec-ch-ua":           '"Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"',
+        "sec-ch-ua":           '"Google Chrome";v="123", "Not:A-Brand";v="8", "Chromium";v="123"',
         "sec-ch-ua-mobile":    "?0",
-        "sec-ch-ua-platform":  '"macOS"' if is_mac else '"Windows"',
+        "sec-ch-ua-platform":  '"Windows"',
         "sec-fetch-dest":      "empty",
         "sec-fetch-mode":      "cors",
         "sec-fetch-site":      "same-origin",
-        "sec-gpc":             "1",
     }
 
 
@@ -142,25 +133,28 @@ def save_cache(from_date: date, to_date: date, circular_type: str, data: list):
 # ── Session warm-up ───────────────────────────────────────────────────────────
 
 def warm_session(client: httpx.Client):
-    """
-    Visit the circulars page first to get ASP.NET session cookie.
-    Akamai expects a valid session before serving API responses.
-    """
+    """Visit home page and circulars page to get cookies."""
     try:
-        r = client.get(
-            HOME_URL,
-            headers={
-                "User-Agent": random.choice(USER_AGENTS),
-                "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
-                "Accept-Language": "en-US,en;q=0.9",
-                "Accept-Encoding": "gzip, deflate, br",
-                "Connection": "keep-alive",
-                "Upgrade-Insecure-Requests": "1",
-            },
-            timeout=30,
-        )
-        log.info(f"  Session warm-up: HTTP {r.status_code} | cookies: {list(client.cookies.keys())}")
-        time.sleep(random.uniform(1.5, 3.0))   # human pause after page load
+        doc_headers = {
+            "User-Agent": random.choice(USER_AGENTS),
+            "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Accept-Encoding": "gzip, deflate, br",
+            "Connection": "keep-alive",
+            "Upgrade-Insecure-Requests": "1",
+            "sec-ch-ua": '"Google Chrome";v="123", "Not:A-Brand";v="8", "Chromium";v="123"',
+            "sec-ch-ua-mobile": "?0",
+            "sec-ch-ua-platform": '"Windows"',
+            "sec-fetch-dest": "document",
+            "sec-fetch-mode": "navigate",
+            "sec-fetch-site": "none",
+            "sec-fetch-user": "?1",
+        }
+        r0 = client.get("https://www.mcxindia.com", headers=doc_headers, timeout=30)
+        time.sleep(1.0)
+        r = client.get(HOME_URL, headers=doc_headers, timeout=30)
+        log.info(f"  Session warm-up: HTTP {r.status_code}")
+        time.sleep(random.uniform(1.0, 2.0))
     except Exception as e:
         log.warning(f"  Session warm-up failed (continuing anyway): {e}")
 
@@ -171,41 +165,41 @@ def fetch_page(
     client: httpx.Client,
     from_str: str,
     to_str: str,
-    circular_type: str = "ALL",
-    circular_no: str = "",
-    title: str = "",
-) -> list[dict]:
-    payload = {
-        "CircularType": circular_type,
-        "CircularNo":   circular_no,
-        "Title":        title,
-        "FromDate":     from_str,
-        "ToDate":       to_str,
+    page: int = 1,
+) -> tuple[list[dict], int]:
+    params = {
+        "CircularsCategory": "CircularsCategory",
+        "CircularCategory":  "",
+        "CircularNo":        "",
+        "fromdate":          from_str,
+        "todate":            to_str,
+        "searchText":        "",
+        "page":              str(page),
     }
 
     last_error = None
     for attempt in range(1, MAX_RETRIES + 1):
         try:
-            r = client.post(API_URL, headers=make_headers(), json=payload, timeout=30)
+            r = client.get(API_URL, headers=make_headers(), params=params, timeout=30)
 
-            if r.status_code == 403:
-                raise ValueError("HTTP 403 — session may be required. Re-warming...")
+            if r.status_code in (401, 403):
+                raise ValueError(f"HTTP {r.status_code} — session may be required. Re-warming...")
 
             if r.status_code != 200:
                 raise ValueError(f"HTTP {r.status_code}: {r.text[:300]}")
 
             data = r.json()
 
-            if "d" not in data:
-                raise ValueError(f"Missing 'd' key. Got: {list(data.keys())}")
+            if isinstance(data, dict) and data.get("success") is False:
+                err = data.get("Error", "Unknown API error")
+                log.warning(f"  API returned success=false: {err}")
+                return [], 0
 
-            items = data["d"]
+            items = data.get("AllResult", []) if isinstance(data, dict) else (data if isinstance(data, list) else [])
+            total_pages = data.get("TotalPages", 1) if isinstance(data, dict) else 1
 
-            if not isinstance(items, list):
-                raise ValueError(f"'d' is not a list, got {type(items).__name__}: {str(items)[:200]}")
-
-            log.info(f"  Fetched {len(items)} items (attempt {attempt})")
-            return items
+            log.info(f"  Fetched {len(items)} items on page {page}/{total_pages} (attempt {attempt})")
+            return items, int(total_pages or 1)
 
         except ValueError as e:
             last_error = e
@@ -223,7 +217,7 @@ def fetch_page(
                 time.sleep(RETRY_DELAY * attempt)
 
     log.error(f"All {MAX_RETRIES} attempts failed. Last: {last_error}")
-    return []
+    return [], 0
 
 
 # ── Main scraper ──────────────────────────────────────────────────────────────
@@ -246,48 +240,57 @@ def scrape_mcx_circulars(
         if cached is not None:
             return [MCXCircular(**c) for c in cached]
 
-    from_str = from_date.strftime("%Y%m%d")
-    to_str   = to_date.strftime("%Y%m%d")
-    log.info(f"Fetching MCX circulars: {from_date} → {to_date} | type={circular_type}")
+    from_str = from_date.strftime("%d/%m/%Y")
+    to_str   = to_date.strftime("%d/%m/%Y")
+    log.info(f"Fetching MCX circulars: {from_date} -> {to_date} | type={circular_type}")
 
+    all_circulars = []
     with httpx.Client(follow_redirects=True, timeout=30) as client:
         warm_session(client)
-        items = fetch_page(client, from_str, to_str, circular_type)
+        page = 1
+        seen_refs = set()
+        while True:
+            items, total_pages = fetch_page(client, from_str, to_str, page=page)
+            if not items:
+                break
 
-    if not items:
+            for item in items:
+                try:
+                    disp_date = item.get("DisplayDate") or item.get("DisplayCircularDate") or parse_mcx_date(item.get("CircularDate", ""))
+                    link      = item.get("CircularFile") or item.get("Documents") or ""
+                    if link and not link.startswith("http"):
+                        link = "https://www.mcxindia.com" + link
+
+                    circ_no = str(item.get("CircularNo", ""))
+                    key = (circ_no, item.get("Title", ""))
+                    if key in seen_refs:
+                        continue
+                    seen_refs.add(key)
+
+                    all_circulars.append(MCXCircular(
+                        date=disp_date,
+                        category=item.get("CircularsCategory") or item.get("CircularTypesName") or "",
+                        title=item.get("Title", ""),
+                        circular_no=circ_no,
+                        link=link or None,
+                    ))
+                except Exception as e:
+                    log.warning(f"  Skipping malformed item: {e} | {item}")
+
+            if page >= total_pages:
+                break
+            page += 1
+
+    if not all_circulars:
         log.warning("No items returned — check date range or API status")
         return []
 
-    if len(items) >= PAGE_SIZE:
-        log.warning(
-            f"Got {len(items)} items — may be truncated. "
-            "Narrow your date range to be safe."
-        )
-
-    circulars = []
-    for item in items:
-        try:
-            raw_date  = item.get("CircularDate", "")
-            disp_date = item.get("DisplayCircularDate") or parse_mcx_date(raw_date)
-            link      = item.get("Documents") or ""
-            if link and not link.startswith("http"):
-                link = "https://www.mcxindia.com" + link
-
-            circulars.append(MCXCircular(
-                date=disp_date,
-                category=item.get("CircularTypesName", ""),
-                title=item.get("Title", ""),
-                circular_no=str(item.get("CircularNo", "")),
-                link=link or None,
-            ))
-        except Exception as e:
-            log.warning(f"  Skipping malformed item: {e} | {item}")
-
     # Save to cache
-    if use_cache and circulars:
-        save_cache(from_date, to_date, circular_type, [asdict(c) for c in circulars])
+    if use_cache and all_circulars:
+        save_cache(from_date, to_date, circular_type, [asdict(c) for c in all_circulars])
 
-    log.info(f"Done — {len(circulars)} circulars parsed")
+    log.info(f"Done — {len(all_circulars)} circulars parsed")
+    return all_circulars
     return circulars
 
 

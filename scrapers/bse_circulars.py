@@ -256,6 +256,36 @@ def page_default_date(html: str):
     return parse_date(m.group(1)) if m else None
 
 
+def fetch_from_xml_feed(session: requests.Session) -> list:
+    url = "https://www.bseindia.com/data/xml/notices.xml"
+    try:
+        resp = session.get(url, timeout=30)
+        if resp.status_code != 200:
+            return []
+        import xml.etree.ElementTree as ET
+        root = ET.fromstring(resp.content)
+        results = []
+        for item in root.findall("./channel/item"):
+            title = item.find("title").text if item.find("title") is not None else ""
+            link = item.find("link").text if item.find("link") is not None else ""
+            pub_date = item.find("pubDate").text if item.find("pubDate") is not None else ""
+            m = re.search(r'(\d{8}-\d+)', link)
+            notice_no = m.group(1) if m else ""
+            if notice_no:
+                results.append({
+                    "notice_no":  notice_no,
+                    "subject":    title,
+                    "segment":    "General",
+                    "category":   "Circular",
+                    "department": "BSE",
+                    "pdf_url":    link,
+                })
+        return results
+    except Exception as e:
+        print(f"    XML Feed fetch warning: {e}")
+        return []
+
+
 # ── Core fetcher ──────────────────────────────────────────────────────────────
 def fetch_for_url(
     session: requests.Session,
@@ -264,14 +294,25 @@ def fetch_for_url(
     to_date: str,
 ) -> list:
     print(f"[*] Loading {url.split('/')[-1]} ...")
-    get_html   = get_page(session, url)
-    default_dt = page_default_date(get_html)
+    
+    # Try direct real-time XML feed first
+    xml_rows = fetch_from_xml_feed(session)
+    if xml_rows:
+        print(f"    Fetched {len(xml_rows)} real-time notices from XML feed.")
+
+    try:
+        get_html = get_page(session, url)
+        default_dt = page_default_date(get_html)
+    except Exception:
+        get_html = ""
+        default_dt = None
+
     from_dt    = parse_date(from_date)
     to_dt      = parse_date(to_date)
 
     print(f"    Page default date : {fmt_date(default_dt) if default_dt else 'unknown'}")
 
-    use_get = (from_dt == to_dt == default_dt)
+    use_get = (from_dt == to_dt == default_dt) if default_dt else False
     if use_get:
         print("    Date matches page default — using GET response directly.")
         html = get_html
@@ -279,14 +320,23 @@ def fetch_for_url(
         print(f"    Page 1: {len(all_rows)} circulars")
     else:
         time.sleep(random.uniform(1.0, 2.0))
-        print(f"    POST filter: {from_date} → {to_date}")
-        html = post_filter(session, url, get_html, from_date, to_date)
-        all_rows, active_gv = parse_html(html)
+        print(f"    POST filter: {from_date} -> {to_date}")
+        html = post_filter(session, url, get_html, from_date, to_date) if get_html else ""
+        all_rows, active_gv = parse_html(html) if html else ([], None)
         print(f"    Page 1: {len(all_rows)} circulars")
+
+    # Combine XML rows and parsed rows
+    combined = xml_rows + all_rows
+    seen = set()
+    deduped = []
+    for r in combined:
+        if r["notice_no"] not in seen:
+            seen.add(r["notice_no"])
+            deduped.append(r)
 
     if not active_gv:
         print("    Warning: could not identify active GridView for pagination")
-        return all_rows
+        return deduped
 
     # ── Pagination ────────────────────────────────────────────────────────────
     # active_gv e.g. "ContentPlaceHolder1_GridView2"
@@ -378,7 +428,7 @@ def main():
     to_str    = fmt_date(to_dt)
     out_file  = args.out or "bse_circulars_cache.json"
 
-    print(f"[*] Date range : {from_str}  →  {to_str}")
+    print(f"[*] Date range : {from_str}  ->  {to_str}")
     print(f"[*] Output     : {out_file}")
 
     session = make_session()
@@ -397,7 +447,7 @@ def main():
 
     if archive_range:
         a_from, a_to = archive_range
-        print(f"\n[*] Archive range: {fmt_date(a_from)} → {fmt_date(a_to)}")
+        print(f"\n[*] Archive range: {fmt_date(a_from)} -> {fmt_date(a_to)}")
         rows = fetch_for_url(session, ARCHIVE_URL, fmt_date(a_from), fmt_date(a_to))
         all_circulars.extend(rows)
         if recent_range:
@@ -405,7 +455,7 @@ def main():
 
     if recent_range:
         r_from, r_to = recent_range
-        print(f"\n[*] Recent range: {fmt_date(r_from)} → {fmt_date(r_to)}")
+        print(f"\n[*] Recent range: {fmt_date(r_from)} -> {fmt_date(r_to)}")
         rows = fetch_for_url(session, RECENT_URL, fmt_date(r_from), fmt_date(r_to))
         all_circulars.extend(rows)
 
@@ -444,7 +494,7 @@ def main():
 
     with open(out_file, "w", encoding="utf-8") as f:
         json.dump(cache, f, indent=2, ensure_ascii=False)
-    print(f"\n[+] {len(added)} new  |  {len(cache)} total in cache → {out_file}")
+    print(f"\n[+] {len(added)} new  |  {len(cache)} total in cache -> {out_file}")
 
 
 if __name__ == "__main__":

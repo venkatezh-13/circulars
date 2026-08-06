@@ -123,7 +123,7 @@ def main():
         json.dump(formatted_records, f, separators=(",", ":"), ensure_ascii=False)
 
     # Print stats
-    print(f"\nIndex built: {len(formatted_records):,} total records → {OUT_FILE}")
+    print(f"\nIndex built: {len(formatted_records):,} total records -> {OUT_FILE}")
     size_kb = os.path.getsize(OUT_FILE) / 1024
     print(f"Index size: {size_kb:.1f} KB")
     
