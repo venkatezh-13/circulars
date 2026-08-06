@@ -102,7 +102,7 @@ jobs:
           if git diff --staged --quiet; then
             echo "No new circulars this poll."
           else
-            git commit -m "poll: circulars $(date -u +'%Y-%m-%d %H:%M UTC')"
+            git commit -m "poll: circulars $(date -u +'%Y-%m-%d %H:%M UTC') [skip ci]"
             git pull --rebase origin main
             git push
           fi
@@ -140,7 +140,7 @@ jobs:
           if git diff --staged --quiet; then
             echo "No index changes."
           else
-            git commit -m "index: $(date -u +'%Y-%m-%d %H:%M UTC')"
+            git commit -m "index: $(date -u +'%Y-%m-%d %H:%M UTC') [skip ci]"
             git pull --rebase origin main
             git push
           fi
