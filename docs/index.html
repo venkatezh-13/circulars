@@ -1054,11 +1054,11 @@ function render() {
   const sN = filtered.filter(r => r.exchange === 'SEBI').length;
 
   document.getElementById('stats').innerHTML =
-    `<span><strong>${total.toLocaleString()}</strong> circulars</span>` +
-    `<span class="stat-nse">NSE: ${nN}</span>` +
-    `<span class="stat-bse">BSE: ${bN}</span>` +
-    `<span class="stat-mcx">MCX: ${mN}</span>` +
-    `<span class="stat-sebi">SEBI: ${sN}</span>` +
+    `<span style="cursor:pointer;" onclick="setEx('ALL')"><strong>${total.toLocaleString()}</strong> circulars</span>` +
+    `<span class="stat-nse" style="cursor:pointer;" onclick="setEx('NSE')" title="Click to filter NSE">NSE: ${nN.toLocaleString()}</span>` +
+    `<span class="stat-bse" style="cursor:pointer;" onclick="setEx('BSE')" title="Click to filter BSE">BSE: ${bN.toLocaleString()}</span>` +
+    `<span class="stat-mcx" style="cursor:pointer;" onclick="setEx('MCX')" title="Click to filter MCX">MCX: ${mN.toLocaleString()}</span>` +
+    `<span class="stat-sebi" style="cursor:pointer;" onclick="setEx('SEBI')" title="Click to filter SEBI">SEBI: ${sN.toLocaleString()}</span>` +
     (kw ? `<span>Keyword: <strong>${esc(kw)}</strong></span>` : '');
 
   if (!slice.length) {

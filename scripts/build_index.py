@@ -97,8 +97,9 @@ def load_exchange_json(exchange: str):
 
 
 from concurrent.futures import ThreadPoolExecutor
+import re
 
-def parse_single_md(entry_path, is_nse):
+def parse_single_md(entry_path, exchange):
     try:
         with open(entry_path, "rb") as file:
             raw = file.read(4096)
@@ -113,6 +114,7 @@ def parse_single_md(entry_path, is_nse):
         date_iso = ""
         description = ""
         category = "Circular"
+        circular_id = ""
 
         for line in fm.splitlines():
             if line.startswith("guid:"):
@@ -123,49 +125,53 @@ def parse_single_md(entry_path, is_nse):
                 description = line[12:].strip().strip("'\"")
             elif line.startswith("category:"):
                 category = line[9:].strip().strip("'\"")
+            elif line.startswith("circular_id:"):
+                circular_id = line[12:].strip().strip("'\"")
 
         notice_no = ""
-        idx_no = guid.find("noticeno=")
-        if idx_no != -1:
-            end = guid.find("&", idx_no)
-            notice_no = guid[idx_no+9:end] if end != -1 else guid[idx_no+9:]
-
-        if not notice_no:
-            fname = os.path.basename(entry_path)
-            if fname.startswith("bse-"):
-                parts = fname.split("-")
-                if len(parts) >= 5:
-                    notice_no = parts[4]
-
-        if not notice_no: return None
+        if exchange == "BSE":
+            idx_no = guid.find("noticeno=")
+            if idx_no != -1:
+                end = guid.find("&", idx_no)
+                notice_no = guid[idx_no+9:end] if end != -1 else guid[idx_no+9:]
+            else:
+                m_fn = re.search(r'bse-(\d{4}-\d{2}-\d{2})-(.*)\.md$', os.path.basename(entry_path))
+                if m_fn: notice_no = m_fn.group(2)[:30]
+        elif exchange == "NSE":
+            m_nse = re.search(r'/([A-Z0-9_-]+)\.(pdf|zip|xls|xlsx|csv)', guid, re.IGNORECASE)
+            if m_nse:
+                notice_no = f"NSE/{m_nse.group(1)}"
+            else:
+                notice_no = circular_id or os.path.basename(entry_path).replace(".md", "")
+        elif exchange == "SEBI":
+            m_sebi = re.search(r'/([a-z0-9_-]+)_(\d+)\.html', guid, re.IGNORECASE)
+            if m_sebi:
+                notice_no = f"SEBI/{m_sebi.group(2)}"
+            else:
+                notice_no = circular_id or os.path.basename(entry_path).replace(".md", "")
+        else:
+            notice_no = circular_id or os.path.basename(entry_path).replace(".md", "")
 
         if not date_iso:
-            idx_dt = guid.find("dt=")
-            if idx_dt != -1:
-                end = guid.find("&", idx_dt)
-                raw_dt = guid[idx_dt+3:end] if end != -1 else guid[idx_dt+3:]
-                try:
-                    date_iso = datetime.strptime(raw_dt, "%m/%d/%Y").strftime("%Y-%m-%d")
-                except Exception: pass
-
-        if not date_iso:
-            fname = os.path.basename(entry_path)
-            if len(fname) >= 14 and fname[4] == "-" and fname[7] == "-":
-                date_iso = fname[4:14]
+            m_fn = re.search(r'(\d{4}-\d{2}-\d{2})', os.path.basename(entry_path))
+            if m_fn:
+                date_iso = m_fn.group(1)
 
         if not date_iso: return None
 
-        subject = description or os.path.basename(entry_path).replace(".md", "")
-        pdf_url = f"https://www.bseindia.com/downloads/UploadDocs/Notices/{notice_no}/{notice_no}.pdf" if "-" in notice_no and notice_no.replace("-","").isdigit() else guid
+        subject = description or os.path.basename(entry_path).replace(".md", "").replace("-", " ").title()
+        link = guid
+        if exchange == "BSE" and re.match(r'^\d{8}-\d+$', notice_no):
+            link = f"https://www.bseindia.com/downloads/UploadDocs/Notices/{notice_no}/{notice_no}.pdf"
 
         return {
-            "exchange": "NSE" if is_nse else "BSE",
+            "exchange": exchange,
             "date": to_display(date_iso),
             "date_iso": date_iso,
             "ref": notice_no,
             "subject": subject,
             "category": category,
-            "link": pdf_url,
+            "link": link,
         }
     except Exception:
         return None
@@ -184,23 +190,17 @@ def load_rhnvrm_records():
             print(f"Error cloning Rohan's repo: {e}")
             return []
 
-    print("Reading Rohan's stock-market-circulars dataset directly...")
+    print("Reading Rohan's stock-market-circulars dataset directly across NSE, BSE, SEBI...")
     
-    target_dirs = [
-        os.path.join(rhnvrm_dir, "bse", "2025"),
-        os.path.join(rhnvrm_dir, "bse", "2026"),
-        os.path.join(rhnvrm_dir, "nse", "2025"),
-        os.path.join(rhnvrm_dir, "nse", "2026"),
-    ]
-
     tasks = []
-    for tdir in target_dirs:
-        if not os.path.exists(tdir):
+    for ex in ["nse", "bse", "sebi"]:
+        ex_dir = os.path.join(rhnvrm_dir, ex)
+        if not os.path.exists(ex_dir):
             continue
-        is_nse = "nse" in tdir
-        for entry in os.scandir(tdir):
-            if entry.name.endswith(".md"):
-                tasks.append((entry.path, is_nse))
+        for root, dirs, files in os.walk(ex_dir):
+            for file in files:
+                if file.endswith(".md"):
+                    tasks.append((os.path.join(root, file), ex.upper()))
 
     records = []
     with ThreadPoolExecutor(max_workers=16) as executor:
