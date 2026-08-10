@@ -5,14 +5,30 @@
     <link>https://venkatezh-13.github.io/circulars</link>
     <description>NSE, BSE and MCX circulars — last 7 days</description>
     <language>en-in</language>
-    <lastBuildDate>Mon, 10 Aug 2026 12:09:54 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 10 Aug 2026 13:45:04 +0000</lastBuildDate>
     <atom:link href="https://venkatezh-13.github.io/circulars/rss/all.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Change in ISIN-Globe Fincap Limited</title>
+      <link>https://nsearchives.nseindia.com/content/circulars/CML75666.pdf</link>
+      <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/CML75666.pdf</guid>
+      <description>[NSE] NSE/CML/75666 — Change in ISIN-Globe Fincap Limited</description>
+      <category>Debt Segment</category>
+      <pubDate>Mon, 10 Aug 2026 07:30:00 +0530</pubDate>
+    </item>
     <item>
       <title>Suspension of trading in Non-Convertible Securities (Privately Placed)</title>
       <link>https://nsearchives.nseindia.com/content/circulars/CML75665.pdf</link>
       <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/CML75665.pdf</guid>
       <description>[NSE] NSE/CML/75665 — Suspension of trading in Non-Convertible Securities (Privately Placed)</description>
       <category>Debt Segment</category>
+      <pubDate>Mon, 10 Aug 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>Listing of further issues of securities</title>
+      <link>https://nsearchives.nseindia.com/content/circulars/CML75664.pdf</link>
+      <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/CML75664.pdf</guid>
+      <description>[NSE] NSE/CML/75664 — Listing of further issues of securities</description>
+      <category>Listing</category>
       <pubDate>Mon, 10 Aug 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
@@ -28,6 +44,14 @@
       <link>https://nsearchives.nseindia.com/content/circulars/CML75662.pdf</link>
       <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/CML75662.pdf</guid>
       <description>[NSE] NSE/CML/75662 — Listing of privately placed securities on the debt market segment of the Exchange</description>
+      <category>Listing</category>
+      <pubDate>Mon, 10 Aug 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>Face Value Split - Kirloskar Pneumatic Company Limited (KIRLPNU)</title>
+      <link>https://nsearchives.nseindia.com/content/circulars/CML75661.pdf</link>
+      <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/CML75661.pdf</guid>
+      <description>[NSE] NSE/CML/75661 — Face Value Split - Kirloskar Pneumatic Company Limited (KIRLPNU)</description>
       <category>Listing</category>
       <pubDate>Mon, 10 Aug 2026 07:30:00 +0530</pubDate>
     </item>
@@ -76,7 +100,7 @@
       <link>https://nsearchives.nseindia.com/content/circulars/MSD75654.zip</link>
       <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/MSD75654.zip</guid>
       <description>[NSE] NSE/MSD/75654 — Introduction of NSE Extranet Beta service - Update</description>
-      <category>Securities Lending &amp; Borrowing Scheme</category>
+      <category>Emerge</category>
       <pubDate>Mon, 10 Aug 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
@@ -136,10 +160,78 @@
       <pubDate>Mon, 10 Aug 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
+      <title>Outcome of Fixed Price Delisting Process under regulation 17(3)
+of the Delisting Regulations of ELPRO INTERNATIONAL LIMITED</title>
+      <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260810-24/20260810-24.pdf</link>
+      <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260810-24/20260810-24.pdf</guid>
+      <description>[BSE] 20260810-24 — Outcome of Fixed Price Delisting Process under regulation 17(3)
+of the Delisting Regulations of ELPRO INTERNATIONAL LIMITED</description>
+      <category>General / Circular</category>
+      <pubDate>Mon, 10 Aug 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>Change in Minimum application amount for Systematic Investment Plan (SIP) in certain schemes of JM Financial  MUTUAL FUND</title>
+      <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260810-23/20260810-23.pdf</link>
+      <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260810-23/20260810-23.pdf</guid>
+      <description>[BSE] 20260810-23 — Change in Minimum application amount for Systematic Investment Plan (SIP) in certain schemes of JM Financial  MUTUAL FUND</description>
+      <category>General / Circular</category>
+      <pubDate>Mon, 10 Aug 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>Temporary Suspension of subscription in certain schemes of Edelweiss Mutual Fund on BSE StAR MF Platform.</title>
+      <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260810-22/20260810-22.pdf</link>
+      <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260810-22/20260810-22.pdf</guid>
+      <description>[BSE] 20260810-22 — Temporary Suspension of subscription in certain schemes of Edelweiss Mutual Fund on BSE StAR MF Platform.</description>
+      <category>General / Circular</category>
+      <pubDate>Mon, 10 Aug 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>Non-Business Day for scheme of NIPPON INDIA Mutual Fund.</title>
+      <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260810-21/20260810-21.pdf</link>
+      <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260810-21/20260810-21.pdf</guid>
+      <description>[BSE] 20260810-21 — Non-Business Day for scheme of NIPPON INDIA Mutual Fund.</description>
+      <category>General / Circular</category>
+      <pubDate>Mon, 10 Aug 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>Clarification Received from the Companies</title>
+      <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260810-20/20260810-20.pdf</link>
+      <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260810-20/20260810-20.pdf</guid>
+      <description>[BSE] 20260810-20 — Clarification Received from the Companies</description>
+      <category>General / Circular</category>
+      <pubDate>Mon, 10 Aug 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
       <title>Listing of Equity Shares of AEGEUS TECHNOLOGIES LIMITED</title>
       <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260810-2/20260810-2.pdf</link>
       <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260810-2/20260810-2.pdf</guid>
       <description>[BSE] 20260810-2 — Listing of Equity Shares of AEGEUS TECHNOLOGIES LIMITED</description>
+      <category>General / Circular</category>
+      <pubDate>Mon, 10 Aug 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>SMEIPO- Draft Offer Document
+</title>
+      <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260810-19/20260810-19.pdf</link>
+      <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260810-19/20260810-19.pdf</guid>
+      <description>[BSE] 20260810-19 — SMEIPO- Draft Offer Document
+</description>
+      <category>General / Circular</category>
+      <pubDate>Mon, 10 Aug 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>Clarification Received from the Company on News Articles</title>
+      <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260810-18/20260810-18.pdf</link>
+      <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260810-18/20260810-18.pdf</guid>
+      <description>[BSE] 20260810-18 — Clarification Received from the Company on News Articles</description>
+      <category>General / Circular</category>
+      <pubDate>Mon, 10 Aug 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>Listing of privately placed securities on the debt market segment of the Exchange</title>
+      <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260810-17/20260810-17.pdf</link>
+      <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260810-17/20260810-17.pdf</guid>
+      <description>[BSE] 20260810-17 — Listing of privately placed securities on the debt market segment of the Exchange</description>
       <category>General / Circular</category>
       <pubDate>Mon, 10 Aug 2026 07:30:00 +0530</pubDate>
     </item>
