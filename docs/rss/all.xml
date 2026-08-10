@@ -5,8 +5,32 @@
     <link>https://venkatezh-13.github.io/circulars</link>
     <description>NSE, BSE and MCX circulars — last 7 days</description>
     <language>en-in</language>
-    <lastBuildDate>Mon, 10 Aug 2026 13:45:04 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 10 Aug 2026 14:45:47 +0000</lastBuildDate>
     <atom:link href="https://venkatezh-13.github.io/circulars/rss/all.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Applicability of Additional Surveillance Measure under IBC</title>
+      <link>https://nsearchives.nseindia.com/content/circulars/SURV75669.zip</link>
+      <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/SURV75669.zip</guid>
+      <description>[NSE] NSE/SURV/75669 — Applicability of Additional Surveillance Measure under IBC</description>
+      <category>Surveillance &amp; Investigation</category>
+      <pubDate>Mon, 10 Aug 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>Applicability of Short-Term Additional Surveillance Measure (ST-ASM)</title>
+      <link>https://nsearchives.nseindia.com/content/circulars/SURV75668.zip</link>
+      <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/SURV75668.zip</guid>
+      <description>[NSE] NSE/SURV/75668 — Applicability of Short-Term Additional Surveillance Measure (ST-ASM)</description>
+      <category>Surveillance &amp; Investigation</category>
+      <pubDate>Mon, 10 Aug 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>Applicability of Additional Surveillance Measure (ASM)</title>
+      <link>https://nsearchives.nseindia.com/content/circulars/SURV75667.zip</link>
+      <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/SURV75667.zip</guid>
+      <description>[NSE] NSE/SURV/75667 — Applicability of Additional Surveillance Measure (ASM)</description>
+      <category>Surveillance &amp; Investigation</category>
+      <pubDate>Mon, 10 Aug 2026 07:30:00 +0530</pubDate>
+    </item>
     <item>
       <title>Change in ISIN-Globe Fincap Limited</title>
       <link>https://nsearchives.nseindia.com/content/circulars/CML75666.pdf</link>
@@ -44,7 +68,7 @@
       <link>https://nsearchives.nseindia.com/content/circulars/CML75662.pdf</link>
       <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/CML75662.pdf</guid>
       <description>[NSE] NSE/CML/75662 — Listing of privately placed securities on the debt market segment of the Exchange</description>
-      <category>Listing</category>
+      <category>Debt Segment</category>
       <pubDate>Mon, 10 Aug 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
@@ -100,7 +124,7 @@
       <link>https://nsearchives.nseindia.com/content/circulars/MSD75654.zip</link>
       <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/MSD75654.zip</guid>
       <description>[NSE] NSE/MSD/75654 — Introduction of NSE Extranet Beta service - Update</description>
-      <category>Emerge</category>
+      <category>Currency Derivatives</category>
       <pubDate>Mon, 10 Aug 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
@@ -152,10 +176,90 @@
       <pubDate>Mon, 10 Aug 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
+      <title>SMEIPO - Draft Offer Document</title>
+      <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260810-34/20260810-34.pdf</link>
+      <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260810-34/20260810-34.pdf</guid>
+      <description>[BSE] 20260810-34 — SMEIPO - Draft Offer Document</description>
+      <category>General / Circular</category>
+      <pubDate>Mon, 10 Aug 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>Applicability of Long Term Additional Surveillance Measure (LT-ASM)</title>
+      <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260810-33/20260810-33.pdf</link>
+      <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260810-33/20260810-33.pdf</guid>
+      <description>[BSE] 20260810-33 — Applicability of Long Term Additional Surveillance Measure (LT-ASM)</description>
+      <category>General / Circular</category>
+      <pubDate>Mon, 10 Aug 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>Surveillance Measure for securities under IBC</title>
+      <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260810-32/20260810-32.pdf</link>
+      <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260810-32/20260810-32.pdf</guid>
+      <description>[BSE] 20260810-32 — Surveillance Measure for securities under IBC</description>
+      <category>General / Circular</category>
+      <pubDate>Mon, 10 Aug 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>Order in the matter of Nirman Agri Genetics Limited</title>
+      <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260810-31/20260810-31.pdf</link>
+      <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260810-31/20260810-31.pdf</guid>
+      <description>[BSE] 20260810-31 — Order in the matter of Nirman Agri Genetics Limited</description>
+      <category>General / Circular</category>
+      <pubDate>Mon, 10 Aug 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>Enhanced Surveillance Measure (ESM)</title>
+      <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260810-30/20260810-30.pdf</link>
+      <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260810-30/20260810-30.pdf</guid>
+      <description>[BSE] 20260810-30 — Enhanced Surveillance Measure (ESM)</description>
+      <category>General / Circular</category>
+      <pubDate>Mon, 10 Aug 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
       <title>Non-Competitive Bidding for Auction of State Government Securities (SDL) on August 11, 2026</title>
       <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260810-3/20260810-3.pdf</link>
       <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260810-3/20260810-3.pdf</guid>
       <description>[BSE] 20260810-3 — Non-Competitive Bidding for Auction of State Government Securities (SDL) on August 11, 2026</description>
+      <category>General / Circular</category>
+      <pubDate>Mon, 10 Aug 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>REVISION OF SCRIPS IN TRADE TO TRADE SEGMENT</title>
+      <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260810-29/20260810-29.pdf</link>
+      <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260810-29/20260810-29.pdf</guid>
+      <description>[BSE] 20260810-29 — REVISION OF SCRIPS IN TRADE TO TRADE SEGMENT</description>
+      <category>General / Circular</category>
+      <pubDate>Mon, 10 Aug 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>Applicability of Short-Term Additional Surveillance Measure (ST-ASM)</title>
+      <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260810-28/20260810-28.pdf</link>
+      <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260810-28/20260810-28.pdf</guid>
+      <description>[BSE] 20260810-28 — Applicability of Short-Term Additional Surveillance Measure (ST-ASM)</description>
+      <category>General / Circular</category>
+      <pubDate>Mon, 10 Aug 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>CHANGES IN PRICE BAND</title>
+      <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260810-27/20260810-27.pdf</link>
+      <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260810-27/20260810-27.pdf</guid>
+      <description>[BSE] 20260810-27 — CHANGES IN PRICE BAND</description>
+      <category>General / Circular</category>
+      <pubDate>Mon, 10 Aug 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>Graded Surveillance Measure (GSM) - List of securities moving into their respective GSM Stages</title>
+      <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260810-26/20260810-26.pdf</link>
+      <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260810-26/20260810-26.pdf</guid>
+      <description>[BSE] 20260810-26 — Graded Surveillance Measure (GSM) - List of securities moving into their respective GSM Stages</description>
+      <category>General / Circular</category>
+      <pubDate>Mon, 10 Aug 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>Public Issue of MILKY MIST DAIRY FOOD LIMITED - Allocation to Anchor Investors.</title>
+      <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260810-25/20260810-25.pdf</link>
+      <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260810-25/20260810-25.pdf</guid>
+      <description>[BSE] 20260810-25 — Public Issue of MILKY MIST DAIRY FOOD LIMITED - Allocation to Anchor Investors.</description>
       <category>General / Circular</category>
       <pubDate>Mon, 10 Aug 2026 07:30:00 +0530</pubDate>
     </item>
@@ -398,6 +502,14 @@ TWS/ETI/BOLTPLUS Location information for the month July 2026</description>
       <pubDate>Fri, 07 Aug 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
+      <title>Nse 2026 08 10 E1Efd4Ab69D707D5 Suspension Of Trading In Non Convertible Securities Privately Placed</title>
+      <link>https://nsearchives.nseindia.com/content/circulars/CML75665.pdf</link>
+      <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/CML75665.pdf</guid>
+      <description>[NSE] NSE/CML75665 — Nse 2026 08 10 E1Efd4Ab69D707D5 Suspension Of Trading In Non Convertible Securities Privately Placed</description>
+      <category>Circular</category>
+      <pubDate>Mon, 10 Aug 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
       <title>Nse 2026 08 04 782C9Bba073543B6 Listing Of Equity Shares Of Manipal Health Enterprises Limited Ipo</title>
       <link>https://nsearchives.nseindia.com/content/circulars/CML75548.pdf</link>
       <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/CML75548.pdf</guid>
@@ -444,6 +556,14 @@ TWS/ETI/BOLTPLUS Location information for the month July 2026</description>
       <description>[NSE] NSE/INVG75649 — Nse 2026 08 07 Fd5Dee2232Ac1Aea Sebi Directions Pursuant To Sat Order In The Matter Of Trifid Research</description>
       <category>Circular</category>
       <pubDate>Fri, 07 Aug 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>Nse 2026 08 10 576Ef73C6Fd474D4 Change In Isin Globe Fincap Limited</title>
+      <link>https://nsearchives.nseindia.com/content/circulars/CML75666.pdf</link>
+      <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/CML75666.pdf</guid>
+      <description>[NSE] NSE/CML75666 — Nse 2026 08 10 576Ef73C6Fd474D4 Change In Isin Globe Fincap Limited</description>
+      <category>Circular</category>
+      <pubDate>Mon, 10 Aug 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
       <title>Nse 2026 08 06 6Da9384341E25081 Trade For Trade</title>
@@ -500,6 +620,22 @@ TWS/ETI/BOLTPLUS Location information for the month July 2026</description>
       <description>[NSE] NSE/SURV75579 — Nse 2026 08 05 B4Fb019F84Ab5184 List Of Securities Moving To Stage I Of Graded Surveillance Measure Gsm</description>
       <category>Circular</category>
       <pubDate>Wed, 05 Aug 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>Nse 2026 08 10 59Bce856C1981F3A Listing Of Privately Placed Securities On The Debt Market Segment Of The Exchang</title>
+      <link>https://nsearchives.nseindia.com/content/circulars/CML75662.pdf</link>
+      <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/CML75662.pdf</guid>
+      <description>[NSE] NSE/CML75662 — Nse 2026 08 10 59Bce856C1981F3A Listing Of Privately Placed Securities On The Debt Market Segment Of The Exchang</description>
+      <category>Circular</category>
+      <pubDate>Mon, 10 Aug 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>Nse 2026 08 10 783066D733600Fd6 Listing Of Equity Shares Of Annapurna Swadisht Limited On Capital Market Segment</title>
+      <link>https://nsearchives.nseindia.com/content/circulars/CML75660.zip</link>
+      <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/CML75660.zip</guid>
+      <description>[NSE] NSE/CML75660 — Nse 2026 08 10 783066D733600Fd6 Listing Of Equity Shares Of Annapurna Swadisht Limited On Capital Market Segment</description>
+      <category>Circular</category>
+      <pubDate>Mon, 10 Aug 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
       <title>Nse 2026 08 03 Bfd4750Fb5B12480 Applicability Of Short Term Additional Surveillance Measure St Asm</title>
@@ -662,6 +798,14 @@ TWS/ETI/BOLTPLUS Location information for the month July 2026</description>
       <pubDate>Wed, 05 Aug 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
+      <title>Nse 2026 08 10 2E86Bcdb2554F21D Launch Of Uti Nifty 500 Index Fund Nfo On Nse Mf Invest Platform</title>
+      <link>https://nsearchives.nseindia.com/content/circulars/NMF75657.pdf</link>
+      <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/NMF75657.pdf</guid>
+      <description>[NSE] NSE/NMF75657 — Nse 2026 08 10 2E86Bcdb2554F21D Launch Of Uti Nifty 500 Index Fund Nfo On Nse Mf Invest Platform</description>
+      <category>Circular</category>
+      <pubDate>Mon, 10 Aug 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
       <title>Nse 2026 08 06 7Eaac6A13E1Ac1C6 Listing Of Further Issues Of Securities</title>
       <link>https://nsearchives.nseindia.com/content/circulars/CML75614.pdf</link>
       <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/CML75614.pdf</guid>
@@ -796,6 +940,14 @@ TWS/ETI/BOLTPLUS Location information for the month July 2026</description>
       <description>[NSE] NSE/SURV75538 — Nse 2026 08 03 Eec66C912B3Ca5D9 Applicability Of Enhanced Surveillance Measure Esm</description>
       <category>Circular</category>
       <pubDate>Mon, 03 Aug 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>Nse 2026 08 10 Deb01E8Ebcd40F10 Listing Of Privately Placed Securities On Capital Market Segment</title>
+      <link>https://nsearchives.nseindia.com/content/circulars/CML75663.pdf</link>
+      <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/CML75663.pdf</guid>
+      <description>[NSE] NSE/CML75663 — Nse 2026 08 10 Deb01E8Ebcd40F10 Listing Of Privately Placed Securities On Capital Market Segment</description>
+      <category>Circular</category>
+      <pubDate>Mon, 10 Aug 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
       <title>Nse 2026 08 04 Fd250Abbacf5E4Ff Listing Of Privately Placed Securities On The Debt Market Segment Of The Exchang</title>
@@ -1006,6 +1158,22 @@ TWS/ETI/BOLTPLUS Location information for the month July 2026</description>
       <pubDate>Wed, 05 Aug 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
+      <title>Nse 2026 08 10 188069A8335F9Ff3 Temporary Suspension Of Existing Subscriptions In Certain Schemes Of Edelweiss M</title>
+      <link>https://nsearchives.nseindia.com/content/circulars/NMF75655.zip</link>
+      <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/NMF75655.zip</guid>
+      <description>[NSE] NSE/NMF75655 — Nse 2026 08 10 188069A8335F9Ff3 Temporary Suspension Of Existing Subscriptions In Certain Schemes Of Edelweiss M</description>
+      <category>Circular</category>
+      <pubDate>Mon, 10 Aug 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>Nse 2026 08 10 D7206E63Ae3B07Ca Introduction Of Nse Extranet Beta Service Update</title>
+      <link>https://nsearchives.nseindia.com/content/circulars/MSD75654.zip</link>
+      <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/MSD75654.zip</guid>
+      <description>[NSE] NSE/MSD75654 — Nse 2026 08 10 D7206E63Ae3B07Ca Introduction Of Nse Extranet Beta Service Update</description>
+      <category>Circular</category>
+      <pubDate>Mon, 10 Aug 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
       <title>Nse 2026 08 07 5A96A5C51E9D655C Mock Trading On Saturday August 08 2026 No New Version Release</title>
       <link>https://nsearchives.nseindia.com/content/circulars/FAOP75622.pdf</link>
       <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/FAOP75622.pdf</guid>
@@ -1020,6 +1188,14 @@ TWS/ETI/BOLTPLUS Location information for the month July 2026</description>
       <description>[NSE] NSE/CML75592 — Nse 2026 08 05 E0Cf5E52F4Ef3349 Listing Of Further Issues Of Securities</description>
       <category>Circular</category>
       <pubDate>Wed, 05 Aug 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>Nse 2026 08 10 Bb8Cfdc1F454Ab03 Listing Of Further Issues Of Securities</title>
+      <link>https://nsearchives.nseindia.com/content/circulars/CML75664.pdf</link>
+      <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/CML75664.pdf</guid>
+      <description>[NSE] NSE/CML75664 — Nse 2026 08 10 Bb8Cfdc1F454Ab03 Listing Of Further Issues Of Securities</description>
+      <category>Circular</category>
+      <pubDate>Mon, 10 Aug 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
       <title>Nse 2026 08 05 7F71Bd81B964Acc6 Listing Of Further Issue Of Gvp Infotech Limited</title>
@@ -1132,6 +1308,14 @@ TWS/ETI/BOLTPLUS Location information for the month July 2026</description>
       <description>[NSE] NSE/NMF75601 — Nse 2026 08 06 8770A31F08De3Df5 Introduction Of Payout Sub Option In Ad Hoc Income Distribution Cum Withdrawal I</description>
       <category>Circular</category>
       <pubDate>Thu, 06 Aug 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>Nse 2026 08 10 5E89E1D671437680 Launch Of Uti Nifty 500 Exchange Traded Fund Nfo On Nse Mf Invest Platform</title>
+      <link>https://nsearchives.nseindia.com/content/circulars/NMF75656.pdf</link>
+      <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/NMF75656.pdf</guid>
+      <description>[NSE] NSE/NMF75656 — Nse 2026 08 10 5E89E1D671437680 Launch Of Uti Nifty 500 Exchange Traded Fund Nfo On Nse Mf Invest Platform</description>
+      <category>Circular</category>
+      <pubDate>Mon, 10 Aug 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
       <title>Nse 2026 08 07 C69Da12A483202D6 Implementation Of Section 51A Of Uapa 1967 Security Council 1988 2011 Amends 05 </title>
@@ -1518,6 +1702,14 @@ TWS/ETI/BOLTPLUS Location information for the month July 2026</description>
       <pubDate>Thu, 06 Aug 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
+      <title>Bse 2026 08 10 9069225Dca78C1Bd Listing Of Privately Placed Securities On The Debt Market Segment Of The Exchang</title>
+      <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260810-17/20260810-17.pdf</link>
+      <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260810-17/20260810-17.pdf</guid>
+      <description>[BSE] 9069225dca78c1bd-listing-of-pr — Bse 2026 08 10 9069225Dca78C1Bd Listing Of Privately Placed Securities On The Debt Market Segment Of The Exchang</description>
+      <category>Circular</category>
+      <pubDate>Mon, 10 Aug 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
       <title>Bse 2026 08 04 A0A49704C3036Cdc Launch Of New Fund Offer Nfo With Sip Facility Of Kotak Mahindra Mutual Fund On </title>
       <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260804-34/20260804-34.pdf</link>
       <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260804-34/20260804-34.pdf</guid>
@@ -1550,6 +1742,14 @@ TWS/ETI/BOLTPLUS Location information for the month July 2026</description>
       <pubDate>Tue, 04 Aug 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
+      <title>Bse 2026 08 10 8F115060E4Eb3F4F Non Business Day For Scheme Of Nippon India Mutual Fund</title>
+      <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260810-21/20260810-21.pdf</link>
+      <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260810-21/20260810-21.pdf</guid>
+      <description>[BSE] 8f115060e4eb3f4f-non-business- — Bse 2026 08 10 8F115060E4Eb3F4F Non Business Day For Scheme Of Nippon India Mutual Fund</description>
+      <category>Circular</category>
+      <pubDate>Mon, 10 Aug 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
       <title>Bse 2026 08 07 9D081B77Dd90E013 Listing Of New Securities Of Arvind Ltd</title>
       <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260807-2/20260807-2.pdf</link>
       <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260807-2/20260807-2.pdf</guid>
@@ -1572,6 +1772,14 @@ TWS/ETI/BOLTPLUS Location information for the month July 2026</description>
       <description>[BSE] b2b873e51ee09240-add-on-price- — Bse 2026 08 03 B2B873E51Ee09240 Add On Price Band Framework Updated List</description>
       <category>Circular</category>
       <pubDate>Mon, 03 Aug 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>Bse 2026 08 10 3497489356Ff3F61 Outcome Of Fixed Price Delisting Process Under Regulation 173 Of The Delisting R</title>
+      <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260810-24/20260810-24.pdf</link>
+      <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260810-24/20260810-24.pdf</guid>
+      <description>[BSE] 3497489356ff3f61-outcome-of-fi — Bse 2026 08 10 3497489356Ff3F61 Outcome Of Fixed Price Delisting Process Under Regulation 173 Of The Delisting R</description>
+      <category>Circular</category>
+      <pubDate>Mon, 10 Aug 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
       <title>Bse 2026 08 04 A75311451Afd1Cf5 Extension Of Timeline For Enrolment With Parrva</title>
@@ -1732,6 +1940,14 @@ TWS/ETI/BOLTPLUS Location information for the month July 2026</description>
       <description>[BSE] 84ca0348ecca4d4c-suspension-of — Bse 2026 08 04 84Ca0348Ecca4D4C Suspension Of Trading In Commercial Paper</description>
       <category>Circular</category>
       <pubDate>Tue, 04 Aug 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>Bse 2026 08 10 Cc56369B9A2956Bb Listing Of New Securities Of Uday Jewellery Industries Limited</title>
+      <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260810-15/20260810-15.pdf</link>
+      <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260810-15/20260810-15.pdf</guid>
+      <description>[BSE] cc56369b9a2956bb-listing-of-ne — Bse 2026 08 10 Cc56369B9A2956Bb Listing Of New Securities Of Uday Jewellery Industries Limited</description>
+      <category>Circular</category>
+      <pubDate>Mon, 10 Aug 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
       <title>Bse 2026 08 06 2A3D7870C73Bbcba Release Of New Version Of Market Data Api In Commodity Derivatives Segment Updat</title>
@@ -2046,6 +2262,14 @@ TWS/ETI/BOLTPLUS Location information for the month July 2026</description>
       <pubDate>Mon, 03 Aug 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
+      <title>Bse 2026 08 10 8Cd70Ea58A90E0F3 Listing Of Further Securities Issued By The Companies Under Esop Esos</title>
+      <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260810-14/20260810-14.pdf</link>
+      <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260810-14/20260810-14.pdf</guid>
+      <description>[BSE] 8cd70ea58a90e0f3-listing-of-fu — Bse 2026 08 10 8Cd70Ea58A90E0F3 Listing Of Further Securities Issued By The Companies Under Esop Esos</description>
+      <category>Circular</category>
+      <pubDate>Mon, 10 Aug 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
       <title>Bse 2026 08 03 C2Ed6F4F6Acd590D Launch Of Nfo With Sip Facility Of Alphagrep Mutual Fund On Bse Star Mf Platform</title>
       <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260803-37/20260803-37.pdf</link>
       <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260803-37/20260803-37.pdf</guid>
@@ -2126,6 +2350,14 @@ TWS/ETI/BOLTPLUS Location information for the month July 2026</description>
       <pubDate>Tue, 04 Aug 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
+      <title>Bse 2026 08 10 37A6F722191D55A7 Clarification Received From The Companies</title>
+      <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260810-20/20260810-20.pdf</link>
+      <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260810-20/20260810-20.pdf</guid>
+      <description>[BSE] 37a6f722191d55a7-clarification — Bse 2026 08 10 37A6F722191D55A7 Clarification Received From The Companies</description>
+      <category>Circular</category>
+      <pubDate>Mon, 10 Aug 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
       <title>Bse 2026 08 06 78De0Bbaf2136E47 Suspension Of Trading In T Billsgovernment Securities</title>
       <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260806-7/20260806-7.pdf</link>
       <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260806-7/20260806-7.pdf</guid>
@@ -2164,6 +2396,14 @@ TWS/ETI/BOLTPLUS Location information for the month July 2026</description>
       <description>[BSE] 70aae472602ce5aa-listing-of-un — Bse 2026 08 04 70Aae472602Ce5Aa Listing Of Units Of Icici Prudential Bse Insurance Etf A Scheme Under Icici Prud</description>
       <category>Circular</category>
       <pubDate>Tue, 04 Aug 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>Bse 2026 08 10 A3206A9A57A60D0A Clarification Received From The Company On News Articles</title>
+      <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260810-18/20260810-18.pdf</link>
+      <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260810-18/20260810-18.pdf</guid>
+      <description>[BSE] a3206a9a57a60d0a-clarification — Bse 2026 08 10 A3206A9A57A60D0A Clarification Received From The Company On News Articles</description>
+      <category>Circular</category>
+      <pubDate>Mon, 10 Aug 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
       <title>Bse 2026 08 07 9F3Ffdc1E01Ea385 Split Of Units Of Dsp Mutual Fund</title>
@@ -2534,6 +2774,14 @@ TWS/ETI/BOLTPLUS Location information for the month July 2026</description>
       <pubDate>Thu, 06 Aug 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
+      <title>Bse 2026 08 10 D5Dbe22F4Bfa42E8 Temporary Suspension Of Subscription In Certain Schemes Of Edelweiss Mutual Fund</title>
+      <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260810-22/20260810-22.pdf</link>
+      <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260810-22/20260810-22.pdf</guid>
+      <description>[BSE] d5dbe22f4bfa42e8-temporary-sus — Bse 2026 08 10 D5Dbe22F4Bfa42E8 Temporary Suspension Of Subscription In Certain Schemes Of Edelweiss Mutual Fund</description>
+      <category>Circular</category>
+      <pubDate>Mon, 10 Aug 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
       <title>Bse 2026 08 06 5Aefae4C3Fd5Abbb Listing Of Units Of Dsp Bse Midsmall Private Banks Etf A Scheme Under Dsp Mutual</title>
       <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260806-16/20260806-16.pdf</link>
       <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260806-16/20260806-16.pdf</guid>
@@ -2822,6 +3070,14 @@ TWS/ETI/BOLTPLUS Location information for the month July 2026</description>
       <pubDate>Mon, 03 Aug 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
+      <title>Bse 2026 08 10 12B0Ed96Bdc8Cc98 Smeipo Draft Offer Document</title>
+      <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260810-19/20260810-19.pdf</link>
+      <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260810-19/20260810-19.pdf</guid>
+      <description>[BSE] 12b0ed96bdc8cc98-smeipo-draft- — Bse 2026 08 10 12B0Ed96Bdc8Cc98 Smeipo Draft Offer Document</description>
+      <category>Circular</category>
+      <pubDate>Mon, 10 Aug 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
       <title>Bse 2026 08 05 9B60Af893D2Ff568 Introduction Of Bajaj Finserv Wealth Systematic Investment Plan Sip Facility On </title>
       <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260805-35/20260805-35.pdf</link>
       <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260805-35/20260805-35.pdf</guid>
@@ -2892,6 +3148,14 @@ TWS/ETI/BOLTPLUS Location information for the month July 2026</description>
       <description>[BSE] 098d6f846c00c8ad-suspension-of — Bse 2026 08 03 098D6F846C00C8Ad Suspension Of Trading In Commercial Paper</description>
       <category>Circular</category>
       <pubDate>Mon, 03 Aug 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>Bse 2026 08 10 667A509Ee9C585B2 Change In Minimum Application Amount For Systematic Investment Plan Sip In Certa</title>
+      <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260810-23/20260810-23.pdf</link>
+      <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260810-23/20260810-23.pdf</guid>
+      <description>[BSE] 667a509ee9c585b2-change-in-min — Bse 2026 08 10 667A509Ee9C585B2 Change In Minimum Application Amount For Systematic Investment Plan Sip In Certa</description>
+      <category>Circular</category>
+      <pubDate>Mon, 10 Aug 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
       <title>Bse 2026 08 06 73210Ecb745A866B Change In Group Of Equity Shares Of Dhaval Packaging Limited</title>
@@ -3102,6 +3366,14 @@ TWS/ETI/BOLTPLUS Location information for the month July 2026</description>
       <pubDate>Thu, 06 Aug 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
+      <title>Bse 2026 08 10 Ae2233F3029Df91C Financial Disincentive Charges For Not Uploading The Twsetiboltplus Location Inf</title>
+      <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260810-16/20260810-16.pdf</link>
+      <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260810-16/20260810-16.pdf</guid>
+      <description>[BSE] ae2233f3029df91c-financial-dis — Bse 2026 08 10 Ae2233F3029Df91C Financial Disincentive Charges For Not Uploading The Twsetiboltplus Location Inf</description>
+      <category>Circular</category>
+      <pubDate>Mon, 10 Aug 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
       <title>Bse 2026 08 03 0Ccfc938964Fb83B Part Redemption Of Debentures Of Lodha Developers Ltd</title>
       <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260803-14/20260803-14.pdf</link>
       <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260803-14/20260803-14.pdf</guid>
@@ -3286,12 +3558,44 @@ TWS/ETI/BOLTPLUS Location information for the month July 2026</description>
       <pubDate>Mon, 03 Aug 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
+      <title>Sebi 2026 08 10 A314467871Ff554F Cancellation Of Recovery Certificate No 8625 Of 2025 Dated February 13 2025 Issu</title>
+      <link>https://www.sebi.gov.in/enforcement/recovery-proceedings/aug-2026/cancellation-of-recovery-certificate-no-8625-of-2025-dated-february-13-2025-issued-against-sudhakar-anchan-pan-ahwpa1468k-in-the-matter-of-sharepro-services-i-pvt-ltd-_103460.html</link>
+      <guid isPermaLink="false">https://www.sebi.gov.in/enforcement/recovery-proceedings/aug-2026/cancellation-of-recovery-certificate-no-8625-of-2025-dated-february-13-2025-issued-against-sudhakar-anchan-pan-ahwpa1468k-in-the-matter-of-sharepro-services-i-pvt-ltd-_103460.html</guid>
+      <description>[SEBI] SEBI/103460 — Sebi 2026 08 10 A314467871Ff554F Cancellation Of Recovery Certificate No 8625 Of 2025 Dated February 13 2025 Issu</description>
+      <category>Circular</category>
+      <pubDate>Mon, 10 Aug 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
       <title>Sebi 2026 08 06 Cba1De11E43F1E25 Release Order Certificate No Rc8582 Of 2025 In Respect Of Consolidated Mercantil</title>
       <link>https://www.sebi.gov.in/enforcement/recovery-proceedings/aug-2026/release-order-certificate-no-rc8582-of-2025-in-respect-of-consolidated-mercantiles-private-limited-pan-aaccc2960n-in-the-matter-of-illiquid-stock-options_103414.html</link>
       <guid isPermaLink="false">https://www.sebi.gov.in/enforcement/recovery-proceedings/aug-2026/release-order-certificate-no-rc8582-of-2025-in-respect-of-consolidated-mercantiles-private-limited-pan-aaccc2960n-in-the-matter-of-illiquid-stock-options_103414.html</guid>
       <description>[SEBI] SEBI/103414 — Sebi 2026 08 06 Cba1De11E43F1E25 Release Order Certificate No Rc8582 Of 2025 In Respect Of Consolidated Mercantil</description>
       <category>Circular</category>
       <pubDate>Thu, 06 Aug 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>Sebi 2026 08 10 Afeef20Fdcc86Dfe Order In The Matter Of Nirman Agri Genetics Limited</title>
+      <link>https://www.sebi.gov.in/enforcement/orders/aug-2026/order-in-the-matter-of-nirman-agri-genetics-limited_103467.html</link>
+      <guid isPermaLink="false">https://www.sebi.gov.in/enforcement/orders/aug-2026/order-in-the-matter-of-nirman-agri-genetics-limited_103467.html</guid>
+      <description>[SEBI] SEBI/103467 — Sebi 2026 08 10 Afeef20Fdcc86Dfe Order In The Matter Of Nirman Agri Genetics Limited</description>
+      <category>Circular</category>
+      <pubDate>Mon, 10 Aug 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>Sebi 2026 08 10 5Deb389Aa0A2D7F2 Release Order Rati Agarwal Defaulter Pan Ajmpa4349K In The Matter Of Iso At Bse </title>
+      <link>https://www.sebi.gov.in/enforcement/recovery-proceedings/aug-2026/release-order-rati-agarwal-defaulter-pan-ajmpa4349k-in-the-matter-of-iso-at-bse-rati-agarwal-under-certificate-no-9074-of-2026-_103465.html</link>
+      <guid isPermaLink="false">https://www.sebi.gov.in/enforcement/recovery-proceedings/aug-2026/release-order-rati-agarwal-defaulter-pan-ajmpa4349k-in-the-matter-of-iso-at-bse-rati-agarwal-under-certificate-no-9074-of-2026-_103465.html</guid>
+      <description>[SEBI] SEBI/103465 — Sebi 2026 08 10 5Deb389Aa0A2D7F2 Release Order Rati Agarwal Defaulter Pan Ajmpa4349K In The Matter Of Iso At Bse </description>
+      <category>Circular</category>
+      <pubDate>Mon, 10 Aug 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>Sebi 2026 08 10 7Cf31Baf3C2A9Bf3 Completion Of Recovery Certificate No 9074 Of 2026 Dated March 26 2026 Issued To</title>
+      <link>https://www.sebi.gov.in/enforcement/recovery-proceedings/aug-2026/completion-of-recovery-certificate-no-9074-of-2026-dated-march-26-2026-issued-to-rati-agarwal-defaulter-pan-ajmpa4349k-in-the-matter-of-iso-at-bse-rati-agarwal-_103469.html</link>
+      <guid isPermaLink="false">https://www.sebi.gov.in/enforcement/recovery-proceedings/aug-2026/completion-of-recovery-certificate-no-9074-of-2026-dated-march-26-2026-issued-to-rati-agarwal-defaulter-pan-ajmpa4349k-in-the-matter-of-iso-at-bse-rati-agarwal-_103469.html</guid>
+      <description>[SEBI] SEBI/103469 — Sebi 2026 08 10 7Cf31Baf3C2A9Bf3 Completion Of Recovery Certificate No 9074 Of 2026 Dated March 26 2026 Issued To</description>
+      <category>Circular</category>
+      <pubDate>Mon, 10 Aug 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
       <title>Sebi 2026 08 05 6C2D422208406E2A Appeal No 6966 Of 2026 Filed By Sarju Devi</title>
@@ -3356,6 +3660,14 @@ TWS/ETI/BOLTPLUS Location information for the month July 2026</description>
       <description>[SEBI] SEBI/103363 — Sebi 2026 08 05 37B7237894D220C3 Completion Of Recovery Certificate No 1969 Of 2019 Kontala Krishnaveni In The Ma</description>
       <category>Circular</category>
       <pubDate>Wed, 05 Aug 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>Sebi 2026 08 10 43Bc0223Bb6F6F25 Completion Of Recovery Certificate No 8037 Of 2024 Dated September 19 2024 Issue</title>
+      <link>https://www.sebi.gov.in/enforcement/recovery-proceedings/aug-2026/completion-of-recovery-certificate-no-8037-of-2024-dated-september-19-2024-issued-to-kamlesh-ahuja-defaulter-pan-adfpa4706r-in-the-matter-of-dealings-in-illiquid-stock-options-at-bse-_103472.html</link>
+      <guid isPermaLink="false">https://www.sebi.gov.in/enforcement/recovery-proceedings/aug-2026/completion-of-recovery-certificate-no-8037-of-2024-dated-september-19-2024-issued-to-kamlesh-ahuja-defaulter-pan-adfpa4706r-in-the-matter-of-dealings-in-illiquid-stock-options-at-bse-_103472.html</guid>
+      <description>[SEBI] SEBI/103472 — Sebi 2026 08 10 43Bc0223Bb6F6F25 Completion Of Recovery Certificate No 8037 Of 2024 Dated September 19 2024 Issue</description>
+      <category>Circular</category>
+      <pubDate>Mon, 10 Aug 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
       <title>Sebi 2026 08 06 Ed09A4C2E98Cd8F9 Sebi Releases Its Annual Report For Fy 2025 26</title>
@@ -3478,12 +3790,28 @@ TWS/ETI/BOLTPLUS Location information for the month July 2026</description>
       <pubDate>Mon, 03 Aug 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
+      <title>Sebi 2026 08 10 F4373Fefab1Ecc97 Remittance Advice Against Santosh Kumar Defaulter Pan Aekpk6751Q In The Matter O</title>
+      <link>https://www.sebi.gov.in/enforcement/recovery-proceedings/aug-2026/remittance-advice-against-santosh-kumar-defaulter-pan-aekpk6751q-in-the-matter-of-investigation-into-the-trading-activities-of-certain-entities-in-the-scrip-of-delta-leasing-and-finance-ltd-und-_103471.html</link>
+      <guid isPermaLink="false">https://www.sebi.gov.in/enforcement/recovery-proceedings/aug-2026/remittance-advice-against-santosh-kumar-defaulter-pan-aekpk6751q-in-the-matter-of-investigation-into-the-trading-activities-of-certain-entities-in-the-scrip-of-delta-leasing-and-finance-ltd-und-_103471.html</guid>
+      <description>[SEBI] SEBI/103471 — Sebi 2026 08 10 F4373Fefab1Ecc97 Remittance Advice Against Santosh Kumar Defaulter Pan Aekpk6751Q In The Matter O</description>
+      <category>Circular</category>
+      <pubDate>Mon, 10 Aug 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
       <title>Sebi 2026 08 03 90A5Beeca3B9Ad50 Exemption Order In The Matter Of Muthoot Microfin Limited</title>
       <link>https://www.sebi.gov.in/sebi_data/attachdocs/jul-2026/exemption_order_mumil1.pdf</link>
       <guid isPermaLink="false">https://www.sebi.gov.in/sebi_data/attachdocs/jul-2026/exemption_order_mumil1.pdf</guid>
       <description>[SEBI] 90a5beeca3b9ad50 — Sebi 2026 08 03 90A5Beeca3B9Ad50 Exemption Order In The Matter Of Muthoot Microfin Limited</description>
       <category>Circular</category>
       <pubDate>Mon, 03 Aug 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>Sebi 2026 08 10 F415522Dbe609B5F Notice Of Demand Under Recovery Certificate Number 9277 Of 2026 Dated August 10 </title>
+      <link>https://www.sebi.gov.in/enforcement/recovery-proceedings/aug-2026/notice-of-demand-under-recovery-certificate-number-9277-of-2026-dated-august-10-2026-issued-to-mr-kapil-wadhawan-pan-aaopw6145l-defaulter-in-the-matter-of-dewan-housing-finance-corporation-limit-_103463.html</link>
+      <guid isPermaLink="false">https://www.sebi.gov.in/enforcement/recovery-proceedings/aug-2026/notice-of-demand-under-recovery-certificate-number-9277-of-2026-dated-august-10-2026-issued-to-mr-kapil-wadhawan-pan-aaopw6145l-defaulter-in-the-matter-of-dewan-housing-finance-corporation-limit-_103463.html</guid>
+      <description>[SEBI] SEBI/103463 — Sebi 2026 08 10 F415522Dbe609B5F Notice Of Demand Under Recovery Certificate Number 9277 Of 2026 Dated August 10 </description>
+      <category>Circular</category>
+      <pubDate>Mon, 10 Aug 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
       <title>Sebi 2026 08 06 8Efbbdd6C83Eaa81 Completion Of Recovery Certificate No 4397 Of 2021 Kesava Mallikarjuna Prasad Ch</title>
@@ -3524,6 +3852,14 @@ TWS/ETI/BOLTPLUS Location information for the month July 2026</description>
       <description>[SEBI] SEBI/103370 — Sebi 2026 08 05 Fc0B702Ce0657050 Appeal No 6965 Of 2026 Filed By Sunil Kumar</description>
       <category>Circular</category>
       <pubDate>Wed, 05 Aug 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>Sebi 2026 08 10 Dfe20619A0C4Afc0 Release Order Kamlesh Ahuja Defaulter Pan Adfpa4706R In The Matter Of Dealings I</title>
+      <link>https://www.sebi.gov.in/enforcement/recovery-proceedings/aug-2026/release-order-kamlesh-ahuja-defaulter-pan-adfpa4706r-in-the-matter-of-dealings-in-illiquid-stock-options-at-bse-under-certificate-no-8037-of-2024-_103474.html</link>
+      <guid isPermaLink="false">https://www.sebi.gov.in/enforcement/recovery-proceedings/aug-2026/release-order-kamlesh-ahuja-defaulter-pan-adfpa4706r-in-the-matter-of-dealings-in-illiquid-stock-options-at-bse-under-certificate-no-8037-of-2024-_103474.html</guid>
+      <description>[SEBI] SEBI/103474 — Sebi 2026 08 10 Dfe20619A0C4Afc0 Release Order Kamlesh Ahuja Defaulter Pan Adfpa4706R In The Matter Of Dealings I</description>
+      <category>Circular</category>
+      <pubDate>Mon, 10 Aug 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
       <title>Sebi 2026 08 07 Ccc11Db4B95B74Ae Appeal No 6973 Of 2026 Filed By Bharat Bhushan Sharma</title>
