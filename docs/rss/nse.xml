@@ -5,14 +5,54 @@
     <link>https://venkatezh-13.github.io/circulars</link>
     <description>NSE circulars — last 7 days</description>
     <language>en-in</language>
-    <lastBuildDate>Mon, 10 Aug 2026 10:03:08 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 10 Aug 2026 11:27:08 +0000</lastBuildDate>
     <atom:link href="https://venkatezh-13.github.io/circulars/rss/nse.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Listing of privately placed securities on the debt market segment of the Exchange</title>
+      <link>https://nsearchives.nseindia.com/content/circulars/CML75662.pdf</link>
+      <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/CML75662.pdf</guid>
+      <description>[NSE] NSE/CML/75662 — Listing of privately placed securities on the debt market segment of the Exchange</description>
+      <category>Debt Segment</category>
+      <pubDate>Mon, 10 Aug 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>Listing of Equity shares of Annapurna Swadisht Limited on Capital Market Segment (Main Board) pursuant to migration from SME Emerge platform</title>
+      <link>https://nsearchives.nseindia.com/content/circulars/CML75660.zip</link>
+      <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/CML75660.zip</guid>
+      <description>[NSE] NSE/CML/75660 — Listing of Equity shares of Annapurna Swadisht Limited on Capital Market Segment (Main Board) pursuant to migration from SME Emerge platform</description>
+      <category>Emerge</category>
+      <pubDate>Mon, 10 Aug 2026 07:30:00 +0530</pubDate>
+    </item>
     <item>
       <title>Segmental Surrender Of Membership</title>
       <link>https://nsearchives.nseindia.com/content/circulars/COMP75659.pdf</link>
       <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/COMP75659.pdf</guid>
       <description>[NSE] NSE/COMP/75659 — Segmental Surrender Of Membership</description>
       <category>Inspection &amp; Compliance</category>
+      <pubDate>Mon, 10 Aug 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>Launch of UTI Nifty 500 Index Fund NFO on NSE MF Invest Platform</title>
+      <link>https://nsearchives.nseindia.com/content/circulars/NMF75657.pdf</link>
+      <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/NMF75657.pdf</guid>
+      <description>[NSE] NSE/NMF/75657 — Launch of UTI Nifty 500 Index Fund NFO on NSE MF Invest Platform</description>
+      <category>Mutual Fund</category>
+      <pubDate>Mon, 10 Aug 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>Launch of UTI Nifty 500 Exchange Traded Fund NFO on NSE MF Invest Platform</title>
+      <link>https://nsearchives.nseindia.com/content/circulars/NMF75656.pdf</link>
+      <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/NMF75656.pdf</guid>
+      <description>[NSE] NSE/NMF/75656 — Launch of UTI Nifty 500 Exchange Traded Fund NFO on NSE MF Invest Platform</description>
+      <category>Mutual Fund</category>
+      <pubDate>Mon, 10 Aug 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>Temporary Suspension of Existing subscriptions in certain Schemes of Edelweiss Mutual Fund on NSE MF Invest Platform</title>
+      <link>https://nsearchives.nseindia.com/content/circulars/NMF75655.zip</link>
+      <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/NMF75655.zip</guid>
+      <description>[NSE] NSE/NMF/75655 — Temporary Suspension of Existing subscriptions in certain Schemes of Edelweiss Mutual Fund on NSE MF Invest Platform</description>
+      <category>Mutual Fund</category>
       <pubDate>Mon, 10 Aug 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
@@ -318,6 +358,14 @@
       <description>[NSE] NSE/CMTR75546 — Nse 2026 08 03 A88970Db84241B0B Proposed Offer For Sale Of Life Insurance Corporation Of India</description>
       <category>Circular</category>
       <pubDate>Mon, 03 Aug 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>Nse 2026 08 10 0C2C51F63Ac8E1Ec Segmental Surrender Of Membership</title>
+      <link>https://nsearchives.nseindia.com/content/circulars/COMP75659.pdf</link>
+      <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/COMP75659.pdf</guid>
+      <description>[NSE] NSE/COMP75659 — Nse 2026 08 10 0C2C51F63Ac8E1Ec Segmental Surrender Of Membership</description>
+      <category>Circular</category>
+      <pubDate>Mon, 10 Aug 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
       <title>Nse 2026 08 07 8780Cd75913E32E2 Availability Of Alphagrep Liquid Omni Fof Nfo On Nse Mf Invest Platform</title>
