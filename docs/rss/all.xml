@@ -5,8 +5,32 @@
     <link>https://venkatezh-13.github.io/circulars</link>
     <description>NSE, BSE and MCX circulars — last 7 days</description>
     <language>en-in</language>
-    <lastBuildDate>Mon, 10 Aug 2026 17:38:47 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 10 Aug 2026 18:35:12 +0000</lastBuildDate>
     <atom:link href="https://venkatezh-13.github.io/circulars/rss/all.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Applicability of Additional Surveillance Measure under IBC</title>
+      <link>https://nsearchives.nseindia.com/content/circulars/SURV75669.zip</link>
+      <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/SURV75669.zip</guid>
+      <description>[NSE] NSE/SURV/75669 — Applicability of Additional Surveillance Measure under IBC</description>
+      <category>Surveillance &amp; Investigation</category>
+      <pubDate>Mon, 10 Aug 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>Applicability of Short-Term Additional Surveillance Measure (ST-ASM)</title>
+      <link>https://nsearchives.nseindia.com/content/circulars/SURV75668.zip</link>
+      <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/SURV75668.zip</guid>
+      <description>[NSE] NSE/SURV/75668 — Applicability of Short-Term Additional Surveillance Measure (ST-ASM)</description>
+      <category>Surveillance &amp; Investigation</category>
+      <pubDate>Mon, 10 Aug 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>Applicability of Additional Surveillance Measure (ASM)</title>
+      <link>https://nsearchives.nseindia.com/content/circulars/SURV75667.zip</link>
+      <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/SURV75667.zip</guid>
+      <description>[NSE] NSE/SURV/75667 — Applicability of Additional Surveillance Measure (ASM)</description>
+      <category>Surveillance &amp; Investigation</category>
+      <pubDate>Mon, 10 Aug 2026 07:30:00 +0530</pubDate>
+    </item>
     <item>
       <title>Change in ISIN-Globe Fincap Limited</title>
       <link>https://nsearchives.nseindia.com/content/circulars/CML75666.pdf</link>
@@ -44,7 +68,7 @@
       <link>https://nsearchives.nseindia.com/content/circulars/CML75662.pdf</link>
       <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/CML75662.pdf</guid>
       <description>[NSE] NSE/CML/75662 — Listing of privately placed securities on the debt market segment of the Exchange</description>
-      <category>Listing</category>
+      <category>Debt Segment</category>
       <pubDate>Mon, 10 Aug 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
@@ -100,7 +124,7 @@
       <link>https://nsearchives.nseindia.com/content/circulars/MSD75654.zip</link>
       <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/MSD75654.zip</guid>
       <description>[NSE] NSE/MSD/75654 — Introduction of NSE Extranet Beta service - Update</description>
-      <category>Emerge</category>
+      <category>Currency Derivatives</category>
       <pubDate>Mon, 10 Aug 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
@@ -148,6 +172,30 @@
       <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260810-4/20260810-4.pdf</link>
       <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260810-4/20260810-4.pdf</guid>
       <description>[BSE] 20260810-4 — Non-Competitive Bidding Facility for Auction of Treasury Bills (T-Bills) on August 12, 2026 </description>
+      <category>General / Circular</category>
+      <pubDate>Mon, 10 Aug 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>Daily Bulletin</title>
+      <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260810-38/20260810-38.pdf</link>
+      <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260810-38/20260810-38.pdf</guid>
+      <description>[BSE] 20260810-38 — Daily Bulletin</description>
+      <category>General / Circular</category>
+      <pubDate>Mon, 10 Aug 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>Sub-Division of Equity Shares of Kirloskar Pneumatic Company Ltd (Scrip Code: 505283).</title>
+      <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260810-37/20260810-37.pdf</link>
+      <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260810-37/20260810-37.pdf</guid>
+      <description>[BSE] 20260810-37 — Sub-Division of Equity Shares of Kirloskar Pneumatic Company Ltd (Scrip Code: 505283).</description>
+      <category>General / Circular</category>
+      <pubDate>Mon, 10 Aug 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>Sub-Division of Equity Shares of Spice Islands Industries Ltd (Scrip Code: 526827).</title>
+      <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260810-36/20260810-36.pdf</link>
+      <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260810-36/20260810-36.pdf</guid>
+      <description>[BSE] 20260810-36 — Sub-Division of Equity Shares of Spice Islands Industries Ltd (Scrip Code: 526827).</description>
       <category>General / Circular</category>
       <pubDate>Mon, 10 Aug 2026 07:30:00 +0530</pubDate>
     </item>
