@@ -5,7 +5,7 @@
     <link>https://venkatezh-13.github.io/circulars</link>
     <description>NSE, BSE and MCX circulars — last 7 days</description>
     <language>en-in</language>
-    <lastBuildDate>Tue, 11 Aug 2026 13:59:38 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 11 Aug 2026 15:08:56 +0000</lastBuildDate>
     <atom:link href="https://venkatezh-13.github.io/circulars/rss/all.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Trade for Trade - Burnpur Cement Limited</title>
@@ -21,6 +21,14 @@
       <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/COMP75700.pdf</guid>
       <description>[NSE] NSE/COMP/75700 — Clarification regarding implementation of &quot;@valid&quot; UPI IDs</description>
       <category>Inspection &amp; Compliance</category>
+      <pubDate>Tue, 11 Aug 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>Confirmatory SEBI order in the matter of Nirman Agri Genetics Limited</title>
+      <link>https://nsearchives.nseindia.com/content/circulars/INVG75699.zip</link>
+      <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/INVG75699.zip</guid>
+      <description>[NSE] NSE/INVG/75699 — Confirmatory SEBI order in the matter of Nirman Agri Genetics Limited</description>
+      <category>Surveillance &amp; Investigation</category>
       <pubDate>Tue, 11 Aug 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
@@ -140,7 +148,7 @@
       <link>https://nsearchives.nseindia.com/content/circulars/CML75683.zip</link>
       <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/CML75683.zip</guid>
       <description>[NSE] NSE/CML/75683 — Listing of Equity shares of Swaraj Suiting Limited on Capital Market Segment (Main Board) pursuant to migration from SME Emerge platform</description>
-      <category>Emerge</category>
+      <category>Listing</category>
       <pubDate>Tue, 11 Aug 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
@@ -292,6 +300,48 @@
       <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260811-5/20260811-5.pdf</link>
       <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260811-5/20260811-5.pdf</guid>
       <description>[BSE] 20260811-5 — Demat Auction 690</description>
+      <category>General / Circular</category>
+      <pubDate>Tue, 11 Aug 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>Launch of NFO with SIP facility of ASK MUTUAL FUND on BSE StAR MF Platform</title>
+      <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260811-48/20260811-48.pdf</link>
+      <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260811-48/20260811-48.pdf</guid>
+      <description>[BSE] 20260811-48 — Launch of NFO with SIP facility of ASK MUTUAL FUND on BSE StAR MF Platform</description>
+      <category>General / Circular</category>
+      <pubDate>Tue, 11 Aug 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>Public Issue of SHIPROCKET LIMITED - Allocation to
+Anchor Investors</title>
+      <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260811-47/20260811-47.pdf</link>
+      <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260811-47/20260811-47.pdf</guid>
+      <description>[BSE] 20260811-47 — Public Issue of SHIPROCKET LIMITED - Allocation to
+Anchor Investors</description>
+      <category>General / Circular</category>
+      <pubDate>Tue, 11 Aug 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>Launch of New fund offer with SIP facility of ZERODHA Mutual Fund on BSE StAR MF Platform</title>
+      <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260811-46/20260811-46.pdf</link>
+      <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260811-46/20260811-46.pdf</guid>
+      <description>[BSE] 20260811-46 — Launch of New fund offer with SIP facility of ZERODHA Mutual Fund on BSE StAR MF Platform</description>
+      <category>General / Circular</category>
+      <pubDate>Tue, 11 Aug 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>Launch of ETF NFO of AXIS NIFTY ENERGY ETF on BSE StAR MF Platform</title>
+      <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260811-45/20260811-45.pdf</link>
+      <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260811-45/20260811-45.pdf</guid>
+      <description>[BSE] 20260811-45 — Launch of ETF NFO of AXIS NIFTY ENERGY ETF on BSE StAR MF Platform</description>
+      <category>General / Circular</category>
+      <pubDate>Tue, 11 Aug 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>Availability of HDFC NIFTY METAL ETF FOF for ongoing transactions on BSE StAR MF Platform</title>
+      <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260811-44/20260811-44.pdf</link>
+      <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260811-44/20260811-44.pdf</guid>
+      <description>[BSE] 20260811-44 — Availability of HDFC NIFTY METAL ETF FOF for ongoing transactions on BSE StAR MF Platform</description>
       <category>General / Circular</category>
       <pubDate>Tue, 11 Aug 2026 07:30:00 +0530</pubDate>
     </item>
@@ -623,6 +673,14 @@ the Delisting Regulations of NITIN CASTINGS LIMITED</description>
       <guid isPermaLink="false">https://www.mcxindia.com/docs/default-source/circulars/english/2026/august/circular-458---2026.pdf?sfvrsn=d5404ba8_1</guid>
       <description>[MCX] 458 — Revision in Threshold Limits for Concentration Margin</description>
       <category>MCXCCL</category>
+      <pubDate>Tue, 11 Aug 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>Acceptance of MCX Registered Indian Refined Lead Brands under the Lead and Lead Mini futures contracts</title>
+      <link>https://www.mcxindia.com/docs/default-source/circulars/english/2026/august/circular-460-2026.pdf?sfvrsn=60297391_1</link>
+      <guid isPermaLink="false">https://www.mcxindia.com/docs/default-source/circulars/english/2026/august/circular-460-2026.pdf?sfvrsn=60297391_1</guid>
+      <description>[MCX] 460 — Acceptance of MCX Registered Indian Refined Lead Brands under the Lead and Lead Mini futures contracts</description>
+      <category>General</category>
       <pubDate>Tue, 11 Aug 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
