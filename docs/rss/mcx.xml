@@ -5,23 +5,15 @@
     <link>https://venkatezh-13.github.io/circulars</link>
     <description>MCX circulars — last 7 days</description>
     <language>en-in</language>
-    <lastBuildDate>Sat, 08 Aug 2026 20:03:09 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 11 Aug 2026 07:37:59 +0000</lastBuildDate>
     <atom:link href="https://venkatezh-13.github.io/circulars/rss/mcx.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Targeted Attacks Against Microsoft 365 (M365) Environments in the BFSI Sector</title>
-      <link>https://www.mcxindia.com/docs/default-source/circulars/english/2026/august/circular-459-2026.pdf?sfvrsn=a64abd79_1</link>
-      <guid isPermaLink="false">https://www.mcxindia.com/docs/default-source/circulars/english/2026/august/circular-459-2026.pdf?sfvrsn=a64abd79_1</guid>
-      <description>[MCX] 459 — Targeted Attacks Against Microsoft 365 (M365) Environments in the BFSI Sector</description>
-      <category>TECH</category>
-      <pubDate>Sat, 08 Aug 2026 07:30:00 +0530</pubDate>
-    </item>
-    <item>
-      <title>CSIRT-Fin Advisory – Threat Actors Exploiting Trading Platforms for Unauthorized Trades</title>
-      <link>https://www.mcxindia.com/docs/default-source/circulars/english/2026/august/circular-458-2026.pdf?sfvrsn=80da65c2_1</link>
-      <guid isPermaLink="false">https://www.mcxindia.com/docs/default-source/circulars/english/2026/august/circular-458-2026.pdf?sfvrsn=80da65c2_1</guid>
-      <description>[MCX] 458 — CSIRT-Fin Advisory – Threat Actors Exploiting Trading Platforms for Unauthorized Trades</description>
-      <category>TECH</category>
-      <pubDate>Sat, 08 Aug 2026 07:30:00 +0530</pubDate>
+      <title>Revision in Threshold Limits for Concentration Margin</title>
+      <link>https://www.mcxindia.com/docs/default-source/circulars/english/2026/august/circular-458---2026.pdf?sfvrsn=d5404ba8_1</link>
+      <guid isPermaLink="false">https://www.mcxindia.com/docs/default-source/circulars/english/2026/august/circular-458---2026.pdf?sfvrsn=d5404ba8_1</guid>
+      <description>[MCX] 458 — Revision in Threshold Limits for Concentration Margin</description>
+      <category>MCXCCL</category>
+      <pubDate>Tue, 11 Aug 2026 07:30:00 +0530</pubDate>
     </item>
   </channel>
 </rss>
