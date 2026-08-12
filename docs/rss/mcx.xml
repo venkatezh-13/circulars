@@ -5,39 +5,15 @@
     <link>https://venkatezh-13.github.io/circulars</link>
     <description>MCX circulars — last 7 days</description>
     <language>en-in</language>
-    <lastBuildDate>Tue, 11 Aug 2026 20:10:07 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 12 Aug 2026 17:43:31 +0000</lastBuildDate>
     <atom:link href="https://venkatezh-13.github.io/circulars/rss/mcx.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Clarification regarding implementation of @valid UPI IDs</title>
-      <link>https://www.mcxindia.com/docs/default-source/circulars/english/2026/august/circular-461-2026.pdf?sfvrsn=f941ab3e_1</link>
-      <guid isPermaLink="false">https://www.mcxindia.com/docs/default-source/circulars/english/2026/august/circular-461-2026.pdf?sfvrsn=f941ab3e_1</guid>
-      <description>[MCX] 461 — Clarification regarding implementation of @valid UPI IDs</description>
-      <category>Membership and Compliance</category>
-      <pubDate>Tue, 11 Aug 2026 07:30:00 +0530</pubDate>
-    </item>
-    <item>
-      <title>Review of Margin Period of Risk (MPOR)</title>
-      <link>https://www.mcxindia.com/docs/default-source/circulars/english/2026/august/circular-459-20266543eb38-75a2-48e0-991d-283d6a2fdb79.pdf?sfvrsn=48b0978_1</link>
-      <guid isPermaLink="false">https://www.mcxindia.com/docs/default-source/circulars/english/2026/august/circular-459-20266543eb38-75a2-48e0-991d-283d6a2fdb79.pdf?sfvrsn=48b0978_1</guid>
-      <description>[MCX] 459 — Review of Margin Period of Risk (MPOR)</description>
-      <category>MCXCCL</category>
-      <pubDate>Tue, 11 Aug 2026 07:30:00 +0530</pubDate>
-    </item>
-    <item>
-      <title>Revision in Threshold Limits for Concentration Margin</title>
-      <link>https://www.mcxindia.com/docs/default-source/circulars/english/2026/august/circular-458---2026.pdf?sfvrsn=d5404ba8_1</link>
-      <guid isPermaLink="false">https://www.mcxindia.com/docs/default-source/circulars/english/2026/august/circular-458---2026.pdf?sfvrsn=d5404ba8_1</guid>
-      <description>[MCX] 458 — Revision in Threshold Limits for Concentration Margin</description>
-      <category>MCXCCL</category>
-      <pubDate>Tue, 11 Aug 2026 07:30:00 +0530</pubDate>
-    </item>
-    <item>
-      <title>Acceptance of MCX Registered Indian Refined Lead Brands under the Lead and Lead Mini futures contracts</title>
-      <link>https://www.mcxindia.com/docs/default-source/circulars/english/2026/august/circular-460-2026.pdf?sfvrsn=60297391_1</link>
-      <guid isPermaLink="false">https://www.mcxindia.com/docs/default-source/circulars/english/2026/august/circular-460-2026.pdf?sfvrsn=60297391_1</guid>
-      <description>[MCX] 460 — Acceptance of MCX Registered Indian Refined Lead Brands under the Lead and Lead Mini futures contracts</description>
-      <category>General</category>
-      <pubDate>Tue, 11 Aug 2026 07:30:00 +0530</pubDate>
+      <title>Mock Trading</title>
+      <link>https://www.mcxindia.com/docs/default-source/circulars/english/2026/august/circular-462-2026d7df4fdd-6dc3-4541-a2ad-c3606a5b1cb0.pdf?sfvrsn=9a20762e_1</link>
+      <guid isPermaLink="false">https://www.mcxindia.com/docs/default-source/circulars/english/2026/august/circular-462-2026d7df4fdd-6dc3-4541-a2ad-c3606a5b1cb0.pdf?sfvrsn=9a20762e_1</guid>
+      <description>[MCX] 462 — Mock Trading</description>
+      <category>TECH</category>
+      <pubDate>Wed, 12 Aug 2026 07:30:00 +0530</pubDate>
     </item>
   </channel>
 </rss>
