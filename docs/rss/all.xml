@@ -5,7 +5,7 @@
     <link>https://venkatezh-13.github.io/circulars</link>
     <description>NSE, BSE and MCX circulars — last 7 days</description>
     <language>en-in</language>
-    <lastBuildDate>Fri, 14 Aug 2026 14:31:06 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 14 Aug 2026 15:33:46 +0000</lastBuildDate>
     <atom:link href="https://venkatezh-13.github.io/circulars/rss/all.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Listing of Equity Shares of Dhoot Transmission Limited (IPO)</title>
@@ -49,6 +49,14 @@
     </item>
     <item>
       <title>Listing of further issues of securities</title>
+      <link>https://nsearchives.nseindia.com/content/circulars/CML75763.pdf</link>
+      <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/CML75763.pdf</guid>
+      <description>[NSE] NSE/CML/75763 — Listing of further issues of securities</description>
+      <category>Listing</category>
+      <pubDate>Fri, 14 Aug 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>Listing of further issues of securities</title>
       <link>https://nsearchives.nseindia.com/content/circulars/CML75762.pdf</link>
       <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/CML75762.pdf</guid>
       <description>[NSE] NSE/CML/75762 — Listing of further issues of securities</description>
@@ -80,11 +88,19 @@
       <pubDate>Fri, 14 Aug 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
+      <title>Trading of Rights Entitlements pursuant to Rights Issue of Sunrest Lifescience Limited</title>
+      <link>https://nsearchives.nseindia.com/content/circulars/CML75758.pdf</link>
+      <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/CML75758.pdf</guid>
+      <description>[NSE] NSE/CML/75758 — Trading of Rights Entitlements pursuant to Rights Issue of Sunrest Lifescience Limited</description>
+      <category>Listing</category>
+      <pubDate>Fri, 14 Aug 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
       <title>Listing of privately placed securities on the debt market segment of the Exchange</title>
       <link>https://nsearchives.nseindia.com/content/circulars/CML75757.pdf</link>
       <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/CML75757.pdf</guid>
       <description>[NSE] NSE/CML/75757 — Listing of privately placed securities on the debt market segment of the Exchange</description>
-      <category>Debt Segment</category>
+      <category>Listing</category>
       <pubDate>Fri, 14 Aug 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
@@ -148,7 +164,7 @@
       <link>https://nsearchives.nseindia.com/content/circulars/CML75747.pdf</link>
       <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/CML75747.pdf</guid>
       <description>[NSE] NSE/CML/75747 — Trade for Trade - Optimystix Entertainment India Limited (SME IPO)</description>
-      <category>Emerge</category>
+      <category>Listing</category>
       <pubDate>Fri, 14 Aug 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
@@ -276,6 +292,54 @@
       <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260814-5/20260814-5.pdf</link>
       <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260814-5/20260814-5.pdf</guid>
       <description>[BSE] 20260814-5 — Suspension of Trading in Debt Securities</description>
+      <category>General / Circular</category>
+      <pubDate>Fri, 14 Aug 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>Launch of NFO with SIP Facility of ITI Mutual Fund on BSE StAR MF Platform</title>
+      <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260814-47/20260814-47.pdf</link>
+      <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260814-47/20260814-47.pdf</guid>
+      <description>[BSE] 20260814-47 — Launch of NFO with SIP Facility of ITI Mutual Fund on BSE StAR MF Platform</description>
+      <category>General / Circular</category>
+      <pubDate>Fri, 14 Aug 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>Launch of NFO with SIP facility of NIPPON INDIA MUTUAL FUND on BSE StAR MF Platform</title>
+      <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260814-46/20260814-46.pdf</link>
+      <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260814-46/20260814-46.pdf</guid>
+      <description>[BSE] 20260814-46 — Launch of NFO with SIP facility of NIPPON INDIA MUTUAL FUND on BSE StAR MF Platform</description>
+      <category>General / Circular</category>
+      <pubDate>Fri, 14 Aug 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>Launch of New Fund Offer (NFO) with SIP Facility of QUANT Mutual Fund on BSE StAR MF Platform</title>
+      <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260814-45/20260814-45.pdf</link>
+      <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260814-45/20260814-45.pdf</guid>
+      <description>[BSE] 20260814-45 — Launch of New Fund Offer (NFO) with SIP Facility of QUANT Mutual Fund on BSE StAR MF Platform</description>
+      <category>General / Circular</category>
+      <pubDate>Fri, 14 Aug 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>Launch of New Fund Offer (NFO) with SIP Facility of EDELWEISS Mutual Fund on BSE StAR MF Platform</title>
+      <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260814-44/20260814-44.pdf</link>
+      <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260814-44/20260814-44.pdf</guid>
+      <description>[BSE] 20260814-44 — Launch of New Fund Offer (NFO) with SIP Facility of EDELWEISS Mutual Fund on BSE StAR MF Platform</description>
+      <category>General / Circular</category>
+      <pubDate>Fri, 14 Aug 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>Launch of ETF NFO of QUANT SILVER ETF on BSE StAR MF Platform</title>
+      <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260814-43/20260814-43.pdf</link>
+      <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260814-43/20260814-43.pdf</guid>
+      <description>[BSE] 20260814-43 — Launch of ETF NFO of QUANT SILVER ETF on BSE StAR MF Platform</description>
+      <category>General / Circular</category>
+      <pubDate>Fri, 14 Aug 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>Listing of Equity Shares of MOLBIO DIAGNOSTICS LIMITED</title>
+      <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260814-42/20260814-42.pdf</link>
+      <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260814-42/20260814-42.pdf</guid>
+      <description>[BSE] 20260814-42 — Listing of Equity Shares of MOLBIO DIAGNOSTICS LIMITED</description>
       <category>General / Circular</category>
       <pubDate>Fri, 14 Aug 2026 07:30:00 +0530</pubDate>
     </item>
