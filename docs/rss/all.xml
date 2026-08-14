@@ -5,8 +5,16 @@
     <link>https://venkatezh-13.github.io/circulars</link>
     <description>NSE, BSE and MCX circulars — last 7 days</description>
     <language>en-in</language>
-    <lastBuildDate>Fri, 14 Aug 2026 17:39:06 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 14 Aug 2026 18:33:53 +0000</lastBuildDate>
     <atom:link href="https://venkatezh-13.github.io/circulars/rss/all.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Listing of further issue of Nxt-Infra Trust on Preferential basis</title>
+      <link>https://nsearchives.nseindia.com/content/circulars/CML75770.pdf</link>
+      <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/CML75770.pdf</guid>
+      <description>[NSE] NSE/CML/75770 — Listing of further issue of Nxt-Infra Trust on Preferential basis</description>
+      <category>Listing</category>
+      <pubDate>Fri, 14 Aug 2026 07:30:00 +0530</pubDate>
+    </item>
     <item>
       <title>Listing of Equity Shares of Dhoot Transmission Limited (IPO)</title>
       <link>https://nsearchives.nseindia.com/content/circulars/CML75769.zip</link>
@@ -68,7 +76,7 @@
       <link>https://nsearchives.nseindia.com/content/circulars/CML75762.pdf</link>
       <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/CML75762.pdf</guid>
       <description>[NSE] NSE/CML/75762 — Listing of further issues of securities</description>
-      <category>Emerge</category>
+      <category>Listing</category>
       <pubDate>Fri, 14 Aug 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
@@ -108,7 +116,7 @@
       <link>https://nsearchives.nseindia.com/content/circulars/CML75757.pdf</link>
       <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/CML75757.pdf</guid>
       <description>[NSE] NSE/CML/75757 — Listing of privately placed securities on the debt market segment of the Exchange</description>
-      <category>Debt Segment</category>
+      <category>Listing</category>
       <pubDate>Fri, 14 Aug 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
@@ -300,6 +308,14 @@
       <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260814-6/20260814-6.pdf</link>
       <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260814-6/20260814-6.pdf</guid>
       <description>[BSE] 20260814-6 — Sub-Division of Equity Shares of TD Power Systems Ltd (Scrip Code: 533553).</description>
+      <category>General / Circular</category>
+      <pubDate>Fri, 14 Aug 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>Daily Bulletin</title>
+      <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260814-50/20260814-50.pdf</link>
+      <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260814-50/20260814-50.pdf</guid>
+      <description>[BSE] 20260814-50 — Daily Bulletin</description>
       <category>General / Circular</category>
       <pubDate>Fri, 14 Aug 2026 07:30:00 +0530</pubDate>
     </item>
