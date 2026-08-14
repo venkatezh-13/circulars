@@ -5,13 +5,21 @@
     <link>https://venkatezh-13.github.io/circulars</link>
     <description>NSE, BSE and MCX circulars — last 7 days</description>
     <language>en-in</language>
-    <lastBuildDate>Fri, 14 Aug 2026 15:33:46 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 14 Aug 2026 16:33:38 +0000</lastBuildDate>
     <atom:link href="https://venkatezh-13.github.io/circulars/rss/all.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Listing of Equity Shares of Dhoot Transmission Limited (IPO)</title>
       <link>https://nsearchives.nseindia.com/content/circulars/CML75769.zip</link>
       <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/CML75769.zip</guid>
       <description>[NSE] NSE/CML/75769 — Listing of Equity Shares of Dhoot Transmission Limited (IPO)</description>
+      <category>Listing</category>
+      <pubDate>Fri, 14 Aug 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>Listing of further issue of Nxt-Infra Trust</title>
+      <link>https://nsearchives.nseindia.com/content/circulars/CML75768.pdf</link>
+      <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/CML75768.pdf</guid>
+      <description>[NSE] NSE/CML/75768 — Listing of further issue of Nxt-Infra Trust</description>
       <category>Listing</category>
       <pubDate>Fri, 14 Aug 2026 07:30:00 +0530</pubDate>
     </item>
@@ -100,7 +108,7 @@
       <link>https://nsearchives.nseindia.com/content/circulars/CML75757.pdf</link>
       <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/CML75757.pdf</guid>
       <description>[NSE] NSE/CML/75757 — Listing of privately placed securities on the debt market segment of the Exchange</description>
-      <category>Listing</category>
+      <category>Debt Segment</category>
       <pubDate>Fri, 14 Aug 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
@@ -164,7 +172,7 @@
       <link>https://nsearchives.nseindia.com/content/circulars/CML75747.pdf</link>
       <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/CML75747.pdf</guid>
       <description>[NSE] NSE/CML/75747 — Trade for Trade - Optimystix Entertainment India Limited (SME IPO)</description>
-      <category>Listing</category>
+      <category>Emerge</category>
       <pubDate>Fri, 14 Aug 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
@@ -874,6 +882,22 @@ Voluntary Delisting of Equity Shares of Avadh Rail Infra Limited.</description>
       <pubDate>Fri, 14 Aug 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
+      <title>National Stock Exchange announces the applicability of Long Term Additional</title>
+      <link>https://nsearchives.nseindia.com/content/circulars/SURV75766.zip</link>
+      <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/SURV75766.zip</guid>
+      <description>[NSE] NSE/SURV75766 — National Stock Exchange announces the applicability of Long Term Additional</description>
+      <category>trading</category>
+      <pubDate>Fri, 14 Aug 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>NSE circular announcing the listing and admission to dealings of further</title>
+      <link>https://nsearchives.nseindia.com/content/circulars/CML75763.pdf</link>
+      <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/CML75763.pdf</guid>
+      <description>[NSE] NSE/CML75763 — NSE circular announcing the listing and admission to dealings of further</description>
+      <category>listing</category>
+      <pubDate>Fri, 14 Aug 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
       <title>NSE announced a name change for Hind Rectifiers Limited to Hirect Limited,</title>
       <link>https://nsearchives.nseindia.com/content/circulars/CML75706.pdf</link>
       <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/CML75706.pdf</guid>
@@ -894,6 +918,14 @@ Voluntary Delisting of Equity Shares of Avadh Rail Infra Limited.</description>
       <link>https://nsearchives.nseindia.com/content/circulars/CML75757.pdf</link>
       <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/CML75757.pdf</guid>
       <description>[NSE] NSE/CML75757 — NSE circular announcing the listing and admission to dealings of privately</description>
+      <category>listing</category>
+      <pubDate>Fri, 14 Aug 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>National Stock Exchange announces the listing and admission to dealings</title>
+      <link>https://nsearchives.nseindia.com/content/circulars/CML75760.zip</link>
+      <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/CML75760.zip</guid>
+      <description>[NSE] NSE/CML75760 — National Stock Exchange announces the listing and admission to dealings</description>
       <category>listing</category>
       <pubDate>Fri, 14 Aug 2026 07:30:00 +0530</pubDate>
     </item>
@@ -1082,6 +1114,14 @@ Voluntary Delisting of Equity Shares of Avadh Rail Infra Limited.</description>
       <pubDate>Wed, 12 Aug 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
+      <title>NSE circular detailing securities under the high promoter and non-promoter</title>
+      <link>https://nsearchives.nseindia.com/content/circulars/SURV75764.zip</link>
+      <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/SURV75764.zip</guid>
+      <description>[NSE] NSE/SURV75764 — NSE circular detailing securities under the high promoter and non-promoter</description>
+      <category>trading/compliance</category>
+      <pubDate>Fri, 14 Aug 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
       <title>NSE relocates Grand Foundry Limited (GFSTEELS) and Univa Foods Limited</title>
       <link>https://nsearchives.nseindia.com/content/circulars/SURV75686.pdf</link>
       <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/SURV75686.pdf</guid>
@@ -1104,6 +1144,14 @@ Voluntary Delisting of Equity Shares of Avadh Rail Infra Limited.</description>
       <description>[NSE] NSE/CML75704 — NSE notifies the trading of Rights Entitlements for the Rights Issue</description>
       <category>trading</category>
       <pubDate>Wed, 12 Aug 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>NSE notice regarding the commencement of trading of Rights Entitlements</title>
+      <link>https://nsearchives.nseindia.com/content/circulars/CML75758.pdf</link>
+      <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/CML75758.pdf</guid>
+      <description>[NSE] NSE/CML75758 — NSE notice regarding the commencement of trading of Rights Entitlements</description>
+      <category>trading</category>
+      <pubDate>Fri, 14 Aug 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
       <title>The UTI Nifty 500 Index Fund NFO will be available for transacting on</title>
@@ -1146,6 +1194,14 @@ Voluntary Delisting of Equity Shares of Avadh Rail Infra Limited.</description>
       <pubDate>Tue, 11 Aug 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
+      <title>National Stock Exchange announces the applicability of Additional Surveillance</title>
+      <link>https://nsearchives.nseindia.com/content/circulars/SURV75765.zip</link>
+      <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/SURV75765.zip</guid>
+      <description>[NSE] NSE/SURV75765 — National Stock Exchange announces the applicability of Additional Surveillance</description>
+      <category>trading</category>
+      <pubDate>Fri, 14 Aug 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
       <title>NSE has announced the addition of IMPEXFERRO and RELINFRA to ASM Stage</title>
       <link>https://nsearchives.nseindia.com/content/circulars/SURV75669.zip</link>
       <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/SURV75669.zip</guid>
@@ -1176,6 +1232,14 @@ Voluntary Delisting of Equity Shares of Avadh Rail Infra Limited.</description>
       <description>[NSE] NSE/SURV75643 — NSE has released the list of securities shortlisted under the Long-Term</description>
       <category>trading</category>
       <pubDate>Fri, 07 Aug 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>National Stock Exchange announces the applicability of Enhanced Surveillance</title>
+      <link>https://nsearchives.nseindia.com/content/circulars/SURV75756.zip</link>
+      <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/SURV75756.zip</guid>
+      <description>[NSE] NSE/SURV75756 — National Stock Exchange announces the applicability of Enhanced Surveillance</description>
+      <category>trading</category>
+      <pubDate>Fri, 14 Aug 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
       <title>NSE announces the transfer of Anawil Wire and Engineering Limited shares</title>
@@ -1458,6 +1522,14 @@ Voluntary Delisting of Equity Shares of Avadh Rail Infra Limited.</description>
       <pubDate>Thu, 13 Aug 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
+      <title>National Stock Exchange announces the listing of further equity shares</title>
+      <link>https://nsearchives.nseindia.com/content/circulars/CML75759.pdf</link>
+      <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/CML75759.pdf</guid>
+      <description>[NSE] NSE/CML75759 — National Stock Exchange announces the listing of further equity shares</description>
+      <category>listing</category>
+      <pubDate>Fri, 14 Aug 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
       <title>NSE notifies the temporary suspension of systematic subscriptions (SIP</title>
       <link>https://nsearchives.nseindia.com/content/circulars/NMF75655.zip</link>
       <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/NMF75655.zip</guid>
@@ -1536,6 +1608,14 @@ Voluntary Delisting of Equity Shares of Avadh Rail Infra Limited.</description>
       <description>[NSE] NSE/CMPT75658 — NSE Clearing Limited announces multiple settlements scheduled for SLBS</description>
       <category>market-operations</category>
       <pubDate>Tue, 11 Aug 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>NSE circular regarding the listing of equity shares of Dhoot Transmission</title>
+      <link>https://nsearchives.nseindia.com/content/circulars/CML75769.zip</link>
+      <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/CML75769.zip</guid>
+      <description>[NSE] NSE/CML75769 — NSE circular regarding the listing of equity shares of Dhoot Transmission</description>
+      <category>listing</category>
+      <pubDate>Fri, 14 Aug 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
       <title>The National Stock Exchange of India announces the launch of the Bandhan</title>
@@ -1682,6 +1762,14 @@ Voluntary Delisting of Equity Shares of Avadh Rail Infra Limited.</description>
       <pubDate>Wed, 12 Aug 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
+      <title>National Stock Exchange announces a change in ISIN for Kirloskar Pneumatic</title>
+      <link>https://nsearchives.nseindia.com/content/circulars/CML75754.pdf</link>
+      <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/CML75754.pdf</guid>
+      <description>[NSE] NSE/CML75754 — National Stock Exchange announces a change in ISIN for Kirloskar Pneumatic</description>
+      <category>listing</category>
+      <pubDate>Fri, 14 Aug 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
       <title>NSE Clearing Limited is introducing shorter tenure contracts under the</title>
       <link>https://nsearchives.nseindia.com/content/circulars/CMPT75761.pdf</link>
       <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/CMPT75761.pdf</guid>
@@ -1783,6 +1871,14 @@ Voluntary Delisting of Equity Shares of Avadh Rail Infra Limited.</description>
       <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/ISC75749.pdf</guid>
       <description>[NSE] NSE/ISC75749 — NSE introduces a dedicated outbound call number (1600322410) for its</description>
       <category>market-operations</category>
+      <pubDate>Fri, 14 Aug 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>NSE circular detailing the inclusion of securities under Short-Term Additional</title>
+      <link>https://nsearchives.nseindia.com/content/circulars/SURV75767.zip</link>
+      <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/SURV75767.zip</guid>
+      <description>[NSE] NSE/SURV75767 — NSE circular detailing the inclusion of securities under Short-Term Additional</description>
+      <category>trading</category>
       <pubDate>Fri, 14 Aug 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
@@ -1954,12 +2050,28 @@ Voluntary Delisting of Equity Shares of Avadh Rail Infra Limited.</description>
       <pubDate>Mon, 10 Aug 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
+      <title>BSE seeks and receives clarification from Zee Entertainment Enterprises</title>
+      <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260814-33/20260814-33.pdf</link>
+      <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260814-33/20260814-33.pdf</guid>
+      <description>[BSE] 70248072162c00bf-clarification — BSE seeks and receives clarification from Zee Entertainment Enterprises</description>
+      <category>disclosure</category>
+      <pubDate>Fri, 14 Aug 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
       <title>BSE issues a circular regarding the implementation and mandatory linking</title>
       <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260813-3/20260813-3.pdf</link>
       <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260813-3/20260813-3.pdf</guid>
       <description>[BSE] a666a074e1b5ea79-clarification — BSE issues a circular regarding the implementation and mandatory linking</description>
       <category>compliance</category>
       <pubDate>Thu, 13 Aug 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>BSE announces securities entering and exiting the high promoter and non-promoter</title>
+      <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260814-36/20260814-36.pdf</link>
+      <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260814-36/20260814-36.pdf</guid>
+      <description>[BSE] 303bc6d5b7d5dd9d-measure-in-re — BSE announces securities entering and exiting the high promoter and non-promoter</description>
+      <category>trading</category>
+      <pubDate>Fri, 14 Aug 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
       <title>BSE invites offers for Demat Auction 691 under Rolling Settlement No.</title>
@@ -2042,6 +2154,14 @@ Voluntary Delisting of Equity Shares of Avadh Rail Infra Limited.</description>
       <pubDate>Fri, 14 Aug 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
+      <title>Nippon India Mutual Fund is launching the Nippon India Income Plus Arbitrage</title>
+      <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260814-46/20260814-46.pdf</link>
+      <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260814-46/20260814-46.pdf</guid>
+      <description>[BSE] ad64a6933e4ddf55-launch-of-nfo — Nippon India Mutual Fund is launching the Nippon India Income Plus Arbitrage</description>
+      <category>trading</category>
+      <pubDate>Fri, 14 Aug 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
       <title>BSE announces the listing and trading approval of new privately placed</title>
       <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260812-7/20260812-7.pdf</link>
       <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260812-7/20260812-7.pdf</guid>
@@ -2096,6 +2216,14 @@ Voluntary Delisting of Equity Shares of Avadh Rail Infra Limited.</description>
       <description>[BSE] 76a33879a9bbf9d8-listing-of-ne — BSE notice regarding the listing and trading permission for 1,55,892</description>
       <category>listing</category>
       <pubDate>Thu, 13 Aug 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>BSE notice announcing the movement of specified securities into respective</title>
+      <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260814-41/20260814-41.pdf</link>
+      <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260814-41/20260814-41.pdf</guid>
+      <description>[BSE] 9348cd1d07852baa-graded-survei — BSE notice announcing the movement of specified securities into respective</description>
+      <category>trading</category>
+      <pubDate>Fri, 14 Aug 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
       <title>BSE announces the applicability of Long Term Additional Surveillance</title>
@@ -2194,12 +2322,28 @@ Voluntary Delisting of Equity Shares of Avadh Rail Infra Limited.</description>
       <pubDate>Fri, 07 Aug 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
+      <title>ITI Mutual Fund is offering the ITI Multi Asset Allocation Fund NFO along</title>
+      <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260814-47/20260814-47.pdf</link>
+      <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260814-47/20260814-47.pdf</guid>
+      <description>[BSE] dcd1d0fad1cca24f-launch-of-nfo — ITI Mutual Fund is offering the ITI Multi Asset Allocation Fund NFO along</description>
+      <category>trading</category>
+      <pubDate>Fri, 14 Aug 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
       <title>BSE has issued a revised settlement calendar for the Offer to Buy - Acquisition</title>
       <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260812-25/20260812-25.pdf</link>
       <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260812-25/20260812-25.pdf</guid>
       <description>[BSE] 3ed70f23f3c8fa04-revised-settl — BSE has issued a revised settlement calendar for the Offer to Buy - Acquisition</description>
       <category>market-operations</category>
       <pubDate>Wed, 12 Aug 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>BSE notice regarding the listing and admission for trading of 16,88,618</title>
+      <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260814-30/20260814-30.pdf</link>
+      <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260814-30/20260814-30.pdf</guid>
+      <description>[BSE] 1476a4835b29fe60-listing-of-ne — BSE notice regarding the listing and admission for trading of 16,88,618</description>
+      <category>listing</category>
+      <pubDate>Fri, 14 Aug 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
       <title>BSE notice regarding the listing and trading of 3,35,000 new equity shares</title>
@@ -2450,6 +2594,14 @@ Voluntary Delisting of Equity Shares of Avadh Rail Infra Limited.</description>
       <pubDate>Fri, 07 Aug 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
+      <title>Quant Mutual Fund is offering the NFO for QUANT SILVER ETF and its direct</title>
+      <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260814-43/20260814-43.pdf</link>
+      <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260814-43/20260814-43.pdf</guid>
+      <description>[BSE] 54a5bf3d54f0e692-launch-of-etf — Quant Mutual Fund is offering the NFO for QUANT SILVER ETF and its direct</description>
+      <category>trading</category>
+      <pubDate>Fri, 14 Aug 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
       <title>BSE notice regarding the listing and trading of 35,35,51,410 equity shares</title>
       <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260814-12/20260814-12.pdf</link>
       <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260814-12/20260814-12.pdf</guid>
@@ -2640,6 +2792,22 @@ Voluntary Delisting of Equity Shares of Avadh Rail Infra Limited.</description>
       <description>[BSE] e1b36edfc2743123-admission-of- — BSE announces the admission of new trading members and additional segment</description>
       <category>trading</category>
       <pubDate>Tue, 11 Aug 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>BSE notice regarding the update of securities under the Enhanced Surveillance</title>
+      <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260814-40/20260814-40.pdf</link>
+      <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260814-40/20260814-40.pdf</guid>
+      <description>[BSE] fbd1a7de11abd808-enhanced-surv — BSE notice regarding the update of securities under the Enhanced Surveillance</description>
+      <category>trading</category>
+      <pubDate>Fri, 14 Aug 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>BSE surveillance notice listing companies from which price and volume</title>
+      <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260814-34/20260814-34.pdf</link>
+      <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260814-34/20260814-34.pdf</guid>
+      <description>[BSE] 08c06c8c9c2de2e3-clarification — BSE surveillance notice listing companies from which price and volume</description>
+      <category>disclosure</category>
+      <pubDate>Fri, 14 Aug 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
       <title>BSE Clearing Limited has introduced an optional facility in the Real</title>
@@ -3002,6 +3170,14 @@ Voluntary Delisting of Equity Shares of Avadh Rail Infra Limited.</description>
       <pubDate>Tue, 11 Aug 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
+      <title>BSE notice regarding the applicability of Short Term Additional Surveillance</title>
+      <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260814-39/20260814-39.pdf</link>
+      <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260814-39/20260814-39.pdf</guid>
+      <description>[BSE] f0b42bbeaaf6269a-applicability — BSE notice regarding the applicability of Short Term Additional Surveillance</description>
+      <category>trading</category>
+      <pubDate>Fri, 14 Aug 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
       <title>BSE notice regarding the part redemption of non-convertible debentures</title>
       <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260810-9/20260810-9.pdf</link>
       <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260810-9/20260810-9.pdf</guid>
@@ -3042,12 +3218,28 @@ Voluntary Delisting of Equity Shares of Avadh Rail Infra Limited.</description>
       <pubDate>Wed, 12 Aug 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
+      <title>Edelweiss Mutual Fund is launching the Edelweiss Ultra Short-Term Fund</title>
+      <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260814-44/20260814-44.pdf</link>
+      <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260814-44/20260814-44.pdf</guid>
+      <description>[BSE] e085e437b42779b6-launch-of-new — Edelweiss Mutual Fund is launching the Edelweiss Ultra Short-Term Fund</description>
+      <category>trading</category>
+      <pubDate>Fri, 14 Aug 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
       <title>BSE announces the inclusion, transition, and exclusion of various securities</title>
       <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260812-39/20260812-39.pdf</link>
       <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260812-39/20260812-39.pdf</guid>
       <description>[BSE] 68190b49e3496f76-enhanced-surv — BSE announces the inclusion, transition, and exclusion of various securities</description>
       <category>trading</category>
       <pubDate>Wed, 12 Aug 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>BSE announces the applicability, movement of stages, and exclusion of</title>
+      <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260814-37/20260814-37.pdf</link>
+      <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260814-37/20260814-37.pdf</guid>
+      <description>[BSE] 2a01ab61d2162538-applicability — BSE announces the applicability, movement of stages, and exclusion of</description>
+      <category>trading</category>
+      <pubDate>Fri, 14 Aug 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
       <title>BSE notice regarding the inclusion, stage movement, and shifting of securities</title>
@@ -3184,6 +3376,14 @@ Voluntary Delisting of Equity Shares of Avadh Rail Infra Limited.</description>
       <description>[BSE] 344511e09408eb64-listing-of-ne — BSE circular announcing the listing and trading approval of 53,00,000</description>
       <category>listing</category>
       <pubDate>Wed, 12 Aug 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>Notice regarding the launch of Quant Income Plus Arbitrage Active FoF</title>
+      <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260814-45/20260814-45.pdf</link>
+      <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260814-45/20260814-45.pdf</guid>
+      <description>[BSE] dc592515c0136b2d-launch-of-new — Notice regarding the launch of Quant Income Plus Arbitrage Active FoF</description>
+      <category>trading</category>
+      <pubDate>Fri, 14 Aug 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
       <title>Organic Recycling Systems Limited has declared a bonus issue of 1 equity</title>
@@ -3330,6 +3530,14 @@ Voluntary Delisting of Equity Shares of Avadh Rail Infra Limited.</description>
       <pubDate>Fri, 07 Aug 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
+      <title>BSE notice announcing revisions to price bands for various listed scrips</title>
+      <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260814-38/20260814-38.pdf</link>
+      <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260814-38/20260814-38.pdf</guid>
+      <description>[BSE] 8be3612e9bb96663-changes-in-pr — BSE notice announcing revisions to price bands for various listed scrips</description>
+      <category>trading</category>
+      <pubDate>Fri, 14 Aug 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
       <title>UTI Mutual Fund is launching the UTI Nifty 500 Index Fund NFO with a</title>
       <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260807-37/20260807-37.pdf</link>
       <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260807-37/20260807-37.pdf</guid>
@@ -3400,6 +3608,14 @@ Voluntary Delisting of Equity Shares of Avadh Rail Infra Limited.</description>
       <description>[BSE] e2ebf173a3e91290-mock-trading- — BSE has scheduled a mock trading session for the Commodity Derivatives</description>
       <category>market-operations</category>
       <pubDate>Fri, 07 Aug 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>BSE circular outlining the trading and settlement schedule, including</title>
+      <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260814-29/20260814-29.pdf</link>
+      <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260814-29/20260814-29.pdf</guid>
+      <description>[BSE] 64b6163234d907d5-trading-and-s — BSE circular outlining the trading and settlement schedule, including</description>
+      <category>market-operations</category>
+      <pubDate>Fri, 14 Aug 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
       <title>Open offer by acquirers to public shareholders of Devinsu Trading Limited</title>
@@ -3602,6 +3818,14 @@ Voluntary Delisting of Equity Shares of Avadh Rail Infra Limited.</description>
       <pubDate>Wed, 12 Aug 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
+      <title>Notice regarding the listing and admission to dealings of equity shares</title>
+      <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260814-42/20260814-42.pdf</link>
+      <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260814-42/20260814-42.pdf</guid>
+      <description>[BSE] 00a17411f5ddb32f-listing-of-eq — Notice regarding the listing and admission to dealings of equity shares</description>
+      <category>listing</category>
+      <pubDate>Fri, 14 Aug 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
       <title>BSE announces the listing and admission of equity shares of Solex Energy</title>
       <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260812-33/20260812-33.pdf</link>
       <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260812-33/20260812-33.pdf</guid>
@@ -3762,6 +3986,22 @@ Voluntary Delisting of Equity Shares of Avadh Rail Infra Limited.</description>
       <pubDate>Wed, 12 Aug 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
+      <title>BSE announces a revised trading and settlement programme and timings</title>
+      <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260814-31/20260814-31.pdf</link>
+      <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260814-31/20260814-31.pdf</guid>
+      <description>[BSE] 3b7b3ebc1e415571-revised-tradi — BSE announces a revised trading and settlement programme and timings</description>
+      <category>market-operations</category>
+      <pubDate>Fri, 14 Aug 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>BSE Clearing Limited has changed its name from Indian Clearing Corporation</title>
+      <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260814-35/20260814-35.pdf</link>
+      <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260814-35/20260814-35.pdf</guid>
+      <description>[BSE] 8d8482c458ac39e3-intimation-of — BSE Clearing Limited has changed its name from Indian Clearing Corporation</description>
+      <category>market-operations</category>
+      <pubDate>Fri, 14 Aug 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
       <title>BSE has permitted trading in 1,18,064 equity shares of La Tim Metal &amp;</title>
       <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260812-19/20260812-19.pdf</link>
       <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260812-19/20260812-19.pdf</guid>
@@ -3776,6 +4016,14 @@ Voluntary Delisting of Equity Shares of Avadh Rail Infra Limited.</description>
       <description>[BSE] acb614751d2b5b24-non-competiti — Details regarding the non-competitive bidding facility for the auction</description>
       <category>trading</category>
       <pubDate>Mon, 10 Aug 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>BSE notice regarding the listing and admission to dealings of equity</title>
+      <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260814-32/20260814-32.pdf</link>
+      <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260814-32/20260814-32.pdf</guid>
+      <description>[BSE] 6cb351a29f340f7a-listing-of-eq — BSE notice regarding the listing and admission to dealings of equity</description>
+      <category>listing</category>
+      <pubDate>Fri, 14 Aug 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
       <title>BSE has scheduled a mock trading session for the Currency Derivatives</title>
@@ -3824,6 +4072,14 @@ Voluntary Delisting of Equity Shares of Avadh Rail Infra Limited.</description>
       <description>[BSE] eb79d2fda6a4be1d-change-in-gro — BSE announces that trading in the equity shares of Prima Innovation Limited</description>
       <category>listing</category>
       <pubDate>Fri, 07 Aug 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>SEBI released a consultation paper proposing relaxations in KYC norms</title>
+      <link>https://www.sebi.gov.in/media-and-notifications/press-releases/aug-2026/relaxations-in-know-your-client-kyc-norms-for-individual-persons-resident-outside-india-i-e-non-resident-indians-overseas-citizens-of-india-and-foreign-nationals-_103683.html</link>
+      <guid isPermaLink="false">https://www.sebi.gov.in/media-and-notifications/press-releases/aug-2026/relaxations-in-know-your-client-kyc-norms-for-individual-persons-resident-outside-india-i-e-non-resident-indians-overseas-citizens-of-india-and-foreign-nationals-_103683.html</guid>
+      <description>[SEBI] SEBI/103683 — SEBI released a consultation paper proposing relaxations in KYC norms</description>
+      <category>compliance</category>
+      <pubDate>Fri, 14 Aug 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
       <title>SEBI issued a remittance advice against defaulter Santosh Kumar under</title>
@@ -4058,6 +4314,14 @@ Voluntary Delisting of Equity Shares of Avadh Rail Infra Limited.</description>
       <pubDate>Fri, 14 Aug 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
+      <title>SEBI has issued a release order regarding Recovery Certificate No. RC7967</title>
+      <link>https://www.sebi.gov.in/enforcement/recovery-proceedings/aug-2026/release-order-certificate-no-rc7967-of-2024-in-respect-of-adhunik-contractors-private-limited-pan-aagca9909h-in-the-matter-of-illiquid-stock-options_103682.html</link>
+      <guid isPermaLink="false">https://www.sebi.gov.in/enforcement/recovery-proceedings/aug-2026/release-order-certificate-no-rc7967-of-2024-in-respect-of-adhunik-contractors-private-limited-pan-aagca9909h-in-the-matter-of-illiquid-stock-options_103682.html</guid>
+      <description>[SEBI] SEBI/103682 — SEBI has issued a release order regarding Recovery Certificate No. RC7967</description>
+      <category>compliance</category>
+      <pubDate>Fri, 14 Aug 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
       <title>SEBI initiated adjudication proceedings against twenty promoter and promoter</title>
       <link>https://www.sebi.gov.in/enforcement/orders/aug-2026/adjudication-order-in-respect-to-twenty-entities-in-the-matter-of-ultracab-india-limited_103452.html</link>
       <guid isPermaLink="false">https://www.sebi.gov.in/enforcement/orders/aug-2026/adjudication-order-in-respect-to-twenty-entities-in-the-matter-of-ultracab-india-limited_103452.html</guid>
@@ -4160,6 +4424,14 @@ Voluntary Delisting of Equity Shares of Avadh Rail Infra Limited.</description>
       <description>[SEBI] SEBI/103525 — SEBI Appellate Authority order regarding RTI appeal concerning the status</description>
       <category>compliance</category>
       <pubDate>Thu, 13 Aug 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>SEBI has issued a completion of recovery certificate and release order</title>
+      <link>https://www.sebi.gov.in/enforcement/recovery-proceedings/aug-2026/completion-of-recovery-certificate-no-rc7967-of-2024-in-respect-of-adhunik-contractors-private-limited-pan-aagca9909h-in-the-matter-of-illiquid-stock-options_103680.html</link>
+      <guid isPermaLink="false">https://www.sebi.gov.in/enforcement/recovery-proceedings/aug-2026/completion-of-recovery-certificate-no-rc7967-of-2024-in-respect-of-adhunik-contractors-private-limited-pan-aagca9909h-in-the-matter-of-illiquid-stock-options_103680.html</guid>
+      <description>[SEBI] SEBI/103680 — SEBI has issued a completion of recovery certificate and release order</description>
+      <category>compliance</category>
+      <pubDate>Fri, 14 Aug 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
       <title>SEBI issued a notice of attachment under recovery proceedings against</title>
