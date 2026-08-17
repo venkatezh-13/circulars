@@ -5,7 +5,7 @@
     <link>https://venkatezh-13.github.io/circulars</link>
     <description>NSE, BSE and MCX circulars — last 7 days</description>
     <language>en-in</language>
-    <lastBuildDate>Mon, 17 Aug 2026 13:00:48 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 17 Aug 2026 13:48:08 +0000</lastBuildDate>
     <atom:link href="https://venkatezh-13.github.io/circulars/rss/all.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Modification in the regulatory framework for Online Bond Platform Providers (OBPPs) including measures for promoting ease of doing business </title>
@@ -13,6 +13,22 @@
       <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/COMP75793.pdf</guid>
       <description>[NSE] NSE/COMP/75793 — Modification in the regulatory framework for Online Bond Platform Providers (OBPPs) including measures for promoting ease of doing business </description>
       <category>Inspection &amp; Compliance</category>
+      <pubDate>Mon, 17 Aug 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>Suspension of partly paid-up equity shares of Spandana Sphoorty Financial Limited</title>
+      <link>https://nsearchives.nseindia.com/content/circulars/CML75792.pdf</link>
+      <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/CML75792.pdf</guid>
+      <description>[NSE] NSE/CML/75792 — Suspension of partly paid-up equity shares of Spandana Sphoorty Financial Limited</description>
+      <category>Listing</category>
+      <pubDate>Mon, 17 Aug 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>Listing of further issue of Krishival Foods Limited</title>
+      <link>https://nsearchives.nseindia.com/content/circulars/CML75791.pdf</link>
+      <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/CML75791.pdf</guid>
+      <description>[NSE] NSE/CML/75791 — Listing of further issue of Krishival Foods Limited</description>
+      <category>Listing</category>
       <pubDate>Mon, 17 Aug 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
@@ -32,11 +48,19 @@
       <pubDate>Mon, 17 Aug 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
+      <title>Trade for Trade</title>
+      <link>https://nsearchives.nseindia.com/content/circulars/SURV75787.zip</link>
+      <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/SURV75787.zip</guid>
+      <description>[NSE] NSE/SURV/75787 — Trade for Trade</description>
+      <category>Surveillance &amp; Investigation</category>
+      <pubDate>Mon, 17 Aug 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
       <title>Suspension of trading in Non-Convertible Securities (Privately Placed)</title>
       <link>https://nsearchives.nseindia.com/content/circulars/CML75786.pdf</link>
       <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/CML75786.pdf</guid>
       <description>[NSE] NSE/CML/75786 — Suspension of trading in Non-Convertible Securities (Privately Placed)</description>
-      <category>Debt Segment</category>
+      <category>Listing</category>
       <pubDate>Mon, 17 Aug 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
@@ -204,6 +228,80 @@
       <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260817-4/20260817-4.pdf</link>
       <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260817-4/20260817-4.pdf</guid>
       <description>[BSE] 20260817-4 — Offer to Buy – Acquisition Window (Delisting) for AVADH RAIL INFRA LIMITED – Live Activities Schedule</description>
+      <category>General / Circular</category>
+      <pubDate>Mon, 17 Aug 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>Listing of Equity Shares of Milky Mist Dairy Food Limited</title>
+      <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260817-39/20260817-39.pdf</link>
+      <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260817-39/20260817-39.pdf</guid>
+      <description>[BSE] 20260817-39 — Listing of Equity Shares of Milky Mist Dairy Food Limited</description>
+      <category>General / Circular</category>
+      <pubDate>Mon, 17 Aug 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>REVISION OF SCRIPS IN TRADE TO TRADE SEGMENT</title>
+      <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260817-38/20260817-38.pdf</link>
+      <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260817-38/20260817-38.pdf</guid>
+      <description>[BSE] 20260817-38 — REVISION OF SCRIPS IN TRADE TO TRADE SEGMENT</description>
+      <category>General / Circular</category>
+      <pubDate>Mon, 17 Aug 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>Applicability of Short Term Additional Surveillance Measure (ST-ASM)</title>
+      <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260817-37/20260817-37.pdf</link>
+      <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260817-37/20260817-37.pdf</guid>
+      <description>[BSE] 20260817-37 — Applicability of Short Term Additional Surveillance Measure (ST-ASM)</description>
+      <category>General / Circular</category>
+      <pubDate>Mon, 17 Aug 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>Applicability of Long Term Additional Surveillance Measure (LT-ASM)</title>
+      <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260817-36/20260817-36.pdf</link>
+      <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260817-36/20260817-36.pdf</guid>
+      <description>[BSE] 20260817-36 — Applicability of Long Term Additional Surveillance Measure (LT-ASM)</description>
+      <category>General / Circular</category>
+      <pubDate>Mon, 17 Aug 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>Enhanced Surveillance Measure (ESM)</title>
+      <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260817-35/20260817-35.pdf</link>
+      <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260817-35/20260817-35.pdf</guid>
+      <description>[BSE] 20260817-35 — Enhanced Surveillance Measure (ESM)</description>
+      <category>General / Circular</category>
+      <pubDate>Mon, 17 Aug 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>CHANGES IN PRICE BAND</title>
+      <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260817-34/20260817-34.pdf</link>
+      <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260817-34/20260817-34.pdf</guid>
+      <description>[BSE] 20260817-34 — CHANGES IN PRICE BAND</description>
+      <category>General / Circular</category>
+      <pubDate>Mon, 17 Aug 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>Graded Surveillance Measure (GSM) - List of securities moving into their respective GSM Stages</title>
+      <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260817-33/20260817-33.pdf</link>
+      <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260817-33/20260817-33.pdf</guid>
+      <description>[BSE] 20260817-33 — Graded Surveillance Measure (GSM) - List of securities moving into their respective GSM Stages</description>
+      <category>General / Circular</category>
+      <pubDate>Mon, 17 Aug 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>Public Issue of SUNSHINE PICTURES LIMITED - Allocation to Anchor Investors</title>
+      <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260817-32/20260817-32.pdf</link>
+      <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260817-32/20260817-32.pdf</guid>
+      <description>[BSE] 20260817-32 — Public Issue of SUNSHINE PICTURES LIMITED - Allocation to Anchor Investors</description>
+      <category>General / Circular</category>
+      <pubDate>Mon, 17 Aug 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>Public Issue of  SHANKESH JEWELLERS LIMITED - Allocation to
+Anchor Investors</title>
+      <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260817-31/20260817-31.pdf</link>
+      <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260817-31/20260817-31.pdf</guid>
+      <description>[BSE] 20260817-31 — Public Issue of  SHANKESH JEWELLERS LIMITED - Allocation to
+Anchor Investors</description>
       <category>General / Circular</category>
       <pubDate>Mon, 17 Aug 2026 07:30:00 +0530</pubDate>
     </item>
@@ -402,6 +500,14 @@ NEELKANTH ROCKMINERALS LTD – Live Activities Schedule</description>
       <pubDate>Mon, 17 Aug 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
+      <title>Delisting of MCX Registered Indian Refined Lead Brand ‘POEL’</title>
+      <link>https://www.mcxindia.com/docs/default-source/circulars/english/2026/august/circular-469.pdf?sfvrsn=35661a0a_1</link>
+      <guid isPermaLink="false">https://www.mcxindia.com/docs/default-source/circulars/english/2026/august/circular-469.pdf?sfvrsn=35661a0a_1</guid>
+      <description>[MCX] 469 — Delisting of MCX Registered Indian Refined Lead Brand ‘POEL’</description>
+      <category>MCXCCL</category>
+      <pubDate>Mon, 17 Aug 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
       <title>Acceptance of MCX approved Indian Refined Lead Brands at MCXCCL accredited Warehouses</title>
       <link>https://www.mcxindia.com/docs/default-source/circulars/english/2026/august/circulat-468.pdf?sfvrsn=e0edfe69_1</link>
       <guid isPermaLink="false">https://www.mcxindia.com/docs/default-source/circulars/english/2026/august/circulat-468.pdf?sfvrsn=e0edfe69_1</guid>
@@ -423,14 +529,6 @@ NEELKANTH ROCKMINERALS LTD – Live Activities Schedule</description>
       <guid isPermaLink="false">https://www.mcxindia.com/docs/default-source/circulars/english/2026/august/circular-466-2026.pdf?sfvrsn=13d7f269_1</guid>
       <description>[MCX] 466 — Additional list of Approved Units of Mutual funds schemes</description>
       <category>MCXCCL</category>
-      <pubDate>Mon, 17 Aug 2026 07:30:00 +0530</pubDate>
-    </item>
-    <item>
-      <title>Revision of Application Form for Mutual Fund Registration</title>
-      <link>https://www.sebi.gov.in/legal/circulars/aug-2026/revision-of-application-form-for-mutual-fund-registration_103721.html</link>
-      <guid isPermaLink="false">https://www.sebi.gov.in/legal/circulars/aug-2026/revision-of-application-form-for-mutual-fund-registration_103721.html</guid>
-      <description>[SEBI] 3721 — Revision of Application Form for Mutual Fund Registration</description>
-      <category>Circular</category>
       <pubDate>Mon, 17 Aug 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
