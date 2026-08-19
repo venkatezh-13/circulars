@@ -5,7 +5,7 @@
     <link>https://venkatezh-13.github.io/circulars</link>
     <description>NSE, BSE and MCX circulars — last 7 days</description>
     <language>en-in</language>
-    <lastBuildDate>Wed, 19 Aug 2026 13:09:23 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 13:58:00 +0000</lastBuildDate>
     <atom:link href="https://venkatezh-13.github.io/circulars/rss/all.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Listing of units issued by DSP Asset Managers Private Limited (DSP Nifty 10 Yr Benchmark G-Sec ETF)</title>
@@ -36,7 +36,15 @@
       <link>https://nsearchives.nseindia.com/content/circulars/CML75828.pdf</link>
       <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/CML75828.pdf</guid>
       <description>[NSE] NSE/CML/75828 — Listing of privately placed securities on the debt market segment of the Exchange</description>
-      <category>Debt Segment</category>
+      <category>Listing</category>
+      <pubDate>Wed, 19 Aug 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>Suspension of trading in Cumulative Non-Convertible Redeemable Preference Shares - TVS Motor Company Limited (TVSMNCRPS)</title>
+      <link>https://nsearchives.nseindia.com/content/circulars/CML75827.pdf</link>
+      <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/CML75827.pdf</guid>
+      <description>[NSE] NSE/CML/75827 — Suspension of trading in Cumulative Non-Convertible Redeemable Preference Shares - TVS Motor Company Limited (TVSMNCRPS)</description>
+      <category>Listing</category>
       <pubDate>Wed, 19 Aug 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
@@ -48,11 +56,35 @@
       <pubDate>Wed, 19 Aug 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
+      <title>Applicability of Additional Surveillance Measure under IBC</title>
+      <link>https://nsearchives.nseindia.com/content/circulars/SURV75825.zip</link>
+      <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/SURV75825.zip</guid>
+      <description>[NSE] NSE/SURV/75825 — Applicability of Additional Surveillance Measure under IBC</description>
+      <category>Surveillance &amp; Investigation</category>
+      <pubDate>Wed, 19 Aug 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>Applicability of Short-Term Additional Surveillance Measure (ST-ASM)</title>
+      <link>https://nsearchives.nseindia.com/content/circulars/SURV75824.zip</link>
+      <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/SURV75824.zip</guid>
+      <description>[NSE] NSE/SURV/75824 — Applicability of Short-Term Additional Surveillance Measure (ST-ASM)</description>
+      <category>Surveillance &amp; Investigation</category>
+      <pubDate>Wed, 19 Aug 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>Applicability of Additional Surveillance Measure (ASM)</title>
+      <link>https://nsearchives.nseindia.com/content/circulars/SURV75823.zip</link>
+      <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/SURV75823.zip</guid>
+      <description>[NSE] NSE/SURV/75823 — Applicability of Additional Surveillance Measure (ASM)</description>
+      <category>Surveillance &amp; Investigation</category>
+      <pubDate>Wed, 19 Aug 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
       <title>Trade for Trade - Pramodini Medicare Limited (SME IPO)</title>
       <link>https://nsearchives.nseindia.com/content/circulars/CML75822.pdf</link>
       <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/CML75822.pdf</guid>
       <description>[NSE] NSE/CML/75822 — Trade for Trade - Pramodini Medicare Limited (SME IPO)</description>
-      <category>Emerge</category>
+      <category>Listing</category>
       <pubDate>Wed, 19 Aug 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
@@ -60,7 +92,7 @@
       <link>https://nsearchives.nseindia.com/content/circulars/CML75821.pdf</link>
       <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/CML75821.pdf</guid>
       <description>[NSE] NSE/CML/75821 — Suspension of trading in Non-Convertible Securities (Privately Placed)</description>
-      <category>Listing</category>
+      <category>Debt Segment</category>
       <pubDate>Wed, 19 Aug 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
@@ -128,6 +160,38 @@
       <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260819-3/20260819-3.pdf</link>
       <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260819-3/20260819-3.pdf</guid>
       <description>[BSE] 20260819-3 — Demat Auction 696</description>
+      <category>General / Circular</category>
+      <pubDate>Wed, 19 Aug 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>Availability of ZERODHA ARBITRAGE FUND for Ongoing Transactions on BSE StAR MF Platform</title>
+      <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260819-24/20260819-24.pdf</link>
+      <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260819-24/20260819-24.pdf</guid>
+      <description>[BSE] 20260819-24 — Availability of ZERODHA ARBITRAGE FUND for Ongoing Transactions on BSE StAR MF Platform</description>
+      <category>General / Circular</category>
+      <pubDate>Wed, 19 Aug 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>Clarification for order settlement of August 26, 2026 (Id-E-Milad) on BSE StAR MF Platform</title>
+      <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260819-23/20260819-23.pdf</link>
+      <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260819-23/20260819-23.pdf</guid>
+      <description>[BSE] 20260819-23 — Clarification for order settlement of August 26, 2026 (Id-E-Milad) on BSE StAR MF Platform</description>
+      <category>General / Circular</category>
+      <pubDate>Wed, 19 Aug 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>Listing of New Securities of SWOJAS FOODS LIMITED</title>
+      <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260819-22/20260819-22.pdf</link>
+      <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260819-22/20260819-22.pdf</guid>
+      <description>[BSE] 20260819-22 — Listing of New Securities of SWOJAS FOODS LIMITED</description>
+      <category>General / Circular</category>
+      <pubDate>Wed, 19 Aug 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>Update Regarding debt securities of Purva Oak Pvt Ltd</title>
+      <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260819-21/20260819-21.pdf</link>
+      <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260819-21/20260819-21.pdf</guid>
+      <description>[BSE] 20260819-21 — Update Regarding debt securities of Purva Oak Pvt Ltd</description>
       <category>General / Circular</category>
       <pubDate>Wed, 19 Aug 2026 07:30:00 +0530</pubDate>
     </item>
@@ -233,6 +297,14 @@
       <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260819-1/20260819-1.pdf</guid>
       <description>[BSE] 20260819-1 — Change in Group of Equity Shares of Q&amp;T FOODS LIMITED</description>
       <category>General / Circular</category>
+      <pubDate>Wed, 19 Aug 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>Empanelment as Algo Provider - Clearmind Consultancy Private Limited</title>
+      <link>https://www.mcxindia.com/docs/default-source/circulars/english/2026/august/mcxctcl4722026_empanelment-as-algo-provider---clearmind-consultancy-private-limited.pdf?sfvrsn=4d3988e6_1</link>
+      <guid isPermaLink="false">https://www.mcxindia.com/docs/default-source/circulars/english/2026/august/mcxctcl4722026_empanelment-as-algo-provider---clearmind-consultancy-private-limited.pdf?sfvrsn=4d3988e6_1</guid>
+      <description>[MCX] 472 — Empanelment as Algo Provider - Clearmind Consultancy Private Limited</description>
+      <category>CTCL</category>
       <pubDate>Wed, 19 Aug 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
