@@ -5,7 +5,7 @@
     <link>https://venkatezh-13.github.io/circulars</link>
     <description>NSE, BSE and MCX circulars — last 7 days</description>
     <language>en-in</language>
-    <lastBuildDate>Thu, 20 Aug 2026 06:04:10 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 07:07:07 +0000</lastBuildDate>
     <atom:link href="https://venkatezh-13.github.io/circulars/rss/all.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Buyback Offer under Tender Offer scheme by Industrial Investment Trust Limited </title>
@@ -374,6 +374,14 @@ Chemmanur Credits and Investments Ltd</description>
       <pubDate>Thu, 20 Aug 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
+      <title>Due Date Rates</title>
+      <link>https://www.mcxindia.com/docs/default-source/circulars/english/2026/august/circular-474-2026.pdf?sfvrsn=b8a6bed3_1</link>
+      <guid isPermaLink="false">https://www.mcxindia.com/docs/default-source/circulars/english/2026/august/circular-474-2026.pdf?sfvrsn=b8a6bed3_1</guid>
+      <description>[MCX] 474 — Due Date Rates</description>
+      <category>MCXCCL</category>
+      <pubDate>Thu, 20 Aug 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
       <title>National Stock Exchange announces the forthcoming listing of equity shares</title>
       <link>https://nsearchives.nseindia.com/content/circulars/CML75741.pdf</link>
       <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/CML75741.pdf</guid>
@@ -444,6 +452,14 @@ Chemmanur Credits and Investments Ltd</description>
       <description>[NSE] NSE/SURV75787 — NSE circular detailing the shifting of securities to and from the Trade</description>
       <category>trading</category>
       <pubDate>Mon, 17 Aug 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>Industrial Investment Trust Limited announces buyback offer under tender</title>
+      <link>https://nsearchives.nseindia.com/content/circulars/CMTR75819.pdf</link>
+      <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/CMTR75819.pdf</guid>
+      <description>[NSE] NSE/CMTR75819 — Industrial Investment Trust Limited announces buyback offer under tender</description>
+      <category>trading</category>
+      <pubDate>Thu, 20 Aug 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
       <title>NSE circular detailing SEBI's modifications to the regulatory framework</title>
@@ -3630,12 +3646,28 @@ Chemmanur Credits and Investments Ltd</description>
       <pubDate>Fri, 14 Aug 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
+      <title>SEBI issued a notice of attachment dated August 17, 2026, under Recovery</title>
+      <link>https://www.sebi.gov.in/enforcement/recovery-proceedings/aug-2026/notice-of-attachment-of-bank-and-post-office-accounts-14918-3-of-2026-dated-august-17-2026-against-heena-khatoon-proprietor-of-heena-enterprises-pan-fgxpk5721g-defaulter-in-the-matter-of-contin-_103784.html</link>
+      <guid isPermaLink="false">https://www.sebi.gov.in/enforcement/recovery-proceedings/aug-2026/notice-of-attachment-of-bank-and-post-office-accounts-14918-3-of-2026-dated-august-17-2026-against-heena-khatoon-proprietor-of-heena-enterprises-pan-fgxpk5721g-defaulter-in-the-matter-of-contin-_103784.html</guid>
+      <description>[SEBI] SEBI/103784 — SEBI issued a notice of attachment dated August 17, 2026, under Recovery</description>
+      <category>compliance</category>
+      <pubDate>Mon, 17 Aug 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
       <title>SEBI order issued against merchant banker Corporate Capital Ventures</title>
       <link>https://www.sebi.gov.in/enforcement/orders/aug-2026/order-in-enquiry-proceedings-respect-of-corporate-capital-ventures-private-limited_103718.html</link>
       <guid isPermaLink="false">https://www.sebi.gov.in/enforcement/orders/aug-2026/order-in-enquiry-proceedings-respect-of-corporate-capital-ventures-private-limited_103718.html</guid>
       <description>[SEBI] SEBI/103718 — SEBI order issued against merchant banker Corporate Capital Ventures</description>
       <category>compliance</category>
       <pubDate>Tue, 18 Aug 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>SEBI issues notice of attachment of demat account and mutual fund folio(s)</title>
+      <link>https://www.sebi.gov.in/enforcement/recovery-proceedings/aug-2026/notice-of-attachment-of-demat-account-and-mutual-fund-folio-s-14919-3-of-2026-dated-august-17-2026-against-heena-khatoon-proprietor-of-heena-enterprises-pan-fgxpk5721g-defaulter-in-the-matter-_103786.html</link>
+      <guid isPermaLink="false">https://www.sebi.gov.in/enforcement/recovery-proceedings/aug-2026/notice-of-attachment-of-demat-account-and-mutual-fund-folio-s-14919-3-of-2026-dated-august-17-2026-against-heena-khatoon-proprietor-of-heena-enterprises-pan-fgxpk5721g-defaulter-in-the-matter-_103786.html</guid>
+      <description>[SEBI] SEBI/103786 — SEBI issues notice of attachment of demat account and mutual fund folio(s)</description>
+      <category>compliance</category>
+      <pubDate>Mon, 17 Aug 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
       <title>SEBI adjudication order regarding suspected insider trading activity</title>
