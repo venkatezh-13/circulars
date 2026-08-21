@@ -5,8 +5,16 @@
     <link>https://venkatezh-13.github.io/circulars</link>
     <description>NSE circulars — last 7 days</description>
     <language>en-in</language>
-    <lastBuildDate>Fri, 21 Aug 2026 14:44:33 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 15:17:03 +0000</lastBuildDate>
     <atom:link href="https://venkatezh-13.github.io/circulars/rss/nse.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Mock trading from BCP/DR site on Saturday, August 22, 2026</title>
+      <link>https://nsearchives.nseindia.com/content/circulars/CMPL75894.zip</link>
+      <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/CMPL75894.zip</guid>
+      <description>[NSE] NCL/CMPL/75894 — Mock trading from BCP/DR site on Saturday, August 22, 2026</description>
+      <category>Inspection &amp; Compliance</category>
+      <pubDate>Fri, 21 Aug 2026 07:30:00 +0530</pubDate>
+    </item>
     <item>
       <title>Listing of further issues of SPR Auto Technologies Limited</title>
       <link>https://nsearchives.nseindia.com/content/circulars/CML75893.pdf</link>
@@ -84,7 +92,7 @@
       <link>https://nsearchives.nseindia.com/content/circulars/CML75882.pdf</link>
       <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/CML75882.pdf</guid>
       <description>[NSE] NSE/CML/75882 — Listing of further issues of securities</description>
-      <category>Listing</category>
+      <category>Emerge</category>
       <pubDate>Fri, 21 Aug 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
@@ -236,7 +244,7 @@
       <link>https://nsearchives.nseindia.com/content/circulars/CML75862.pdf</link>
       <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/CML75862.pdf</guid>
       <description>[NSE] NSE/CML/75862 — Trade for Trade - Skytech Infinite Platform Limited (SME IPO)</description>
-      <category>Listing</category>
+      <category>Emerge</category>
       <pubDate>Fri, 21 Aug 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
@@ -268,7 +276,7 @@
       <link>https://nsearchives.nseindia.com/content/circulars/CML75858.pdf</link>
       <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/CML75858.pdf</guid>
       <description>[NSE] NSE/CML/75858 — Suspension of trading in Non-Convertible Securities (Privately Placed)</description>
-      <category>Listing</category>
+      <category>Debt Segment</category>
       <pubDate>Fri, 21 Aug 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
