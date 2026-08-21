@@ -5,7 +5,7 @@
     <link>https://venkatezh-13.github.io/circulars</link>
     <description>NSE circulars — last 7 days</description>
     <language>en-in</language>
-    <lastBuildDate>Fri, 21 Aug 2026 15:59:23 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 16:45:20 +0000</lastBuildDate>
     <atom:link href="https://venkatezh-13.github.io/circulars/rss/nse.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Mock trading from BCP/DR site on Saturday, August 22, 2026</title>
@@ -21,14 +21,6 @@
       <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/CML75893.pdf</guid>
       <description>[NSE] NSE/CML/75893 — Listing of further issues of SPR Auto Technologies Limited</description>
       <category>Listing</category>
-      <pubDate>Fri, 21 Aug 2026 07:30:00 +0530</pubDate>
-    </item>
-    <item>
-      <title>SEBI Final order in the matter of Modex International Securities Ltd.</title>
-      <link>https://nsearchives.nseindia.com/content/circulars/INVG75892.zip</link>
-      <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/INVG75892.zip</guid>
-      <description>[NSE] NSE/INVG/75892 — SEBI Final order in the matter of Modex International Securities Ltd.</description>
-      <category>Surveillance &amp; Investigation</category>
       <pubDate>Fri, 21 Aug 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
@@ -92,7 +84,7 @@
       <link>https://nsearchives.nseindia.com/content/circulars/CMTR75883.pdf</link>
       <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/CMTR75883.pdf</guid>
       <description>[NSE] NSE/CMTR/75883 — BONUS: Adjustment of Market Lot for Security AILIMITED in SME Platform</description>
-      <category>Emerge</category>
+      <category>Capital Market (Equities) Trade</category>
       <pubDate>Fri, 21 Aug 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
@@ -140,7 +132,7 @@
       <link>https://nsearchives.nseindia.com/content/circulars/CMTR75876.pdf</link>
       <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/CMTR75876.pdf</guid>
       <description>[NSE] NSE/CMTR/75876 — Mock trading from BCP/DR site on Saturday, August 22, 2026</description>
-      <category>Capital Market (Equities) Trade</category>
+      <category>Emerge</category>
       <pubDate>Fri, 21 Aug 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
@@ -156,7 +148,7 @@
       <link>https://nsearchives.nseindia.com/content/circulars/CML75874.pdf</link>
       <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/CML75874.pdf</guid>
       <description>[NSE] NSE/CML/75874 — Listing of privately placed securities on the debt market segment of the Exchange</description>
-      <category>Debt Segment</category>
+      <category>Listing</category>
       <pubDate>Fri, 21 Aug 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
@@ -196,7 +188,7 @@
       <link>https://nsearchives.nseindia.com/content/circulars/CMTR75869.pdf</link>
       <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/CMTR75869.pdf</guid>
       <description>[NSE] NSE/CMTR/75869 — Bulk &amp; Block Reporting update</description>
-      <category>Member Service Department</category>
+      <category>Emerge</category>
       <pubDate>Fri, 21 Aug 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
