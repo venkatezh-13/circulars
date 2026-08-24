@@ -5,7 +5,7 @@
     <link>https://venkatezh-13.github.io/circulars</link>
     <description>NSE circulars — last 7 days</description>
     <language>en-in</language>
-    <lastBuildDate>Mon, 24 Aug 2026 17:58:19 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 18:51:59 +0000</lastBuildDate>
     <atom:link href="https://venkatezh-13.github.io/circulars/rss/nse.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Modification in Distinctive Number Range of Equity Shares of Shankesh Jewellers Limited Listing pursuant to IPO</title>
@@ -310,6 +310,14 @@
       <description>[NSE] NSE/SURV75824 — National Stock Exchange announces the applicability of Short-Term Additional</description>
       <category>trading</category>
       <pubDate>Wed, 19 Aug 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>NSE Clearing Limited issued a settlement calendar and timings for the</title>
+      <link>https://nsearchives.nseindia.com/content/circulars/CMPT75932.pdf</link>
+      <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/CMPT75932.pdf</guid>
+      <description>[NSE] NSE/CMPT75932 — NSE Clearing Limited issued a settlement calendar and timings for the</description>
+      <category>market-operations</category>
+      <pubDate>Mon, 24 Aug 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
       <title>NSE circular announcing the change in ISIN for TD Power Systems Limited</title>
@@ -646,6 +654,14 @@
       <description>[NSE] NSE/CML75836 — National Stock Exchange announces the listing of units issued by Mirae</description>
       <category>listing</category>
       <pubDate>Wed, 19 Aug 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>NSE announces a modification in the distinctive number range and lock-in</title>
+      <link>https://nsearchives.nseindia.com/content/circulars/CML75933.zip</link>
+      <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/CML75933.zip</guid>
+      <description>[NSE] NSE/CML75933 — NSE announces a modification in the distinctive number range and lock-in</description>
+      <category>listing</category>
+      <pubDate>Mon, 24 Aug 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
       <title>National Stock Exchange announces the listing and admission to dealings</title>
@@ -1432,11 +1448,11 @@
       <pubDate>Tue, 18 Aug 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
-      <title>Nse 2026 08 24 93E6482B6252Ab3B Reversal Trade Cancellation Mechanism Rtcm</title>
+      <title>NSE outlines the methodology and symbol list for the Reversal Trade Cancellation</title>
       <link>https://nsearchives.nseindia.com/content/circulars/SURV75929.zip</link>
       <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/SURV75929.zip</guid>
-      <description>[NSE] NSE/SURV75929 — Nse 2026 08 24 93E6482B6252Ab3B Reversal Trade Cancellation Mechanism Rtcm</description>
-      <category>Circular</category>
+      <description>[NSE] NSE/SURV75929 — NSE outlines the methodology and symbol list for the Reversal Trade Cancellation</description>
+      <category>trading</category>
       <pubDate>Mon, 24 Aug 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
