@@ -5,7 +5,7 @@
     <link>https://venkatezh-13.github.io/circulars</link>
     <description>NSE, BSE and MCX circulars — last 7 days</description>
     <language>en-in</language>
-    <lastBuildDate>Tue, 25 Aug 2026 05:48:10 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 06:50:57 +0000</lastBuildDate>
     <atom:link href="https://venkatezh-13.github.io/circulars/rss/all.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Change in ISIN - Waterways Leisure Tourism Limited (CORDELIA)</title>
@@ -21,6 +21,14 @@
       <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260825-1/20260825-1.pdf</guid>
       <description>[BSE] 20260825-1 —  Non-Competitive Bidding for Auction of GoI dated Securities (G-secs) on August 28, 2026  </description>
       <category>General / Circular</category>
+      <pubDate>Tue, 25 Aug 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>Due Date Rates</title>
+      <link>https://www.mcxindia.com/docs/default-source/circulars/english/2026/august/circular-482-2026.pdf?sfvrsn=610bf5b3_1</link>
+      <guid isPermaLink="false">https://www.mcxindia.com/docs/default-source/circulars/english/2026/august/circular-482-2026.pdf?sfvrsn=610bf5b3_1</guid>
+      <description>[MCX] 482 — Due Date Rates</description>
+      <category>MCXCCL</category>
       <pubDate>Tue, 25 Aug 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
@@ -142,6 +150,14 @@
       <description>[NSE] NSE/CMTR75819 — Industrial Investment Trust Limited announces buyback offer under tender</description>
       <category>trading</category>
       <pubDate>Thu, 20 Aug 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>National Stock Exchange announces a change in ISIN for Waterways Leisure</title>
+      <link>https://nsearchives.nseindia.com/content/circulars/CML75904.pdf</link>
+      <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/CML75904.pdf</guid>
+      <description>[NSE] NSE/CML75904 — National Stock Exchange announces a change in ISIN for Waterways Leisure</description>
+      <category>listing</category>
+      <pubDate>Tue, 25 Aug 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
       <title>NSE is conducting a mock bidding session for the eOFS platform from its</title>
@@ -2702,6 +2718,14 @@
       <description>[BSE] d7dd4dac5448cba1-listing-of-ne — BSE notice regarding the listing and trading permission of 90,00,000</description>
       <category>listing</category>
       <pubDate>Tue, 18 Aug 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>BSE notice regarding non-competitive bidding for Government of India</title>
+      <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260825-1/20260825-1.pdf</link>
+      <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260825-1/20260825-1.pdf</guid>
+      <description>[BSE] a335feab1e63345a-non-competiti — BSE notice regarding non-competitive bidding for Government of India</description>
+      <category>trading</category>
+      <pubDate>Tue, 25 Aug 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
       <title>BSE notice regarding record date and part redemption of non-convertible</title>
