@@ -5,14 +5,30 @@
     <link>https://venkatezh-13.github.io/circulars</link>
     <description>NSE, BSE and MCX circulars — last 7 days</description>
     <language>en-in</language>
-    <lastBuildDate>Tue, 25 Aug 2026 10:34:39 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 11:05:14 +0000</lastBuildDate>
     <atom:link href="https://venkatezh-13.github.io/circulars/rss/all.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Change in scheme name of Invesco Mutual Fund on NSE MF Invest platform</title>
+      <link>https://nsearchives.nseindia.com/content/circulars/NMF75954.zip</link>
+      <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/NMF75954.zip</guid>
+      <description>[NSE] NSE/NMF/75954 — Change in scheme name of Invesco Mutual Fund on NSE MF Invest platform</description>
+      <category>Mutual Fund</category>
+      <pubDate>Tue, 25 Aug 2026 07:30:00 +0530</pubDate>
+    </item>
     <item>
       <title>Listing of Equity Shares of Gaja Alternative Asset Management Limited (IPO)</title>
       <link>https://nsearchives.nseindia.com/content/circulars/CML75952.pdf</link>
       <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/CML75952.pdf</guid>
       <description>[NSE] NSE/CML/75952 — Listing of Equity Shares of Gaja Alternative Asset Management Limited (IPO)</description>
       <category>Listing</category>
+      <pubDate>Tue, 25 Aug 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>Change in scheme name of Jio Blackrock Mutual Fund on NSE MF Invest platform</title>
+      <link>https://nsearchives.nseindia.com/content/circulars/NMF75951.zip</link>
+      <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/NMF75951.zip</guid>
+      <description>[NSE] NSE/NMF/75951 — Change in scheme name of Jio Blackrock Mutual Fund on NSE MF Invest platform</description>
+      <category>Mutual Fund</category>
       <pubDate>Tue, 25 Aug 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
@@ -24,11 +40,35 @@
       <pubDate>Tue, 25 Aug 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
+      <title>Availability of Kotak Nifty Bank Index Fund NFO on NSE MF Invest Platform</title>
+      <link>https://nsearchives.nseindia.com/content/circulars/NMF75946.pdf</link>
+      <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/NMF75946.pdf</guid>
+      <description>[NSE] NSE/NMF/75946 — Availability of Kotak Nifty Bank Index Fund NFO on NSE MF Invest Platform</description>
+      <category>Mutual Fund</category>
+      <pubDate>Tue, 25 Aug 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>Launch of ICICI Prudential Dynamic Asset Allocation Passive FOF NFO on NSE MF Invest Platform</title>
+      <link>https://nsearchives.nseindia.com/content/circulars/NMF75942.pdf</link>
+      <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/NMF75942.pdf</guid>
+      <description>[NSE] NSE/NMF/75942 — Launch of ICICI Prudential Dynamic Asset Allocation Passive FOF NFO on NSE MF Invest Platform</description>
+      <category>Mutual Fund</category>
+      <pubDate>Tue, 25 Aug 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
       <title>CBRICS - Settlement Calendar for September 2026</title>
       <link>https://nsearchives.nseindia.com/content/circulars/CMPT75940.pdf</link>
       <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/CMPT75940.pdf</guid>
       <description>[NSE] NCL/CMPT/75940 — CBRICS - Settlement Calendar for September 2026</description>
       <category>Debt Segment</category>
+      <pubDate>Tue, 25 Aug 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>Launch of ICICI Prudential Life Cycle Fund 2041 NFO on NSE MF Invest Platform</title>
+      <link>https://nsearchives.nseindia.com/content/circulars/NMF75938.pdf</link>
+      <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/NMF75938.pdf</guid>
+      <description>[NSE] NSE/NMF/75938 — Launch of ICICI Prudential Life Cycle Fund 2041 NFO on NSE MF Invest Platform</description>
+      <category>Mutual Fund</category>
       <pubDate>Tue, 25 Aug 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
@@ -100,6 +140,22 @@
       <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260825-2/20260825-2.pdf</link>
       <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260825-2/20260825-2.pdf</guid>
       <description>[BSE] 20260825-2 — Demat Auction 700</description>
+      <category>General / Circular</category>
+      <pubDate>Tue, 25 Aug 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>Listing of further securities issued by the companies under ESOP / ESOS </title>
+      <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260825-11/20260825-11.pdf</link>
+      <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260825-11/20260825-11.pdf</guid>
+      <description>[BSE] 20260825-11 — Listing of further securities issued by the companies under ESOP / ESOS </description>
+      <category>General / Circular</category>
+      <pubDate>Tue, 25 Aug 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>Part-Redemption of debenture of Magnum Ventures Limited</title>
+      <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260825-10/20260825-10.pdf</link>
+      <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260825-10/20260825-10.pdf</guid>
+      <description>[BSE] 20260825-10 — Part-Redemption of debenture of Magnum Ventures Limited</description>
       <category>General / Circular</category>
       <pubDate>Tue, 25 Aug 2026 07:30:00 +0530</pubDate>
     </item>
