@@ -5,7 +5,7 @@
     <link>https://venkatezh-13.github.io/circulars</link>
     <description>NSE, BSE and MCX circulars — last 7 days</description>
     <language>en-in</language>
-    <lastBuildDate>Tue, 25 Aug 2026 14:22:53 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 15:22:30 +0000</lastBuildDate>
     <atom:link href="https://venkatezh-13.github.io/circulars/rss/all.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Listing of further issues of securities</title>
@@ -96,11 +96,11 @@
       <pubDate>Tue, 25 Aug 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
-      <title>Listing of Equity Shares of Gaja Alternative Asset Management Limited (IPO)</title>
-      <link>https://nsearchives.nseindia.com/content/circulars/CML75963.zip</link>
-      <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/CML75963.zip</guid>
-      <description>[NSE] NSE/CML/75963 — Listing of Equity Shares of Gaja Alternative Asset Management Limited (IPO)</description>
-      <category>Emerge</category>
+      <title>Change in scheme name of Canara Robeco Mutual Fund on NSE MF Invest platform</title>
+      <link>https://nsearchives.nseindia.com/content/circulars/NMF75964.zip</link>
+      <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/NMF75964.zip</guid>
+      <description>[NSE] NSE/NMF/75964 — Change in scheme name of Canara Robeco Mutual Fund on NSE MF Invest platform</description>
+      <category>Mutual Fund</category>
       <pubDate>Tue, 25 Aug 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
@@ -109,6 +109,14 @@
       <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/FA75961.pdf</guid>
       <description>[NSE] NSE/FA/75961 — Transaction charges for Futures and Options contracts on Nifty India FPI 150 Index</description>
       <category>Futures &amp; Options</category>
+      <pubDate>Tue, 25 Aug 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>Change in scheme name of UTI Mutual Fund on NSE MF Invest platform</title>
+      <link>https://nsearchives.nseindia.com/content/circulars/NMF75959.zip</link>
+      <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/NMF75959.zip</guid>
+      <description>[NSE] NSE/NMF/75959 — Change in scheme name of UTI Mutual Fund on NSE MF Invest platform</description>
+      <category>Mutual Fund</category>
       <pubDate>Tue, 25 Aug 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
@@ -124,7 +132,7 @@
       <link>https://nsearchives.nseindia.com/content/circulars/CMPT75957.pdf</link>
       <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/CMPT75957.pdf</guid>
       <description>[NSE] NCL/CMPT/75957 — Revision in List of Approved Banks</description>
-      <category>Currency Derivatives</category>
+      <category>Commodity Derivatives</category>
       <pubDate>Tue, 25 Aug 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
@@ -360,10 +368,140 @@
       <pubDate>Tue, 25 Aug 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
+      <title>Change in scheme name of HDFC Mutual Fund on BSE StAR MF Platform</title>
+      <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260825-58/20260825-58.pdf</link>
+      <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260825-58/20260825-58.pdf</guid>
+      <description>[BSE] 20260825-58 — Change in scheme name of HDFC Mutual Fund on BSE StAR MF Platform</description>
+      <category>General / Circular</category>
+      <pubDate>Tue, 25 Aug 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>Listing of Equity Shares of MOPSHOP DISTRIBUTION LIMITED
+ </title>
+      <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260825-57/20260825-57.pdf</link>
+      <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260825-57/20260825-57.pdf</guid>
+      <description>[BSE] 20260825-57 — Listing of Equity Shares of MOPSHOP DISTRIBUTION LIMITED
+ </description>
+      <category>General / Circular</category>
+      <pubDate>Tue, 25 Aug 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>Suspension of Trading in Debentures and Bonds of Companies</title>
+      <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260825-56/20260825-56.pdf</link>
+      <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260825-56/20260825-56.pdf</guid>
+      <description>[BSE] 20260825-56 — Suspension of Trading in Debentures and Bonds of Companies</description>
+      <category>General / Circular</category>
+      <pubDate>Tue, 25 Aug 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>Suspension Of Trading in Commercial Paper</title>
+      <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260825-55/20260825-55.pdf</link>
+      <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260825-55/20260825-55.pdf</guid>
+      <description>[BSE] 20260825-55 — Suspension Of Trading in Commercial Paper</description>
+      <category>General / Circular</category>
+      <pubDate>Tue, 25 Aug 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>Public Issue of  LUMINO INDUSTRIES LIMITED  - Allocation to Anchor Investors</title>
+      <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260825-54/20260825-54.pdf</link>
+      <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260825-54/20260825-54.pdf</guid>
+      <description>[BSE] 20260825-54 — Public Issue of  LUMINO INDUSTRIES LIMITED  - Allocation to Anchor Investors</description>
+      <category>General / Circular</category>
+      <pubDate>Tue, 25 Aug 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>Listing of Equity Shares of Dhanwel Hybrid Seeds Limited</title>
+      <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260825-53/20260825-53.pdf</link>
+      <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260825-53/20260825-53.pdf</guid>
+      <description>[BSE] 20260825-53 — Listing of Equity Shares of Dhanwel Hybrid Seeds Limited</description>
+      <category>General / Circular</category>
+      <pubDate>Tue, 25 Aug 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>Sub-Division of Equity Shares of TCC Concept Ltd (Scrip Code: 512038).</title>
+      <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260825-52/20260825-52.pdf</link>
+      <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260825-52/20260825-52.pdf</guid>
+      <description>[BSE] 20260825-52 — Sub-Division of Equity Shares of TCC Concept Ltd (Scrip Code: 512038).</description>
+      <category>General / Circular</category>
+      <pubDate>Tue, 25 Aug 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>Change in Name of the Company - Bansisons Tea Industries Ltd</title>
+      <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260825-51/20260825-51.pdf</link>
+      <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260825-51/20260825-51.pdf</guid>
+      <description>[BSE] 20260825-51 — Change in Name of the Company - Bansisons Tea Industries Ltd</description>
+      <category>General / Circular</category>
+      <pubDate>Tue, 25 Aug 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>Change in scheme name of Jio BlackRock Mutual Fund on BSE StAR MF Platform</title>
+      <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260825-50/20260825-50.pdf</link>
+      <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260825-50/20260825-50.pdf</guid>
+      <description>[BSE] 20260825-50 — Change in scheme name of Jio BlackRock Mutual Fund on BSE StAR MF Platform</description>
+      <category>General / Circular</category>
+      <pubDate>Tue, 25 Aug 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
       <title>Alignment of SEBI's Cyber Incident Reporting Portal with FIRE Format</title>
       <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260825-5/20260825-5.pdf</link>
       <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260825-5/20260825-5.pdf</guid>
       <description>[BSE] 20260825-5 — Alignment of SEBI's Cyber Incident Reporting Portal with FIRE Format</description>
+      <category>General / Circular</category>
+      <pubDate>Tue, 25 Aug 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>Change in scheme name of JM Financial Mutual Fund on BSE StAR MF Platform</title>
+      <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260825-49/20260825-49.pdf</link>
+      <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260825-49/20260825-49.pdf</guid>
+      <description>[BSE] 20260825-49 — Change in scheme name of JM Financial Mutual Fund on BSE StAR MF Platform</description>
+      <category>General / Circular</category>
+      <pubDate>Tue, 25 Aug 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>Change in scheme name of Bajaj Finserv Mutual Fund on BSE StAR MF Platform</title>
+      <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260825-48/20260825-48.pdf</link>
+      <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260825-48/20260825-48.pdf</guid>
+      <description>[BSE] 20260825-48 — Change in scheme name of Bajaj Finserv Mutual Fund on BSE StAR MF Platform</description>
+      <category>General / Circular</category>
+      <pubDate>Tue, 25 Aug 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>Change in scheme name of Edelweiss Mutual Fund on BSE StAR MF Platform</title>
+      <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260825-47/20260825-47.pdf</link>
+      <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260825-47/20260825-47.pdf</guid>
+      <description>[BSE] 20260825-47 — Change in scheme name of Edelweiss Mutual Fund on BSE StAR MF Platform</description>
+      <category>General / Circular</category>
+      <pubDate>Tue, 25 Aug 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>Change in scheme name of Axis Mutual Fund on BSE StAR MF Platform</title>
+      <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260825-46/20260825-46.pdf</link>
+      <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260825-46/20260825-46.pdf</guid>
+      <description>[BSE] 20260825-46 — Change in scheme name of Axis Mutual Fund on BSE StAR MF Platform</description>
+      <category>General / Circular</category>
+      <pubDate>Tue, 25 Aug 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>Availability KOTAK NIFTY BANK INDEX FUND for ongoing transactions on BSE StAR MF Platform</title>
+      <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260825-45/20260825-45.pdf</link>
+      <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260825-45/20260825-45.pdf</guid>
+      <description>[BSE] 20260825-45 — Availability KOTAK NIFTY BANK INDEX FUND for ongoing transactions on BSE StAR MF Platform</description>
+      <category>General / Circular</category>
+      <pubDate>Tue, 25 Aug 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>Launch of New Fund Offer (NFO) with SIP Facility of WHITEOAK CAPITAL Mutual Fund on BSE StAR MF Platform – Update</title>
+      <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260825-44/20260825-44.pdf</link>
+      <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260825-44/20260825-44.pdf</guid>
+      <description>[BSE] 20260825-44 — Launch of New Fund Offer (NFO) with SIP Facility of WHITEOAK CAPITAL Mutual Fund on BSE StAR MF Platform – Update</description>
+      <category>General / Circular</category>
+      <pubDate>Tue, 25 Aug 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>Applicability of Long Term Additional Surveillance Measure (LT-ASM)</title>
+      <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260825-43/20260825-43.pdf</link>
+      <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260825-43/20260825-43.pdf</guid>
+      <description>[BSE] 20260825-43 — Applicability of Long Term Additional Surveillance Measure (LT-ASM)</description>
       <category>General / Circular</category>
       <pubDate>Tue, 25 Aug 2026 07:30:00 +0530</pubDate>
     </item>

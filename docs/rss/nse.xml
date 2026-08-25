@@ -5,7 +5,7 @@
     <link>https://venkatezh-13.github.io/circulars</link>
     <description>NSE circulars — last 7 days</description>
     <language>en-in</language>
-    <lastBuildDate>Tue, 25 Aug 2026 14:22:54 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 15:22:30 +0000</lastBuildDate>
     <atom:link href="https://venkatezh-13.github.io/circulars/rss/nse.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Listing of further issues of securities</title>
@@ -96,11 +96,11 @@
       <pubDate>Tue, 25 Aug 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
-      <title>Listing of Equity Shares of Gaja Alternative Asset Management Limited (IPO)</title>
-      <link>https://nsearchives.nseindia.com/content/circulars/CML75963.zip</link>
-      <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/CML75963.zip</guid>
-      <description>[NSE] NSE/CML/75963 — Listing of Equity Shares of Gaja Alternative Asset Management Limited (IPO)</description>
-      <category>Emerge</category>
+      <title>Change in scheme name of Canara Robeco Mutual Fund on NSE MF Invest platform</title>
+      <link>https://nsearchives.nseindia.com/content/circulars/NMF75964.zip</link>
+      <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/NMF75964.zip</guid>
+      <description>[NSE] NSE/NMF/75964 — Change in scheme name of Canara Robeco Mutual Fund on NSE MF Invest platform</description>
+      <category>Mutual Fund</category>
       <pubDate>Tue, 25 Aug 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
@@ -109,6 +109,14 @@
       <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/FA75961.pdf</guid>
       <description>[NSE] NSE/FA/75961 — Transaction charges for Futures and Options contracts on Nifty India FPI 150 Index</description>
       <category>Futures &amp; Options</category>
+      <pubDate>Tue, 25 Aug 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>Change in scheme name of UTI Mutual Fund on NSE MF Invest platform</title>
+      <link>https://nsearchives.nseindia.com/content/circulars/NMF75959.zip</link>
+      <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/NMF75959.zip</guid>
+      <description>[NSE] NSE/NMF/75959 — Change in scheme name of UTI Mutual Fund on NSE MF Invest platform</description>
+      <category>Mutual Fund</category>
       <pubDate>Tue, 25 Aug 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
@@ -124,7 +132,7 @@
       <link>https://nsearchives.nseindia.com/content/circulars/CMPT75957.pdf</link>
       <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/CMPT75957.pdf</guid>
       <description>[NSE] NCL/CMPT/75957 — Revision in List of Approved Banks</description>
-      <category>Currency Derivatives</category>
+      <category>Commodity Derivatives</category>
       <pubDate>Tue, 25 Aug 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
