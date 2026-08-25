@@ -5,14 +5,14 @@
     <link>https://venkatezh-13.github.io/circulars</link>
     <description>NSE circulars — last 7 days</description>
     <language>en-in</language>
-    <lastBuildDate>Tue, 25 Aug 2026 15:22:30 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 16:08:47 +0000</lastBuildDate>
     <atom:link href="https://venkatezh-13.github.io/circulars/rss/nse.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Listing of further issues of securities</title>
       <link>https://nsearchives.nseindia.com/content/circulars/CML75977.pdf</link>
       <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/CML75977.pdf</guid>
       <description>[NSE] NSE/CML/75977 — Listing of further issues of securities</description>
-      <category>Listing</category>
+      <category>Emerge</category>
       <pubDate>Tue, 25 Aug 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
@@ -104,6 +104,14 @@
       <pubDate>Tue, 25 Aug 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
+      <title>Listing of Equity Shares of Gaja Alternative Asset Management Limited (IPO)</title>
+      <link>https://nsearchives.nseindia.com/content/circulars/CML75963.zip</link>
+      <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/CML75963.zip</guid>
+      <description>[NSE] NSE/CML/75963 — Listing of Equity Shares of Gaja Alternative Asset Management Limited (IPO)</description>
+      <category>Listing</category>
+      <pubDate>Tue, 25 Aug 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
       <title>Transaction charges for Futures and Options contracts on Nifty India FPI 150 Index</title>
       <link>https://nsearchives.nseindia.com/content/circulars/FA75961.pdf</link>
       <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/FA75961.pdf</guid>
@@ -132,7 +140,7 @@
       <link>https://nsearchives.nseindia.com/content/circulars/CMPT75957.pdf</link>
       <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/CMPT75957.pdf</guid>
       <description>[NSE] NCL/CMPT/75957 — Revision in List of Approved Banks</description>
-      <category>Commodity Derivatives</category>
+      <category>Debt Segment</category>
       <pubDate>Tue, 25 Aug 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
@@ -344,11 +352,11 @@
       <pubDate>Fri, 21 Aug 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
-      <title>Nse 2026 08 25 Bb6B2957F63C41F5 Availability Of Kotak Nifty Bank Index Fund Nfo On Nse Mf Invest Platform</title>
+      <title>NSE circular regarding the availability of Kotak Nifty Bank Index Fund</title>
       <link>https://nsearchives.nseindia.com/content/circulars/NMF75946.pdf</link>
       <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/NMF75946.pdf</guid>
-      <description>[NSE] NSE/NMF75946 — Nse 2026 08 25 Bb6B2957F63C41F5 Availability Of Kotak Nifty Bank Index Fund Nfo On Nse Mf Invest Platform</description>
-      <category>Circular</category>
+      <description>[NSE] NSE/NMF75946 — NSE circular regarding the availability of Kotak Nifty Bank Index Fund</description>
+      <category>market-operations</category>
       <pubDate>Tue, 25 Aug 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
@@ -430,6 +438,14 @@
       <description>[NSE] NSE/CML75855 — NSE circular announcing the change in ISIN for TD Power Systems Limited</description>
       <category>listing</category>
       <pubDate>Thu, 20 Aug 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>National Stock Exchange announces the applicability of Short-Term Additional</title>
+      <link>https://nsearchives.nseindia.com/content/circulars/SURV75972.zip</link>
+      <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/SURV75972.zip</guid>
+      <description>[NSE] NSE/SURV75972 — National Stock Exchange announces the applicability of Short-Term Additional</description>
+      <category>trading</category>
+      <pubDate>Tue, 25 Aug 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
       <title>National Stock Exchange announces the launch of the DSP Financial Services</title>
@@ -528,6 +544,14 @@
       <pubDate>Fri, 21 Aug 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
+      <title>NSE circular announcing the listing and admission to dealings of privately</title>
+      <link>https://nsearchives.nseindia.com/content/circulars/CML75966.pdf</link>
+      <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/CML75966.pdf</guid>
+      <description>[NSE] NSE/CML75966 — NSE circular announcing the listing and admission to dealings of privately</description>
+      <category>listing</category>
+      <pubDate>Tue, 25 Aug 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
       <title>National Stock Exchange announces the applicability of Long Term Additional</title>
       <link>https://nsearchives.nseindia.com/content/circulars/SURV75823.zip</link>
       <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/SURV75823.zip</guid>
@@ -558,6 +582,14 @@
       <description>[NSE] NSE/CML75807 — National Stock Exchange announces the listing of equity shares of Pramodini</description>
       <category>listing</category>
       <pubDate>Tue, 18 Aug 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>NSE reminds members to complete migration to new market data broadcast</title>
+      <link>https://nsearchives.nseindia.com/content/circulars/MSD75944.pdf</link>
+      <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/MSD75944.pdf</guid>
+      <description>[NSE] NSE/MSD75944 — NSE reminds members to complete migration to new market data broadcast</description>
+      <category>market-operations</category>
+      <pubDate>Tue, 25 Aug 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
       <title>NSE is conducting a mock trading session from its BCP/DR site on Saturday,</title>
@@ -632,6 +664,14 @@
       <pubDate>Mon, 24 Aug 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
+      <title>NSE notice regarding the listing and admission to dealings of further</title>
+      <link>https://nsearchives.nseindia.com/content/circulars/CML75974.pdf</link>
+      <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/CML75974.pdf</guid>
+      <description>[NSE] NSE/CML75974 — NSE notice regarding the listing and admission to dealings of further</description>
+      <category>listing</category>
+      <pubDate>Tue, 25 Aug 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
       <title>National Stock Exchange announces the listing of equity shares of Behari</title>
       <link>https://nsearchives.nseindia.com/content/circulars/CML75817.zip</link>
       <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/CML75817.zip</guid>
@@ -646,6 +686,14 @@
       <description>[NSE] NSE/CML75829 — National Stock Exchange announces the listing and trading of Treasury</description>
       <category>listing</category>
       <pubDate>Wed, 19 Aug 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>National Stock Exchange announces the alignment of SEBI's Cyber Incident</title>
+      <link>https://nsearchives.nseindia.com/content/circulars/INSP75970.pdf</link>
+      <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/INSP75970.pdf</guid>
+      <description>[NSE] NSE/INSP75970 — National Stock Exchange announces the alignment of SEBI's Cyber Incident</description>
+      <category>compliance</category>
+      <pubDate>Tue, 25 Aug 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
       <title>NSE announces the listing and trading of privately placed securities</title>
@@ -672,6 +720,14 @@
       <pubDate>Thu, 20 Aug 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
+      <title>National Stock Exchange announces that India Glycols Limited will be</title>
+      <link>https://nsearchives.nseindia.com/content/circulars/CML75969.pdf</link>
+      <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/CML75969.pdf</guid>
+      <description>[NSE] NSE/CML75969 — National Stock Exchange announces that India Glycols Limited will be</description>
+      <category>trading</category>
+      <pubDate>Tue, 25 Aug 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
       <title>National Stock Exchange announces securities shortlisted, moving stages,</title>
       <link>https://nsearchives.nseindia.com/content/circulars/SURV75803.zip</link>
       <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/SURV75803.zip</guid>
@@ -696,12 +752,36 @@
       <pubDate>Wed, 19 Aug 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
+      <title>National Stock Exchange announces the listing of equity shares of Gaja</title>
+      <link>https://nsearchives.nseindia.com/content/circulars/CML75963.zip</link>
+      <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/CML75963.zip</guid>
+      <description>[NSE] NSE/CML75963 — National Stock Exchange announces the listing of equity shares of Gaja</description>
+      <category>listing</category>
+      <pubDate>Tue, 25 Aug 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
       <title>NSE is conducting a mock trading session from its BCP site on Saturday,</title>
       <link>https://nsearchives.nseindia.com/content/circulars/SLBS75885.pdf</link>
       <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/SLBS75885.pdf</guid>
       <description>[NSE] NSE/SLBS75885 — NSE is conducting a mock trading session from its BCP site on Saturday,</description>
       <category>market-operations</category>
       <pubDate>Fri, 21 Aug 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>National Stock Exchange announces changes in scheme names and characteristics</title>
+      <link>https://nsearchives.nseindia.com/content/circulars/NMF75959.zip</link>
+      <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/NMF75959.zip</guid>
+      <description>[NSE] NSE/NMF75959 — National Stock Exchange announces changes in scheme names and characteristics</description>
+      <category>market-operations</category>
+      <pubDate>Tue, 25 Aug 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>National Stock Exchange announces the applicability, movement, and exclusion</title>
+      <link>https://nsearchives.nseindia.com/content/circulars/SURV75967.zip</link>
+      <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/SURV75967.zip</guid>
+      <description>[NSE] NSE/SURV75967 — National Stock Exchange announces the applicability, movement, and exclusion</description>
+      <category>trading</category>
+      <pubDate>Tue, 25 Aug 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
       <title>Axis Mutual Fund has announced a change in the names of several of its</title>
@@ -824,6 +904,14 @@
       <pubDate>Fri, 21 Aug 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
+      <title>National Stock Exchange announces the applicability of Long-Term Additional</title>
+      <link>https://nsearchives.nseindia.com/content/circulars/SURV75971.zip</link>
+      <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/SURV75971.zip</guid>
+      <description>[NSE] NSE/SURV75971 — National Stock Exchange announces the applicability of Long-Term Additional</description>
+      <category>trading</category>
+      <pubDate>Tue, 25 Aug 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
       <title>NSE circular regarding the listing of further issues of equity shares</title>
       <link>https://nsearchives.nseindia.com/content/circulars/CML75920.pdf</link>
       <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/CML75920.pdf</guid>
@@ -904,6 +992,14 @@
       <pubDate>Tue, 18 Aug 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
+      <title>NSE announces a one-time migration window for members to migrate their</title>
+      <link>https://nsearchives.nseindia.com/content/circulars/MSD75968.zip</link>
+      <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/MSD75968.zip</guid>
+      <description>[NSE] NSE/MSD75968 — NSE announces a one-time migration window for members to migrate their</description>
+      <category>market-operations</category>
+      <pubDate>Tue, 25 Aug 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
       <title>National Stock Exchange announces the launch and NFO dates for ICICI</title>
       <link>https://nsearchives.nseindia.com/content/circulars/NMF75942.pdf</link>
       <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/NMF75942.pdf</guid>
@@ -928,11 +1024,11 @@
       <pubDate>Mon, 24 Aug 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
-      <title>Nse 2026 08 25 7844Be17E94846D3 Change In Scheme Name Of Hsbc Mutual Fund On Nse Mf Invest Platform</title>
+      <title>NSE circular regarding the change in scheme names and categorization/rationalization</title>
       <link>https://nsearchives.nseindia.com/content/circulars/NMF75948.zip</link>
       <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/NMF75948.zip</guid>
-      <description>[NSE] NSE/NMF75948 — Nse 2026 08 25 7844Be17E94846D3 Change In Scheme Name Of Hsbc Mutual Fund On Nse Mf Invest Platform</description>
-      <category>Circular</category>
+      <description>[NSE] NSE/NMF75948 — NSE circular regarding the change in scheme names and categorization/rationalization</description>
+      <category>market-operations</category>
       <pubDate>Tue, 25 Aug 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
@@ -966,6 +1062,14 @@
       <description>[NSE] NSE/CML75891 — National Stock Exchange announces the listing of equity shares of Fascinate</description>
       <category>listing</category>
       <pubDate>Fri, 21 Aug 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>NSE announces the suspension of trading in various Treasury Bills, State</title>
+      <link>https://nsearchives.nseindia.com/content/circulars/CML75956.pdf</link>
+      <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/CML75956.pdf</guid>
+      <description>[NSE] NSE/CML75956 — NSE announces the suspension of trading in various Treasury Bills, State</description>
+      <category>trading</category>
+      <pubDate>Tue, 25 Aug 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
       <title>NSE Clearing Limited issued a revised list of Cross Margin Eligible Exchange</title>
@@ -1006,6 +1110,14 @@
       <description>[NSE] NSE/CMPT75864 — NSE Clearing Limited issued guidelines on early pay-in of securities</description>
       <category>market-operations</category>
       <pubDate>Fri, 21 Aug 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>National Stock Exchange announces the applicability of Additional Surveillance</title>
+      <link>https://nsearchives.nseindia.com/content/circulars/SURV75973.zip</link>
+      <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/SURV75973.zip</guid>
+      <description>[NSE] NSE/SURV75973 — National Stock Exchange announces the applicability of Additional Surveillance</description>
+      <category>compliance</category>
+      <pubDate>Tue, 25 Aug 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
       <title>Axis Mutual Fund has announced a change in the scheme name of Axis Multi-Asset</title>
@@ -1078,6 +1190,14 @@
       <description>[NSE] NSE/CML75796 — NSE announces the suspension of trading in four schemes of SBI Mutual</description>
       <category>trading</category>
       <pubDate>Tue, 18 Aug 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>National Stock Exchange announced the change in scheme names for several</title>
+      <link>https://nsearchives.nseindia.com/content/circulars/NMF75964.zip</link>
+      <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/NMF75964.zip</guid>
+      <description>[NSE] NSE/NMF75964 — National Stock Exchange announced the change in scheme names for several</description>
+      <category>market-operations</category>
+      <pubDate>Tue, 25 Aug 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
       <title>NSE circular announcing the change in scheme names for various ICICI</title>
@@ -1198,6 +1318,14 @@
       <description>[NSE] NSE/CML75858 — NSE announces the suspension of trading in Non-Convertible Securities</description>
       <category>trading</category>
       <pubDate>Fri, 21 Aug 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>NSE Clearing Limited specifies the market wide position limits, trading</title>
+      <link>https://nsearchives.nseindia.com/content/circulars/CMPT75965.pdf</link>
+      <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/CMPT75965.pdf</guid>
+      <description>[NSE] NSE/CMPT75965 — NSE Clearing Limited specifies the market wide position limits, trading</description>
+      <category>trading</category>
+      <pubDate>Tue, 25 Aug 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
       <title>National Stock Exchange announces the listing of further equity shares</title>
@@ -1528,6 +1656,14 @@
       <pubDate>Mon, 24 Aug 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
+      <title>National Stock Exchange announces the listing of further equity shares</title>
+      <link>https://nsearchives.nseindia.com/content/circulars/CML75977.pdf</link>
+      <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/CML75977.pdf</guid>
+      <description>[NSE] NSE/CML75977 — National Stock Exchange announces the listing of further equity shares</description>
+      <category>listing</category>
+      <pubDate>Tue, 25 Aug 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
       <title>NSE announces the resumption of lumpsum purchases, switch-ins, and large</title>
       <link>https://nsearchives.nseindia.com/content/circulars/NMF75841.zip</link>
       <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/NMF75841.zip</guid>
@@ -1558,6 +1694,14 @@
       <description>[NSE] NSE/CML75800 — National Stock Exchange announces the listing and trading of equity shares</description>
       <category>listing</category>
       <pubDate>Tue, 18 Aug 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>NSE circular regarding the commencement of trading in Rights Entitlements</title>
+      <link>https://nsearchives.nseindia.com/content/circulars/CML75953.pdf</link>
+      <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/CML75953.pdf</guid>
+      <description>[NSE] NSE/CML75953 — NSE circular regarding the commencement of trading in Rights Entitlements</description>
+      <category>trading</category>
+      <pubDate>Tue, 25 Aug 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
       <title>National Stock Exchange announces the launch of ICICI Prudential Life</title>

@@ -5,14 +5,14 @@
     <link>https://venkatezh-13.github.io/circulars</link>
     <description>NSE, BSE and MCX circulars — last 7 days</description>
     <language>en-in</language>
-    <lastBuildDate>Tue, 25 Aug 2026 15:22:30 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 16:08:47 +0000</lastBuildDate>
     <atom:link href="https://venkatezh-13.github.io/circulars/rss/all.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Listing of further issues of securities</title>
       <link>https://nsearchives.nseindia.com/content/circulars/CML75977.pdf</link>
       <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/CML75977.pdf</guid>
       <description>[NSE] NSE/CML/75977 — Listing of further issues of securities</description>
-      <category>Listing</category>
+      <category>Emerge</category>
       <pubDate>Tue, 25 Aug 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
@@ -104,6 +104,14 @@
       <pubDate>Tue, 25 Aug 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
+      <title>Listing of Equity Shares of Gaja Alternative Asset Management Limited (IPO)</title>
+      <link>https://nsearchives.nseindia.com/content/circulars/CML75963.zip</link>
+      <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/CML75963.zip</guid>
+      <description>[NSE] NSE/CML/75963 — Listing of Equity Shares of Gaja Alternative Asset Management Limited (IPO)</description>
+      <category>Listing</category>
+      <pubDate>Tue, 25 Aug 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
       <title>Transaction charges for Futures and Options contracts on Nifty India FPI 150 Index</title>
       <link>https://nsearchives.nseindia.com/content/circulars/FA75961.pdf</link>
       <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/FA75961.pdf</guid>
@@ -132,7 +140,7 @@
       <link>https://nsearchives.nseindia.com/content/circulars/CMPT75957.pdf</link>
       <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/CMPT75957.pdf</guid>
       <description>[NSE] NCL/CMPT/75957 — Revision in List of Approved Banks</description>
-      <category>Commodity Derivatives</category>
+      <category>Debt Segment</category>
       <pubDate>Tue, 25 Aug 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
@@ -360,10 +368,26 @@
       <pubDate>Tue, 25 Aug 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
+      <title>Change in scheme name of CANARA ROBECO Mutual Fund on BSE StAR MF Platform</title>
+      <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260825-60/20260825-60.pdf</link>
+      <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260825-60/20260825-60.pdf</guid>
+      <description>[BSE] 20260825-60 — Change in scheme name of CANARA ROBECO Mutual Fund on BSE StAR MF Platform</description>
+      <category>General / Circular</category>
+      <pubDate>Tue, 25 Aug 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
       <title>Part-Redemption of Debentures of Ashiana Housing Ltd</title>
       <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260825-6/20260825-6.pdf</link>
       <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260825-6/20260825-6.pdf</guid>
       <description>[BSE] 20260825-6 — Part-Redemption of Debentures of Ashiana Housing Ltd</description>
+      <category>General / Circular</category>
+      <pubDate>Tue, 25 Aug 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>Final Order in the matter of Varanium Cloud Limited</title>
+      <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260825-59/20260825-59.pdf</link>
+      <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260825-59/20260825-59.pdf</guid>
+      <description>[BSE] 20260825-59 — Final Order in the matter of Varanium Cloud Limited</description>
       <category>General / Circular</category>
       <pubDate>Tue, 25 Aug 2026 07:30:00 +0530</pubDate>
     </item>
@@ -824,11 +848,11 @@ Gandhi Special Tubes Limited</description>
       <pubDate>Fri, 21 Aug 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
-      <title>Nse 2026 08 25 Bb6B2957F63C41F5 Availability Of Kotak Nifty Bank Index Fund Nfo On Nse Mf Invest Platform</title>
+      <title>NSE circular regarding the availability of Kotak Nifty Bank Index Fund</title>
       <link>https://nsearchives.nseindia.com/content/circulars/NMF75946.pdf</link>
       <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/NMF75946.pdf</guid>
-      <description>[NSE] NSE/NMF75946 — Nse 2026 08 25 Bb6B2957F63C41F5 Availability Of Kotak Nifty Bank Index Fund Nfo On Nse Mf Invest Platform</description>
-      <category>Circular</category>
+      <description>[NSE] NSE/NMF75946 — NSE circular regarding the availability of Kotak Nifty Bank Index Fund</description>
+      <category>market-operations</category>
       <pubDate>Tue, 25 Aug 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
@@ -910,6 +934,14 @@ Gandhi Special Tubes Limited</description>
       <description>[NSE] NSE/CML75855 — NSE circular announcing the change in ISIN for TD Power Systems Limited</description>
       <category>listing</category>
       <pubDate>Thu, 20 Aug 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>National Stock Exchange announces the applicability of Short-Term Additional</title>
+      <link>https://nsearchives.nseindia.com/content/circulars/SURV75972.zip</link>
+      <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/SURV75972.zip</guid>
+      <description>[NSE] NSE/SURV75972 — National Stock Exchange announces the applicability of Short-Term Additional</description>
+      <category>trading</category>
+      <pubDate>Tue, 25 Aug 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
       <title>National Stock Exchange announces the launch of the DSP Financial Services</title>
@@ -1008,6 +1040,14 @@ Gandhi Special Tubes Limited</description>
       <pubDate>Fri, 21 Aug 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
+      <title>NSE circular announcing the listing and admission to dealings of privately</title>
+      <link>https://nsearchives.nseindia.com/content/circulars/CML75966.pdf</link>
+      <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/CML75966.pdf</guid>
+      <description>[NSE] NSE/CML75966 — NSE circular announcing the listing and admission to dealings of privately</description>
+      <category>listing</category>
+      <pubDate>Tue, 25 Aug 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
       <title>National Stock Exchange announces the applicability of Long Term Additional</title>
       <link>https://nsearchives.nseindia.com/content/circulars/SURV75823.zip</link>
       <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/SURV75823.zip</guid>
@@ -1038,6 +1078,14 @@ Gandhi Special Tubes Limited</description>
       <description>[NSE] NSE/CML75807 — National Stock Exchange announces the listing of equity shares of Pramodini</description>
       <category>listing</category>
       <pubDate>Tue, 18 Aug 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>NSE reminds members to complete migration to new market data broadcast</title>
+      <link>https://nsearchives.nseindia.com/content/circulars/MSD75944.pdf</link>
+      <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/MSD75944.pdf</guid>
+      <description>[NSE] NSE/MSD75944 — NSE reminds members to complete migration to new market data broadcast</description>
+      <category>market-operations</category>
+      <pubDate>Tue, 25 Aug 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
       <title>NSE is conducting a mock trading session from its BCP/DR site on Saturday,</title>
@@ -1112,6 +1160,14 @@ Gandhi Special Tubes Limited</description>
       <pubDate>Mon, 24 Aug 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
+      <title>NSE notice regarding the listing and admission to dealings of further</title>
+      <link>https://nsearchives.nseindia.com/content/circulars/CML75974.pdf</link>
+      <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/CML75974.pdf</guid>
+      <description>[NSE] NSE/CML75974 — NSE notice regarding the listing and admission to dealings of further</description>
+      <category>listing</category>
+      <pubDate>Tue, 25 Aug 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
       <title>National Stock Exchange announces the listing of equity shares of Behari</title>
       <link>https://nsearchives.nseindia.com/content/circulars/CML75817.zip</link>
       <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/CML75817.zip</guid>
@@ -1126,6 +1182,14 @@ Gandhi Special Tubes Limited</description>
       <description>[NSE] NSE/CML75829 — National Stock Exchange announces the listing and trading of Treasury</description>
       <category>listing</category>
       <pubDate>Wed, 19 Aug 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>National Stock Exchange announces the alignment of SEBI's Cyber Incident</title>
+      <link>https://nsearchives.nseindia.com/content/circulars/INSP75970.pdf</link>
+      <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/INSP75970.pdf</guid>
+      <description>[NSE] NSE/INSP75970 — National Stock Exchange announces the alignment of SEBI's Cyber Incident</description>
+      <category>compliance</category>
+      <pubDate>Tue, 25 Aug 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
       <title>NSE announces the listing and trading of privately placed securities</title>
@@ -1152,6 +1216,14 @@ Gandhi Special Tubes Limited</description>
       <pubDate>Thu, 20 Aug 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
+      <title>National Stock Exchange announces that India Glycols Limited will be</title>
+      <link>https://nsearchives.nseindia.com/content/circulars/CML75969.pdf</link>
+      <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/CML75969.pdf</guid>
+      <description>[NSE] NSE/CML75969 — National Stock Exchange announces that India Glycols Limited will be</description>
+      <category>trading</category>
+      <pubDate>Tue, 25 Aug 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
       <title>National Stock Exchange announces securities shortlisted, moving stages,</title>
       <link>https://nsearchives.nseindia.com/content/circulars/SURV75803.zip</link>
       <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/SURV75803.zip</guid>
@@ -1176,12 +1248,36 @@ Gandhi Special Tubes Limited</description>
       <pubDate>Wed, 19 Aug 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
+      <title>National Stock Exchange announces the listing of equity shares of Gaja</title>
+      <link>https://nsearchives.nseindia.com/content/circulars/CML75963.zip</link>
+      <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/CML75963.zip</guid>
+      <description>[NSE] NSE/CML75963 — National Stock Exchange announces the listing of equity shares of Gaja</description>
+      <category>listing</category>
+      <pubDate>Tue, 25 Aug 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
       <title>NSE is conducting a mock trading session from its BCP site on Saturday,</title>
       <link>https://nsearchives.nseindia.com/content/circulars/SLBS75885.pdf</link>
       <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/SLBS75885.pdf</guid>
       <description>[NSE] NSE/SLBS75885 — NSE is conducting a mock trading session from its BCP site on Saturday,</description>
       <category>market-operations</category>
       <pubDate>Fri, 21 Aug 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>National Stock Exchange announces changes in scheme names and characteristics</title>
+      <link>https://nsearchives.nseindia.com/content/circulars/NMF75959.zip</link>
+      <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/NMF75959.zip</guid>
+      <description>[NSE] NSE/NMF75959 — National Stock Exchange announces changes in scheme names and characteristics</description>
+      <category>market-operations</category>
+      <pubDate>Tue, 25 Aug 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>National Stock Exchange announces the applicability, movement, and exclusion</title>
+      <link>https://nsearchives.nseindia.com/content/circulars/SURV75967.zip</link>
+      <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/SURV75967.zip</guid>
+      <description>[NSE] NSE/SURV75967 — National Stock Exchange announces the applicability, movement, and exclusion</description>
+      <category>trading</category>
+      <pubDate>Tue, 25 Aug 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
       <title>Axis Mutual Fund has announced a change in the names of several of its</title>
@@ -1304,6 +1400,14 @@ Gandhi Special Tubes Limited</description>
       <pubDate>Fri, 21 Aug 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
+      <title>National Stock Exchange announces the applicability of Long-Term Additional</title>
+      <link>https://nsearchives.nseindia.com/content/circulars/SURV75971.zip</link>
+      <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/SURV75971.zip</guid>
+      <description>[NSE] NSE/SURV75971 — National Stock Exchange announces the applicability of Long-Term Additional</description>
+      <category>trading</category>
+      <pubDate>Tue, 25 Aug 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
       <title>NSE circular regarding the listing of further issues of equity shares</title>
       <link>https://nsearchives.nseindia.com/content/circulars/CML75920.pdf</link>
       <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/CML75920.pdf</guid>
@@ -1384,6 +1488,14 @@ Gandhi Special Tubes Limited</description>
       <pubDate>Tue, 18 Aug 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
+      <title>NSE announces a one-time migration window for members to migrate their</title>
+      <link>https://nsearchives.nseindia.com/content/circulars/MSD75968.zip</link>
+      <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/MSD75968.zip</guid>
+      <description>[NSE] NSE/MSD75968 — NSE announces a one-time migration window for members to migrate their</description>
+      <category>market-operations</category>
+      <pubDate>Tue, 25 Aug 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
       <title>National Stock Exchange announces the launch and NFO dates for ICICI</title>
       <link>https://nsearchives.nseindia.com/content/circulars/NMF75942.pdf</link>
       <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/NMF75942.pdf</guid>
@@ -1408,11 +1520,11 @@ Gandhi Special Tubes Limited</description>
       <pubDate>Mon, 24 Aug 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
-      <title>Nse 2026 08 25 7844Be17E94846D3 Change In Scheme Name Of Hsbc Mutual Fund On Nse Mf Invest Platform</title>
+      <title>NSE circular regarding the change in scheme names and categorization/rationalization</title>
       <link>https://nsearchives.nseindia.com/content/circulars/NMF75948.zip</link>
       <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/NMF75948.zip</guid>
-      <description>[NSE] NSE/NMF75948 — Nse 2026 08 25 7844Be17E94846D3 Change In Scheme Name Of Hsbc Mutual Fund On Nse Mf Invest Platform</description>
-      <category>Circular</category>
+      <description>[NSE] NSE/NMF75948 — NSE circular regarding the change in scheme names and categorization/rationalization</description>
+      <category>market-operations</category>
       <pubDate>Tue, 25 Aug 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
@@ -1446,6 +1558,14 @@ Gandhi Special Tubes Limited</description>
       <description>[NSE] NSE/CML75891 — National Stock Exchange announces the listing of equity shares of Fascinate</description>
       <category>listing</category>
       <pubDate>Fri, 21 Aug 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>NSE announces the suspension of trading in various Treasury Bills, State</title>
+      <link>https://nsearchives.nseindia.com/content/circulars/CML75956.pdf</link>
+      <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/CML75956.pdf</guid>
+      <description>[NSE] NSE/CML75956 — NSE announces the suspension of trading in various Treasury Bills, State</description>
+      <category>trading</category>
+      <pubDate>Tue, 25 Aug 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
       <title>NSE Clearing Limited issued a revised list of Cross Margin Eligible Exchange</title>
@@ -1486,6 +1606,14 @@ Gandhi Special Tubes Limited</description>
       <description>[NSE] NSE/CMPT75864 — NSE Clearing Limited issued guidelines on early pay-in of securities</description>
       <category>market-operations</category>
       <pubDate>Fri, 21 Aug 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>National Stock Exchange announces the applicability of Additional Surveillance</title>
+      <link>https://nsearchives.nseindia.com/content/circulars/SURV75973.zip</link>
+      <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/SURV75973.zip</guid>
+      <description>[NSE] NSE/SURV75973 — National Stock Exchange announces the applicability of Additional Surveillance</description>
+      <category>compliance</category>
+      <pubDate>Tue, 25 Aug 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
       <title>Axis Mutual Fund has announced a change in the scheme name of Axis Multi-Asset</title>
@@ -1558,6 +1686,14 @@ Gandhi Special Tubes Limited</description>
       <description>[NSE] NSE/CML75796 — NSE announces the suspension of trading in four schemes of SBI Mutual</description>
       <category>trading</category>
       <pubDate>Tue, 18 Aug 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>National Stock Exchange announced the change in scheme names for several</title>
+      <link>https://nsearchives.nseindia.com/content/circulars/NMF75964.zip</link>
+      <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/NMF75964.zip</guid>
+      <description>[NSE] NSE/NMF75964 — National Stock Exchange announced the change in scheme names for several</description>
+      <category>market-operations</category>
+      <pubDate>Tue, 25 Aug 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
       <title>NSE circular announcing the change in scheme names for various ICICI</title>
@@ -1678,6 +1814,14 @@ Gandhi Special Tubes Limited</description>
       <description>[NSE] NSE/CML75858 — NSE announces the suspension of trading in Non-Convertible Securities</description>
       <category>trading</category>
       <pubDate>Fri, 21 Aug 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>NSE Clearing Limited specifies the market wide position limits, trading</title>
+      <link>https://nsearchives.nseindia.com/content/circulars/CMPT75965.pdf</link>
+      <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/CMPT75965.pdf</guid>
+      <description>[NSE] NSE/CMPT75965 — NSE Clearing Limited specifies the market wide position limits, trading</description>
+      <category>trading</category>
+      <pubDate>Tue, 25 Aug 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
       <title>National Stock Exchange announces the listing of further equity shares</title>
@@ -2008,6 +2152,14 @@ Gandhi Special Tubes Limited</description>
       <pubDate>Mon, 24 Aug 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
+      <title>National Stock Exchange announces the listing of further equity shares</title>
+      <link>https://nsearchives.nseindia.com/content/circulars/CML75977.pdf</link>
+      <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/CML75977.pdf</guid>
+      <description>[NSE] NSE/CML75977 — National Stock Exchange announces the listing of further equity shares</description>
+      <category>listing</category>
+      <pubDate>Tue, 25 Aug 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
       <title>NSE announces the resumption of lumpsum purchases, switch-ins, and large</title>
       <link>https://nsearchives.nseindia.com/content/circulars/NMF75841.zip</link>
       <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/NMF75841.zip</guid>
@@ -2038,6 +2190,14 @@ Gandhi Special Tubes Limited</description>
       <description>[NSE] NSE/CML75800 — National Stock Exchange announces the listing and trading of equity shares</description>
       <category>listing</category>
       <pubDate>Tue, 18 Aug 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>NSE circular regarding the commencement of trading in Rights Entitlements</title>
+      <link>https://nsearchives.nseindia.com/content/circulars/CML75953.pdf</link>
+      <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/CML75953.pdf</guid>
+      <description>[NSE] NSE/CML75953 — NSE circular regarding the commencement of trading in Rights Entitlements</description>
+      <category>trading</category>
+      <pubDate>Tue, 25 Aug 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
       <title>National Stock Exchange announces the launch of ICICI Prudential Life</title>
@@ -2136,6 +2296,22 @@ Gandhi Special Tubes Limited</description>
       <pubDate>Tue, 18 Aug 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
+      <title>BSE circular regarding securities falling under Enhanced Surveillance</title>
+      <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260825-36/20260825-36.pdf</link>
+      <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260825-36/20260825-36.pdf</guid>
+      <description>[BSE] 3c9ce7c9f0b946dc-enhanced-surv — BSE circular regarding securities falling under Enhanced Surveillance</description>
+      <category>trading</category>
+      <pubDate>Tue, 25 Aug 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>BSE lists companies that have submitted clarifications regarding recent</title>
+      <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260825-22/20260825-22.pdf</link>
+      <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260825-22/20260825-22.pdf</guid>
+      <description>[BSE] e3ae75bfbdcb0d37-clarification — BSE lists companies that have submitted clarifications regarding recent</description>
+      <category>disclosure</category>
+      <pubDate>Tue, 25 Aug 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
       <title>Daily bulletin notice published by BSE containing listing operations</title>
       <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260818-50/20260818-50.pdf</link>
       <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260818-50/20260818-50.pdf</guid>
@@ -2190,6 +2366,14 @@ Gandhi Special Tubes Limited</description>
       <description>[BSE] db216a10e69e0929-listing-of-fu — BSE notice regarding the listing and admission for trading of further</description>
       <category>listing</category>
       <pubDate>Mon, 24 Aug 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>TCC Concept Ltd has announced the sub-division of its equity shares from</title>
+      <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260825-52/20260825-52.pdf</link>
+      <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260825-52/20260825-52.pdf</guid>
+      <description>[BSE] 61b247e510c47e23-sub-division- — TCC Concept Ltd has announced the sub-division of its equity shares from</description>
+      <category>listing</category>
+      <pubDate>Tue, 25 Aug 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
       <title>BSE circular announcing the listing and trading of units of Mirae Asset</title>
@@ -2248,6 +2432,14 @@ Gandhi Special Tubes Limited</description>
       <pubDate>Fri, 21 Aug 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
+      <title>BSE notice regarding the allocation of 2,52,43,901 equity shares to anchor</title>
+      <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260825-54/20260825-54.pdf</link>
+      <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260825-54/20260825-54.pdf</guid>
+      <description>[BSE] dcaf71872771cc85-public-issue- — BSE notice regarding the allocation of 2,52,43,901 equity shares to anchor</description>
+      <category>listing</category>
+      <pubDate>Tue, 25 Aug 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
       <title>BSE announces the delisting of various debt securities effective August</title>
       <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260821-16/20260821-16.pdf</link>
       <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260821-16/20260821-16.pdf</guid>
@@ -2262,6 +2454,14 @@ Gandhi Special Tubes Limited</description>
       <description>[BSE] e316724ba04bddaf-sat-order-in- — SAT stayed the debarment of Mr. Satish Vadilal Sheth in the matter of</description>
       <category>compliance</category>
       <pubDate>Tue, 18 Aug 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>BSE notice regarding the application and review of Additional Surveillance</title>
+      <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260825-32/20260825-32.pdf</link>
+      <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260825-32/20260825-32.pdf</guid>
+      <description>[BSE] a3167b9c2ac91365-surveillance- — BSE notice regarding the application and review of Additional Surveillance</description>
+      <category>trading</category>
+      <pubDate>Tue, 25 Aug 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
       <title>BSE notice regarding the listing and trading of 4,60,340 equity shares</title>
@@ -2302,6 +2502,14 @@ Gandhi Special Tubes Limited</description>
       <description>[BSE] 268f9be592bed239-new-isin-numb — BSE circular announcing the new ISIN number for TD Power Systems Ltd</description>
       <category>listing</category>
       <pubDate>Thu, 20 Aug 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>BSE notice regarding the listing and admission to dealings of equity</title>
+      <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260825-26/20260825-26.pdf</link>
+      <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260825-26/20260825-26.pdf</guid>
+      <description>[BSE] 2db20d08e3e6c7d2-listing-of-eq — BSE notice regarding the listing and admission to dealings of equity</description>
+      <category>listing</category>
+      <pubDate>Tue, 25 Aug 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
       <title>BSE circular outlining the settlement schedule and early pay-in guidelines</title>
@@ -2358,6 +2566,14 @@ Gandhi Special Tubes Limited</description>
       <description>[BSE] 4174a97528a41851-bhav-copy-fil — BSE announces the introduction of the Bhav Copy file in Unified Distilled</description>
       <category>trading</category>
       <pubDate>Fri, 21 Aug 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>BSE notice regarding the New Fund Offer (NFO) and SIP facility for ICICI</title>
+      <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260825-41/20260825-41.pdf</link>
+      <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260825-41/20260825-41.pdf</guid>
+      <description>[BSE] c01d60a975b0825d-launch-of-new — BSE notice regarding the New Fund Offer (NFO) and SIP facility for ICICI</description>
+      <category>trading</category>
+      <pubDate>Tue, 25 Aug 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
       <title>BSE notice regarding the listing and admission to trading of privately</title>
@@ -2448,11 +2664,27 @@ Gandhi Special Tubes Limited</description>
       <pubDate>Thu, 20 Aug 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
+      <title>BSE notice announcing the movement of securities into higher stages of</title>
+      <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260825-33/20260825-33.pdf</link>
+      <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260825-33/20260825-33.pdf</guid>
+      <description>[BSE] bd98e64f33ece399-graded-survei — BSE notice announcing the movement of securities into higher stages of</description>
+      <category>trading</category>
+      <pubDate>Tue, 25 Aug 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
       <title>BSE announces the upcoming listing and admission to dealings of equity</title>
       <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260825-8/20260825-8.pdf</link>
       <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260825-8/20260825-8.pdf</guid>
       <description>[BSE] 3b9a1b75c8f98d5d-listing-of-eq — BSE announces the upcoming listing and admission to dealings of equity</description>
       <category>listing</category>
+      <pubDate>Tue, 25 Aug 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>BSE notice regarding the suspension of trading in commercial papers for</title>
+      <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260825-55/20260825-55.pdf</link>
+      <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260825-55/20260825-55.pdf</guid>
+      <description>[BSE] dedacba2b3d5c3ba-suspension-of — BSE notice regarding the suspension of trading in commercial papers for</description>
+      <category>trading</category>
       <pubDate>Tue, 25 Aug 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
@@ -2520,6 +2752,14 @@ Gandhi Special Tubes Limited</description>
       <pubDate>Mon, 24 Aug 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
+      <title>Kotak Nifty Bank Index Fund reopens for ongoing subscriptions, redemptions,</title>
+      <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260825-45/20260825-45.pdf</link>
+      <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260825-45/20260825-45.pdf</guid>
+      <description>[BSE] 42f89741aedab826-availability- — Kotak Nifty Bank Index Fund reopens for ongoing subscriptions, redemptions,</description>
+      <category>market-operations</category>
+      <pubDate>Tue, 25 Aug 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
       <title>Mirae Asset Mutual Fund has announced a change in scheme names for several</title>
       <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260824-30/20260824-30.pdf</link>
       <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260824-30/20260824-30.pdf</guid>
@@ -2574,6 +2814,30 @@ Gandhi Special Tubes Limited</description>
       <description>[BSE] d43add49694e486b-opening-of-of — BSE notice regarding the opening of the open offer for acquisition of</description>
       <category>trading</category>
       <pubDate>Tue, 18 Aug 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>JM Financial Mutual Fund has announced a change in scheme names for several</title>
+      <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260825-49/20260825-49.pdf</link>
+      <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260825-49/20260825-49.pdf</guid>
+      <description>[BSE] c6a0b2f443b1a263-change-in-sch — JM Financial Mutual Fund has announced a change in scheme names for several</description>
+      <category>trading</category>
+      <pubDate>Tue, 25 Aug 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>Aditya Birla Sun Life Mutual Fund has announced a change in scheme names</title>
+      <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260825-38/20260825-38.pdf</link>
+      <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260825-38/20260825-38.pdf</guid>
+      <description>[BSE] ca8d564096d9cda3-change-in-sch — Aditya Birla Sun Life Mutual Fund has announced a change in scheme names</description>
+      <category>trading</category>
+      <pubDate>Tue, 25 Aug 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>BSE notice regarding suspension of trading in non-convertible debentures</title>
+      <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260825-56/20260825-56.pdf</link>
+      <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260825-56/20260825-56.pdf</guid>
+      <description>[BSE] 443d2b414eee6d70-suspension-of — BSE notice regarding suspension of trading in non-convertible debentures</description>
+      <category>trading</category>
+      <pubDate>Tue, 25 Aug 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
       <title>BSE Clearing Limited updates the list of eligible banks for acceptable</title>
@@ -2752,6 +3016,30 @@ Gandhi Special Tubes Limited</description>
       <pubDate>Fri, 21 Aug 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
+      <title>BSE notice regarding the trading and settlement modalities for Raaj Medisafe</title>
+      <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260825-42/20260825-42.pdf</link>
+      <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260825-42/20260825-42.pdf</guid>
+      <description>[BSE] 5f6b449368e83073-trading-and-s — BSE notice regarding the trading and settlement modalities for Raaj Medisafe</description>
+      <category>trading</category>
+      <pubDate>Tue, 25 Aug 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>Edelweiss Mutual Fund has announced a change in scheme names for two</title>
+      <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260825-47/20260825-47.pdf</link>
+      <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260825-47/20260825-47.pdf</guid>
+      <description>[BSE] 7e4eb99074d0f8e4-change-in-sch — Edelweiss Mutual Fund has announced a change in scheme names for two</description>
+      <category>market-operations</category>
+      <pubDate>Tue, 25 Aug 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>BSE notice regarding the listing and trading of Secured Redeemable Non-Convertible</title>
+      <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260825-27/20260825-27.pdf</link>
+      <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260825-27/20260825-27.pdf</guid>
+      <description>[BSE] d832c409d6536dbd-listing-of-se — BSE notice regarding the listing and trading of Secured Redeemable Non-Convertible</description>
+      <category>listing</category>
+      <pubDate>Tue, 25 Aug 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
       <title>BSE cancels the enlistment of research analysts whose SEBI registrations</title>
       <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260825-17/20260825-17.pdf</link>
       <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260825-17/20260825-17.pdf</guid>
@@ -2766,6 +3054,14 @@ Gandhi Special Tubes Limited</description>
       <description>[BSE] 569381adad3306d4-listing-of-ne — BSE notice regarding the listing and trading approval of 6,27,778 equity</description>
       <category>listing</category>
       <pubDate>Wed, 19 Aug 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>Bansisons Tea Industries Ltd has informed the Exchange about a change</title>
+      <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260825-51/20260825-51.pdf</link>
+      <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260825-51/20260825-51.pdf</guid>
+      <description>[BSE] 440de61594d38e42-change-in-nam — Bansisons Tea Industries Ltd has informed the Exchange about a change</description>
+      <category>listing</category>
+      <pubDate>Tue, 25 Aug 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
       <title>BSE announces no dealings in partly paid equity shares of Ace Software</title>
@@ -2864,6 +3160,22 @@ Gandhi Special Tubes Limited</description>
       <pubDate>Thu, 20 Aug 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
+      <title>BSE updates trading members on modifications to the Pre-open Call Auction</title>
+      <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260825-29/20260825-29.pdf</link>
+      <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260825-29/20260825-29.pdf</guid>
+      <description>[BSE] 0289b60ea3c23f73-modifications — BSE updates trading members on modifications to the Pre-open Call Auction</description>
+      <category>trading</category>
+      <pubDate>Tue, 25 Aug 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>BSE has announced a revision in the price bands for 24 scrips, including</title>
+      <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260825-34/20260825-34.pdf</link>
+      <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260825-34/20260825-34.pdf</guid>
+      <description>[BSE] 02376e135c087a04-changes-in-pr — BSE has announced a revision in the price bands for 24 scrips, including</description>
+      <category>trading</category>
+      <pubDate>Tue, 25 Aug 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
       <title>Gandhi Special Tubes Ltd. has fixed a record date of August 21, 2026,</title>
       <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260819-31/20260819-31.pdf</link>
       <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260819-31/20260819-31.pdf</guid>
@@ -2936,12 +3248,28 @@ Gandhi Special Tubes Limited</description>
       <pubDate>Tue, 18 Aug 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
+      <title>BSE announces updates and an updated FAQ document regarding modifications</title>
+      <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260825-28/20260825-28.pdf</link>
+      <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260825-28/20260825-28.pdf</guid>
+      <description>[BSE] 5637ea06a7bdc88f-modifications — BSE announces updates and an updated FAQ document regarding modifications</description>
+      <category>trading</category>
+      <pubDate>Tue, 25 Aug 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
       <title>Zerodha Arbitrage Fund reopens for ongoing subscriptions, redemptions,</title>
       <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260819-24/20260819-24.pdf</link>
       <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260819-24/20260819-24.pdf</guid>
       <description>[BSE] b537551a16996f7c-availability- — Zerodha Arbitrage Fund reopens for ongoing subscriptions, redemptions,</description>
       <category>trading</category>
       <pubDate>Wed, 19 Aug 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>Sunshine Pictures Limited and Shankesh Jewellers Limited will be added</title>
+      <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260825-23/20260825-23.pdf</link>
+      <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260825-23/20260825-23.pdf</guid>
+      <description>[BSE] e1020ac57b507ce7-additions-to- — Sunshine Pictures Limited and Shankesh Jewellers Limited will be added</description>
+      <category>listing</category>
+      <pubDate>Tue, 25 Aug 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
       <title>BSE announces the revocation of suspension in trading of equity shares</title>
@@ -3048,6 +3376,14 @@ Gandhi Special Tubes Limited</description>
       <pubDate>Mon, 24 Aug 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
+      <title>SEBI has issued a final order imposing debarment ranging from 1 to 7</title>
+      <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260825-59/20260825-59.pdf</link>
+      <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260825-59/20260825-59.pdf</guid>
+      <description>[BSE] 597c57001d686f47-final-order-i — SEBI has issued a final order imposing debarment ranging from 1 to 7</description>
+      <category>compliance</category>
+      <pubDate>Tue, 25 Aug 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
       <title>BSE announces the introduction of the Weekly Income Distribution cum</title>
       <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260819-25/20260819-25.pdf</link>
       <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260819-25/20260819-25.pdf</guid>
@@ -3104,6 +3440,14 @@ Gandhi Special Tubes Limited</description>
       <pubDate>Tue, 18 Aug 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
+      <title>BSE StAR MF platform notification regarding the change in scheme names</title>
+      <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260825-60/20260825-60.pdf</link>
+      <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260825-60/20260825-60.pdf</guid>
+      <description>[BSE] a5e7f33ba6ff4476-change-in-sch — BSE StAR MF platform notification regarding the change in scheme names</description>
+      <category>trading</category>
+      <pubDate>Tue, 25 Aug 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
       <title>BSE notice announcing the suspension of trading in 182-day T-bills due</title>
       <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260818-6/20260818-6.pdf</link>
       <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260818-6/20260818-6.pdf</guid>
@@ -3126,6 +3470,14 @@ Gandhi Special Tubes Limited</description>
       <description>[BSE] 3937ee0b394f3407-applicability — BSE announces the applicability and revision of Long Term Additional</description>
       <category>trading</category>
       <pubDate>Fri, 21 Aug 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>BSE notice regarding the listing and admission to dealings of equity</title>
+      <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260825-57/20260825-57.pdf</link>
+      <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260825-57/20260825-57.pdf</guid>
+      <description>[BSE] f189d686eef3438b-listing-of-eq — BSE notice regarding the listing and admission to dealings of equity</description>
+      <category>listing</category>
+      <pubDate>Tue, 25 Aug 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
       <title>BSE has revised the price bands for 21 scrips with effect from August</title>
@@ -3256,6 +3608,14 @@ Gandhi Special Tubes Limited</description>
       <pubDate>Mon, 24 Aug 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
+      <title>BSE announces the applicability of Short Term Additional Surveillance</title>
+      <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260825-31/20260825-31.pdf</link>
+      <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260825-31/20260825-31.pdf</guid>
+      <description>[BSE] 128cbc95771a1831-applicability — BSE announces the applicability of Short Term Additional Surveillance</description>
+      <category>trading</category>
+      <pubDate>Tue, 25 Aug 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
       <title>BSE notice regarding the rights issue of equity shares and record date</title>
       <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260818-46/20260818-46.pdf</link>
       <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260818-46/20260818-46.pdf</guid>
@@ -3296,12 +3656,36 @@ Gandhi Special Tubes Limited</description>
       <pubDate>Mon, 24 Aug 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
+      <title>Notice regarding the launch of ICICI Prudential Life Cycle Fund 2041</title>
+      <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260825-37/20260825-37.pdf</link>
+      <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260825-37/20260825-37.pdf</guid>
+      <description>[BSE] 7cb452fe5e12c894-launch-of-new — Notice regarding the launch of ICICI Prudential Life Cycle Fund 2041</description>
+      <category>trading</category>
+      <pubDate>Tue, 25 Aug 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>Notice regarding the change in scheme names for multiple schemes of Bajaj</title>
+      <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260825-48/20260825-48.pdf</link>
+      <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260825-48/20260825-48.pdf</guid>
+      <description>[BSE] a9dc85a6fb4c15e2-change-in-sch — Notice regarding the change in scheme names for multiple schemes of Bajaj</description>
+      <category>trading</category>
+      <pubDate>Tue, 25 Aug 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
       <title>BSE has scheduled a mock trading session for the Commodity Derivatives</title>
       <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260820-32/20260820-32.pdf</link>
       <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260820-32/20260820-32.pdf</guid>
       <description>[BSE] aacb09df6f1054f7-mock-trading- — BSE has scheduled a mock trading session for the Commodity Derivatives</description>
       <category>market-operations</category>
       <pubDate>Thu, 20 Aug 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>Notice regarding the listing and admission to dealings of equity shares</title>
+      <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260825-53/20260825-53.pdf</link>
+      <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260825-53/20260825-53.pdf</guid>
+      <description>[BSE] ae4fc077741df876-listing-of-eq — Notice regarding the listing and admission to dealings of equity shares</description>
+      <category>listing</category>
+      <pubDate>Tue, 25 Aug 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
       <title>BSE announces suspension of trading in commercial papers of several companies</title>
@@ -3416,6 +3800,14 @@ Gandhi Special Tubes Limited</description>
       <pubDate>Tue, 25 Aug 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
+      <title>Axis Mutual Fund has announced a change in scheme names for several of</title>
+      <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260825-46/20260825-46.pdf</link>
+      <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260825-46/20260825-46.pdf</guid>
+      <description>[BSE] 2e38ac67da492012-change-in-sch — Axis Mutual Fund has announced a change in scheme names for several of</description>
+      <category>trading</category>
+      <pubDate>Tue, 25 Aug 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
       <title>BSE announces the listing and admission for trading of further equity</title>
       <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260825-11/20260825-11.pdf</link>
       <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260825-11/20260825-11.pdf</guid>
@@ -3440,12 +3832,28 @@ Gandhi Special Tubes Limited</description>
       <pubDate>Tue, 18 Aug 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
+      <title>Notice regarding the launch of ICICI Prudential Life Cycle Fund 2031</title>
+      <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260825-40/20260825-40.pdf</link>
+      <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260825-40/20260825-40.pdf</guid>
+      <description>[BSE] 7730584a49fddbc9-launch-of-new — Notice regarding the launch of ICICI Prudential Life Cycle Fund 2031</description>
+      <category>trading</category>
+      <pubDate>Tue, 25 Aug 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
       <title>BSE schedules a mock trading session for the Equity Derivatives segment</title>
       <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260820-30/20260820-30.pdf</link>
       <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260820-30/20260820-30.pdf</guid>
       <description>[BSE] c1113f6bfa269bfc-mock-trading- — BSE schedules a mock trading session for the Equity Derivatives segment</description>
       <category>market-operations</category>
       <pubDate>Thu, 20 Aug 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>HDFC Mutual Fund has announced a change in scheme names for several of</title>
+      <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260825-58/20260825-58.pdf</link>
+      <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260825-58/20260825-58.pdf</guid>
+      <description>[BSE] cdbd61c95b8a6cc0-change-in-sch — HDFC Mutual Fund has announced a change in scheme names for several of</description>
+      <category>trading</category>
+      <pubDate>Tue, 25 Aug 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
       <title>BSE circular providing frequently asked questions and guidance for listed</title>
@@ -3528,6 +3936,14 @@ Gandhi Special Tubes Limited</description>
       <pubDate>Thu, 20 Aug 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
+      <title>BSE notice regarding the listing and admission to trading of privately</title>
+      <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260825-30/20260825-30.pdf</link>
+      <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260825-30/20260825-30.pdf</guid>
+      <description>[BSE] 3d6e786b04bbecbb-listing-of-pr — BSE notice regarding the listing and admission to trading of privately</description>
+      <category>listing</category>
+      <pubDate>Tue, 25 Aug 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
       <title>BSE notice regarding the inclusion, stage movement, and review of securities</title>
       <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260821-35/20260821-35.pdf</link>
       <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260821-35/20260821-35.pdf</guid>
@@ -3550,6 +3966,14 @@ Gandhi Special Tubes Limited</description>
       <description>[BSE] 1951a7718debed97-change-in-gro — BSE notice regarding the transfer of equity shares of ENS Enterprises</description>
       <category>trading</category>
       <pubDate>Fri, 21 Aug 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>BSE notice announcing the opening of the buyback offer for Gandhi Special</title>
+      <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260825-25/20260825-25.pdf</link>
+      <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260825-25/20260825-25.pdf</guid>
+      <description>[BSE] 78aa1d6a9ae8d3f7-opening-of-of — BSE notice announcing the opening of the buyback offer for Gandhi Special</description>
+      <category>trading</category>
+      <pubDate>Tue, 25 Aug 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
       <title>BSE notice regarding the listing and admission for trading of 49,50,00,000</title>
@@ -3728,6 +4152,14 @@ Gandhi Special Tubes Limited</description>
       <pubDate>Tue, 25 Aug 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
+      <title>Revised allotment date and operational instructions for Whiteoak Capital</title>
+      <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260825-44/20260825-44.pdf</link>
+      <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260825-44/20260825-44.pdf</guid>
+      <description>[BSE] 71c251de3aabd094-launch-of-new — Revised allotment date and operational instructions for Whiteoak Capital</description>
+      <category>trading</category>
+      <pubDate>Tue, 25 Aug 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
       <title>BSE notice regarding the listing and trading admission of equity shares</title>
       <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260820-37/20260820-37.pdf</link>
       <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260820-37/20260820-37.pdf</guid>
@@ -3760,6 +4192,14 @@ Gandhi Special Tubes Limited</description>
       <pubDate>Mon, 24 Aug 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
+      <title>BSE notice regarding the applicability, revision, and movement of securities</title>
+      <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260825-43/20260825-43.pdf</link>
+      <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260825-43/20260825-43.pdf</guid>
+      <description>[BSE] 6762091be9b56462-applicability — BSE notice regarding the applicability, revision, and movement of securities</description>
+      <category>trading</category>
+      <pubDate>Tue, 25 Aug 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
       <title>BSE notice regarding the live activities schedule for the opening of</title>
       <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260824-39/20260824-39.pdf</link>
       <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260824-39/20260824-39.pdf</guid>
@@ -3790,6 +4230,14 @@ Gandhi Special Tubes Limited</description>
       <description>[BSE] ea33a27a3928484c-change-in-nam — BSE circular announcing the change of company name from KDJ Holidayscapes</description>
       <category>listing</category>
       <pubDate>Wed, 19 Aug 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>BSE announces the temporary suspension of lumpsum investments, switch-ins,</title>
+      <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260825-35/20260825-35.pdf</link>
+      <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260825-35/20260825-35.pdf</guid>
+      <description>[BSE] f3511f55b563a1ff-temporary-sus — BSE announces the temporary suspension of lumpsum investments, switch-ins,</description>
+      <category>trading</category>
+      <pubDate>Tue, 25 Aug 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
       <title>JM Financial Services Limited ceases to do business in the Currency derivative</title>
@@ -3838,6 +4286,14 @@ Gandhi Special Tubes Limited</description>
       <description>[BSE] 395a81f552096312-settlement-sc — BSE announces the settlement schedule for the Offer to Buy – Acquisition</description>
       <category>trading</category>
       <pubDate>Wed, 19 Aug 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>BSE notice regarding the NFO launch of ICICI Prudential Life Cycle Fund</title>
+      <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260825-39/20260825-39.pdf</link>
+      <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260825-39/20260825-39.pdf</guid>
+      <description>[BSE] bddf76bc1092b66d-launch-of-new — BSE notice regarding the NFO launch of ICICI Prudential Life Cycle Fund</description>
+      <category>trading</category>
+      <pubDate>Tue, 25 Aug 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
       <title>BSE notice regarding the listing and trading permission of 90,00,000</title>
@@ -3902,6 +4358,22 @@ Gandhi Special Tubes Limited</description>
       <description>[BSE] 7c828944e8e08861-public-issue- — BSE notice regarding the allocation of 1,26,48,000 equity shares to anchor</description>
       <category>listing</category>
       <pubDate>Fri, 21 Aug 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>BSE circular announcing the change in scheme names for Jio BlackRock</title>
+      <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260825-50/20260825-50.pdf</link>
+      <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260825-50/20260825-50.pdf</guid>
+      <description>[BSE] 147943a929e281f7-change-in-sch — BSE circular announcing the change in scheme names for Jio BlackRock</description>
+      <category>trading</category>
+      <pubDate>Tue, 25 Aug 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>BSE notice announcing the filing of the draft offer document for Dain</title>
+      <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260825-24/20260825-24.pdf</link>
+      <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260825-24/20260825-24.pdf</guid>
+      <description>[BSE] b5349377e3efa22e-sme-ipo-draft — BSE notice announcing the filing of the draft offer document for Dain</description>
+      <category>listing</category>
+      <pubDate>Tue, 25 Aug 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
       <title>BSE announces Demat Auction 698 for Rolling Settlement No. DR-698/2026-27,</title>
@@ -4160,12 +4632,20 @@ Gandhi Special Tubes Limited</description>
       <pubDate>Thu, 20 Aug 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
-      <title>Sebi 2026 08 25 2F2Bbce3493Fa02F Final Order In The Matter Of Varanium Cloud Limited</title>
+      <title>SEBI issued a final order regarding violations of SEBI Act, PFUTP Regulations,</title>
       <link>https://www.sebi.gov.in/enforcement/orders/aug-2026/final-order-in-respect-of-varanium-cloud-limited_104019.html</link>
       <guid isPermaLink="false">https://www.sebi.gov.in/enforcement/orders/aug-2026/final-order-in-respect-of-varanium-cloud-limited_104019.html</guid>
-      <description>[SEBI] SEBI/104019 — Sebi 2026 08 25 2F2Bbce3493Fa02F Final Order In The Matter Of Varanium Cloud Limited</description>
-      <category>Circular</category>
+      <description>[SEBI] SEBI/104019 — SEBI issued a final order regarding violations of SEBI Act, PFUTP Regulations,</description>
+      <category>compliance</category>
       <pubDate>Tue, 25 Aug 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>SEBI issued a notice of attachment under RC No. 9262 of 2026 against</title>
+      <link>https://www.sebi.gov.in/enforcement/recovery-proceedings/aug-2026/notice-of-attachment-dated-august-21-2026-issued-under-rc-no-9262-of-2026-drawn-against-aahuti-rasik-mistry-in-the-matter-of-sadhna-broadcast-limited_103940.html</link>
+      <guid isPermaLink="false">https://www.sebi.gov.in/enforcement/recovery-proceedings/aug-2026/notice-of-attachment-dated-august-21-2026-issued-under-rc-no-9262-of-2026-drawn-against-aahuti-rasik-mistry-in-the-matter-of-sadhna-broadcast-limited_103940.html</guid>
+      <description>[SEBI] SEBI/103940 — SEBI issued a notice of attachment under RC No. 9262 of 2026 against</description>
+      <category>compliance</category>
+      <pubDate>Fri, 21 Aug 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
       <title>Appellate Authority upholds CPIO response stating information regarding</title>
@@ -4198,6 +4678,14 @@ Gandhi Special Tubes Limited</description>
       <description>[SEBI] SEBI/103815 — SEBI issues notices of attachment of bank, post office, demat accounts</description>
       <category>trading</category>
       <pubDate>Tue, 18 Aug 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>SEBI announced the completion and satisfaction of Recovery Certificate</title>
+      <link>https://www.sebi.gov.in/enforcement/recovery-proceedings/aug-2026/completion-of-recovery-certificate-no-3875-of-2021-dated-june-28-2021-issued-to-archit-jindal-defaulter-pan-agnpj5775g-in-the-matter-of-focus-industrial-resources-limited-_104020.html</link>
+      <guid isPermaLink="false">https://www.sebi.gov.in/enforcement/recovery-proceedings/aug-2026/completion-of-recovery-certificate-no-3875-of-2021-dated-june-28-2021-issued-to-archit-jindal-defaulter-pan-agnpj5775g-in-the-matter-of-focus-industrial-resources-limited-_104020.html</guid>
+      <description>[SEBI] SEBI/104020 — SEBI announced the completion and satisfaction of Recovery Certificate</description>
+      <category>compliance</category>
+      <pubDate>Tue, 25 Aug 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
       <title>SEBI issued a notice for the attachment of bank accounts and lockers</title>
@@ -4248,6 +4736,14 @@ Gandhi Special Tubes Limited</description>
       <pubDate>Mon, 24 Aug 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
+      <title>SEBI issued a notice of attachment dated August 21, 2026, under Recovery</title>
+      <link>https://www.sebi.gov.in/enforcement/recovery-proceedings/aug-2026/notice-of-attachment-dated-august-21-2026-issued-under-rc-no-9265-of-2026-drawn-against-kavita-shah-in-the-matter-of-sadhna-broadcast-limited_103942.html</link>
+      <guid isPermaLink="false">https://www.sebi.gov.in/enforcement/recovery-proceedings/aug-2026/notice-of-attachment-dated-august-21-2026-issued-under-rc-no-9265-of-2026-drawn-against-kavita-shah-in-the-matter-of-sadhna-broadcast-limited_103942.html</guid>
+      <description>[SEBI] SEBI/103942 — SEBI issued a notice of attachment dated August 21, 2026, under Recovery</description>
+      <category>compliance</category>
+      <pubDate>Fri, 21 Aug 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
       <title>SEBI issued a notice of attachment of demat account and mutual fund folio(s)</title>
       <link>https://www.sebi.gov.in/enforcement/recovery-proceedings/aug-2026/notice-of-attachment-of-demat-account-and-mutual-fund-folio-s-15720-of-2026-dated-august-20-2026-against-shreya-gupta-pan-aimpj4419j-defaulter-in-the-matter-of-trading-based-stock-recommendatio-_103923.html</link>
       <guid isPermaLink="false">https://www.sebi.gov.in/enforcement/recovery-proceedings/aug-2026/notice-of-attachment-of-demat-account-and-mutual-fund-folio-s-15720-of-2026-dated-august-20-2026-against-shreya-gupta-pan-aimpj4419j-defaulter-in-the-matter-of-trading-based-stock-recommendatio-_103923.html</guid>
@@ -4286,6 +4782,14 @@ Gandhi Special Tubes Limited</description>
       <description>[SEBI] SEBI/103791 — SEBI issued a Notice of Demand under Recovery Certificate No. 9285 of</description>
       <category>compliance</category>
       <pubDate>Wed, 19 Aug 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>SEBI issued a notice of attachment dated August 21, 2026, under Recovery</title>
+      <link>https://www.sebi.gov.in/enforcement/recovery-proceedings/aug-2026/notice-of-attachment-of-demat-account-and-mutual-fund-folio-s-15748-of-2026-dated-august-21-2026-against-sulabh-dikshit-pan-anepd9669b-defaulter-in-the-matter-of-trading-based-stock-recommendat-_103974.html</link>
+      <guid isPermaLink="false">https://www.sebi.gov.in/enforcement/recovery-proceedings/aug-2026/notice-of-attachment-of-demat-account-and-mutual-fund-folio-s-15748-of-2026-dated-august-21-2026-against-sulabh-dikshit-pan-anepd9669b-defaulter-in-the-matter-of-trading-based-stock-recommendat-_103974.html</guid>
+      <description>[SEBI] SEBI/103974 — SEBI issued a notice of attachment dated August 21, 2026, under Recovery</description>
+      <category>compliance</category>
+      <pubDate>Fri, 21 Aug 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
       <title>SEBI issued notices of attachment for bank, post office, demat accounts,</title>
@@ -4368,6 +4872,22 @@ Gandhi Special Tubes Limited</description>
       <pubDate>Thu, 20 Aug 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
+      <title>SEBI issued a notice of attachment dated August 21, 2026, under Recovery</title>
+      <link>https://www.sebi.gov.in/enforcement/recovery-proceedings/aug-2026/notice-of-attachment-of-demat-account-and-mutual-fund-folio-s-15750-of-2026-dated-august-21-2026-against-saurabh-gupta-pan-bfepg0692e-defaulter-in-the-matter-of-trading-based-stock-recommendati-_103976.html</link>
+      <guid isPermaLink="false">https://www.sebi.gov.in/enforcement/recovery-proceedings/aug-2026/notice-of-attachment-of-demat-account-and-mutual-fund-folio-s-15750-of-2026-dated-august-21-2026-against-saurabh-gupta-pan-bfepg0692e-defaulter-in-the-matter-of-trading-based-stock-recommendati-_103976.html</guid>
+      <description>[SEBI] SEBI/103976 — SEBI issued a notice of attachment dated August 21, 2026, under Recovery</description>
+      <category>compliance</category>
+      <pubDate>Fri, 21 Aug 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>SEBI issued a notice of attachment dated August 21, 2026, under Recovery</title>
+      <link>https://www.sebi.gov.in/enforcement/recovery-proceedings/aug-2026/notice-of-attachment-of-bank-and-post-office-accounts-15747-of-2026-dated-august-21-2026-against-sulabh-dikshit-pan-anepd9669b-defaulter-in-the-matter-of-trading-based-stock-recommendations-usin-_103956.html</link>
+      <guid isPermaLink="false">https://www.sebi.gov.in/enforcement/recovery-proceedings/aug-2026/notice-of-attachment-of-bank-and-post-office-accounts-15747-of-2026-dated-august-21-2026-against-sulabh-dikshit-pan-anepd9669b-defaulter-in-the-matter-of-trading-based-stock-recommendations-usin-_103956.html</guid>
+      <description>[SEBI] SEBI/103956 — SEBI issued a notice of attachment dated August 21, 2026, under Recovery</description>
+      <category>compliance</category>
+      <pubDate>Fri, 21 Aug 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
       <title>SEBI issued a notice of attachment of demat accounts against Mr. Kapil</title>
       <link>https://www.sebi.gov.in/enforcement/recovery-proceedings/aug-2026/notice-of-attachment-of-demat-accounts-with-ap-no-15755-of-2026-dated-august-21-2026-against-mr-kapil-wadhawan-pan-aaopw6145l-defaulter-in-the-matter-of-dewan-housing-finance-corporation-ltd-_103908.html</link>
       <guid isPermaLink="false">https://www.sebi.gov.in/enforcement/recovery-proceedings/aug-2026/notice-of-attachment-of-demat-accounts-with-ap-no-15755-of-2026-dated-august-21-2026-against-mr-kapil-wadhawan-pan-aaopw6145l-defaulter-in-the-matter-of-dewan-housing-finance-corporation-ltd-_103908.html</guid>
@@ -4438,6 +4958,14 @@ Gandhi Special Tubes Limited</description>
       <description>[SEBI] SEBI/103803 — SEBI issues a notice of attachment of Demat accounts and mutual fund</description>
       <category>compliance</category>
       <pubDate>Wed, 19 Aug 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>SEBI issued a notice of attachment of demat account and mutual fund folio(s)</title>
+      <link>https://www.sebi.gov.in/enforcement/recovery-proceedings/aug-2026/notice-of-attachment-of-demat-account-and-mutual-fund-folio-s-15752-of-2026-dated-august-21-2026-against-neha-aggarwal-pan-aqdpa1749d-defaulter-in-the-matter-of-trading-based-stock-recommendati-_103978.html</link>
+      <guid isPermaLink="false">https://www.sebi.gov.in/enforcement/recovery-proceedings/aug-2026/notice-of-attachment-of-demat-account-and-mutual-fund-folio-s-15752-of-2026-dated-august-21-2026-against-neha-aggarwal-pan-aqdpa1749d-defaulter-in-the-matter-of-trading-based-stock-recommendati-_103978.html</guid>
+      <description>[SEBI] SEBI/103978 — SEBI issued a notice of attachment of demat account and mutual fund folio(s)</description>
+      <category>compliance</category>
+      <pubDate>Fri, 21 Aug 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
       <title>Bombay High Court judgment concerning the Online Dispute Resolution (ODR)</title>
@@ -4512,6 +5040,14 @@ Gandhi Special Tubes Limited</description>
       <pubDate>Thu, 20 Aug 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
+      <title>SEBI issued a notice of attachment dated August 21, 2026, under Recovery</title>
+      <link>https://www.sebi.gov.in/enforcement/recovery-proceedings/aug-2026/notice-of-attachment-of-bank-and-post-office-accounts-15753-of-2026-dated-august-21-2026-against-paras-shah-pan-dokps0203a-defaulter-in-the-matter-of-trading-based-stock-recommendations-using-so-_103962.html</link>
+      <guid isPermaLink="false">https://www.sebi.gov.in/enforcement/recovery-proceedings/aug-2026/notice-of-attachment-of-bank-and-post-office-accounts-15753-of-2026-dated-august-21-2026-against-paras-shah-pan-dokps0203a-defaulter-in-the-matter-of-trading-based-stock-recommendations-using-so-_103962.html</guid>
+      <description>[SEBI] SEBI/103962 — SEBI issued a notice of attachment dated August 21, 2026, under Recovery</description>
+      <category>compliance</category>
+      <pubDate>Fri, 21 Aug 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
       <title>General Remittance Advice regarding recovery proceedings against Sunil</title>
       <link>https://www.sebi.gov.in/enforcement/recovery-proceedings/aug-2026/general-remittance-advice-against-sunil-singh-proprietor-of-alfa-finsec-defaulter-pan-bdgps0774k-in-the-matter-of-trading-activities-of-certain-entities-in-the-scrip-of-delta-leasing-and-finan-_103724.html</link>
       <guid isPermaLink="false">https://www.sebi.gov.in/enforcement/recovery-proceedings/aug-2026/general-remittance-advice-against-sunil-singh-proprietor-of-alfa-finsec-defaulter-pan-bdgps0774k-in-the-matter-of-trading-activities-of-certain-entities-in-the-scrip-of-delta-leasing-and-finan-_103724.html</guid>
@@ -4526,6 +5062,14 @@ Gandhi Special Tubes Limited</description>
       <description>[SEBI] SEBI/103928 — SEBI notifies the completion and satisfaction of Recovery Certificate</description>
       <category>compliance</category>
       <pubDate>Mon, 24 Aug 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>SEBI issued a notice of attachment dated August 21, 2026, under Recovery</title>
+      <link>https://www.sebi.gov.in/enforcement/recovery-proceedings/aug-2026/notice-of-attachment-of-bank-and-post-office-accounts-15751-of-2026-dated-august-21-2026-against-neha-aggarwal-pan-aqdpa1749d-defaulter-in-the-matter-of-trading-based-stock-recommendations-using-_103960.html</link>
+      <guid isPermaLink="false">https://www.sebi.gov.in/enforcement/recovery-proceedings/aug-2026/notice-of-attachment-of-bank-and-post-office-accounts-15751-of-2026-dated-august-21-2026-against-neha-aggarwal-pan-aqdpa1749d-defaulter-in-the-matter-of-trading-based-stock-recommendations-using-_103960.html</guid>
+      <description>[SEBI] SEBI/103960 — SEBI issued a notice of attachment dated August 21, 2026, under Recovery</description>
+      <category>compliance</category>
+      <pubDate>Fri, 21 Aug 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
       <title>SEBI releases two studies examining individual investor participation,</title>
@@ -4560,6 +5104,14 @@ Gandhi Special Tubes Limited</description>
       <pubDate>Thu, 20 Aug 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
+      <title>SEBI issued notice of attachment of bank and post office accounts under</title>
+      <link>https://www.sebi.gov.in/enforcement/recovery-proceedings/aug-2026/notice-of-attachment-of-bank-and-post-office-accounts-15749-of-2026-dated-august-21-2026-against-saurabh-gupta-pan-bfepg0692e-defaulter-in-the-matter-of-trading-based-stock-recommendations-using-_103958.html</link>
+      <guid isPermaLink="false">https://www.sebi.gov.in/enforcement/recovery-proceedings/aug-2026/notice-of-attachment-of-bank-and-post-office-accounts-15749-of-2026-dated-august-21-2026-against-saurabh-gupta-pan-bfepg0692e-defaulter-in-the-matter-of-trading-based-stock-recommendations-using-_103958.html</guid>
+      <description>[SEBI] SEBI/103958 — SEBI issued notice of attachment of bank and post office accounts under</description>
+      <category>compliance</category>
+      <pubDate>Fri, 21 Aug 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
       <title>SEBI order issued against merchant banker Corporate Capital Ventures</title>
       <link>https://www.sebi.gov.in/enforcement/orders/aug-2026/order-in-enquiry-proceedings-respect-of-corporate-capital-ventures-private-limited_103718.html</link>
       <guid isPermaLink="false">https://www.sebi.gov.in/enforcement/orders/aug-2026/order-in-enquiry-proceedings-respect-of-corporate-capital-ventures-private-limited_103718.html</guid>
@@ -4590,6 +5142,14 @@ Gandhi Special Tubes Limited</description>
       <description>[SEBI] SEBI/103890 — SEBI issued a notice of attachment of bank and post office accounts under</description>
       <category>compliance</category>
       <pubDate>Wed, 19 Aug 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>SEBI issued a release order regarding recovery proceedings under Certificate</title>
+      <link>https://www.sebi.gov.in/enforcement/recovery-proceedings/aug-2026/release-order-archit-jindal-defaulter-pan-agnpj5775g-in-the-matter-of-focus-industrial-resources-limited-under-certificate-no-3875-of-2021_104022.html</link>
+      <guid isPermaLink="false">https://www.sebi.gov.in/enforcement/recovery-proceedings/aug-2026/release-order-archit-jindal-defaulter-pan-agnpj5775g-in-the-matter-of-focus-industrial-resources-limited-under-certificate-no-3875-of-2021_104022.html</guid>
+      <description>[SEBI] SEBI/104022 — SEBI issued a release order regarding recovery proceedings under Certificate</description>
+      <category>compliance</category>
+      <pubDate>Tue, 25 Aug 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
       <title>SEBI issued a notice of attachment of demat accounts and mutual fund</title>
