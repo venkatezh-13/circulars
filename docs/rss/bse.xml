@@ -5,7 +5,7 @@
     <link>https://venkatezh-13.github.io/circulars</link>
     <description>BSE circulars — last 7 days</description>
     <language>en-in</language>
-    <lastBuildDate>Wed, 26 Aug 2026 08:55:34 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 09:42:54 +0000</lastBuildDate>
     <atom:link href="https://venkatezh-13.github.io/circulars/rss/bse.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>IT Resilience Index for Market Infrastructure Institutions (MIIs)</title>
@@ -374,6 +374,14 @@
       <description>[BSE] 39ef813d0108f30b-suspension-of — BSE notice regarding the suspension of trading in non-convertible debentures</description>
       <category>trading</category>
       <pubDate>Thu, 20 Aug 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>Bse notice regarding the IT Resilience Index for Market Infrastructure</title>
+      <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260826-5/20260826-5.pdf</link>
+      <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260826-5/20260826-5.pdf</guid>
+      <description>[BSE] 6bc594d12c7df24b-it-resilience — Bse notice regarding the IT Resilience Index for Market Infrastructure</description>
+      <category>compliance</category>
+      <pubDate>Wed, 26 Aug 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
       <title>Nippon India Mutual Fund announced the merger of Nippon India Nifty AAA</title>
