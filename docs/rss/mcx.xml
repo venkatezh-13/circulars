@@ -5,31 +5,47 @@
     <link>https://venkatezh-13.github.io/circulars</link>
     <description>MCX circulars — last 7 days</description>
     <language>en-in</language>
-    <lastBuildDate>Wed, 26 Aug 2026 20:09:47 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Aug 2026 19:05:09 +0000</lastBuildDate>
     <atom:link href="https://venkatezh-13.github.io/circulars/rss/mcx.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Acceptance of MCX Registered Indian Refined Lead Brands under the Lead and Lead Mini futures contracts</title>
-      <link>https://www.mcxindia.com/docs/default-source/circulars/english/2026/august/circular-483-2026.pdf?sfvrsn=5aad0692_1</link>
-      <guid isPermaLink="false">https://www.mcxindia.com/docs/default-source/circulars/english/2026/august/circular-483-2026.pdf?sfvrsn=5aad0692_1</guid>
-      <description>[MCX] 483 — Acceptance of MCX Registered Indian Refined Lead Brands under the Lead and Lead Mini futures contracts</description>
-      <category>General</category>
-      <pubDate>Wed, 26 Aug 2026 07:30:00 +0530</pubDate>
-    </item>
-    <item>
-      <title>Modification in Contract Launch Calendar of Crude Oil and Crude Oil Mini Futures Contracts</title>
-      <link>https://www.mcxindia.com/docs/default-source/circulars/english/2026/august/circular-485-2026.pdf?sfvrsn=ef669401_1</link>
-      <guid isPermaLink="false">https://www.mcxindia.com/docs/default-source/circulars/english/2026/august/circular-485-2026.pdf?sfvrsn=ef669401_1</guid>
-      <description>[MCX] 485 — Modification in Contract Launch Calendar of Crude Oil and Crude Oil Mini Futures Contracts</description>
-      <category>T&amp;S</category>
-      <pubDate>Wed, 26 Aug 2026 07:30:00 +0530</pubDate>
-    </item>
-    <item>
-      <title>Alignment of SEBI's Cyber Incident Reporting Portal with FIRE Format</title>
-      <link>https://www.mcxindia.com/docs/default-source/circulars/english/2026/august/alignment-of-sebi's-cyber-incident-reporting-portal-with-fire-format.pdf?sfvrsn=f4228e09_1</link>
-      <guid isPermaLink="false">https://www.mcxindia.com/docs/default-source/circulars/english/2026/august/alignment-of-sebi's-cyber-incident-reporting-portal-with-fire-format.pdf?sfvrsn=f4228e09_1</guid>
-      <description>[MCX] 484 — Alignment of SEBI's Cyber Incident Reporting Portal with FIRE Format</description>
+      <title>Mock Trading from Disaster Recovery Site (DRS)</title>
+      <link>https://www.mcxindia.com/docs/default-source/circulars/english/2026/august/circular-489-2026.pdf?sfvrsn=9292e63e_1</link>
+      <guid isPermaLink="false">https://www.mcxindia.com/docs/default-source/circulars/english/2026/august/circular-489-2026.pdf?sfvrsn=9292e63e_1</guid>
+      <description>[MCX] 489 — Mock Trading from Disaster Recovery Site (DRS)</description>
       <category>TECH</category>
-      <pubDate>Wed, 26 Aug 2026 07:30:00 +0530</pubDate>
+      <pubDate>Thu, 27 Aug 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>Due Date Rates</title>
+      <link>https://www.mcxindia.com/docs/default-source/circulars/english/2026/august/circular-486-2026.pdf?sfvrsn=671982cd_1</link>
+      <guid isPermaLink="false">https://www.mcxindia.com/docs/default-source/circulars/english/2026/august/circular-486-2026.pdf?sfvrsn=671982cd_1</guid>
+      <description>[MCX] 486 — Due Date Rates</description>
+      <category>MCXCCL</category>
+      <pubDate>Thu, 27 Aug 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>Modification in the Contract Specification of Lead Mini, Lead, Zinc Mini and Zinc Futures Contracts</title>
+      <link>https://www.mcxindia.com/docs/default-source/circulars/english/2026/august/circular-490-2026.pdf?sfvrsn=2e45a191_1</link>
+      <guid isPermaLink="false">https://www.mcxindia.com/docs/default-source/circulars/english/2026/august/circular-490-2026.pdf?sfvrsn=2e45a191_1</guid>
+      <description>[MCX] 490 — Modification in the Contract Specification of Lead Mini, Lead, Zinc Mini and Zinc Futures Contracts</description>
+      <category>T&amp;S</category>
+      <pubDate>Thu, 27 Aug 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>Mock Trading</title>
+      <link>https://www.mcxindia.com/docs/default-source/circulars/english/2026/august/circular-488-2026.pdf?sfvrsn=85c0287d_1</link>
+      <guid isPermaLink="false">https://www.mcxindia.com/docs/default-source/circulars/english/2026/august/circular-488-2026.pdf?sfvrsn=85c0287d_1</guid>
+      <description>[MCX] 488 — Mock Trading</description>
+      <category>TECH</category>
+      <pubDate>Thu, 27 Aug 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>Acceptance of MCX approved Indian Refined Lead Brand at MCXCCL accredited Warehouses</title>
+      <link>https://www.mcxindia.com/docs/default-source/circulars/english/2026/august/circular-487-2026.pdf?sfvrsn=39ae433c_1</link>
+      <guid isPermaLink="false">https://www.mcxindia.com/docs/default-source/circulars/english/2026/august/circular-487-2026.pdf?sfvrsn=39ae433c_1</guid>
+      <description>[MCX] 487 — Acceptance of MCX approved Indian Refined Lead Brand at MCXCCL accredited Warehouses</description>
+      <category>MCXCCL</category>
+      <pubDate>Thu, 27 Aug 2026 07:30:00 +0530</pubDate>
     </item>
   </channel>
 </rss>
