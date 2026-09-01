@@ -5,7 +5,7 @@
     <link>https://venkatezh-13.github.io/circulars</link>
     <description>NSE, BSE and MCX circulars — last 7 days</description>
     <language>en-in</language>
-    <lastBuildDate>Tue, 01 Sep 2026 17:51:46 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 20:42:35 +0000</lastBuildDate>
     <atom:link href="https://venkatezh-13.github.io/circulars/rss/all.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Trade for Trade - ABH Healthcare Limited (SME IPO)</title>
@@ -308,6 +308,14 @@
       <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260901-4/20260901-4.pdf</link>
       <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260901-4/20260901-4.pdf</guid>
       <description>[BSE] 20260901-4 — Demat Auction 705</description>
+      <category>General / Circular</category>
+      <pubDate>Tue, 01 Sep 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>Daily Bulletin</title>
+      <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260901-39/20260901-39.pdf</link>
+      <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260901-39/20260901-39.pdf</guid>
+      <description>[BSE] 20260901-39 — Daily Bulletin</description>
       <category>General / Circular</category>
       <pubDate>Tue, 01 Sep 2026 07:30:00 +0530</pubDate>
     </item>
@@ -714,6 +722,14 @@ Mitshi India Limited.</description>
       <pubDate>Tue, 25 Aug 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
+      <title>National Stock Exchange announces the change of Market Maker for SME</title>
+      <link>https://nsearchives.nseindia.com/content/circulars/CMTR76114.pdf</link>
+      <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/CMTR76114.pdf</guid>
+      <description>[NSE] NSE/CMTR76114 — National Stock Exchange announces the change of Market Maker for SME</description>
+      <category>trading</category>
+      <pubDate>Tue, 01 Sep 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
       <title>NSE circular detailing the applicability, exclusion, and stage migration</title>
       <link>https://nsearchives.nseindia.com/content/circulars/SURV76007.zip</link>
       <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/SURV76007.zip</guid>
@@ -736,6 +752,14 @@ Mitshi India Limited.</description>
       <description>[NSE] NSE/SURV76073 — NSE surveillance review shifts specified securities to the Trade for</description>
       <category>trading</category>
       <pubDate>Mon, 31 Aug 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>National Stock Exchange announces the listing of equity shares of Annu</title>
+      <link>https://nsearchives.nseindia.com/content/circulars/CML76115.zip</link>
+      <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/CML76115.zip</guid>
+      <description>[NSE] NSE/CML76115 — National Stock Exchange announces the listing of equity shares of Annu</description>
+      <category>listing</category>
+      <pubDate>Tue, 01 Sep 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
       <title>NSE circular announcing the reopening and availability of Magnum Equity</title>
@@ -874,6 +898,14 @@ Mitshi India Limited.</description>
       <pubDate>Tue, 01 Sep 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
+      <title>National Stock Exchange notifies the listing of further issues of equity</title>
+      <link>https://nsearchives.nseindia.com/content/circulars/CML76113.pdf</link>
+      <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/CML76113.pdf</guid>
+      <description>[NSE] NSE/CML76113 — National Stock Exchange notifies the listing of further issues of equity</description>
+      <category>listing</category>
+      <pubDate>Tue, 01 Sep 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
       <title>NSE circular regarding the listing of equity shares of Madhur Knit Crafts</title>
       <link>https://nsearchives.nseindia.com/content/circulars/CML76067.zip</link>
       <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/CML76067.zip</guid>
@@ -960,6 +992,14 @@ Mitshi India Limited.</description>
       <description>[NSE] NSE/CML76026 — NSE circular regarding the listing and admission to dealings of privately</description>
       <category>listing</category>
       <pubDate>Fri, 28 Aug 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>NSE circular regarding the transfer of Madhur Knit Crafts Limited (SME</title>
+      <link>https://nsearchives.nseindia.com/content/circulars/CML76117.pdf</link>
+      <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/CML76117.pdf</guid>
+      <description>[NSE] NSE/CML76117 — NSE circular regarding the transfer of Madhur Knit Crafts Limited (SME</description>
+      <category>trading</category>
+      <pubDate>Tue, 01 Sep 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
       <title>National Stock Exchange announces the alignment of SEBI's Cyber Incident</title>
@@ -1090,12 +1130,36 @@ Mitshi India Limited.</description>
       <pubDate>Tue, 25 Aug 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
+      <title>NSE circular regarding the transfer of ABH Healthcare Limited securities</title>
+      <link>https://nsearchives.nseindia.com/content/circulars/CML76118.pdf</link>
+      <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/CML76118.pdf</guid>
+      <description>[NSE] NSE/CML76118 — NSE circular regarding the transfer of ABH Healthcare Limited securities</description>
+      <category>trading</category>
+      <pubDate>Tue, 01 Sep 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
       <title>National Stock Exchange announces the introduction of futures and options</title>
       <link>https://nsearchives.nseindia.com/content/circulars/FAOP75958.zip</link>
       <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/FAOP75958.zip</guid>
       <description>[NSE] NSE/FAOP75958 — National Stock Exchange announces the introduction of futures and options</description>
       <category>trading</category>
       <pubDate>Tue, 25 Aug 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>National Stock Exchange notifies the trading of Rights Entitlements (REs)</title>
+      <link>https://nsearchives.nseindia.com/content/circulars/CML76104.pdf</link>
+      <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/CML76104.pdf</guid>
+      <description>[NSE] NSE/CML76104 — National Stock Exchange notifies the trading of Rights Entitlements (REs)</description>
+      <category>trading</category>
+      <pubDate>Tue, 01 Sep 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>NSE circular regarding the transfer of securities of Hy-Tech Engineers</title>
+      <link>https://nsearchives.nseindia.com/content/circulars/CML76116.pdf</link>
+      <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/CML76116.pdf</guid>
+      <description>[NSE] NSE/CML76116 — NSE circular regarding the transfer of securities of Hy-Tech Engineers</description>
+      <category>trading</category>
+      <pubDate>Tue, 01 Sep 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
       <title>NSE Clearing Limited issued a settlement calendar for the Offer for Sale</title>
@@ -1226,11 +1290,11 @@ Mitshi India Limited.</description>
       <pubDate>Thu, 27 Aug 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
-      <title>Nse 2026 09 01 14D3D7Ac316A92C0 Applicability Of Enhanced Surveillance Measure Esm</title>
+      <title>National Stock Exchange announces the applicability of Enhanced Surveillance</title>
       <link>https://nsearchives.nseindia.com/content/circulars/SURV76103.zip</link>
       <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/SURV76103.zip</guid>
-      <description>[NSE] NSE/SURV76103 — Nse 2026 09 01 14D3D7Ac316A92C0 Applicability Of Enhanced Surveillance Measure Esm</description>
-      <category>Circular</category>
+      <description>[NSE] NSE/SURV76103 — National Stock Exchange announces the applicability of Enhanced Surveillance</description>
+      <category>trading</category>
       <pubDate>Tue, 01 Sep 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
@@ -1482,6 +1546,14 @@ Mitshi India Limited.</description>
       <pubDate>Thu, 27 Aug 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
+      <title>NSE notice regarding the trading of Rights Entitlements (REs) pursuant</title>
+      <link>https://nsearchives.nseindia.com/content/circulars/CML76093.pdf</link>
+      <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/CML76093.pdf</guid>
+      <description>[NSE] NSE/CML76093 — NSE notice regarding the trading of Rights Entitlements (REs) pursuant</description>
+      <category>trading</category>
+      <pubDate>Tue, 01 Sep 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
       <title>NSE circular regarding the applicability, inclusion, and movement of</title>
       <link>https://nsearchives.nseindia.com/content/circulars/SURV75979.zip</link>
       <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/SURV75979.zip</guid>
@@ -1632,6 +1704,14 @@ Mitshi India Limited.</description>
       <description>[NSE] NSE/CML76025 — National Stock Exchange notifies the listing of further issues of equity</description>
       <category>listing</category>
       <pubDate>Fri, 28 Aug 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>NSE announces the revision of quotation base values and tick sizes for</title>
+      <link>https://nsearchives.nseindia.com/content/circulars/EGR76111.pdf</link>
+      <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/EGR76111.pdf</guid>
+      <description>[NSE] NSE/EGR76111 — NSE announces the revision of quotation base values and tick sizes for</description>
+      <category>trading</category>
+      <pubDate>Tue, 01 Sep 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
       <title>National Stock Exchange announces the change in scheme names for several</title>
@@ -2090,6 +2170,14 @@ Mitshi India Limited.</description>
       <pubDate>Thu, 27 Aug 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
+      <title>BSE introduces a new 24L series in the Securities Lending and Borrowing</title>
+      <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260901-38/20260901-38.pdf</link>
+      <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260901-38/20260901-38.pdf</guid>
+      <description>[BSE] f98133f2fe2733d3-introduction- — BSE introduces a new 24L series in the Securities Lending and Borrowing</description>
+      <category>market-operations</category>
+      <pubDate>Tue, 01 Sep 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
       <title>TCC Concept Ltd has announced the sub-division of its equity shares from</title>
       <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260825-52/20260825-52.pdf</link>
       <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260825-52/20260825-52.pdf</guid>
@@ -2378,6 +2466,22 @@ Mitshi India Limited.</description>
       <pubDate>Tue, 25 Aug 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
+      <title>Bandhan Contra Fund reopens for ongoing subscriptions, redemptions, SIP,</title>
+      <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260901-34/20260901-34.pdf</link>
+      <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260901-34/20260901-34.pdf</guid>
+      <description>[BSE] 40b282ff5d46e1fc-availability- — Bandhan Contra Fund reopens for ongoing subscriptions, redemptions, SIP,</description>
+      <category>trading</category>
+      <pubDate>Tue, 01 Sep 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>BSE announces the resumption of lumpsum subscriptions and switch-in transactions</title>
+      <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260901-35/20260901-35.pdf</link>
+      <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260901-35/20260901-35.pdf</guid>
+      <description>[BSE] 79538f8567c018c4-resumption-of — BSE announces the resumption of lumpsum subscriptions and switch-in transactions</description>
+      <category>trading</category>
+      <pubDate>Tue, 01 Sep 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
       <title>Invesco Mutual Fund has announced a change in scheme names for five of</title>
       <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260826-34/20260826-34.pdf</link>
       <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260826-34/20260826-34.pdf</guid>
@@ -2490,11 +2594,11 @@ Mitshi India Limited.</description>
       <pubDate>Mon, 31 Aug 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
-      <title>Bse 2026 09 01 Afa4F33Fb69Cd969 Enhanced Surveillance Measure Esm</title>
+      <title>BSE announces the inclusion, movement, and continuation of securities</title>
       <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260901-26/20260901-26.pdf</link>
       <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260901-26/20260901-26.pdf</guid>
-      <description>[BSE] afa4f33fb69cd969-enhanced-surv — Bse 2026 09 01 Afa4F33Fb69Cd969 Enhanced Surveillance Measure Esm</description>
-      <category>Circular</category>
+      <description>[BSE] afa4f33fb69cd969-enhanced-surv — BSE announces the inclusion, movement, and continuation of securities</description>
+      <category>trading</category>
       <pubDate>Tue, 01 Sep 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
@@ -2906,6 +3010,14 @@ Mitshi India Limited.</description>
       <pubDate>Thu, 27 Aug 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
+      <title>Notice regarding the trading of Rights Entitlements (REs) for Viceroy</title>
+      <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260901-31/20260901-31.pdf</link>
+      <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260901-31/20260901-31.pdf</guid>
+      <description>[BSE] fb611df21b822c28-rights-entitl — Notice regarding the trading of Rights Entitlements (REs) for Viceroy</description>
+      <category>trading</category>
+      <pubDate>Tue, 01 Sep 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
       <title>BSE notice regarding the allocation of 19,56,000 Equity Shares to Anchor</title>
       <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260827-19/20260827-19.pdf</link>
       <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260827-19/20260827-19.pdf</guid>
@@ -3210,11 +3322,11 @@ Mitshi India Limited.</description>
       <pubDate>Wed, 26 Aug 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
-      <title>Bse 2026 09 01 04A37Ea121Aade46 Call Money Notice For Partly Paid Up Equity Share Of Ace Software Exports Limite</title>
+      <title>BSE announces activation of the Call Money Module of the IBBS platform</title>
       <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260901-29/20260901-29.pdf</link>
       <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260901-29/20260901-29.pdf</guid>
-      <description>[BSE] 04a37ea121aade46-call-money-no — Bse 2026 09 01 04A37Ea121Aade46 Call Money Notice For Partly Paid Up Equity Share Of Ace Software Exports Limite</description>
-      <category>Circular</category>
+      <description>[BSE] 04a37ea121aade46-call-money-no — BSE announces activation of the Call Money Module of the IBBS platform</description>
+      <category>market-operations</category>
       <pubDate>Tue, 01 Sep 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
@@ -3378,6 +3490,14 @@ Mitshi India Limited.</description>
       <pubDate>Tue, 01 Sep 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
+      <title>BSE announces the reopening of Magnum Equity Ex-Top 100 Long Short Fund</title>
+      <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260901-32/20260901-32.pdf</link>
+      <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260901-32/20260901-32.pdf</guid>
+      <description>[BSE] c8b7b23264a02424-availability- — BSE announces the reopening of Magnum Equity Ex-Top 100 Long Short Fund</description>
+      <category>trading</category>
+      <pubDate>Tue, 01 Sep 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
       <title>Notice regarding the launch of ICICI Prudential Life Cycle Fund 2041</title>
       <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260825-37/20260825-37.pdf</link>
       <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260825-37/20260825-37.pdf</guid>
@@ -3432,6 +3552,14 @@ Mitshi India Limited.</description>
       <description>[BSE] 0296994252c25b48-applicability — BSE announces the applicability and revision of Long Term Additional</description>
       <category>trading</category>
       <pubDate>Thu, 27 Aug 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>Open offer by Mr. Karronn Naresh Bajaj to acquire up to 26% stake (22,88,000</title>
+      <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260901-36/20260901-36.pdf</link>
+      <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260901-36/20260901-36.pdf</guid>
+      <description>[BSE] 3e15fe242ce0d3c7-opening-of-of — Open offer by Mr. Karronn Naresh Bajaj to acquire up to 26% stake (22,88,000</description>
+      <category>trading</category>
+      <pubDate>Tue, 01 Sep 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
       <title>BSE notice regarding the listing and trading permission of 10,00,000</title>
@@ -3520,6 +3648,14 @@ Mitshi India Limited.</description>
       <description>[BSE] 7730584a49fddbc9-launch-of-new — Notice regarding the launch of ICICI Prudential Life Cycle Fund 2031</description>
       <category>trading</category>
       <pubDate>Tue, 25 Aug 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>Axis Nifty Energy Index Fund reopens for ongoing subscriptions, redemptions,</title>
+      <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260901-33/20260901-33.pdf</link>
+      <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260901-33/20260901-33.pdf</guid>
+      <description>[BSE] bfb2f4c236210ede-availability- — Axis Nifty Energy Index Fund reopens for ongoing subscriptions, redemptions,</description>
+      <category>trading</category>
+      <pubDate>Tue, 01 Sep 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
       <title>BSE has scheduled a mock trading session for the Electronic Gold Receipts</title>
@@ -3672,6 +3808,14 @@ Mitshi India Limited.</description>
       <description>[BSE] 3d6e786b04bbecbb-listing-of-pr — BSE notice regarding the listing and admission to trading of privately</description>
       <category>listing</category>
       <pubDate>Tue, 25 Aug 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>BSE notice regarding the listing and admission to dealings of equity</title>
+      <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260901-37/20260901-37.pdf</link>
+      <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260901-37/20260901-37.pdf</guid>
+      <description>[BSE] 6c5ae2aef45df0a9-listing-of-eq — BSE notice regarding the listing and admission to dealings of equity</description>
+      <category>listing</category>
+      <pubDate>Tue, 01 Sep 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
       <title>BSE announces the applicability of Short Term Additional Surveillance</title>
@@ -4114,6 +4258,14 @@ Mitshi India Limited.</description>
       <pubDate>Tue, 01 Sep 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
+      <title>BSE notice regarding the listing and trading of equity shares of Jiya</title>
+      <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260901-30/20260901-30.pdf</link>
+      <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260901-30/20260901-30.pdf</guid>
+      <description>[BSE] d319c1776a0cbdf6-listing-of-eq — BSE notice regarding the listing and trading of equity shares of Jiya</description>
+      <category>listing</category>
+      <pubDate>Tue, 01 Sep 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
       <title>SEBI issued an order for the cancellation of Recovery Certificate No.</title>
       <link>https://www.sebi.gov.in/enforcement/recovery-proceedings/aug-2026/cancellation-of-recovery-certificate-no-9258-of-2026-dated-july-27-2026-issued-to-neha-agarwal-pan-bljpa5504j-defaulter-in-the-matter-of-sadhna-broadcast-limited-_104059.html</link>
       <guid isPermaLink="false">https://www.sebi.gov.in/enforcement/recovery-proceedings/aug-2026/cancellation-of-recovery-certificate-no-9258-of-2026-dated-july-27-2026-issued-to-neha-agarwal-pan-bljpa5504j-defaulter-in-the-matter-of-sadhna-broadcast-limited-_104059.html</guid>
@@ -4168,6 +4320,14 @@ Mitshi India Limited.</description>
       <description>[SEBI] SEBI/104154 — SEBI issued an order regarding the completion of Recovery Certificate</description>
       <category>compliance</category>
       <pubDate>Mon, 31 Aug 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>SEBI issued a completion of recovery certificate and release order regarding</title>
+      <link>https://www.sebi.gov.in/enforcement/recovery-proceedings/sep-2026/completion-of-recovery-certificate-no-9253-of-2026-dated-july-27-2026-issued-to-paras-shah-defaulter-pan-dokps0203a-in-the-matter-of-trading-based-stock-recommendations-using-social-media-youtub-_104194.html</link>
+      <guid isPermaLink="false">https://www.sebi.gov.in/enforcement/recovery-proceedings/sep-2026/completion-of-recovery-certificate-no-9253-of-2026-dated-july-27-2026-issued-to-paras-shah-defaulter-pan-dokps0203a-in-the-matter-of-trading-based-stock-recommendations-using-social-media-youtub-_104194.html</guid>
+      <description>[SEBI] SEBI/104194 — SEBI issued a completion of recovery certificate and release order regarding</description>
+      <category>trading</category>
+      <pubDate>Tue, 01 Sep 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
       <title>SEBI issued a General Remittance Order dated August 28, 2026, under Recovery</title>
@@ -4450,6 +4610,14 @@ Mitshi India Limited.</description>
       <pubDate>Tue, 25 Aug 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
+      <title>SEBI issued a release order regarding Certificate No. 9253 of 2026 against</title>
+      <link>https://www.sebi.gov.in/enforcement/recovery-proceedings/sep-2026/release-order-paras-shah-defaulter-pan-dokps0203a-in-the-matter-of-trading-based-stock-recommendations-using-social-media-youtube-in-the-scrip-of-sadhna-broadcast-ltd-under-certificate-no-9253-_104196.html</link>
+      <guid isPermaLink="false">https://www.sebi.gov.in/enforcement/recovery-proceedings/sep-2026/release-order-paras-shah-defaulter-pan-dokps0203a-in-the-matter-of-trading-based-stock-recommendations-using-social-media-youtube-in-the-scrip-of-sadhna-broadcast-ltd-under-certificate-no-9253-_104196.html</guid>
+      <description>[SEBI] SEBI/104196 — SEBI issued a release order regarding Certificate No. 9253 of 2026 against</description>
+      <category>compliance</category>
+      <pubDate>Tue, 01 Sep 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
       <title>Sebi 2026 08 25 2B58Db3Be3C1560C Appeal No 7007 Of 2026 Filed By Raj Kumar Yadav</title>
       <link>https://www.sebi.gov.in/otherentry//_104005.html</link>
       <guid isPermaLink="false">https://www.sebi.gov.in/otherentry//_104005.html</guid>
@@ -4520,6 +4688,14 @@ Mitshi India Limited.</description>
       <description>[SEBI] SEBI/104098 — SEBI issues a release order for defaulter Archit Jindal under Certificate</description>
       <category>compliance</category>
       <pubDate>Fri, 28 Aug 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>SEBI records the completion of recovery proceedings and lifts attachments</title>
+      <link>https://www.sebi.gov.in/enforcement/recovery-proceedings/sep-2026/completion-of-recovery-certificate-no-9251-of-2026-dated-july-27-2026-issued-to-neha-aggarwal-defaulter-pan-aqdpa1749d-in-the-matter-of-trading-based-stock-recommendations-using-social-media-you-_104192.html</link>
+      <guid isPermaLink="false">https://www.sebi.gov.in/enforcement/recovery-proceedings/sep-2026/completion-of-recovery-certificate-no-9251-of-2026-dated-july-27-2026-issued-to-neha-aggarwal-defaulter-pan-aqdpa1749d-in-the-matter-of-trading-based-stock-recommendations-using-social-media-you-_104192.html</guid>
+      <description>[SEBI] SEBI/104192 — SEBI records the completion of recovery proceedings and lifts attachments</description>
+      <category>compliance</category>
+      <pubDate>Tue, 01 Sep 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
       <title>SEBI issued a remittance order under Recovery Certificate No. 9186 of</title>
@@ -4626,6 +4802,14 @@ Mitshi India Limited.</description>
       <pubDate>Fri, 28 Aug 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
+      <title>SEBI issued a release order under Certificate No. 9251 of 2026 regarding</title>
+      <link>https://www.sebi.gov.in/enforcement/recovery-proceedings/sep-2026/release-order-neha-aggarwal-defaulter-pan-aqdpa1749d-in-the-matter-of-trading-based-stock-recommendations-using-social-media-youtube-in-the-scrip-of-sadhna-broadcast-ltd-under-certificate-no-92-_104190.html</link>
+      <guid isPermaLink="false">https://www.sebi.gov.in/enforcement/recovery-proceedings/sep-2026/release-order-neha-aggarwal-defaulter-pan-aqdpa1749d-in-the-matter-of-trading-based-stock-recommendations-using-social-media-youtube-in-the-scrip-of-sadhna-broadcast-ltd-under-certificate-no-92-_104190.html</guid>
+      <description>[SEBI] SEBI/104190 — SEBI issued a release order under Certificate No. 9251 of 2026 regarding</description>
+      <category>compliance</category>
+      <pubDate>Tue, 01 Sep 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
       <title>SEBI adjudication order remanding the matter for fresh consideration</title>
       <link>https://www.sebi.gov.in/enforcement/orders/aug-2026/adjudication-order-in-the-matter-of-citrus-check-inns-ltd-_104143.html</link>
       <guid isPermaLink="false">https://www.sebi.gov.in/enforcement/orders/aug-2026/adjudication-order-in-the-matter-of-citrus-check-inns-ltd-_104143.html</guid>
@@ -4634,11 +4818,11 @@ Mitshi India Limited.</description>
       <pubDate>Mon, 31 Aug 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
-      <title>Sebi 2026 09 01 Ca6Df3C0Dadf3F8D Certificate Of Completion Dated September 01 2026 Issued Under Rc No 9262 Of 202</title>
+      <title>Certificate of Completion dated September 01, 2026 issued under RC No.</title>
       <link>https://www.sebi.gov.in/enforcement/recovery-proceedings/sep-2026/certificate-of-completion-dated-september-01-2026-issued-under-rc-no-9262-of-2026-drawn-against-aahuti-rasik-mistry-in-the-matter-of-dealing-in-sadhna-broadcast-limited_104172.html</link>
       <guid isPermaLink="false">https://www.sebi.gov.in/enforcement/recovery-proceedings/sep-2026/certificate-of-completion-dated-september-01-2026-issued-under-rc-no-9262-of-2026-drawn-against-aahuti-rasik-mistry-in-the-matter-of-dealing-in-sadhna-broadcast-limited_104172.html</guid>
-      <description>[SEBI] SEBI/104172 — Sebi 2026 09 01 Ca6Df3C0Dadf3F8D Certificate Of Completion Dated September 01 2026 Issued Under Rc No 9262 Of 202</description>
-      <category>Circular</category>
+      <description>[SEBI] SEBI/104172 — Certificate of Completion dated September 01, 2026 issued under RC No.</description>
+      <category>compliance</category>
       <pubDate>Tue, 01 Sep 2026 07:30:00 +0530</pubDate>
     </item>
   </channel>
