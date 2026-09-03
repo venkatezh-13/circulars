@@ -5,7 +5,7 @@
     <link>https://venkatezh-13.github.io/circulars</link>
     <description>NSE, BSE and MCX circulars — last 7 days</description>
     <language>en-in</language>
-    <lastBuildDate>Thu, 03 Sep 2026 16:57:50 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 19:42:29 +0000</lastBuildDate>
     <atom:link href="https://venkatezh-13.github.io/circulars/rss/all.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Trading of Rights Entitlements pursuant to Rights Issue of Jaykay Enterprises Limited</title>
@@ -292,6 +292,14 @@
       <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260903-6/20260903-6.pdf</link>
       <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260903-6/20260903-6.pdf</guid>
       <description>[BSE] 20260903-6 — New ISIN Number on Stock Split of TCC CONCEPT LTD (Scrip Code: 512038)</description>
+      <category>General / Circular</category>
+      <pubDate>Thu, 03 Sep 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>Daily Bulletin</title>
+      <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260903-59/20260903-59.pdf</link>
+      <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260903-59/20260903-59.pdf</guid>
+      <description>[BSE] 20260903-59 — Daily Bulletin</description>
       <category>General / Circular</category>
       <pubDate>Thu, 03 Sep 2026 07:30:00 +0530</pubDate>
     </item>
@@ -729,6 +737,14 @@
       <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260903-1/20260903-1.pdf</guid>
       <description>[BSE] 20260903-1 — SME IPO- Draft Offer Document</description>
       <category>General / Circular</category>
+      <pubDate>Thu, 03 Sep 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>Mock Trading from Disaster Recovery Site (DRS)</title>
+      <link>https://www.mcxindia.com/docs/default-source/circulars/english/2026/september/circulars-502-2026.pdf?sfvrsn=cf811225_1</link>
+      <guid isPermaLink="false">https://www.mcxindia.com/docs/default-source/circulars/english/2026/september/circulars-502-2026.pdf?sfvrsn=cf811225_1</guid>
+      <description>[MCX] 502 — Mock Trading from Disaster Recovery Site (DRS)</description>
+      <category>TECH</category>
       <pubDate>Thu, 03 Sep 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
