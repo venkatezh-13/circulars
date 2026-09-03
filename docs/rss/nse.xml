@@ -5,8 +5,32 @@
     <link>https://venkatezh-13.github.io/circulars</link>
     <description>NSE circulars — last 7 days</description>
     <language>en-in</language>
-    <lastBuildDate>Thu, 03 Sep 2026 03:27:55 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 08:15:37 +0000</lastBuildDate>
     <atom:link href="https://venkatezh-13.github.io/circulars/rss/nse.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>COMMODITY DERIVATIVES - SETTLEMENT SCHEDULE FOR OCTOBER 2026</title>
+      <link>https://nsearchives.nseindia.com/content/circulars/COM76151.pdf</link>
+      <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/COM76151.pdf</guid>
+      <description>[NSE] NCL/COM/76151 — COMMODITY DERIVATIVES - SETTLEMENT SCHEDULE FOR OCTOBER 2026</description>
+      <category>Commodity Derivatives</category>
+      <pubDate>Thu, 03 Sep 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>CDS - MONTHLY SETTLEMENT SCHEDULE FOR OCTOBER 2026</title>
+      <link>https://nsearchives.nseindia.com/content/circulars/CD76150.pdf</link>
+      <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/CD76150.pdf</guid>
+      <description>[NSE] NCL/CD/76150 — CDS - MONTHLY SETTLEMENT SCHEDULE FOR OCTOBER 2026</description>
+      <category>Currency Derivatives</category>
+      <pubDate>Thu, 03 Sep 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>F&amp;O MONTHLY SETTLEMENT SCHEDULE FOR OCTOBER 2026</title>
+      <link>https://nsearchives.nseindia.com/content/circulars/CMPT76148.pdf</link>
+      <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/CMPT76148.pdf</guid>
+      <description>[NSE] NCL/CMPT/76148 — F&amp;O MONTHLY SETTLEMENT SCHEDULE FOR OCTOBER 2026</description>
+      <category>Futures &amp; Options</category>
+      <pubDate>Thu, 03 Sep 2026 07:30:00 +0530</pubDate>
+    </item>
     <item>
       <title>Connect2NSE (C2N) connectivity from Disaster Recovery Site</title>
       <link>https://nsearchives.nseindia.com/content/circulars/CD76147.pdf</link>
@@ -68,7 +92,7 @@
       <link>https://nsearchives.nseindia.com/content/circulars/MSD76140.pdf</link>
       <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/MSD76140.pdf</guid>
       <description>[NSE] NSE/MSD/76140 — Live trading session from Disaster Recovery (DR) site</description>
-      <category>Futures &amp; Options</category>
+      <category>Securities Lending &amp; Borrowing Scheme</category>
       <pubDate>Thu, 03 Sep 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
