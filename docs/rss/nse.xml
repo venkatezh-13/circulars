@@ -5,7 +5,7 @@
     <link>https://venkatezh-13.github.io/circulars</link>
     <description>NSE circulars — last 7 days</description>
     <language>en-in</language>
-    <lastBuildDate>Fri, 04 Sep 2026 16:38:17 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 19:09:36 +0000</lastBuildDate>
     <atom:link href="https://venkatezh-13.github.io/circulars/rss/nse.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Directions under Section 11(4)(b) and 11b of the Sceurities and Exchange Board of India Act, 1992 against Akar Laminators Limited and its Directors</title>
@@ -36,7 +36,7 @@
       <link>https://nsearchives.nseindia.com/content/circulars/CML76205.zip</link>
       <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/CML76205.zip</guid>
       <description>[NSE] NSE/CML/76205 — Listing of Equity Shares of Ashutosh Fibre Limited (SME IPO)</description>
-      <category>Emerge</category>
+      <category>Listing</category>
       <pubDate>Fri, 04 Sep 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
@@ -52,7 +52,7 @@
       <link>https://nsearchives.nseindia.com/content/circulars/CML76203.zip</link>
       <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/CML76203.zip</guid>
       <description>[NSE] NSE/CML/76203 — Listing of Equity Shares of Shanti Inorganics Limited (SME IPO)</description>
-      <category>Emerge</category>
+      <category>Listing</category>
       <pubDate>Fri, 04 Sep 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
@@ -100,7 +100,15 @@
       <link>https://nsearchives.nseindia.com/content/circulars/CML76197.zip</link>
       <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/CML76197.zip</guid>
       <description>[NSE] NSE/CML/76197 — Extension of trading of Rights Entitlement pursuant to Rights Issue - Rajgor Castor Derivatives Limited</description>
-      <category>Listing</category>
+      <category>Emerge</category>
+      <pubDate>Fri, 04 Sep 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>Availability of UTI Annual Interval Fund- I on NSE MF Invest Platform</title>
+      <link>https://nsearchives.nseindia.com/content/circulars/NMF76196.pdf</link>
+      <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/NMF76196.pdf</guid>
+      <description>[NSE] NSE/NMF/76196 — Availability of UTI Annual Interval Fund- I on NSE MF Invest Platform</description>
+      <category>Mutual Fund</category>
       <pubDate>Fri, 04 Sep 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
@@ -172,7 +180,7 @@
       <link>https://nsearchives.nseindia.com/content/circulars/CMTR76187.pdf</link>
       <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/CMTR76187.pdf</guid>
       <description>[NSE] NSE/CMTR/76187 — Mock trading on Saturday, September 05, 2026 - Go Live of modification in the pre-open call auction framework and changes in the norms for Base Price, Price Bands, Call Auction in pre-open session for Exchange Traded Fund (ETF's) - New version of NEAT+ 7.9.0</description>
-      <category>Emerge</category>
+      <category>Capital Market (Equities) Trade</category>
       <pubDate>Fri, 04 Sep 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
@@ -284,7 +292,7 @@
       <link>https://nsearchives.nseindia.com/content/circulars/CML76155.pdf</link>
       <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/CML76155.pdf</guid>
       <description>[NSE] NSE/CML/76155 — Suspension of trading in Non-Convertible Securities (Privately Placed)</description>
-      <category>Listing</category>
+      <category>Debt Segment</category>
       <pubDate>Fri, 04 Sep 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
