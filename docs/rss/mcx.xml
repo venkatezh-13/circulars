@@ -5,23 +5,15 @@
     <link>https://venkatezh-13.github.io/circulars</link>
     <description>MCX circulars — last 7 days</description>
     <language>en-in</language>
-    <lastBuildDate>Mon, 07 Sep 2026 21:55:54 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 13:00:38 +0000</lastBuildDate>
     <atom:link href="https://venkatezh-13.github.io/circulars/rss/mcx.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Review of Margin Framework for Commodity Derivatives Segment</title>
-      <link>https://www.mcxindia.com/docs/default-source/circulars/english/2026/september/circular-506-2026.pdf?sfvrsn=44e287d0_1</link>
-      <guid isPermaLink="false">https://www.mcxindia.com/docs/default-source/circulars/english/2026/september/circular-506-2026.pdf?sfvrsn=44e287d0_1</guid>
-      <description>[MCX] 506 — Review of Margin Framework for Commodity Derivatives Segment</description>
+      <title>Revision in Threshold Limits for Concentration Margin</title>
+      <link>https://www.mcxindia.com/docs/default-source/circulars/english/2026/september/circular-507-2026.pdf?sfvrsn=c4d584c0_1</link>
+      <guid isPermaLink="false">https://www.mcxindia.com/docs/default-source/circulars/english/2026/september/circular-507-2026.pdf?sfvrsn=c4d584c0_1</guid>
+      <description>[MCX] 507 — Revision in Threshold Limits for Concentration Margin</description>
       <category>MCXCCL</category>
-      <pubDate>Mon, 07 Sep 2026 07:30:00 +0530</pubDate>
-    </item>
-    <item>
-      <title>Due Date Rates</title>
-      <link>https://www.mcxindia.com/docs/default-source/circulars/english/2026/september/circular---505---2026.pdf?sfvrsn=f196d8b_1</link>
-      <guid isPermaLink="false">https://www.mcxindia.com/docs/default-source/circulars/english/2026/september/circular---505---2026.pdf?sfvrsn=f196d8b_1</guid>
-      <description>[MCX] 505 — Due Date Rates</description>
-      <category>MCXCCL</category>
-      <pubDate>Mon, 07 Sep 2026 07:30:00 +0530</pubDate>
+      <pubDate>Tue, 08 Sep 2026 07:30:00 +0530</pubDate>
     </item>
   </channel>
 </rss>
