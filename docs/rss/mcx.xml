@@ -5,23 +5,31 @@
     <link>https://venkatezh-13.github.io/circulars</link>
     <description>MCX circulars — last 7 days</description>
     <language>en-in</language>
-    <lastBuildDate>Tue, 08 Sep 2026 19:56:06 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 13:05:43 +0000</lastBuildDate>
     <atom:link href="https://venkatezh-13.github.io/circulars/rss/mcx.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Revised List of Approved Banks</title>
-      <link>https://www.mcxindia.com/docs/default-source/circulars/english/2026/september/circular-508--2026.pdf?sfvrsn=28bd60ac_1</link>
-      <guid isPermaLink="false">https://www.mcxindia.com/docs/default-source/circulars/english/2026/september/circular-508--2026.pdf?sfvrsn=28bd60ac_1</guid>
-      <description>[MCX] 508 — Revised List of Approved Banks</description>
+      <title>Review of Margin Period of Risk (MPOR).doc</title>
+      <link>https://www.mcxindia.com/docs/default-source/circulars/english/2026/september/circular-511-2026.pdf?sfvrsn=c1dc2b01_1</link>
+      <guid isPermaLink="false">https://www.mcxindia.com/docs/default-source/circulars/english/2026/september/circular-511-2026.pdf?sfvrsn=c1dc2b01_1</guid>
+      <description>[MCX] 511 — Review of Margin Period of Risk (MPOR).doc</description>
       <category>MCXCCL</category>
-      <pubDate>Tue, 08 Sep 2026 07:30:00 +0530</pubDate>
+      <pubDate>Wed, 09 Sep 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
-      <title>Revision in Threshold Limits for Concentration Margin</title>
-      <link>https://www.mcxindia.com/docs/default-source/circulars/english/2026/september/circular-507-2026.pdf?sfvrsn=c4d584c0_1</link>
-      <guid isPermaLink="false">https://www.mcxindia.com/docs/default-source/circulars/english/2026/september/circular-507-2026.pdf?sfvrsn=c4d584c0_1</guid>
-      <description>[MCX] 507 — Revision in Threshold Limits for Concentration Margin</description>
-      <category>MCXCCL</category>
-      <pubDate>Tue, 08 Sep 2026 07:30:00 +0530</pubDate>
+      <title>Mock Trading</title>
+      <link>https://www.mcxindia.com/docs/default-source/circulars/english/2026/september/circular-510-2026.pdf?sfvrsn=92b781c3_1</link>
+      <guid isPermaLink="false">https://www.mcxindia.com/docs/default-source/circulars/english/2026/september/circular-510-2026.pdf?sfvrsn=92b781c3_1</guid>
+      <description>[MCX] 510 — Mock Trading</description>
+      <category>TECH</category>
+      <pubDate>Wed, 09 Sep 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>IP Address details of Live Environment</title>
+      <link>https://www.mcxindia.com/docs/default-source/circulars/english/2026/september/circular-509---2026.pdf?sfvrsn=b41d2c18_1</link>
+      <guid isPermaLink="false">https://www.mcxindia.com/docs/default-source/circulars/english/2026/september/circular-509---2026.pdf?sfvrsn=b41d2c18_1</guid>
+      <description>[MCX] 509 — IP Address details of Live Environment</description>
+      <category>TECH</category>
+      <pubDate>Wed, 09 Sep 2026 07:30:00 +0530</pubDate>
     </item>
   </channel>
 </rss>
