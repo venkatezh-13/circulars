@@ -5,7 +5,7 @@
     <link>https://venkatezh-13.github.io/circulars</link>
     <description>NSE, BSE and MCX circulars — last 7 days</description>
     <language>en-in</language>
-    <lastBuildDate>Fri, 11 Sep 2026 19:33:43 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 21:58:08 +0000</lastBuildDate>
     <atom:link href="https://venkatezh-13.github.io/circulars/rss/all.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Revision in frequency of real time Index dissemination</title>
@@ -858,6 +858,14 @@ certain Regulation of SEBI (Listing Obligations and Disclosure Requirements) Reg
       <pubDate>Wed, 09 Sep 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
+      <title>National Stock Exchange announces the listing of further equity shares</title>
+      <link>https://nsearchives.nseindia.com/content/circulars/CML76330.pdf</link>
+      <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/CML76330.pdf</guid>
+      <description>[NSE] NSE/CML76330 — National Stock Exchange announces the listing of further equity shares</description>
+      <category>listing</category>
+      <pubDate>Fri, 11 Sep 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
       <title>NSE circular regarding the applicability of Enhanced Surveillance Measure</title>
       <link>https://nsearchives.nseindia.com/content/circulars/SURV76256.zip</link>
       <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/SURV76256.zip</guid>
@@ -872,6 +880,14 @@ certain Regulation of SEBI (Listing Obligations and Disclosure Requirements) Reg
       <description>[NSE] NSE/NMF76268 — NSE circular announcing the reopening of Quantum Flexi cap Fund for ongoing</description>
       <category>market-operations</category>
       <pubDate>Thu, 10 Sep 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>NSE revises the frequency of real-time Nifty 50 index dissemination from</title>
+      <link>https://nsearchives.nseindia.com/content/circulars/MSD76333.zip</link>
+      <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/MSD76333.zip</guid>
+      <description>[NSE] NSE/MSD76333 — NSE revises the frequency of real-time Nifty 50 index dissemination from</description>
+      <category>market-operations</category>
+      <pubDate>Fri, 11 Sep 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
       <title>NSE circular detailing the transfer of securities of Rays of Belief</title>
@@ -1498,6 +1514,14 @@ certain Regulation of SEBI (Listing Obligations and Disclosure Requirements) Reg
       <pubDate>Tue, 08 Sep 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
+      <title>NSE Clearing Limited has revised the Market Wide Position Limit (MWPL)</title>
+      <link>https://nsearchives.nseindia.com/content/circulars/CMPT76332.pdf</link>
+      <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/CMPT76332.pdf</guid>
+      <description>[NSE] NSE/CMPT76332 — NSE Clearing Limited has revised the Market Wide Position Limit (MWPL)</description>
+      <category>trading</category>
+      <pubDate>Fri, 11 Sep 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
       <title>Quant Income Plus Arbitrage Active FOF schemes of Quant Mutual Fund will</title>
       <link>https://nsearchives.nseindia.com/content/circulars/NMF76175.pdf</link>
       <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/NMF76175.pdf</guid>
@@ -1842,11 +1866,11 @@ certain Regulation of SEBI (Listing Obligations and Disclosure Requirements) Reg
       <pubDate>Thu, 10 Sep 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
-      <title>Nse 2026 09 11 Cfcf636Ccf950F24 Applicability Of Short Term Additional Surveillance Measure St Asm</title>
+      <title>NSE applies Short-Term Additional Surveillance Measure (ST-ASM) Stage</title>
       <link>https://nsearchives.nseindia.com/content/circulars/SURV76323.zip</link>
       <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/SURV76323.zip</guid>
-      <description>[NSE] NSE/SURV76323 — Nse 2026 09 11 Cfcf636Ccf950F24 Applicability Of Short Term Additional Surveillance Measure St Asm</description>
-      <category>Circular</category>
+      <description>[NSE] NSE/SURV76323 — NSE applies Short-Term Additional Surveillance Measure (ST-ASM) Stage</description>
+      <category>trading</category>
       <pubDate>Fri, 11 Sep 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
@@ -3354,6 +3378,14 @@ certain Regulation of SEBI (Listing Obligations and Disclosure Requirements) Reg
       <pubDate>Wed, 09 Sep 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
+      <title>BSE Index Services announces the periodic reconstitution results for</title>
+      <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260911-48/20260911-48.pdf</link>
+      <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260911-48/20260911-48.pdf</guid>
+      <description>[BSE] e24b0e754379a248-reconstitutio — BSE Index Services announces the periodic reconstitution results for</description>
+      <category>trading</category>
+      <pubDate>Fri, 11 Sep 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
       <title>BSE announces non-competitive bidding for the auction of Government of</title>
       <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260908-3/20260908-3.pdf</link>
       <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260908-3/20260908-3.pdf</guid>
@@ -3674,6 +3706,14 @@ certain Regulation of SEBI (Listing Obligations and Disclosure Requirements) Reg
       <pubDate>Tue, 08 Sep 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
+      <title>BSE notice regarding part redemption of non-convertible debentures and</title>
+      <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260911-49/20260911-49.pdf</link>
+      <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260911-49/20260911-49.pdf</guid>
+      <description>[BSE] ce36b937881cf681-part-redempti — BSE notice regarding part redemption of non-convertible debentures and</description>
+      <category>market-operations</category>
+      <pubDate>Fri, 11 Sep 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
       <title>BSE announces the updated list of companies under the Graded Surveillance</title>
       <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260904-35/20260904-35.pdf</link>
       <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260904-35/20260904-35.pdf</guid>
@@ -3720,6 +3760,14 @@ certain Regulation of SEBI (Listing Obligations and Disclosure Requirements) Reg
       <description>[BSE] 86cd637787bb0845-suspension-of — BSE announces suspension of trading in debt securities of Navi Finserv</description>
       <category>trading</category>
       <pubDate>Tue, 08 Sep 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>Daily bulletin issued by BSE containing general notices and operational</title>
+      <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260911-50/20260911-50.pdf</link>
+      <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260911-50/20260911-50.pdf</guid>
+      <description>[BSE] e337ea1406ae4d9a-daily-bulleti — Daily bulletin issued by BSE containing general notices and operational</description>
+      <category>market-operations</category>
+      <pubDate>Fri, 11 Sep 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
       <title>Kotak Mahindra Mutual Fund is launching the Kotak Nifty Capital Markets</title>
@@ -4418,11 +4466,11 @@ certain Regulation of SEBI (Listing Obligations and Disclosure Requirements) Reg
       <pubDate>Tue, 08 Sep 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
-      <title>Sebi 2026 09 11 966E18E65Df60B5F Appeal No 7049 Of 2026 Filed By Jeba Mathew J</title>
+      <title>Appellate Authority order under the RTI Act, 2005 regarding information</title>
       <link>https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7049-of-2026-filed-by-jeba-mathew-j_104454.html</link>
       <guid isPermaLink="false">https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7049-of-2026-filed-by-jeba-mathew-j_104454.html</guid>
-      <description>[SEBI] SEBI/104454 — Sebi 2026 09 11 966E18E65Df60B5F Appeal No 7049 Of 2026 Filed By Jeba Mathew J</description>
-      <category>Circular</category>
+      <description>[SEBI] SEBI/104454 — Appellate Authority order under the RTI Act, 2005 regarding information</description>
+      <category>compliance</category>
       <pubDate>Fri, 11 Sep 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
