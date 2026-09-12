@@ -5,7 +5,7 @@
     <link>https://venkatezh-13.github.io/circulars</link>
     <description>NSE, BSE and MCX circulars — last 7 days</description>
     <language>en-in</language>
-    <lastBuildDate>Sat, 12 Sep 2026 08:09:46 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 12:12:07 +0000</lastBuildDate>
     <atom:link href="https://venkatezh-13.github.io/circulars/rss/all.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Markets schedule (Mock) after switchover from PR to DR on 12th September 2026. </title>
@@ -2302,6 +2302,14 @@
       <description>[BSE] 076b1b97382ad64d-update-regard — BSE announces suspension of trading in debt securities of Ananya Finance</description>
       <category>trading</category>
       <pubDate>Wed, 09 Sep 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>BSE notice detailing the mock trading schedule across various segments</title>
+      <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260912-1/20260912-1.pdf</link>
+      <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260912-1/20260912-1.pdf</guid>
+      <description>[BSE] d6e2188309df7515-markets-sched — BSE notice detailing the mock trading schedule across various segments</description>
+      <category>market-operations</category>
+      <pubDate>Sat, 12 Sep 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
       <title>BSE announces the listing and admission to dealings of new Treasury Bills</title>
