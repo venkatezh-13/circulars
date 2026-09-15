@@ -5,15 +5,23 @@
     <link>https://venkatezh-13.github.io/circulars</link>
     <description>NSE, BSE and MCX circulars — last 7 days</description>
     <language>en-in</language>
-    <lastBuildDate>Mon, 14 Sep 2026 20:16:58 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 03:53:25 +0000</lastBuildDate>
     <atom:link href="https://venkatezh-13.github.io/circulars/rss/all.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>EGR - Multiple Settlement scheduled on September 15, 2026</title>
+      <link>https://nsearchives.nseindia.com/content/circulars/EGR76315.pdf</link>
+      <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/EGR76315.pdf</guid>
+      <description>[NSE] NCL/EGR/76315 — EGR - Multiple Settlement scheduled on September 15, 2026</description>
+      <category>Electronic Gold Receipt</category>
+      <pubDate>Tue, 15 Sep 2026 07:30:00 +0530</pubDate>
+    </item>
     <item>
       <title>Markets schedule (Mock) after switchover from PR to DR on 12th September 2026. </title>
       <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260912-1/20260912-1.pdf</link>
       <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260912-1/20260912-1.pdf</guid>
       <description>[BSE] 20260912-1 — Markets schedule (Mock) after switchover from PR to DR on 12th September 2026. </description>
       <category>General / Circular</category>
-      <pubDate>Mon, 14 Sep 2026 07:30:00 +0530</pubDate>
+      <pubDate>Tue, 15 Sep 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
       <title>NSE circular regarding updates to UNSC's 1267/1989 ISIL &amp; Al-Qaida and</title>
@@ -48,14 +56,6 @@
       <pubDate>Wed, 09 Sep 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
-      <title>Mirae Asset Mutual Fund is launching the Mirae Asset BSE Information</title>
-      <link>https://nsearchives.nseindia.com/content/circulars/NMF76215.pdf</link>
-      <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/NMF76215.pdf</guid>
-      <description>[NSE] NSE/NMF76215 — Mirae Asset Mutual Fund is launching the Mirae Asset BSE Information</description>
-      <category>trading</category>
-      <pubDate>Mon, 07 Sep 2026 07:30:00 +0530</pubDate>
-    </item>
-    <item>
       <title>NSE Clearing has issued FAQs addressing common reporting queries and</title>
       <link>https://nsearchives.nseindia.com/content/circulars/CMPL76318.pdf</link>
       <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/CMPL76318.pdf</guid>
@@ -72,12 +72,12 @@
       <pubDate>Tue, 08 Sep 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
-      <title>National Stock Exchange announces the applicability of Enhanced Surveillance</title>
-      <link>https://nsearchives.nseindia.com/content/circulars/SURV76217.zip</link>
-      <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/SURV76217.zip</guid>
-      <description>[NSE] NSE/SURV76217 — National Stock Exchange announces the applicability of Enhanced Surveillance</description>
-      <category>trading</category>
-      <pubDate>Mon, 07 Sep 2026 07:30:00 +0530</pubDate>
+      <title>NSE Clearing Limited announced multiple settlements scheduled on September</title>
+      <link>https://nsearchives.nseindia.com/content/circulars/EGR76315.pdf</link>
+      <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/EGR76315.pdf</guid>
+      <description>[NSE] NSE/EGR76315 — NSE Clearing Limited announced multiple settlements scheduled on September</description>
+      <category>market-operations</category>
+      <pubDate>Tue, 15 Sep 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
       <title>NSE notice regarding the listing and admission to dealings of further</title>
@@ -88,28 +88,12 @@
       <pubDate>Fri, 11 Sep 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
-      <title>NSE Clearing Limited has introduced OTP-based Two Factor Authentication</title>
-      <link>https://nsearchives.nseindia.com/content/circulars/EGR76218.zip</link>
-      <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/EGR76218.zip</guid>
-      <description>[NSE] NSE/EGR76218 — NSE Clearing Limited has introduced OTP-based Two Factor Authentication</description>
-      <category>market-operations</category>
-      <pubDate>Mon, 07 Sep 2026 07:30:00 +0530</pubDate>
-    </item>
-    <item>
       <title>National Stock Exchange announces the New Fund Offer (NFO) of Axis Nifty500</title>
       <link>https://nsearchives.nseindia.com/content/circulars/NMF76232.pdf</link>
       <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/NMF76232.pdf</guid>
       <description>[NSE] NSE/NMF76232 — National Stock Exchange announces the New Fund Offer (NFO) of Axis Nifty500</description>
       <category>market-operations</category>
       <pubDate>Tue, 08 Sep 2026 07:30:00 +0530</pubDate>
-    </item>
-    <item>
-      <title>NSE circular regarding the applicability of Short-Term Additional Surveillance</title>
-      <link>https://nsearchives.nseindia.com/content/circulars/SURV76220.zip</link>
-      <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/SURV76220.zip</guid>
-      <description>[NSE] NSE/SURV76220 — NSE circular regarding the applicability of Short-Term Additional Surveillance</description>
-      <category>trading</category>
-      <pubDate>Mon, 07 Sep 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
       <title>National Stock Exchange announces the listing of further equity shares</title>
@@ -126,14 +110,6 @@
       <description>[NSE] NSE/CMTR76284 — National Stock Exchange announces market lot adjustment for IDEAL TECHNOPLAST</description>
       <category>trading</category>
       <pubDate>Thu, 10 Sep 2026 07:30:00 +0530</pubDate>
-    </item>
-    <item>
-      <title>National Stock Exchange announces the transfer of Shanti Inorganics Limited</title>
-      <link>https://nsearchives.nseindia.com/content/circulars/CML76225.pdf</link>
-      <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/CML76225.pdf</guid>
-      <description>[NSE] NSE/CML76225 — National Stock Exchange announces the transfer of Shanti Inorganics Limited</description>
-      <category>trading</category>
-      <pubDate>Mon, 07 Sep 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
       <title>NSE Clearing Limited introduces a new consolidated report providing valuation</title>
@@ -272,22 +248,6 @@
       <pubDate>Wed, 09 Sep 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
-      <title>National Stock Exchange announces the NFO availability and transaction</title>
-      <link>https://nsearchives.nseindia.com/content/circulars/NMF76216.pdf</link>
-      <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/NMF76216.pdf</guid>
-      <description>[NSE] NSE/NMF76216 — National Stock Exchange announces the NFO availability and transaction</description>
-      <category>trading</category>
-      <pubDate>Mon, 07 Sep 2026 07:30:00 +0530</pubDate>
-    </item>
-    <item>
-      <title>National Stock Exchange announces the listing of further equity shares</title>
-      <link>https://nsearchives.nseindia.com/content/circulars/CML76223.pdf</link>
-      <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/CML76223.pdf</guid>
-      <description>[NSE] NSE/CML76223 — National Stock Exchange announces the listing of further equity shares</description>
-      <category>listing</category>
-      <pubDate>Mon, 07 Sep 2026 07:30:00 +0530</pubDate>
-    </item>
-    <item>
       <title>NSE announces periodic relaxation of surveillance action under the Graded</title>
       <link>https://nsearchives.nseindia.com/content/circulars/SURV76324.zip</link>
       <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/SURV76324.zip</guid>
@@ -400,14 +360,6 @@
       <pubDate>Fri, 11 Sep 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
-      <title>National Stock Exchange announces the listing of equity shares of Deepa</title>
-      <link>https://nsearchives.nseindia.com/content/circulars/CML76228.zip</link>
-      <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/CML76228.zip</guid>
-      <description>[NSE] NSE/CML76228 — National Stock Exchange announces the listing of equity shares of Deepa</description>
-      <category>listing</category>
-      <pubDate>Mon, 07 Sep 2026 07:30:00 +0530</pubDate>
-    </item>
-    <item>
       <title>National Stock Exchange announces a change in settlement type and scheme</title>
       <link>https://nsearchives.nseindia.com/content/circulars/NMF76272.pdf</link>
       <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/NMF76272.pdf</guid>
@@ -454,14 +406,6 @@
       <description>[NSE] NSE/SURV76321 — NSE circular regarding the applicability, inclusion, and movement of</description>
       <category>trading</category>
       <pubDate>Fri, 11 Sep 2026 07:30:00 +0530</pubDate>
-    </item>
-    <item>
-      <title>NSE Clearing Limited announces the release of the new NCMS version 4.2.5</title>
-      <link>https://nsearchives.nseindia.com/content/circulars/CMPT76212.pdf</link>
-      <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/CMPT76212.pdf</guid>
-      <description>[NSE] NSE/CMPT76212 — NSE Clearing Limited announces the release of the new NCMS version 4.2.5</description>
-      <category>market-operations</category>
-      <pubDate>Mon, 07 Sep 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
       <title>NSE circular regarding the listing of equity shares of Qualiance International</title>
@@ -520,14 +464,6 @@
       <pubDate>Tue, 08 Sep 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
-      <title>NSE announces the listing and trading of Government Securities (6.53%</title>
-      <link>https://nsearchives.nseindia.com/content/circulars/CML76222.pdf</link>
-      <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/CML76222.pdf</guid>
-      <description>[NSE] NSE/CML76222 — NSE announces the listing and trading of Government Securities (6.53%</description>
-      <category>listing</category>
-      <pubDate>Mon, 07 Sep 2026 07:30:00 +0530</pubDate>
-    </item>
-    <item>
       <title>NSE Clearing Limited has revised the Market Wide Position Limit (MWPL)</title>
       <link>https://nsearchives.nseindia.com/content/circulars/CMPT76246.pdf</link>
       <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/CMPT76246.pdf</guid>
@@ -560,44 +496,12 @@
       <pubDate>Fri, 11 Sep 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
-      <title>National Stock Exchange announces the listing of privately placed commercial</title>
-      <link>https://nsearchives.nseindia.com/content/circulars/CML76224.pdf</link>
-      <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/CML76224.pdf</guid>
-      <description>[NSE] NSE/CML76224 — National Stock Exchange announces the listing of privately placed commercial</description>
-      <category>listing</category>
-      <pubDate>Mon, 07 Sep 2026 07:30:00 +0530</pubDate>
-    </item>
-    <item>
-      <title>NSE Clearing Limited has introduced OTP-based Two Factor Authentication</title>
-      <link>https://nsearchives.nseindia.com/content/circulars/CD76211.zip</link>
-      <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/CD76211.zip</guid>
-      <description>[NSE] NSE/CD76211 — NSE Clearing Limited has introduced OTP-based Two Factor Authentication</description>
-      <category>market-operations</category>
-      <pubDate>Mon, 07 Sep 2026 07:30:00 +0530</pubDate>
-    </item>
-    <item>
-      <title>NSE Clearing Ltd is implementing OTP-based Two Factor Authentication</title>
-      <link>https://nsearchives.nseindia.com/content/circulars/CMPT76210.zip</link>
-      <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/CMPT76210.zip</guid>
-      <description>[NSE] NSE/CMPT76210 — NSE Clearing Ltd is implementing OTP-based Two Factor Authentication</description>
-      <category>market-operations</category>
-      <pubDate>Mon, 07 Sep 2026 07:30:00 +0530</pubDate>
-    </item>
-    <item>
       <title>NSE is conducting a mock trading session in the Commodity Derivatives</title>
       <link>https://nsearchives.nseindia.com/content/circulars/COM76297.pdf</link>
       <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/COM76297.pdf</guid>
       <description>[NSE] NSE/COM76297 — NSE is conducting a mock trading session in the Commodity Derivatives</description>
       <category>market-operations</category>
       <pubDate>Fri, 11 Sep 2026 07:30:00 +0530</pubDate>
-    </item>
-    <item>
-      <title>NSE circular detailing securities moving out of the Graded Surveillance</title>
-      <link>https://nsearchives.nseindia.com/content/circulars/SURV76221.pdf</link>
-      <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/SURV76221.pdf</guid>
-      <description>[NSE] NSE/SURV76221 — NSE circular detailing securities moving out of the Graded Surveillance</description>
-      <category>trading</category>
-      <pubDate>Mon, 07 Sep 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
       <title>National Stock Exchange announces the listing and admission to dealings</title>
@@ -630,14 +534,6 @@
       <description>[NSE] NSE/CML76262 — National Stock Exchange announces the listing and trading of 50,00,000</description>
       <category>listing</category>
       <pubDate>Wed, 09 Sep 2026 07:30:00 +0530</pubDate>
-    </item>
-    <item>
-      <title>National Stock Exchange announces the listing and trading of further</title>
-      <link>https://nsearchives.nseindia.com/content/circulars/CML76227.pdf</link>
-      <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/CML76227.pdf</guid>
-      <description>[NSE] NSE/CML76227 — National Stock Exchange announces the listing and trading of further</description>
-      <category>listing</category>
-      <pubDate>Mon, 07 Sep 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
       <title>NSE Clearing Limited issued the settlement calendar for the Electronic</title>
@@ -720,14 +616,6 @@
       <pubDate>Fri, 11 Sep 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
-      <title>National Stock Exchange announces the forthcoming listing of equity shares</title>
-      <link>https://nsearchives.nseindia.com/content/circulars/CML76213.pdf</link>
-      <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/CML76213.pdf</guid>
-      <description>[NSE] NSE/CML76213 — National Stock Exchange announces the forthcoming listing of equity shares</description>
-      <category>listing</category>
-      <pubDate>Mon, 07 Sep 2026 07:30:00 +0530</pubDate>
-    </item>
-    <item>
       <title>National Stock Exchange announces the New Fund Offer (NFO) launch for</title>
       <link>https://nsearchives.nseindia.com/content/circulars/NMF76307.pdf</link>
       <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/NMF76307.pdf</guid>
@@ -750,14 +638,6 @@
       <description>[NSE] NSE/NMF76309 — National Stock Exchange announces the New Fund Offer (NFO) launch for</description>
       <category>market-operations</category>
       <pubDate>Fri, 11 Sep 2026 07:30:00 +0530</pubDate>
-    </item>
-    <item>
-      <title>NSE Clearing Limited introduces OTP-based Two Factor Authentication (2FA)</title>
-      <link>https://nsearchives.nseindia.com/content/circulars/COM76209.zip</link>
-      <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/COM76209.zip</guid>
-      <description>[NSE] NSE/COM76209 — NSE Clearing Limited introduces OTP-based Two Factor Authentication (2FA)</description>
-      <category>market-operations</category>
-      <pubDate>Mon, 07 Sep 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
       <title>National Stock Exchange announces the availability of Invesco India Pharma</title>
@@ -824,22 +704,6 @@
       <pubDate>Wed, 09 Sep 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
-      <title>National Stock Exchange announces the forthcoming listing of equity shares</title>
-      <link>https://nsearchives.nseindia.com/content/circulars/CML76214.pdf</link>
-      <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/CML76214.pdf</guid>
-      <description>[NSE] NSE/CML76214 — National Stock Exchange announces the forthcoming listing of equity shares</description>
-      <category>listing</category>
-      <pubDate>Mon, 07 Sep 2026 07:30:00 +0530</pubDate>
-    </item>
-    <item>
-      <title>National Stock Exchange announces the applicability of Long-Term Additional</title>
-      <link>https://nsearchives.nseindia.com/content/circulars/SURV76219.zip</link>
-      <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/SURV76219.zip</guid>
-      <description>[NSE] NSE/SURV76219 — National Stock Exchange announces the applicability of Long-Term Additional</description>
-      <category>trading</category>
-      <pubDate>Mon, 07 Sep 2026 07:30:00 +0530</pubDate>
-    </item>
-    <item>
       <title>NSE announces the applicability of Enhanced Surveillance Measure (ESM)</title>
       <link>https://nsearchives.nseindia.com/content/circulars/SURV76282.zip</link>
       <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/SURV76282.zip</guid>
@@ -854,14 +718,6 @@
       <description>[NSE] NSE/NMF76249 — National Stock Exchange announces the reopening of Monarch Overnight</description>
       <category>market-operations</category>
       <pubDate>Wed, 09 Sep 2026 07:30:00 +0530</pubDate>
-    </item>
-    <item>
-      <title>National Stock Exchange announces the listing of equity shares of Rays</title>
-      <link>https://nsearchives.nseindia.com/content/circulars/CML76229.zip</link>
-      <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/CML76229.zip</guid>
-      <description>[NSE] NSE/CML76229 — National Stock Exchange announces the listing of equity shares of Rays</description>
-      <category>listing</category>
-      <pubDate>Mon, 07 Sep 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
       <title>NSE circular detailing the applicability of Additional Surveillance Measure</title>
@@ -936,14 +792,6 @@
       <pubDate>Fri, 11 Sep 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
-      <title>National Stock Exchange announces the transfer of Ashutosh Fibre Limited</title>
-      <link>https://nsearchives.nseindia.com/content/circulars/CML76226.pdf</link>
-      <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/CML76226.pdf</guid>
-      <description>[NSE] NSE/CML76226 — National Stock Exchange announces the transfer of Ashutosh Fibre Limited</description>
-      <category>trading</category>
-      <pubDate>Mon, 07 Sep 2026 07:30:00 +0530</pubDate>
-    </item>
-    <item>
       <title>National Stock Exchange announces the movement of Digjam Limited to Stage</title>
       <link>https://nsearchives.nseindia.com/content/circulars/SURV76312.pdf</link>
       <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/SURV76312.pdf</guid>
@@ -998,14 +846,6 @@
       <description>[BSE] ce9d0d764801ec0e-trading-and-s — BSE issues trading and settlement schedule for the SLB (Securities Lending</description>
       <category>market-operations</category>
       <pubDate>Wed, 09 Sep 2026 07:30:00 +0530</pubDate>
-    </item>
-    <item>
-      <title>BSE announces the compulsory delisting of Niwas Spinning Mills Ltd and</title>
-      <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260907-29/20260907-29.pdf</link>
-      <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260907-29/20260907-29.pdf</guid>
-      <description>[BSE] aea0a27cec68570d-compulsory-de — BSE announces the compulsory delisting of Niwas Spinning Mills Ltd and</description>
-      <category>listing</category>
-      <pubDate>Mon, 07 Sep 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
       <title>BSE notice regarding record dates and reduced face values for part redemption</title>
@@ -1112,14 +952,6 @@
       <pubDate>Wed, 09 Sep 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
-      <title>BSE notice regarding the part redemption of debentures and reduced face</title>
-      <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260907-8/20260907-8.pdf</link>
-      <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260907-8/20260907-8.pdf</guid>
-      <description>[BSE] 791d1cfb996be12a-part-redempti — BSE notice regarding the part redemption of debentures and reduced face</description>
-      <category>listing</category>
-      <pubDate>Mon, 07 Sep 2026 07:30:00 +0530</pubDate>
-    </item>
-    <item>
       <title>BSE notice regarding the listing and admission to dealings of equity</title>
       <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260911-46/20260911-46.pdf</link>
       <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260911-46/20260911-46.pdf</guid>
@@ -1152,28 +984,12 @@
       <pubDate>Fri, 11 Sep 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
-      <title>BSE notice regarding the listing and admission to dealings of equity</title>
-      <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260907-26/20260907-26.pdf</link>
-      <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260907-26/20260907-26.pdf</guid>
-      <description>[BSE] f3a06992efa7b8cf-listing-of-eq — BSE notice regarding the listing and admission to dealings of equity</description>
-      <category>listing</category>
-      <pubDate>Mon, 07 Sep 2026 07:30:00 +0530</pubDate>
-    </item>
-    <item>
       <title>BSE has announced the listing and admission for trading of further securities</title>
       <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260910-19/20260910-19.pdf</link>
       <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260910-19/20260910-19.pdf</guid>
       <description>[BSE] d3d512b7ef0e1f8c-listing-of-fu — BSE has announced the listing and admission for trading of further securities</description>
       <category>listing</category>
       <pubDate>Thu, 10 Sep 2026 07:30:00 +0530</pubDate>
-    </item>
-    <item>
-      <title>BSE notice regarding the listing and admission for trading of further</title>
-      <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260907-10/20260907-10.pdf</link>
-      <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260907-10/20260907-10.pdf</guid>
-      <description>[BSE] f0c72bba751b02da-listing-of-fu — BSE notice regarding the listing and admission for trading of further</description>
-      <category>listing</category>
-      <pubDate>Mon, 07 Sep 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
       <title>BSE notice regarding the allocation of 1,03,34,644 equity shares to anchor</title>
@@ -1240,22 +1056,6 @@
       <pubDate>Thu, 10 Sep 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
-      <title>BSE announces a revised settlement schedule for the takeover offer to</title>
-      <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260907-9/20260907-9.pdf</link>
-      <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260907-9/20260907-9.pdf</guid>
-      <description>[BSE] af2c5193b61c5981-revised-settl — BSE announces a revised settlement schedule for the takeover offer to</description>
-      <category>trading</category>
-      <pubDate>Mon, 07 Sep 2026 07:30:00 +0530</pubDate>
-    </item>
-    <item>
-      <title>Draft Offer Document for SME IPO of MTE Structures Limited filed with</title>
-      <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260907-3/20260907-3.pdf</link>
-      <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260907-3/20260907-3.pdf</guid>
-      <description>[BSE] 6054989af310fe60-smeipo-draft- — Draft Offer Document for SME IPO of MTE Structures Limited filed with</description>
-      <category>listing</category>
-      <pubDate>Mon, 07 Sep 2026 07:30:00 +0530</pubDate>
-    </item>
-    <item>
       <title>BSE announces suspension of trading in specific T-bills and Government</title>
       <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260908-6/20260908-6.pdf</link>
       <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260908-6/20260908-6.pdf</guid>
@@ -1278,14 +1078,6 @@
       <description>[BSE] 08add2cec24c3d95-public-issue- — Raksan Transformers Limited has successfully allocated 15,70,000 equity</description>
       <category>listing</category>
       <pubDate>Wed, 09 Sep 2026 07:30:00 +0530</pubDate>
-    </item>
-    <item>
-      <title>Bse 2026 09 07 9Ab7298425B93Ea3 Sub Division Of The Equity Shares Of Kairosoft Ai Solutions Ltd Scrip Code 50612</title>
-      <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260907-39/20260907-39.pdf</link>
-      <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260907-39/20260907-39.pdf</guid>
-      <description>[BSE] 9ab7298425b93ea3-sub-division- — Bse 2026 09 07 9Ab7298425B93Ea3 Sub Division Of The Equity Shares Of Kairosoft Ai Solutions Ltd Scrip Code 50612</description>
-      <category>Circular</category>
-      <pubDate>Mon, 07 Sep 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
       <title>BSE sought clarification from companies regarding news articles, receiving</title>
@@ -1416,22 +1208,6 @@
       <pubDate>Thu, 10 Sep 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
-      <title>BSE seeks and publishes clarifications from Prestige Estates Projects</title>
-      <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260907-17/20260907-17.pdf</link>
-      <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260907-17/20260907-17.pdf</guid>
-      <description>[BSE] 275378f541af1bbf-clarification — BSE seeks and publishes clarifications from Prestige Estates Projects</description>
-      <category>disclosure</category>
-      <pubDate>Mon, 07 Sep 2026 07:30:00 +0530</pubDate>
-    </item>
-    <item>
-      <title>BSE notice regarding the launch of KOTAK MULTI SECTOR OMNI FOF NFO on</title>
-      <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260907-24/20260907-24.pdf</link>
-      <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260907-24/20260907-24.pdf</guid>
-      <description>[BSE] 4f995ccba69a0d48-launch-of-new — BSE notice regarding the launch of KOTAK MULTI SECTOR OMNI FOF NFO on</description>
-      <category>trading</category>
-      <pubDate>Mon, 07 Sep 2026 07:30:00 +0530</pubDate>
-    </item>
-    <item>
       <title>ITI Multi Asset Allocation Fund reopens for ongoing subscriptions, redemptions,</title>
       <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260910-30/20260910-30.pdf</link>
       <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260910-30/20260910-30.pdf</guid>
@@ -1446,14 +1222,6 @@
       <description>[BSE] d7c598587342cc22-early-redempt — BSE notice regarding the early redemption and record dates for non-convertible</description>
       <category>trading</category>
       <pubDate>Thu, 10 Sep 2026 07:30:00 +0530</pubDate>
-    </item>
-    <item>
-      <title>BSE announces the addition of Purple Style Labs Limited and Phychem Technologies</title>
-      <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260907-16/20260907-16.pdf</link>
-      <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260907-16/20260907-16.pdf</guid>
-      <description>[BSE] 7b1b063c46a9da54-additions-to- — BSE announces the addition of Purple Style Labs Limited and Phychem Technologies</description>
-      <category>listing</category>
-      <pubDate>Mon, 07 Sep 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
       <title>BSE announces the listing and admission for trading of further securities</title>
@@ -1478,14 +1246,6 @@
       <description>[BSE] c0ebbb658b2adfda-change-in-gro — BSE notice regarding the transfer of equity shares of Rays of Belief</description>
       <category>trading</category>
       <pubDate>Tue, 08 Sep 2026 07:30:00 +0530</pubDate>
-    </item>
-    <item>
-      <title>BSE notice regarding the transfer of equity shares of Phychem Technologies</title>
-      <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260907-1/20260907-1.pdf</link>
-      <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260907-1/20260907-1.pdf</guid>
-      <description>[BSE] 1163e28ece70b857-change-in-gro — BSE notice regarding the transfer of equity shares of Phychem Technologies</description>
-      <category>trading</category>
-      <pubDate>Mon, 07 Sep 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
       <title>BSE notice regarding the suspension of trading in non-convertible debentures</title>
@@ -1576,14 +1336,6 @@
       <pubDate>Wed, 09 Sep 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
-      <title>Allocation of 70,53,127 equity shares to anchor investors at Rs. 182/-</title>
-      <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260907-37/20260907-37.pdf</link>
-      <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260907-37/20260907-37.pdf</guid>
-      <description>[BSE] 0c385fbf777353e7-public-issue- — Allocation of 70,53,127 equity shares to anchor investors at Rs. 182/-</description>
-      <category>listing</category>
-      <pubDate>Mon, 07 Sep 2026 07:30:00 +0530</pubDate>
-    </item>
-    <item>
       <title>Notice regarding the launch of New Fund Offer (NFO) for Lakshya Overnight</title>
       <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260911-32/20260911-32.pdf</link>
       <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260911-32/20260911-32.pdf</guid>
@@ -1630,14 +1382,6 @@
       <description>[BSE] e62494d63489fb1f-part-redempti — BSE notice regarding part-redemption of debentures and the revised reduced</description>
       <category>listing</category>
       <pubDate>Wed, 09 Sep 2026 07:30:00 +0530</pubDate>
-    </item>
-    <item>
-      <title>BSE notice regarding debt restructuring and revised terms for debt securities</title>
-      <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260907-22/20260907-22.pdf</link>
-      <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260907-22/20260907-22.pdf</guid>
-      <description>[BSE] 2847b9f393c321d1-update-regard — BSE notice regarding debt restructuring and revised terms for debt securities</description>
-      <category>trading</category>
-      <pubDate>Mon, 07 Sep 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
       <title>BSE announces the applicability, stage revisions, and moving out of securities</title>
@@ -1720,14 +1464,6 @@
       <pubDate>Wed, 09 Sep 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
-      <title>BSE notice announcing the listing and trading of equity shares of Deepa</title>
-      <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260907-19/20260907-19.pdf</link>
-      <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260907-19/20260907-19.pdf</guid>
-      <description>[BSE] 468b5e6cce17dbe0-listing-of-eq — BSE notice announcing the listing and trading of equity shares of Deepa</description>
-      <category>listing</category>
-      <pubDate>Mon, 07 Sep 2026 07:30:00 +0530</pubDate>
-    </item>
-    <item>
       <title>BSE notice regarding the listing and permission to trade 12,62,131 equity</title>
       <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260911-20/20260911-20.pdf</link>
       <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260911-20/20260911-20.pdf</guid>
@@ -1744,28 +1480,12 @@
       <pubDate>Fri, 11 Sep 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
-      <title>BSE notice regarding the listing and admission to dealings of equity</title>
-      <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260907-27/20260907-27.pdf</link>
-      <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260907-27/20260907-27.pdf</guid>
-      <description>[BSE] 40dcea13e54f7567-listing-of-eq — BSE notice regarding the listing and admission to dealings of equity</description>
-      <category>listing</category>
-      <pubDate>Mon, 07 Sep 2026 07:30:00 +0530</pubDate>
-    </item>
-    <item>
       <title>BSE notice regarding the listing and trading permission of 95,13,903</title>
       <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260910-18/20260910-18.pdf</link>
       <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260910-18/20260910-18.pdf</guid>
       <description>[BSE] 608c3620b47261d6-listing-of-ne — BSE notice regarding the listing and trading permission of 95,13,903</description>
       <category>listing</category>
       <pubDate>Thu, 10 Sep 2026 07:30:00 +0530</pubDate>
-    </item>
-    <item>
-      <title>BSE notice detailing the application and revision of Enhanced Surveillance</title>
-      <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260907-35/20260907-35.pdf</link>
-      <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260907-35/20260907-35.pdf</guid>
-      <description>[BSE] 5084037557bbd7d4-enhanced-surv — BSE notice detailing the application and revision of Enhanced Surveillance</description>
-      <category>trading</category>
-      <pubDate>Mon, 07 Sep 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
       <title>Greaves Finance Limited has fixed a record date for the payment of interest</title>
@@ -1864,14 +1584,6 @@
       <pubDate>Tue, 08 Sep 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
-      <title>BSE announces the listing and admission to dealings of equity shares</title>
-      <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260907-4/20260907-4.pdf</link>
-      <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260907-4/20260907-4.pdf</guid>
-      <description>[BSE] 1f3896f07b7c3ae7-listing-of-eq — BSE announces the listing and admission to dealings of equity shares</description>
-      <category>listing</category>
-      <pubDate>Mon, 07 Sep 2026 07:30:00 +0530</pubDate>
-    </item>
-    <item>
       <title>BSE notice regarding the inclusion, movement to lower stages, and continuation</title>
       <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260909-37/20260909-37.pdf</link>
       <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260909-37/20260909-37.pdf</guid>
@@ -1928,14 +1640,6 @@
       <pubDate>Fri, 11 Sep 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
-      <title>BSE notice regarding the allocation of 22,18,930 Equity Shares to Anchor</title>
-      <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260907-30/20260907-30.pdf</link>
-      <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260907-30/20260907-30.pdf</guid>
-      <description>[BSE] e1b08052e7b5dc73-public-issue- — BSE notice regarding the allocation of 22,18,930 Equity Shares to Anchor</description>
-      <category>listing</category>
-      <pubDate>Mon, 07 Sep 2026 07:30:00 +0530</pubDate>
-    </item>
-    <item>
       <title>BSE announces the listing and admission to trading of privately placed</title>
       <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260909-22/20260909-22.pdf</link>
       <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260909-22/20260909-22.pdf</guid>
@@ -1976,14 +1680,6 @@
       <pubDate>Tue, 08 Sep 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
-      <title>BSE notice regarding the listing and trading admission of privately placed</title>
-      <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260907-28/20260907-28.pdf</link>
-      <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260907-28/20260907-28.pdf</guid>
-      <description>[BSE] 6833376f74fd716d-listing-of-pr — BSE notice regarding the listing and trading admission of privately placed</description>
-      <category>listing</category>
-      <pubDate>Mon, 07 Sep 2026 07:30:00 +0530</pubDate>
-    </item>
-    <item>
       <title>BSE notice announcing correction in ex-dates for suspension of trading</title>
       <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260910-1/20260910-1.pdf</link>
       <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260910-1/20260910-1.pdf</guid>
@@ -2014,14 +1710,6 @@
       <description>[BSE] a263ea58532e030a-listing-of-ne — BSE notice regarding the listing and trading permission of 6,30,50,770</description>
       <category>listing</category>
       <pubDate>Thu, 10 Sep 2026 07:30:00 +0530</pubDate>
-    </item>
-    <item>
-      <title>BSE notice regarding the listing and admission to dealings of equity</title>
-      <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260907-18/20260907-18.pdf</link>
-      <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260907-18/20260907-18.pdf</guid>
-      <description>[BSE] 70a51d08dadd5c7d-listing-of-eq — BSE notice regarding the listing and admission to dealings of equity</description>
-      <category>listing</category>
-      <pubDate>Mon, 07 Sep 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
       <title>BSE has scheduled a mock trading session for Electronic Gold Receipts</title>
@@ -2128,14 +1816,6 @@
       <pubDate>Fri, 11 Sep 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
-      <title>BSE notice regarding the record date for interest payment and part redemption</title>
-      <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260907-7/20260907-7.pdf</link>
-      <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260907-7/20260907-7.pdf</guid>
-      <description>[BSE] 2d8896f2dfe05ea4-part-redempti — BSE notice regarding the record date for interest payment and part redemption</description>
-      <category>trading</category>
-      <pubDate>Mon, 07 Sep 2026 07:30:00 +0530</pubDate>
-    </item>
-    <item>
       <title>Pritish Nandy Communications Ltd has changed its name to PNC Media and</title>
       <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260910-11/20260910-11.pdf</link>
       <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260910-11/20260910-11.pdf</guid>
@@ -2168,28 +1848,12 @@
       <pubDate>Tue, 08 Sep 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
-      <title>BSE notice regarding partial redemption and resumption of trading in</title>
-      <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260907-14/20260907-14.pdf</link>
-      <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260907-14/20260907-14.pdf</guid>
-      <description>[BSE] 39bfb0ef91226f46-part-redempti — BSE notice regarding partial redemption and resumption of trading in</description>
-      <category>trading</category>
-      <pubDate>Mon, 07 Sep 2026 07:30:00 +0530</pubDate>
-    </item>
-    <item>
       <title>BSE notice regarding the listing and trading admission of 18,18,79,020</title>
       <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260909-29/20260909-29.pdf</link>
       <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260909-29/20260909-29.pdf</guid>
       <description>[BSE] b8acef51984288bc-listing-of-ne — BSE notice regarding the listing and trading admission of 18,18,79,020</description>
       <category>listing</category>
       <pubDate>Wed, 09 Sep 2026 07:30:00 +0530</pubDate>
-    </item>
-    <item>
-      <title>BSE invites offers from trading members for purchase of securities in</title>
-      <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260907-5/20260907-5.pdf</link>
-      <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260907-5/20260907-5.pdf</guid>
-      <description>[BSE] d31ed15cceb173cc-demat-auction — BSE invites offers from trading members for purchase of securities in</description>
-      <category>market-operations</category>
-      <pubDate>Mon, 07 Sep 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
       <title>BSE sought clarification from IDBI Bank Ltd regarding recent news articles</title>
@@ -2230,14 +1894,6 @@
       <description>[BSE] 78085af25cb27bfa-download-of-p — BSE has downloaded the penalty report for client code modifications of</description>
       <category>compliance</category>
       <pubDate>Fri, 11 Sep 2026 07:30:00 +0530</pubDate>
-    </item>
-    <item>
-      <title>BSE announces the removal of specified securities from the Graded Surveillance</title>
-      <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260907-36/20260907-36.pdf</link>
-      <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260907-36/20260907-36.pdf</guid>
-      <description>[BSE] 45df57ccc110b274-update-gsm-fr — BSE announces the removal of specified securities from the Graded Surveillance</description>
-      <category>trading</category>
-      <pubDate>Mon, 07 Sep 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
       <title>Edelweiss Mutual Fund is launching the Altiva Equity Long-Short Fund</title>
@@ -2286,14 +1942,6 @@
       <description>[BSE] c0848a400d72cdd6-graded-survei — BSE notice regarding securities moving into higher stages of the Graded</description>
       <category>trading</category>
       <pubDate>Thu, 10 Sep 2026 07:30:00 +0530</pubDate>
-    </item>
-    <item>
-      <title>BSE circular announcing the extension of NAVI Nifty Reits &amp; Realty Index</title>
-      <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260907-25/20260907-25.pdf</link>
-      <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260907-25/20260907-25.pdf</guid>
-      <description>[BSE] 92cb40c411596acc-launch-of-new — BSE circular announcing the extension of NAVI Nifty Reits &amp; Realty Index</description>
-      <category>trading</category>
-      <pubDate>Mon, 07 Sep 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
       <title>BSE announces suspension of trading in debt securities of Ananya Finance</title>
@@ -2352,14 +2000,6 @@
       <pubDate>Wed, 09 Sep 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
-      <title>BSE announces the inclusion of securities under Short Term Additional</title>
-      <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260907-34/20260907-34.pdf</link>
-      <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260907-34/20260907-34.pdf</guid>
-      <description>[BSE] ceea4546d9b3d9af-applicability — BSE announces the inclusion of securities under Short Term Additional</description>
-      <category>trading</category>
-      <pubDate>Mon, 07 Sep 2026 07:30:00 +0530</pubDate>
-    </item>
-    <item>
       <title>BSE notice regarding the transfer of equity shares of Fly-Hi Maritime</title>
       <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260908-4/20260908-4.pdf</link>
       <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260908-4/20260908-4.pdf</guid>
@@ -2374,14 +2014,6 @@
       <description>[BSE] e6d76839a6fb25b6-listing-of-do — BSE notice regarding the listing and admission to dealings of equity</description>
       <category>listing</category>
       <pubDate>Thu, 10 Sep 2026 07:30:00 +0530</pubDate>
-    </item>
-    <item>
-      <title>BSE announces suspension of trading in specific T-bills and Government</title>
-      <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260907-2/20260907-2.pdf</link>
-      <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260907-2/20260907-2.pdf</guid>
-      <description>[BSE] 9cc8871423c089f6-suspension-of — BSE announces suspension of trading in specific T-bills and Government</description>
-      <category>trading</category>
-      <pubDate>Mon, 07 Sep 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
       <title>BSE notice regarding the allocation of 8,22,000 equity shares to anchor</title>
@@ -2406,14 +2038,6 @@
       <description>[BSE] 4c3eb6c8614842f8-suspension-of — BSE announces suspension of trading in securities of Polo Hotels Ltd</description>
       <category>trading</category>
       <pubDate>Fri, 11 Sep 2026 07:30:00 +0530</pubDate>
-    </item>
-    <item>
-      <title>BSE announces that equity shares of Farm Peace Limited will be listed</title>
-      <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260907-6/20260907-6.pdf</link>
-      <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260907-6/20260907-6.pdf</guid>
-      <description>[BSE] 2db08dec1561b35c-listing-of-eq — BSE announces that equity shares of Farm Peace Limited will be listed</description>
-      <category>listing</category>
-      <pubDate>Mon, 07 Sep 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
       <title>Monarch Overnight Fund reopens for ongoing subscriptions, redemptions,</title>
@@ -2478,22 +2102,6 @@
       <description>[BSE] 30be144aa0b46d49-listing-of-pr — BSE notice regarding the fresh listing and admission to trading of privately</description>
       <category>listing</category>
       <pubDate>Thu, 10 Sep 2026 07:30:00 +0530</pubDate>
-    </item>
-    <item>
-      <title>BSE notice regarding the listing and admission to dealings of equity</title>
-      <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260907-21/20260907-21.pdf</link>
-      <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260907-21/20260907-21.pdf</guid>
-      <description>[BSE] b87161d87a659f3b-listing-of-eq — BSE notice regarding the listing and admission to dealings of equity</description>
-      <category>listing</category>
-      <pubDate>Mon, 07 Sep 2026 07:30:00 +0530</pubDate>
-    </item>
-    <item>
-      <title>BSE issues a clarification notice regarding significant price and volume</title>
-      <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260907-20/20260907-20.pdf</link>
-      <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260907-20/20260907-20.pdf</guid>
-      <description>[BSE] a70d992781680d90-clarification — BSE issues a clarification notice regarding significant price and volume</description>
-      <category>disclosure</category>
-      <pubDate>Mon, 07 Sep 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
       <title>BSE notice regarding record dates and reduced face values for part redemption</title>
@@ -2576,14 +2184,6 @@
       <pubDate>Fri, 11 Sep 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
-      <title>BSE announces the movement of specified securities into higher Graded</title>
-      <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260907-32/20260907-32.pdf</link>
-      <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260907-32/20260907-32.pdf</guid>
-      <description>[BSE] c76d1cd72d5ec513-graded-survei — BSE announces the movement of specified securities into higher Graded</description>
-      <category>trading</category>
-      <pubDate>Mon, 07 Sep 2026 07:30:00 +0530</pubDate>
-    </item>
-    <item>
       <title>BSE notice regarding the listing and trading permission of 5,00,000 equity</title>
       <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260909-32/20260909-32.pdf</link>
       <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260909-32/20260909-32.pdf</guid>
@@ -2606,14 +2206,6 @@
       <description>[BSE] 52114774819bf869-sme-ipo-draft — BSE has released a notice regarding the filing of the draft offer document</description>
       <category>listing</category>
       <pubDate>Thu, 10 Sep 2026 07:30:00 +0530</pubDate>
-    </item>
-    <item>
-      <title>Daily Bulletin issued by BSE on September 7, 2026 regarding general company-related</title>
-      <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260907-40/20260907-40.pdf</link>
-      <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260907-40/20260907-40.pdf</guid>
-      <description>[BSE] 71ecbb3d95d34cbf-daily-bulleti — Daily Bulletin issued by BSE on September 7, 2026 regarding general company-related</description>
-      <category>listing</category>
-      <pubDate>Mon, 07 Sep 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
       <title>BSE notice regarding the allocation of 6,76,800 equity shares to anchor</title>
@@ -2664,14 +2256,6 @@
       <pubDate>Fri, 11 Sep 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
-      <title>BSE announces the upcoming listing and admission to dealings of equity</title>
-      <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260907-12/20260907-12.pdf</link>
-      <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260907-12/20260907-12.pdf</guid>
-      <description>[BSE] 7945a13ba52f0a57-listing-of-eq — BSE announces the upcoming listing and admission to dealings of equity</description>
-      <category>listing</category>
-      <pubDate>Mon, 07 Sep 2026 07:30:00 +0530</pubDate>
-    </item>
-    <item>
       <title>TRUST Mutual Fund has announced a change in the scheme name of TRUSTMF</title>
       <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260910-33/20260910-33.pdf</link>
       <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260910-33/20260910-33.pdf</guid>
@@ -2712,22 +2296,6 @@
       <pubDate>Tue, 08 Sep 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
-      <title>BSE notice regarding the allocation of 50,11,424 equity shares to anchor</title>
-      <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260907-38/20260907-38.pdf</link>
-      <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260907-38/20260907-38.pdf</guid>
-      <description>[BSE] 7013bb8b2eb16b00-public-issue- — BSE notice regarding the allocation of 50,11,424 equity shares to anchor</description>
-      <category>listing</category>
-      <pubDate>Mon, 07 Sep 2026 07:30:00 +0530</pubDate>
-    </item>
-    <item>
-      <title>BSE notice regarding the upcoming listing and admission to dealings of</title>
-      <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260907-11/20260907-11.pdf</link>
-      <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260907-11/20260907-11.pdf</guid>
-      <description>[BSE] f06c208a8d8a72f9-listing-of-eq — BSE notice regarding the upcoming listing and admission to dealings of</description>
-      <category>listing</category>
-      <pubDate>Mon, 07 Sep 2026 07:30:00 +0530</pubDate>
-    </item>
-    <item>
       <title>Tips Music Limited has announced a share buyback from the open market</title>
       <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260908-27/20260908-27.pdf</link>
       <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260908-27/20260908-27.pdf</guid>
@@ -2752,36 +2320,12 @@
       <pubDate>Fri, 11 Sep 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
-      <title>BSE issues notice regarding the submission deadline and process for the</title>
-      <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260907-15/20260907-15.pdf</link>
-      <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260907-15/20260907-15.pdf</guid>
-      <description>[BSE] a965f2a16e1b9cb5-submission-of — BSE issues notice regarding the submission deadline and process for the</description>
-      <category>compliance</category>
-      <pubDate>Mon, 07 Sep 2026 07:30:00 +0530</pubDate>
-    </item>
-    <item>
-      <title>BSE announces the imposition of Long Term Additional Surveillance Measures</title>
-      <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260907-31/20260907-31.pdf</link>
-      <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260907-31/20260907-31.pdf</guid>
-      <description>[BSE] e45c70a3a39656b2-applicability — BSE announces the imposition of Long Term Additional Surveillance Measures</description>
-      <category>trading</category>
-      <pubDate>Mon, 07 Sep 2026 07:30:00 +0530</pubDate>
-    </item>
-    <item>
       <title>BSE notice detailing the trading and settlement schedules, including</title>
       <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260909-42/20260909-42.pdf</link>
       <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260909-42/20260909-42.pdf</guid>
       <description>[BSE] badda02ca0b053dc-trading-and-s — BSE notice detailing the trading and settlement schedules, including</description>
       <category>market-operations</category>
       <pubDate>Wed, 09 Sep 2026 07:30:00 +0530</pubDate>
-    </item>
-    <item>
-      <title>BSE has announced the revision of price bands for 26 scrips, including</title>
-      <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260907-33/20260907-33.pdf</link>
-      <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260907-33/20260907-33.pdf</guid>
-      <description>[BSE] d8f8721f74cd7305-changes-in-pr — BSE has announced the revision of price bands for 26 scrips, including</description>
-      <category>trading</category>
-      <pubDate>Mon, 07 Sep 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
       <title>BSE notice regarding the allocation of 93,08,667 equity shares to anchor</title>
@@ -2806,14 +2350,6 @@
       <description>[BSE] 8ba115bfc3574fcb-graded-survei — BSE notice regarding the movement of securities into higher stages of</description>
       <category>trading</category>
       <pubDate>Tue, 08 Sep 2026 07:30:00 +0530</pubDate>
-    </item>
-    <item>
-      <title>Mirae Asset Mutual Fund announces the NFO for Mirae Asset BSE Information</title>
-      <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260907-23/20260907-23.pdf</link>
-      <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260907-23/20260907-23.pdf</guid>
-      <description>[BSE] ea5082e501471f1e-launch-new-fu — Mirae Asset Mutual Fund announces the NFO for Mirae Asset BSE Information</description>
-      <category>trading</category>
-      <pubDate>Mon, 07 Sep 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
       <title>BSE notice regarding the allocation of 87,55,813 equity shares at Rs.</title>
@@ -2846,14 +2382,6 @@
       <description>[BSE] f28efab6a1b3fd6a-suspension-of — BSE notice regarding the suspension of trading in non-convertible debentures</description>
       <category>trading</category>
       <pubDate>Wed, 09 Sep 2026 07:30:00 +0530</pubDate>
-    </item>
-    <item>
-      <title>BSE notice regarding the listing and trading permission of 575 new equity</title>
-      <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260907-13/20260907-13.pdf</link>
-      <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260907-13/20260907-13.pdf</guid>
-      <description>[BSE] 965bdabb16ca73fb-listing-of-ne — BSE notice regarding the listing and trading permission of 575 new equity</description>
-      <category>listing</category>
-      <pubDate>Mon, 07 Sep 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
       <title>ISSPL Limited has filed its Draft Offer Document under Schedule VI of</title>
@@ -2896,14 +2424,6 @@
       <pubDate>Thu, 10 Sep 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
-      <title>SEBI Appellate Authority order dismissing an RTI appeal regarding PACL</title>
-      <link>https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7036-of-2026-filed-by-minakshi-walmik-phad_104312.html</link>
-      <guid isPermaLink="false">https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7036-of-2026-filed-by-minakshi-walmik-phad_104312.html</guid>
-      <description>[SEBI] SEBI/104312 — SEBI Appellate Authority order dismissing an RTI appeal regarding PACL</description>
-      <category>compliance</category>
-      <pubDate>Mon, 07 Sep 2026 07:30:00 +0530</pubDate>
-    </item>
-    <item>
       <title>General remittance advice issued by SEBI regarding recovery certificate</title>
       <link>https://www.sebi.gov.in/enforcement/recovery-proceedings/sep-2026/general-remittance-advice-against-mr-rajinder-singh-defaulter-pan-abnps5493d-in-the-matter-of-unique-multi-foods-industries-limited-under-recovery-certificate-no-5435-of-2022-_104421.html</link>
       <guid isPermaLink="false">https://www.sebi.gov.in/enforcement/recovery-proceedings/sep-2026/general-remittance-advice-against-mr-rajinder-singh-defaulter-pan-abnps5493d-in-the-matter-of-unique-multi-foods-industries-limited-under-recovery-certificate-no-5435-of-2022-_104421.html</guid>
@@ -2934,14 +2454,6 @@
       <description>[SEBI] SEBI/104415 — SEBI issued a release order lifting recovery proceedings and attachments</description>
       <category>compliance</category>
       <pubDate>Wed, 09 Sep 2026 07:30:00 +0530</pubDate>
-    </item>
-    <item>
-      <title>SEBI has issued a notice for the attachment of bank accounts belonging</title>
-      <link>https://www.sebi.gov.in/enforcement/recovery-proceedings/sep-2026/notice-of-attachment-of-bank-accounts-with-ap-no-15782-of-2026-dated-september-07-2026-against-mr-kapil-wadhawan-pan-aaopw6145l-defaulter-in-the-matter-of-dewan-housing-finance-corporation-ltd-_104344.html</link>
-      <guid isPermaLink="false">https://www.sebi.gov.in/enforcement/recovery-proceedings/sep-2026/notice-of-attachment-of-bank-accounts-with-ap-no-15782-of-2026-dated-september-07-2026-against-mr-kapil-wadhawan-pan-aaopw6145l-defaulter-in-the-matter-of-dewan-housing-finance-corporation-ltd-_104344.html</guid>
-      <description>[SEBI] SEBI/104344 — SEBI has issued a notice for the attachment of bank accounts belonging</description>
-      <category>compliance</category>
-      <pubDate>Mon, 07 Sep 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
       <title>RTI appeal regarding arbitration awards, member defaults, forfeited membership</title>
@@ -3016,28 +2528,12 @@
       <pubDate>Thu, 10 Sep 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
-      <title>Appellate Authority order under the RTI Act, 2005 regarding information</title>
-      <link>https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7029-of-2026-filed-by-surajit-rout_104304.html</link>
-      <guid isPermaLink="false">https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7029-of-2026-filed-by-surajit-rout_104304.html</guid>
-      <description>[SEBI] SEBI/104304 — Appellate Authority order under the RTI Act, 2005 regarding information</description>
-      <category>compliance</category>
-      <pubDate>Mon, 07 Sep 2026 07:30:00 +0530</pubDate>
-    </item>
-    <item>
       <title>SEBI issued a final order against Priyanka Yadav, proprietor of Trade</title>
       <link>https://www.sebi.gov.in/enforcement/orders/sep-2026/final-order-in-respect-of-priyanka-yadav-proprietor-of-trade-money-research_104412.html</link>
       <guid isPermaLink="false">https://www.sebi.gov.in/enforcement/orders/sep-2026/final-order-in-respect-of-priyanka-yadav-proprietor-of-trade-money-research_104412.html</guid>
       <description>[SEBI] SEBI/104412 — SEBI issued a final order against Priyanka Yadav, proprietor of Trade</description>
       <category>compliance</category>
       <pubDate>Thu, 10 Sep 2026 07:30:00 +0530</pubDate>
-    </item>
-    <item>
-      <title>SEBI Appellate Authority order dismissing an RTI appeal regarding OCI</title>
-      <link>https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7025-of-2026-filed-by-yukteshwar-baranwal_104303.html</link>
-      <guid isPermaLink="false">https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7025-of-2026-filed-by-yukteshwar-baranwal_104303.html</guid>
-      <description>[SEBI] SEBI/104303 — SEBI Appellate Authority order dismissing an RTI appeal regarding OCI</description>
-      <category>compliance</category>
-      <pubDate>Mon, 07 Sep 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
       <title>Appellate Authority dismisses RTI appeal regarding SEBI Grade A Law Officer</title>
@@ -3062,14 +2558,6 @@
       <description>[SEBI] SEBI/104365 — SEBI adjudication order regarding alleged trading during trading window</description>
       <category>compliance</category>
       <pubDate>Wed, 09 Sep 2026 07:30:00 +0530</pubDate>
-    </item>
-    <item>
-      <title>SEBI removes the requirement for Foreign Portfolio Investors (FPIs) investing</title>
-      <link>https://www.sebi.gov.in/legal/circulars/sep-2026/ease-of-regulatory-compliances-for-fpis-investing-only-in-government-securities_104319.html</link>
-      <guid isPermaLink="false">https://www.sebi.gov.in/legal/circulars/sep-2026/ease-of-regulatory-compliances-for-fpis-investing-only-in-government-securities_104319.html</guid>
-      <description>[SEBI] SEBI/104319 — SEBI removes the requirement for Foreign Portfolio Investors (FPIs) investing</description>
-      <category>compliance</category>
-      <pubDate>Mon, 07 Sep 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
       <title>SEBI issued a General Remittance Order on September 10, 2026, against</title>
@@ -3176,14 +2664,6 @@
       <pubDate>Thu, 10 Sep 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
-      <title>SEBI Appellate Authority order under the RTI Act, 2005 regarding technical</title>
-      <link>https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7033-of-2026-filed-by-pradip-malve_104309.html</link>
-      <guid isPermaLink="false">https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7033-of-2026-filed-by-pradip-malve_104309.html</guid>
-      <description>[SEBI] SEBI/104309 — SEBI Appellate Authority order under the RTI Act, 2005 regarding technical</description>
-      <category>compliance</category>
-      <pubDate>Mon, 07 Sep 2026 07:30:00 +0530</pubDate>
-    </item>
-    <item>
       <title>Appellate Authority dismisses RTI appeal seeking evaluated answer script</title>
       <link>https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7043-of-2026-filed-by-aniket-singh_104380.html</link>
       <guid isPermaLink="false">https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7043-of-2026-filed-by-aniket-singh_104380.html</guid>
@@ -3198,22 +2678,6 @@
       <description>[SEBI] SEBI/104343 — SEBI issued a general remittance notice dated September 8, 2026, against</description>
       <category>compliance</category>
       <pubDate>Tue, 08 Sep 2026 07:30:00 +0530</pubDate>
-    </item>
-    <item>
-      <title>SEBI Appellate Authority order dismissing an RTI appeal concerning disclosures</title>
-      <link>https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7031-of-2026-filed-by-sanjay-singh_104307.html</link>
-      <guid isPermaLink="false">https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7031-of-2026-filed-by-sanjay-singh_104307.html</guid>
-      <description>[SEBI] SEBI/104307 — SEBI Appellate Authority order dismissing an RTI appeal concerning disclosures</description>
-      <category>compliance</category>
-      <pubDate>Mon, 07 Sep 2026 07:30:00 +0530</pubDate>
-    </item>
-    <item>
-      <title>SEBI Appellate Authority order dismissing an RTI appeal regarding grievance</title>
-      <link>https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7032-of-2026-filed-by-surajit-rout_104308.html</link>
-      <guid isPermaLink="false">https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7032-of-2026-filed-by-surajit-rout_104308.html</guid>
-      <description>[SEBI] SEBI/104308 — SEBI Appellate Authority order dismissing an RTI appeal regarding grievance</description>
-      <category>compliance</category>
-      <pubDate>Mon, 07 Sep 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
       <title>Appellate Authority upholds CPIO's response stating that refund information</title>
@@ -3312,14 +2776,6 @@
       <pubDate>Mon, 14 Sep 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
-      <title>SEBI extends the timeline for existing Angel Funds registered on or before</title>
-      <link>https://www.sebi.gov.in/legal/circulars/sep-2026/relaxation-in-timeline-with-respect-to-accredited-investor-mandate-for-angel-funds_104323.html</link>
-      <guid isPermaLink="false">https://www.sebi.gov.in/legal/circulars/sep-2026/relaxation-in-timeline-with-respect-to-accredited-investor-mandate-for-angel-funds_104323.html</guid>
-      <description>[SEBI] SEBI/104323 — SEBI extends the timeline for existing Angel Funds registered on or before</description>
-      <category>compliance</category>
-      <pubDate>Mon, 07 Sep 2026 07:30:00 +0530</pubDate>
-    </item>
-    <item>
       <title>SEBI order under Section 12(3) of the SEBI Act, 1992 read with Regulation</title>
       <link>https://www.sebi.gov.in/enforcement/orders/sep-2026/order-in-the-matter-of-certain-investment-advisers_104447.html</link>
       <guid isPermaLink="false">https://www.sebi.gov.in/enforcement/orders/sep-2026/order-in-the-matter-of-certain-investment-advisers_104447.html</guid>
@@ -3334,14 +2790,6 @@
       <description>[SEBI] SEBI/104337 — SEBI order regarding notices of attachments in Recovery Certificate</description>
       <category>compliance</category>
       <pubDate>Tue, 08 Sep 2026 07:30:00 +0530</pubDate>
-    </item>
-    <item>
-      <title>SEBI issued a release order under RC No. 9713 of 2026 against Padmavathi</title>
-      <link>https://www.sebi.gov.in/enforcement/recovery-proceedings/sep-2026/release-order-dated-september-07-2026-issued-under-rc-no-9713-of-2026-drawn-against-padmavathi-darak-pan-afmpd1863k-in-the-matter-of-trading-in-illiquid-stock-options-at-bse-under-rc-no-9173-of-_104318.html</link>
-      <guid isPermaLink="false">https://www.sebi.gov.in/enforcement/recovery-proceedings/sep-2026/release-order-dated-september-07-2026-issued-under-rc-no-9713-of-2026-drawn-against-padmavathi-darak-pan-afmpd1863k-in-the-matter-of-trading-in-illiquid-stock-options-at-bse-under-rc-no-9173-of-_104318.html</guid>
-      <description>[SEBI] SEBI/104318 — SEBI issued a release order under RC No. 9713 of 2026 against Padmavathi</description>
-      <category>compliance</category>
-      <pubDate>Mon, 07 Sep 2026 07:30:00 +0530</pubDate>
     </item>
   </channel>
 </rss>

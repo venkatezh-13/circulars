@@ -5,8 +5,16 @@
     <link>https://venkatezh-13.github.io/circulars</link>
     <description>NSE circulars — last 7 days</description>
     <language>en-in</language>
-    <lastBuildDate>Mon, 14 Sep 2026 20:16:58 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 03:53:25 +0000</lastBuildDate>
     <atom:link href="https://venkatezh-13.github.io/circulars/rss/nse.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>EGR - Multiple Settlement scheduled on September 15, 2026</title>
+      <link>https://nsearchives.nseindia.com/content/circulars/EGR76315.pdf</link>
+      <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/EGR76315.pdf</guid>
+      <description>[NSE] NCL/EGR/76315 — EGR - Multiple Settlement scheduled on September 15, 2026</description>
+      <category>Electronic Gold Receipt</category>
+      <pubDate>Tue, 15 Sep 2026 07:30:00 +0530</pubDate>
+    </item>
     <item>
       <title>NSE circular regarding updates to UNSC's 1267/1989 ISIL &amp; Al-Qaida and</title>
       <link>https://nsearchives.nseindia.com/content/circulars/ISC76292.zip</link>
@@ -40,14 +48,6 @@
       <pubDate>Wed, 09 Sep 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
-      <title>Mirae Asset Mutual Fund is launching the Mirae Asset BSE Information</title>
-      <link>https://nsearchives.nseindia.com/content/circulars/NMF76215.pdf</link>
-      <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/NMF76215.pdf</guid>
-      <description>[NSE] NSE/NMF76215 — Mirae Asset Mutual Fund is launching the Mirae Asset BSE Information</description>
-      <category>trading</category>
-      <pubDate>Mon, 07 Sep 2026 07:30:00 +0530</pubDate>
-    </item>
-    <item>
       <title>NSE Clearing has issued FAQs addressing common reporting queries and</title>
       <link>https://nsearchives.nseindia.com/content/circulars/CMPL76318.pdf</link>
       <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/CMPL76318.pdf</guid>
@@ -64,12 +64,12 @@
       <pubDate>Tue, 08 Sep 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
-      <title>National Stock Exchange announces the applicability of Enhanced Surveillance</title>
-      <link>https://nsearchives.nseindia.com/content/circulars/SURV76217.zip</link>
-      <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/SURV76217.zip</guid>
-      <description>[NSE] NSE/SURV76217 — National Stock Exchange announces the applicability of Enhanced Surveillance</description>
-      <category>trading</category>
-      <pubDate>Mon, 07 Sep 2026 07:30:00 +0530</pubDate>
+      <title>NSE Clearing Limited announced multiple settlements scheduled on September</title>
+      <link>https://nsearchives.nseindia.com/content/circulars/EGR76315.pdf</link>
+      <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/EGR76315.pdf</guid>
+      <description>[NSE] NSE/EGR76315 — NSE Clearing Limited announced multiple settlements scheduled on September</description>
+      <category>market-operations</category>
+      <pubDate>Tue, 15 Sep 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
       <title>NSE notice regarding the listing and admission to dealings of further</title>
@@ -80,28 +80,12 @@
       <pubDate>Fri, 11 Sep 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
-      <title>NSE Clearing Limited has introduced OTP-based Two Factor Authentication</title>
-      <link>https://nsearchives.nseindia.com/content/circulars/EGR76218.zip</link>
-      <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/EGR76218.zip</guid>
-      <description>[NSE] NSE/EGR76218 — NSE Clearing Limited has introduced OTP-based Two Factor Authentication</description>
-      <category>market-operations</category>
-      <pubDate>Mon, 07 Sep 2026 07:30:00 +0530</pubDate>
-    </item>
-    <item>
       <title>National Stock Exchange announces the New Fund Offer (NFO) of Axis Nifty500</title>
       <link>https://nsearchives.nseindia.com/content/circulars/NMF76232.pdf</link>
       <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/NMF76232.pdf</guid>
       <description>[NSE] NSE/NMF76232 — National Stock Exchange announces the New Fund Offer (NFO) of Axis Nifty500</description>
       <category>market-operations</category>
       <pubDate>Tue, 08 Sep 2026 07:30:00 +0530</pubDate>
-    </item>
-    <item>
-      <title>NSE circular regarding the applicability of Short-Term Additional Surveillance</title>
-      <link>https://nsearchives.nseindia.com/content/circulars/SURV76220.zip</link>
-      <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/SURV76220.zip</guid>
-      <description>[NSE] NSE/SURV76220 — NSE circular regarding the applicability of Short-Term Additional Surveillance</description>
-      <category>trading</category>
-      <pubDate>Mon, 07 Sep 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
       <title>National Stock Exchange announces the listing of further equity shares</title>
@@ -118,14 +102,6 @@
       <description>[NSE] NSE/CMTR76284 — National Stock Exchange announces market lot adjustment for IDEAL TECHNOPLAST</description>
       <category>trading</category>
       <pubDate>Thu, 10 Sep 2026 07:30:00 +0530</pubDate>
-    </item>
-    <item>
-      <title>National Stock Exchange announces the transfer of Shanti Inorganics Limited</title>
-      <link>https://nsearchives.nseindia.com/content/circulars/CML76225.pdf</link>
-      <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/CML76225.pdf</guid>
-      <description>[NSE] NSE/CML76225 — National Stock Exchange announces the transfer of Shanti Inorganics Limited</description>
-      <category>trading</category>
-      <pubDate>Mon, 07 Sep 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
       <title>NSE Clearing Limited introduces a new consolidated report providing valuation</title>
@@ -264,22 +240,6 @@
       <pubDate>Wed, 09 Sep 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
-      <title>National Stock Exchange announces the NFO availability and transaction</title>
-      <link>https://nsearchives.nseindia.com/content/circulars/NMF76216.pdf</link>
-      <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/NMF76216.pdf</guid>
-      <description>[NSE] NSE/NMF76216 — National Stock Exchange announces the NFO availability and transaction</description>
-      <category>trading</category>
-      <pubDate>Mon, 07 Sep 2026 07:30:00 +0530</pubDate>
-    </item>
-    <item>
-      <title>National Stock Exchange announces the listing of further equity shares</title>
-      <link>https://nsearchives.nseindia.com/content/circulars/CML76223.pdf</link>
-      <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/CML76223.pdf</guid>
-      <description>[NSE] NSE/CML76223 — National Stock Exchange announces the listing of further equity shares</description>
-      <category>listing</category>
-      <pubDate>Mon, 07 Sep 2026 07:30:00 +0530</pubDate>
-    </item>
-    <item>
       <title>NSE announces periodic relaxation of surveillance action under the Graded</title>
       <link>https://nsearchives.nseindia.com/content/circulars/SURV76324.zip</link>
       <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/SURV76324.zip</guid>
@@ -392,14 +352,6 @@
       <pubDate>Fri, 11 Sep 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
-      <title>National Stock Exchange announces the listing of equity shares of Deepa</title>
-      <link>https://nsearchives.nseindia.com/content/circulars/CML76228.zip</link>
-      <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/CML76228.zip</guid>
-      <description>[NSE] NSE/CML76228 — National Stock Exchange announces the listing of equity shares of Deepa</description>
-      <category>listing</category>
-      <pubDate>Mon, 07 Sep 2026 07:30:00 +0530</pubDate>
-    </item>
-    <item>
       <title>National Stock Exchange announces a change in settlement type and scheme</title>
       <link>https://nsearchives.nseindia.com/content/circulars/NMF76272.pdf</link>
       <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/NMF76272.pdf</guid>
@@ -446,14 +398,6 @@
       <description>[NSE] NSE/SURV76321 — NSE circular regarding the applicability, inclusion, and movement of</description>
       <category>trading</category>
       <pubDate>Fri, 11 Sep 2026 07:30:00 +0530</pubDate>
-    </item>
-    <item>
-      <title>NSE Clearing Limited announces the release of the new NCMS version 4.2.5</title>
-      <link>https://nsearchives.nseindia.com/content/circulars/CMPT76212.pdf</link>
-      <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/CMPT76212.pdf</guid>
-      <description>[NSE] NSE/CMPT76212 — NSE Clearing Limited announces the release of the new NCMS version 4.2.5</description>
-      <category>market-operations</category>
-      <pubDate>Mon, 07 Sep 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
       <title>NSE circular regarding the listing of equity shares of Qualiance International</title>
@@ -512,14 +456,6 @@
       <pubDate>Tue, 08 Sep 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
-      <title>NSE announces the listing and trading of Government Securities (6.53%</title>
-      <link>https://nsearchives.nseindia.com/content/circulars/CML76222.pdf</link>
-      <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/CML76222.pdf</guid>
-      <description>[NSE] NSE/CML76222 — NSE announces the listing and trading of Government Securities (6.53%</description>
-      <category>listing</category>
-      <pubDate>Mon, 07 Sep 2026 07:30:00 +0530</pubDate>
-    </item>
-    <item>
       <title>NSE Clearing Limited has revised the Market Wide Position Limit (MWPL)</title>
       <link>https://nsearchives.nseindia.com/content/circulars/CMPT76246.pdf</link>
       <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/CMPT76246.pdf</guid>
@@ -552,44 +488,12 @@
       <pubDate>Fri, 11 Sep 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
-      <title>National Stock Exchange announces the listing of privately placed commercial</title>
-      <link>https://nsearchives.nseindia.com/content/circulars/CML76224.pdf</link>
-      <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/CML76224.pdf</guid>
-      <description>[NSE] NSE/CML76224 — National Stock Exchange announces the listing of privately placed commercial</description>
-      <category>listing</category>
-      <pubDate>Mon, 07 Sep 2026 07:30:00 +0530</pubDate>
-    </item>
-    <item>
-      <title>NSE Clearing Limited has introduced OTP-based Two Factor Authentication</title>
-      <link>https://nsearchives.nseindia.com/content/circulars/CD76211.zip</link>
-      <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/CD76211.zip</guid>
-      <description>[NSE] NSE/CD76211 — NSE Clearing Limited has introduced OTP-based Two Factor Authentication</description>
-      <category>market-operations</category>
-      <pubDate>Mon, 07 Sep 2026 07:30:00 +0530</pubDate>
-    </item>
-    <item>
-      <title>NSE Clearing Ltd is implementing OTP-based Two Factor Authentication</title>
-      <link>https://nsearchives.nseindia.com/content/circulars/CMPT76210.zip</link>
-      <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/CMPT76210.zip</guid>
-      <description>[NSE] NSE/CMPT76210 — NSE Clearing Ltd is implementing OTP-based Two Factor Authentication</description>
-      <category>market-operations</category>
-      <pubDate>Mon, 07 Sep 2026 07:30:00 +0530</pubDate>
-    </item>
-    <item>
       <title>NSE is conducting a mock trading session in the Commodity Derivatives</title>
       <link>https://nsearchives.nseindia.com/content/circulars/COM76297.pdf</link>
       <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/COM76297.pdf</guid>
       <description>[NSE] NSE/COM76297 — NSE is conducting a mock trading session in the Commodity Derivatives</description>
       <category>market-operations</category>
       <pubDate>Fri, 11 Sep 2026 07:30:00 +0530</pubDate>
-    </item>
-    <item>
-      <title>NSE circular detailing securities moving out of the Graded Surveillance</title>
-      <link>https://nsearchives.nseindia.com/content/circulars/SURV76221.pdf</link>
-      <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/SURV76221.pdf</guid>
-      <description>[NSE] NSE/SURV76221 — NSE circular detailing securities moving out of the Graded Surveillance</description>
-      <category>trading</category>
-      <pubDate>Mon, 07 Sep 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
       <title>National Stock Exchange announces the listing and admission to dealings</title>
@@ -622,14 +526,6 @@
       <description>[NSE] NSE/CML76262 — National Stock Exchange announces the listing and trading of 50,00,000</description>
       <category>listing</category>
       <pubDate>Wed, 09 Sep 2026 07:30:00 +0530</pubDate>
-    </item>
-    <item>
-      <title>National Stock Exchange announces the listing and trading of further</title>
-      <link>https://nsearchives.nseindia.com/content/circulars/CML76227.pdf</link>
-      <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/CML76227.pdf</guid>
-      <description>[NSE] NSE/CML76227 — National Stock Exchange announces the listing and trading of further</description>
-      <category>listing</category>
-      <pubDate>Mon, 07 Sep 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
       <title>NSE Clearing Limited issued the settlement calendar for the Electronic</title>
@@ -712,14 +608,6 @@
       <pubDate>Fri, 11 Sep 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
-      <title>National Stock Exchange announces the forthcoming listing of equity shares</title>
-      <link>https://nsearchives.nseindia.com/content/circulars/CML76213.pdf</link>
-      <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/CML76213.pdf</guid>
-      <description>[NSE] NSE/CML76213 — National Stock Exchange announces the forthcoming listing of equity shares</description>
-      <category>listing</category>
-      <pubDate>Mon, 07 Sep 2026 07:30:00 +0530</pubDate>
-    </item>
-    <item>
       <title>National Stock Exchange announces the New Fund Offer (NFO) launch for</title>
       <link>https://nsearchives.nseindia.com/content/circulars/NMF76307.pdf</link>
       <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/NMF76307.pdf</guid>
@@ -742,14 +630,6 @@
       <description>[NSE] NSE/NMF76309 — National Stock Exchange announces the New Fund Offer (NFO) launch for</description>
       <category>market-operations</category>
       <pubDate>Fri, 11 Sep 2026 07:30:00 +0530</pubDate>
-    </item>
-    <item>
-      <title>NSE Clearing Limited introduces OTP-based Two Factor Authentication (2FA)</title>
-      <link>https://nsearchives.nseindia.com/content/circulars/COM76209.zip</link>
-      <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/COM76209.zip</guid>
-      <description>[NSE] NSE/COM76209 — NSE Clearing Limited introduces OTP-based Two Factor Authentication (2FA)</description>
-      <category>market-operations</category>
-      <pubDate>Mon, 07 Sep 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
       <title>National Stock Exchange announces the availability of Invesco India Pharma</title>
@@ -816,22 +696,6 @@
       <pubDate>Wed, 09 Sep 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
-      <title>National Stock Exchange announces the forthcoming listing of equity shares</title>
-      <link>https://nsearchives.nseindia.com/content/circulars/CML76214.pdf</link>
-      <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/CML76214.pdf</guid>
-      <description>[NSE] NSE/CML76214 — National Stock Exchange announces the forthcoming listing of equity shares</description>
-      <category>listing</category>
-      <pubDate>Mon, 07 Sep 2026 07:30:00 +0530</pubDate>
-    </item>
-    <item>
-      <title>National Stock Exchange announces the applicability of Long-Term Additional</title>
-      <link>https://nsearchives.nseindia.com/content/circulars/SURV76219.zip</link>
-      <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/SURV76219.zip</guid>
-      <description>[NSE] NSE/SURV76219 — National Stock Exchange announces the applicability of Long-Term Additional</description>
-      <category>trading</category>
-      <pubDate>Mon, 07 Sep 2026 07:30:00 +0530</pubDate>
-    </item>
-    <item>
       <title>NSE announces the applicability of Enhanced Surveillance Measure (ESM)</title>
       <link>https://nsearchives.nseindia.com/content/circulars/SURV76282.zip</link>
       <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/SURV76282.zip</guid>
@@ -846,14 +710,6 @@
       <description>[NSE] NSE/NMF76249 — National Stock Exchange announces the reopening of Monarch Overnight</description>
       <category>market-operations</category>
       <pubDate>Wed, 09 Sep 2026 07:30:00 +0530</pubDate>
-    </item>
-    <item>
-      <title>National Stock Exchange announces the listing of equity shares of Rays</title>
-      <link>https://nsearchives.nseindia.com/content/circulars/CML76229.zip</link>
-      <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/CML76229.zip</guid>
-      <description>[NSE] NSE/CML76229 — National Stock Exchange announces the listing of equity shares of Rays</description>
-      <category>listing</category>
-      <pubDate>Mon, 07 Sep 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
       <title>NSE circular detailing the applicability of Additional Surveillance Measure</title>
@@ -926,14 +782,6 @@
       <description>[NSE] NSE/CML76320 — Qualiance International Limited shares are transferred from trade for</description>
       <category>trading</category>
       <pubDate>Fri, 11 Sep 2026 07:30:00 +0530</pubDate>
-    </item>
-    <item>
-      <title>National Stock Exchange announces the transfer of Ashutosh Fibre Limited</title>
-      <link>https://nsearchives.nseindia.com/content/circulars/CML76226.pdf</link>
-      <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/CML76226.pdf</guid>
-      <description>[NSE] NSE/CML76226 — National Stock Exchange announces the transfer of Ashutosh Fibre Limited</description>
-      <category>trading</category>
-      <pubDate>Mon, 07 Sep 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
       <title>National Stock Exchange announces the movement of Digjam Limited to Stage</title>
