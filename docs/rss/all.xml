@@ -5,7 +5,7 @@
     <link>https://venkatezh-13.github.io/circulars</link>
     <description>NSE, BSE and MCX circulars — last 7 days</description>
     <language>en-in</language>
-    <lastBuildDate>Wed, 16 Sep 2026 18:13:21 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 21:22:22 +0000</lastBuildDate>
     <atom:link href="https://venkatezh-13.github.io/circulars/rss/all.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Compliance with TRAI directions and guidelines</title>
@@ -1988,11 +1988,11 @@
       <pubDate>Tue, 15 Sep 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
-      <title>Bse 2026 09 16 F015253655Fad8B7 Settlement Schedule Offer To Buy Acquisition Window Takeover For Cubical Financi</title>
+      <title>BSE notice detailing the settlement schedule, bid dates, and early pay-in</title>
       <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260916-17/20260916-17.pdf</link>
       <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260916-17/20260916-17.pdf</guid>
-      <description>[BSE] f015253655fad8b7-settlement-sc — Bse 2026 09 16 F015253655Fad8B7 Settlement Schedule Offer To Buy Acquisition Window Takeover For Cubical Financi</description>
-      <category>Circular</category>
+      <description>[BSE] f015253655fad8b7-settlement-sc — BSE notice detailing the settlement schedule, bid dates, and early pay-in</description>
+      <category>market-operations</category>
       <pubDate>Wed, 16 Sep 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
@@ -2820,6 +2820,14 @@
       <pubDate>Thu, 10 Sep 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
+      <title>BSE Clearing Ltd issues the Tender Period and Pre-Expiry Margin Tracker</title>
+      <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260916-52/20260916-52.pdf</link>
+      <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260916-52/20260916-52.pdf</guid>
+      <description>[BSE] e7346273e90755d6-bcx-tender-pe — BSE Clearing Ltd issues the Tender Period and Pre-Expiry Margin Tracker</description>
+      <category>trading</category>
+      <pubDate>Wed, 16 Sep 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
       <title>BSE notice regarding the inclusion, movement to lower stages, and continuation</title>
       <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260909-37/20260909-37.pdf</link>
       <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260909-37/20260909-37.pdf</guid>
@@ -3256,6 +3264,14 @@
       <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260916-2/20260916-2.pdf</link>
       <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260916-2/20260916-2.pdf</guid>
       <description>[BSE] 56740af5624c3d6f-settlement-sc — BSE notice detailing the settlement schedule, bid dates, and early pay-in</description>
+      <category>market-operations</category>
+      <pubDate>Wed, 16 Sep 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>Daily bulletin issued by BSE containing listing compliance and operations</title>
+      <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260916-53/20260916-53.pdf</link>
+      <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260916-53/20260916-53.pdf</guid>
+      <description>[BSE] 9318ee7142373009-daily-bulleti — Daily bulletin issued by BSE containing listing compliance and operations</description>
       <category>market-operations</category>
       <pubDate>Wed, 16 Sep 2026 07:30:00 +0530</pubDate>
     </item>
@@ -4028,11 +4044,11 @@
       <pubDate>Fri, 11 Sep 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
-      <title>Sebi 2026 09 16 D690A9E903Df2643 Ex Parte Interim Order In The Matter Of Cross Segment Price Manipulation By Prrs</title>
+      <title>SEBI passes an ex-parte interim order against Prrsaar Sampada Private</title>
       <link>https://www.sebi.gov.in/enforcement/orders/sep-2026/ex-parte-interim-order-in-the-matter-of-cross-segment-price-manipulation-by-prrsaar-sampada-private-limited-and-chaubara-eats-private-limited_104528.html</link>
       <guid isPermaLink="false">https://www.sebi.gov.in/enforcement/orders/sep-2026/ex-parte-interim-order-in-the-matter-of-cross-segment-price-manipulation-by-prrsaar-sampada-private-limited-and-chaubara-eats-private-limited_104528.html</guid>
-      <description>[SEBI] SEBI/104528 — Sebi 2026 09 16 D690A9E903Df2643 Ex Parte Interim Order In The Matter Of Cross Segment Price Manipulation By Prrs</description>
-      <category>Circular</category>
+      <description>[SEBI] SEBI/104528 — SEBI passes an ex-parte interim order against Prrsaar Sampada Private</description>
+      <category>trading</category>
       <pubDate>Wed, 16 Sep 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
@@ -4116,11 +4132,11 @@
       <pubDate>Wed, 09 Sep 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
-      <title>Sebi 2026 09 16 9283D7Fe752F37F0 General Remittance Order Dated September 16 2026 In Recovery Certificate No 9252</title>
+      <title>General Remittance Order dated September 16, 2026 issued by SEBI in Recovery</title>
       <link>https://www.sebi.gov.in/enforcement/recovery-proceedings/sep-2026/general-remittance-order-dated-september-16-2026-in-recovery-certificate-no-9252-of-2026-issued-against-chiranggi-irish-shah-pan-cacps1824g-in-the-matter-of-front-running-by-navnit-gadoya-chiran-_104512.html</link>
       <guid isPermaLink="false">https://www.sebi.gov.in/enforcement/recovery-proceedings/sep-2026/general-remittance-order-dated-september-16-2026-in-recovery-certificate-no-9252-of-2026-issued-against-chiranggi-irish-shah-pan-cacps1824g-in-the-matter-of-front-running-by-navnit-gadoya-chiran-_104512.html</guid>
-      <description>[SEBI] SEBI/104512 — Sebi 2026 09 16 9283D7Fe752F37F0 General Remittance Order Dated September 16 2026 In Recovery Certificate No 9252</description>
-      <category>Circular</category>
+      <description>[SEBI] SEBI/104512 — General Remittance Order dated September 16, 2026 issued by SEBI in Recovery</description>
+      <category>compliance</category>
       <pubDate>Wed, 16 Sep 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
