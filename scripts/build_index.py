@@ -1,14 +1,16 @@
 """
-build_index.py — Rebuilds docs/search_index.json from local data JSON files.
+build_index.py — Rebuilds docs/search_index.json from local data files and index store.
 
 Reads from:
   - data/nse/raw/*.json
   - data/bse/raw/*.json
   - data/mcx/raw/*.json
   - data/sebi/raw/*.json
+  - docs/search_index.json (existing historical archive)
 
 Writes:
   - docs/search_index.json (flat list, used by the frontend)
+  - docs/status.json (poll timestamp and status)
 """
 
 import os
@@ -89,25 +91,39 @@ def load_exchange_json(exchange: str):
 
 
 def main():
-    # Load all circulars from local data/ JSON files
-    all_records = []
-    
+    # 1. Load raw JSON files from data/
+    raw_records = []
     for exchange in ["NSE", "BSE", "MCX", "SEBI"]:
         records = load_exchange_json(exchange)
-        all_records.extend(records)
+        raw_records.extend(records)
+
+    # 2. Load existing search_index.json if present (preserves full historical archive)
+    current_index_records = []
+    if os.path.exists(OUT_FILE):
+        with open(OUT_FILE, encoding="utf-8") as f:
+            try:
+                current_index_records = json.load(f)
+            except Exception:
+                pass
+
+    # Combine: raw local daily data > existing search index
+    all_sources = raw_records + current_index_records
 
     # Deduplicate & format
     seen_keys = set()
     formatted_records = []
     today_iso = date.today().isoformat()
 
-    for r in all_records:
+    for r in all_sources:
+        ex = r.get("exchange", "")
         ref = r.get("ref") or ""
-        m_num = re.search(r'(\d{4,})', ref)
-        if m_num:
-            key = (r.get("exchange"), m_num.group(1))
+        subj = r.get("subject") or ""
+
+        if ex == "NSE":
+            m_num = re.search(r'(\d{4,})', ref)
+            key = (ex, m_num.group(1)) if m_num else (ex, ref or subj)
         else:
-            key = (r.get("exchange"), ref or r.get("subject") or "")
+            key = (ex, ref or subj)
 
         if key in seen_keys:
             continue
@@ -117,24 +133,24 @@ def main():
         link = r.get("link") or ""
 
         # Auto-correct BSE date from notice link URL if present
-        if r.get("exchange") == "BSE" and link:
+        if ex == "BSE" and link:
             m = re.search(r'/Notices/(\d{4})(\d{2})(\d{2})-\d+/', link)
             if m:
                 diso = f"{m.group(1)}-{m.group(2)}-{m.group(3)}"
 
         # Safeguard against future dates
         if diso > today_iso:
-            if r.get("ref") == "NSE/MFSS76357":
+            if ref == "NSE/MFSS76357":
                 diso = "2026-09-01"
             else:
                 diso = today_iso
 
         formatted_records.append({
-            "exchange": r["exchange"],
+            "exchange": ex,
             "date": to_display(diso) if diso else "",
             "date_iso": diso,
-            "ref": r.get("ref") or "",
-            "subject": r.get("subject") or "",
+            "ref": ref,
+            "subject": subj,
             "category": r.get("category") or "",
             "link": link,
         })
