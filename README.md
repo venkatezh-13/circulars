@@ -1,6 +1,6 @@
 # India Exchange Circulars
 
-Automated near-real-time scraper and searchable library for NSE, BSE, MCX, and SEBI circulars.
+Automated near-real-time scraper and searchable library for NSE, BSE, MCX, SEBI, and MSEI circulars.
 
 ## Live site
 
@@ -8,7 +8,7 @@ Automated near-real-time scraper and searchable library for NSE, BSE, MCX, and S
 
 ## What it does
 
-- Polls NSE, BSE, MCX, and SEBI every **15 minutes** during market hours (9 AM – 6 PM IST, Mon–Sat)
+- Polls NSE, BSE, MCX, SEBI, and MSEI every **15 minutes** during market hours (9 AM – 6 PM IST, Mon–Sat)
 - Deduplicates on every run — safe to poll frequently, no double entries
 - Stores all circulars as JSON files
 - Rebuilds `search_index.json` once per cycle after all scrapers finish
@@ -26,10 +26,12 @@ circulars/
 │   ├── bse_circulars.py          # BSE scraper core
 │   ├── mcx_circulars.py          # MCX scraper core
 │   ├── sebi_circulars.py         # SEBI scraper core
+│   ├── msei_circulars.py         # MSEI scraper core
 │   ├── run_nse.py                # today's runner (called by workflow)
 │   ├── run_bse.py
 │   ├── run_mcx.py
-│   └── run_sebi.py               # SEBI runner
+│   ├── run_sebi.py
+│   └── run_msei.py               # MSEI runner
 ├── scripts/
 │   ├── build_index.py            # rebuilds search_index.json + triggers RSS
 │   ├── generate_rss.py           # generates RSS feeds from search_index.json
@@ -38,7 +40,8 @@ circulars/
 │   ├── nse/raw/                  # daily JSONs
 │   ├── bse/raw/
 │   ├── mcx/raw/
-│   └── sebi/raw/                 # SEBI daily JSONs
+│   ├── sebi/raw/
+│   └── msei/raw/                 # MSEI daily JSONs
 └── docs/
     ├── index.html                # frontend (GitHub Pages)
     ├── search_index.json         # flat search index (auto-generated)
@@ -47,7 +50,8 @@ circulars/
         ├── nse.xml               # NSE only   — today only (auto-generated)
         ├── bse.xml               # BSE only   — today only (auto-generated)
         ├── mcx.xml               # MCX only   — today only (auto-generated)
-        └── sebi.xml              # SEBI only  — today only (auto-generated)
+        ├── sebi.xml              # SEBI only  — today only (auto-generated)
+        └── msei.xml              # MSEI only  — today only (auto-generated)
 ```
 
 ## RSS feeds
@@ -63,6 +67,7 @@ RSS feeds are generated automatically after every index rebuild. Each feed conta
 | BSE only | `https://venkatezh-13.github.io/circulars/rss/bse.xml` |
 | MCX only | `https://venkatezh-13.github.io/circulars/rss/mcx.xml` |
 | SEBI only | `https://venkatezh-13.github.io/circulars/rss/sebi.xml` |
+| MSEI only | `https://venkatezh-13.github.io/circulars/rss/msei.xml` |
 
 ### How to subscribe
 
