@@ -960,14 +960,9 @@
     </div>
   </div>
 
-  <!-- Stats & Actions Row -->
+  <!-- Stats Row -->
   <div class="stats-row" id="stats-row" style="display:none">
     <div class="stats" id="stats"></div>
-    <div class="stats-actions">
-      <div class="last-fetched-box" id="last-fetched-box">
-        Last fetched: <span id="last-fetched-text">Loading...</span>
-      </div>
-    </div>
   </div>
 
   <div id="progress-banner-wrap"></div>
@@ -1468,8 +1463,9 @@ async function fetchStatus() {
     const res = await fetch('status.json?t=' + Date.now());
     if (res.ok) {
       const data = await res.json();
-      if (data.last_updated_display) {
-        document.getElementById('last-fetched-text').textContent = data.last_updated_display;
+      const el = document.getElementById('last-fetched-text');
+      if (el && data.last_updated_display) {
+        el.textContent = data.last_updated_display;
       }
       if (data.last_updated_ts) {
         serverLastFetchTs = data.last_updated_ts;
