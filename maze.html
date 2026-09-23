@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+  <title>Color Maze Game</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+    body { margin: 0; background: #111; overflow: hidden; }
+    canvas { display: block; margin: auto; background: #222; }
+  </style>
+</head>
+<body>
+
+<canvas id="game"></canvas>
+
+<script>
+const canvas = document.getElementById("game");
+const ctx = canvas.getContext("2d");
+
+canvas.width = 400;
+canvas.height = 400;
+
+const gridSize = 8;
+const cellSize = canvas.width / gridSize;
+
+let player = { x: 0, y: 0 };
+let visited = new Set();
+
+// directions
+let dx = 0, dy = 0;
+
+function keyControl(e) {
+  if (e.key === "ArrowUp") { dx = 0; dy = -1; }
+  if (e.key === "ArrowDown") { dx = 0; dy = 1; }
+  if (e.key === "ArrowLeft") { dx = -1; dy = 0; }
+  if (e.key === "ArrowRight") { dx = 1; dy = 0; }
+}
+
+document.addEventListener("keydown", keyControl);
+
+// touch support
+canvas.addEventListener("touchstart", e => {
+  let touch = e.touches[0];
+  let midX = canvas.width / 2;
+  let midY = canvas.height / 2;
+
+  if (touch.clientY < midY) { dx = 0; dy = -1; }
+  else if (touch.clientY > midY) { dx = 0; dy = 1; }
+  else if (touch.clientX < midX) { dx = -1; dy = 0; }
+  else { dx = 1; dy = 0; }
+});
+
+function update() {
+  player.x += dx;
+  player.y += dy;
+
+  // stop at walls
+  if (player.x < 0 || player.x >= gridSize || player.y < 0 || player.y >= gridSize) {
+    player.x -= dx;
+    player.y -= dy;
+  }
+
+  visited.add(player.x + "," + player.y);
+
+  dx = 0;
+  dy = 0;
+}
+
+function draw() {
+  ctx.clearRect(0, 0, canvas.width, canvas.height);
+
+  // draw visited cells
+  visited.forEach(pos => {
+    let [x, y] = pos.split(",").map(Number);
+    ctx.fillStyle = "cyan";
+    ctx.fillRect(x * cellSize, y * cellSize, cellSize, cellSize);
+  });
+
+  // draw grid
+  ctx.strokeStyle = "#555";
+  for (let i = 0; i < gridSize; i++) {
+    for (let j = 0; j < gridSize; j++) {
+      ctx.strokeRect(i * cellSize, j * cellSize, cellSize, cellSize);
+    }
+  }
+
+  // draw player
+  ctx.fillStyle = "yellow";
+  ctx.fillRect(player.x * cellSize, player.y * cellSize, cellSize, cellSize);
+}
+
+function checkWin() {
+  if (visited.size === gridSize * gridSize) {
+    setTimeout(() => {
+      alert("Level Complete!");
+      nextLevel();
+    }, 100);
+  }
+}
+
+let level = 1;
+
+function nextLevel() {
+  level++;
+  visited.clear();
+  player.x = 0;
+  player.y = 0;
+}
+
+function gameLoop() {
+  update();
+  draw();
+  checkWin();
+  requestAnimationFrame(gameLoop);
+}
+
+gameLoop();
+</script>
+
+</body>
+</html>
