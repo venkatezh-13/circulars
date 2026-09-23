@@ -3,14 +3,15 @@ MCX daily scraper — called by GitHub Actions.
 Scrapes today's circulars and saves to data/mcx/raw/YYYY-MM-DD.json
 """
 import json, sys, os
-from datetime import date
+from datetime import date, timedelta
 from dataclasses import asdict
 sys.path.insert(0, os.path.dirname(__file__))
 from mcx_circulars import scrape_mcx_circulars
 
 def main():
     today = date.today()
-    circulars = scrape_mcx_circulars(today, today)
+    from_date = today - timedelta(days=60)
+    circulars = scrape_mcx_circulars(from_date, today, use_cache=False)
 
     out_dir = os.path.join(os.path.dirname(__file__), "..", "data", "mcx", "raw")
     os.makedirs(out_dir, exist_ok=True)
