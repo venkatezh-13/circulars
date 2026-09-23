@@ -228,7 +228,13 @@ def main():
     today_iso = date.today().isoformat()
 
     for r in all_records + rhn_records:
-        key = (r.get("exchange"), r.get("ref") or r.get("subject"))
+        ref = r.get("ref") or ""
+        m_num = re.search(r'(\d{4,})', ref)
+        if m_num:
+            key = (r.get("exchange"), m_num.group(1))
+        else:
+            key = (r.get("exchange"), ref or r.get("subject") or "")
+
         if key in seen_keys:
             continue
         seen_keys.add(key)
