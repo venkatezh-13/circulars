@@ -197,10 +197,11 @@ def main():
     # Write status.json with last fetched timestamp in IST
     now_ist = datetime.now(timezone.utc).astimezone(IST)
     status_file = os.path.join(REPO_ROOT, "docs", "status.json")
+    formatted_time = now_ist.strftime("%d %b %Y, %I:%M %p IST").replace(" 0", " ")
     status_data = {
         "last_updated_iso": now_ist.isoformat(),
         "last_updated_ts": int(now_ist.timestamp() * 1000),
-        "last_updated_display": now_ist.strftime("%d %b %Y, %I:%M %p IST"),
+        "last_updated_display": formatted_time,
         "total_records": len(formatted_records)
     }
     with open(status_file, "w", encoding="utf-8") as f:
