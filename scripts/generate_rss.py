@@ -25,7 +25,7 @@ REPO_ROOT     = os.path.join(os.path.dirname(__file__), "..")
 SEARCH_INDEX  = os.path.join(REPO_ROOT, "docs", "search_index.json")
 RSS_DIR       = os.path.join(REPO_ROOT, "docs", "rss")
 BASE_URL      = "https://venkatezh-13.github.io/circulars"
-EXCHANGES     = ["NSE", "BSE", "MCX"]
+EXCHANGES     = ["NSE", "BSE", "MCX", "SEBI", "MSEI"]
 WINDOW_DAYS   = 7
 
 

@@ -34,6 +34,24 @@ def to_display(iso: str) -> str:
         return iso
 
 
+MONTH_MAP = {
+    'jan':'01', 'feb':'02', 'mar':'03', 'apr':'04', 'may':'05', 'jun':'06',
+    'jul':'07', 'aug':'08', 'sep':'09', 'oct':'10', 'nov':'11', 'dec':'12'
+}
+
+def parse_to_iso(date_str: str, default_iso: str) -> str:
+    if not date_str:
+        return default_iso
+    m = re.search(r'(\d{1,2})[\s\-]+([A-Za-z]{3})[\s\-]+(\d{4})', str(date_str))
+    if m:
+        day, month_name, year = m.group(1), m.group(2).lower(), m.group(3)
+        month = MONTH_MAP.get(month_name, '01')
+        return f"{year}-{month}-{day.zfill(2)}"
+    if re.match(r'^\d{4}-\d{2}-\d{2}$', str(date_str)):
+        return str(date_str)
+    return default_iso
+
+
 def load_exchange_json(exchange: str):
     """Load all JSON files for an exchange."""
     records = []
@@ -69,9 +87,12 @@ def load_exchange_json(exchange: str):
                         "link": item.get("pdf_url", ""),
                     })
                 elif exchange == "MCX":
+                    item_date_str = item.get("date") or item.get("date_iso") or ""
+                    item_date_iso = parse_to_iso(item_date_str, date_iso)
                     records.append({
                         "exchange": "MCX",
-                        "date_iso": date_iso,
+                        "date": to_display(item_date_iso),
+                        "date_iso": item_date_iso,
                         "ref": str(item.get("circular_no", "")),
                         "subject": item.get("title", ""),
                         "category": item.get("category", ""),
