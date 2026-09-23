@@ -25,7 +25,7 @@ Each record in the index:
 import os
 import json
 import glob
-from datetime import datetime
+from datetime import datetime, date
 from generate_rss import generate_rss
 
 REPO_ROOT = os.path.join(os.path.dirname(__file__), "..")
@@ -221,7 +221,10 @@ def main():
 
     # Load Rohan's dataset directly without storing raw files in git data/
     rhn_records = load_rhnvrm_records()
-    
+
+    # Deduplicate & format
+    seen_keys = set()
+    formatted_records = []
     today_iso = date.today().isoformat()
 
     for r in all_records + rhn_records:
