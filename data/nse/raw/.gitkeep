@@ -1,0 +1,2 @@
+# NSE raw data directory — daily JSONs stored here
+# Files older than 30 days are automatically archived to ../archive/

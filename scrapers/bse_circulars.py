@@ -187,13 +187,19 @@ def make_session() -> requests.Session:
 
 
 def get_page(session: requests.Session, url: str) -> str:
-    resp = session.get(
-        url,
-        params={"id": "0", "txtscripcd": "", "pagecont": "", "subject": ""},
-        timeout=30,
-    )
-    resp.raise_for_status()
-    return resp.text
+    try:
+        resp = session.get(
+            url,
+            params={"id": "0", "txtscripcd": "", "pagecont": "", "subject": ""},
+            timeout=30,
+        )
+        if resp.status_code == 200:
+            return resp.text
+        print(f"    [!] BSE GET page status: {resp.status_code}")
+        return ""
+    except Exception as e:
+        print(f"    [!] BSE GET page error: {e}")
+        return ""
 
 
 def post_filter(
@@ -227,22 +233,31 @@ def post_filter(
         "ctl00$ContentPlaceHolder1$txtSub":              "",
     }
 
-    # Initial filter submit uses btnSubmit; pagination uses GridView event
     if not event_target:
         data["ctl00$ContentPlaceHolder1$btnSubmit"] = "Submit"
 
-    resp = session.post(
-        url,
-        data=data,
-        headers={
-            "Content-Type": "application/x-www-form-urlencoded",
-            "Referer": url + "?id=0&txtscripcd=&pagecont=&subject=",
-            "Origin":  BASE_URL,
-        },
-        timeout=30,
-    )
-    resp.raise_for_status()
-    return resp.text
+    try:
+        resp = session.post(
+            url,
+            data=data,
+            headers={
+                "Content-Type": "application/x-www-form-urlencoded",
+                "Referer": url + "?id=0&txtscripcd=&pagecont=&subject=",
+                "Origin":  BASE_URL,
+            },
+            timeout=30,
+        )
+        if resp.status_code == 200:
+            return resp.text
+        print(f"    [!] BSE POST filter returned HTTP status {resp.status_code}")
+        return ""
+    except Exception as e:
+        print(f"    [!] BSE POST filter exception: {e}")
+        return ""
+
+
+
+
 
 
 # ── Page default date ─────────────────────────────────────────────────────────
