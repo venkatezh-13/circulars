@@ -80,6 +80,12 @@ jobs:
         run: python scrapers/run_sebi.py
         timeout-minutes: 10
 
+      # MSEI
+      - name: Scrape MSEI
+        if: steps.flags.outputs.exchanges == 'all' || steps.flags.outputs.exchanges == 'msei'
+        run: python scrapers/run_msei.py
+        timeout-minutes: 10
+
       # Rebuild search index & RSS feeds
       - name: Rebuild search index & RSS
         run: python scripts/build_index.py

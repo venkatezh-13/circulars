@@ -88,6 +88,17 @@ def load_exchange_json(exchange: str):
                         "category": item.get("category", "Circular"),
                         "link": item.get("pdf_url", ""),
                     })
+                elif exchange == "MSEI":
+                    item_date_iso = item.get("date_iso", date_iso)
+                    records.append({
+                        "exchange": "MSEI",
+                        "date": to_display(item_date_iso),
+                        "date_iso": item_date_iso,
+                        "ref": str(item.get("circular_no", "")),
+                        "subject": item.get("subject", "") or item.get("title", ""),
+                        "category": item.get("category", "General"),
+                        "link": item.get("link", ""),
+                    })
     
     return records
 
@@ -95,7 +106,7 @@ def load_exchange_json(exchange: str):
 def main():
     # 1. Load raw JSON files from data/
     raw_records = []
-    for exchange in ["NSE", "BSE", "MCX", "SEBI"]:
+    for exchange in ["NSE", "BSE", "MCX", "SEBI", "MSEI"]:
         records = load_exchange_json(exchange)
         raw_records.extend(records)
 
