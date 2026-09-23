@@ -89,11 +89,11 @@ jobs:
         run: |
           git config user.email "circulars-bot@github-actions"
           git config user.name  "Circulars Bot"
-          git add data/ docs/search_index.json docs/rss/ || true
+          git add data/ docs/search_index.json docs/status.json docs/rss/ || true
           if git diff --staged --quiet; then
             echo "No new data or index changes."
           else
             git commit -m "poll & index: circulars $(date -u +'%Y-%m-%d %H:%M UTC')"
-            git pull --rebase origin main
+            git pull --rebase --autostash origin main
             git push
           fi

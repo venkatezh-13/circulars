@@ -7,7 +7,6 @@ venv/
 .venv/
 
 # Local data & cache dirs
-data/
 scratch/
 nse_cache/
 bse_cache/
