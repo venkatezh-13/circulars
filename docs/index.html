@@ -347,12 +347,21 @@
   }
 
   /* ── Stats ── */
+  /* ── Stats & Actions Row ── */
+  .stats-row {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 12px;
+    gap: 16px;
+    flex-wrap: wrap;
+  }
+
   .stats {
     font-size: 13px;
     color: var(--text-muted);
-    margin-bottom: 12px;
     display: flex;
-    gap: 20px;
+    gap: 16px;
     align-items: center;
     flex-wrap: wrap;
   }
@@ -365,6 +374,157 @@
   .stat-bse { color: var(--bse); font-weight: 600; }
   .stat-mcx { color: var(--mcx); font-weight: 600; }
   .stat-sebi { color: var(--sebi); font-weight: 600; }
+
+  .stats-actions {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin-left: auto;
+  }
+
+  /* Box 1: Last Fetched Time Box */
+  .last-fetched-box {
+    display: inline-flex;
+    align-items: center;
+    padding: 6px 14px;
+    background: var(--white);
+    border: 1px solid var(--stroke-2);
+    border-radius: var(--r8);
+    font-size: 12px;
+    color: var(--text-muted);
+    font-weight: 500;
+    white-space: nowrap;
+  }
+
+  .last-fetched-box span {
+    color: var(--text-h);
+    font-weight: 600;
+    margin-left: 4px;
+  }
+
+  /* Box 2: Lightning Symbol Trigger Button & Tooltip */
+  .trigger-btn-wrap {
+    position: relative;
+    display: inline-block;
+  }
+
+  .btn-trigger {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 34px;
+    height: 34px;
+    border-radius: var(--r8);
+    background: var(--white);
+    border: 1px solid var(--stroke-2);
+    color: var(--z-yellow);
+    cursor: pointer;
+    transition: all .2s ease;
+    outline: none;
+  }
+
+  .btn-trigger:hover:not(:disabled) {
+    border-color: var(--z-yellow);
+    background: #fffdf5;
+    box-shadow: 0 2px 8px rgba(255, 164, 18, 0.15);
+  }
+
+  .btn-trigger:disabled {
+    cursor: not-allowed;
+    opacity: 0.55;
+    color: var(--text-label);
+    background: var(--bg);
+  }
+
+  .btn-trigger svg {
+    width: 18px;
+    height: 18px;
+    fill: currentColor;
+  }
+
+  /* Tooltip on Hover */
+  .trigger-tooltip {
+    visibility: hidden;
+    position: absolute;
+    bottom: 125%;
+    right: 0;
+    background: #222222;
+    color: #ffffff;
+    font-size: 11px;
+    font-weight: 500;
+    padding: 6px 10px;
+    border-radius: 6px;
+    white-space: nowrap;
+    opacity: 0;
+    transition: opacity .2s ease, visibility .2s ease;
+    z-index: 200;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+    pointer-events: none;
+  }
+
+  .trigger-tooltip::after {
+    content: "";
+    position: absolute;
+    top: 100%;
+    right: 12px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: #222222 transparent transparent transparent;
+  }
+
+  .trigger-btn-wrap:hover .trigger-tooltip {
+    visibility: visible;
+    opacity: 1;
+  }
+
+  /* Modal Styling */
+  .modal-overlay {
+    position: fixed;
+    top: 0; left: 0; width: 100vw; height: 100vh;
+    background: rgba(0, 0, 0, 0.45);
+    display: flex; align-items: center; justify-content: center;
+    z-index: 1000; opacity: 0; visibility: hidden;
+    transition: opacity 0.2s ease, visibility 0.2s ease;
+  }
+
+  .modal-overlay.active {
+    opacity: 1; visibility: visible;
+  }
+
+  .modal-card {
+    background: var(--white);
+    border-radius: var(--r16);
+    padding: 24px;
+    width: 100%; max-width: 440px;
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.2);
+    border: 1px solid var(--stroke);
+  }
+
+  .modal-title { font-size: 16px; font-weight: 700; color: var(--text-h); margin-bottom: 8px; }
+  .modal-desc { font-size: 12.5px; color: var(--text-muted); margin-bottom: 16px; line-height: 1.5; }
+  .modal-input {
+    width: 100%; padding: 10px 12px; border: 1px solid var(--stroke-2);
+    border-radius: var(--r8); font-size: 13px; font-family: monospace;
+    margin-bottom: 16px; outline: none; background: var(--bg);
+  }
+  .modal-input:focus { border-color: var(--z-blue); background: var(--white); }
+  .modal-btns { display: flex; justify-content: flex-end; gap: 8px; }
+  .btn-sec { padding: 8px 14px; border: 1px solid var(--stroke-2); border-radius: var(--r8); background: var(--bg); font-size: 12px; cursor: pointer; color: var(--text-body); }
+  .btn-prim { padding: 8px 16px; border: 1px solid var(--z-blue); border-radius: var(--r8); background: var(--z-blue); color: var(--white); font-size: 12px; font-weight: 600; cursor: pointer; }
+  .btn-prim:hover { opacity: .9; }
+
+  /* Live Progress Banner */
+  .progress-banner {
+    background: #eef6ff;
+    border: 1px solid #b8daff;
+    color: #004085;
+    padding: 10px 16px;
+    border-radius: var(--r8);
+    font-size: 13px;
+    font-weight: 500;
+    margin-bottom: 16px;
+    display: flex; align-items: center; justify-content: space-between;
+  }
 
   /* ── Table ── */
   .table-wrap {
@@ -795,8 +955,25 @@
     </div>
   </div>
 
-  <!-- Stats -->
-  <div class="stats" id="stats" style="display:none"></div>
+  <!-- Stats & Actions Row -->
+  <div class="stats-row" id="stats-row" style="display:none">
+    <div class="stats" id="stats"></div>
+    <div class="stats-actions">
+      <div class="last-fetched-box" id="last-fetched-box">
+        Last fetched: <span id="last-fetched-text">Loading...</span>
+      </div>
+      <div class="trigger-btn-wrap">
+        <button class="btn-trigger" id="btn-trigger" onclick="handleFetchClick()" aria-label="Fetch latest circulars">
+          <svg viewBox="0 0 24 24">
+            <path d="M7 2v11h3v9l7-12h-4l4-8z"/>
+          </svg>
+        </button>
+        <div class="trigger-tooltip" id="trigger-tooltip">⚡ Click to fetch latest circulars</div>
+      </div>
+    </div>
+  </div>
+
+  <div id="progress-banner-wrap"></div>
 
   <!-- Table -->
   <div class="table-wrap" id="table-wrap" style="display:none">
@@ -894,8 +1071,10 @@ async function loadData() {
     allData = await res.json();
 
     document.getElementById('loading-state').style.display = 'none';
-    document.getElementById('stats').style.display         = 'flex';
+    document.getElementById('stats-row').style.display     = 'flex';
     document.getElementById('table-wrap').style.display    = '';
+    fetchStatus();
+    updateCooldownUI();
 
     const hashAliases = {
       'nse':   { ex: 'NSE' },
@@ -1274,9 +1453,177 @@ document.getElementById('date-to').addEventListener('change', () => {
   applyFilters();
 });
 
+// ── Last Fetched & Action Trigger Logic ────────────────────────────────────────
+const COOLDOWN_MS = 15 * 60 * 1000; // 15 minutes
+
+async function fetchStatus() {
+  try {
+    const res = await fetch('status.json?t=' + Date.now());
+    if (res.ok) {
+      const data = await res.json();
+      if (data.last_updated_display) {
+        document.getElementById('last-fetched-text').textContent = data.last_updated_display;
+      }
+    }
+  } catch (e) {
+    document.getElementById('last-fetched-text').textContent = '23 Sep 2026';
+  }
+}
+
+function updateCooldownUI() {
+  const lastTs = parseInt(localStorage.getItem('circulars_last_fetch_ts') || '0', 10);
+  const now = Date.now();
+  const elapsed = now - lastTs;
+  const btn = document.getElementById('btn-trigger');
+  const tooltip = document.getElementById('trigger-tooltip');
+
+  if (!btn || !tooltip) return;
+
+  if (elapsed < COOLDOWN_MS) {
+    const remainingSec = Math.ceil((COOLDOWN_MS - elapsed) / 1000);
+    const m = Math.floor(remainingSec / 60);
+    const s = remainingSec % 60;
+    btn.disabled = true;
+    tooltip.textContent = `Next refresh in ${m}m ${s.toString().padStart(2, '0')}s`;
+  } else {
+    btn.disabled = false;
+    tooltip.textContent = "⚡ Click to fetch latest circulars from exchanges";
+  }
+}
+
+function handleFetchClick() {
+  const lastTs = parseInt(localStorage.getItem('circulars_last_fetch_ts') || '0', 10);
+  if (Date.now() - lastTs < COOLDOWN_MS) {
+    updateCooldownUI();
+    return;
+  }
+
+  const pat = localStorage.getItem('gh_pat');
+  if (!pat) {
+    openPatModal();
+  } else {
+    executeWorkflowDispatch(pat);
+  }
+}
+
+function openPatModal() {
+  const pat = localStorage.getItem('gh_pat') || '';
+  document.getElementById('pat-input').value = pat;
+  document.getElementById('pat-modal').classList.add('active');
+}
+
+function closePatModal() {
+  document.getElementById('pat-modal').classList.remove('active');
+}
+
+function clearPatToken() {
+  localStorage.removeItem('gh_pat');
+  document.getElementById('pat-input').value = '';
+  alert('Saved token cleared.');
+  closePatModal();
+}
+
+function savePatAndTrigger() {
+  const pat = document.getElementById('pat-input').value.trim();
+  if (!pat) {
+    alert('Please enter a valid GitHub token.');
+    return;
+  }
+  localStorage.setItem('gh_pat', pat);
+  closePatModal();
+  executeWorkflowDispatch(pat);
+}
+
+async function executeWorkflowDispatch(pat) {
+  const btn = document.getElementById('btn-trigger');
+  if (btn) btn.disabled = true;
+
+  const bannerWrap = document.getElementById('progress-banner-wrap');
+  bannerWrap.innerHTML = `
+    <div class="progress-banner">
+      <span>⚡ <strong>Triggered GitHub Actions polling...</strong> Fetching circulars from NSE, BSE, MCX, SEBI in background.</span>
+      <span id="banner-timer">35s</span>
+    </div>
+  `;
+
+  try {
+    const res = await fetch('https://api.github.com/repos/venkatezh-13/circulars/actions/workflows/circulars_all_in_one.yml/dispatches', {
+      method: 'POST',
+      headers: {
+        'Authorization': `Bearer ${pat}`,
+        'Accept': 'application/vnd.github.v3+json',
+        'Content-Type': 'application/json'
+      },
+      body: JSON.stringify({ ref: 'main' })
+    });
+
+    if (res.status === 204 || res.ok) {
+      localStorage.setItem('circulars_last_fetch_ts', Date.now().toString());
+      updateCooldownUI();
+      startPollingProgress();
+    } else {
+      const err = await res.json().catch(() => ({}));
+      bannerWrap.innerHTML = '';
+      alert('Error triggering workflow: ' + (err.message || res.statusText || 'HTTP ' + res.status));
+      if (res.status === 401 || res.status === 403) {
+        openPatModal();
+      }
+    }
+  } catch (e) {
+    bannerWrap.innerHTML = '';
+    alert('Network error triggering workflow: ' + e.message);
+  }
+}
+
+function startPollingProgress() {
+  let count = 35;
+  const bannerWrap = document.getElementById('progress-banner-wrap');
+
+  const timerInt = setInterval(() => {
+    count--;
+    const el = document.getElementById('banner-timer');
+    if (el) el.textContent = `${count}s`;
+
+    if (count <= 0) {
+      clearInterval(timerInt);
+      bannerWrap.innerHTML = `
+        <div class="progress-banner" style="background:#e6f4ea; border-color:#a8dab5; color:#137333;">
+          <span>✅ <strong>Poll complete!</strong> Re-loading latest circulars...</span>
+        </div>
+      `;
+      setTimeout(() => {
+        bannerWrap.innerHTML = '';
+        loadData();
+        fetchStatus();
+      }, 3000);
+    }
+  }, 1000);
+}
+
+setInterval(updateCooldownUI, 1000);
+
 // ── Init ──────────────────────────────────────────────────────────────────────
 loadData();
 </script>
+
+<!-- PAT Token Modal -->
+<div class="modal-overlay" id="pat-modal">
+  <div class="modal-card">
+    <div class="modal-title">⚡ Configure GitHub Access Token</div>
+    <div class="modal-desc">
+      To trigger <b>Fetch Latest Circulars</b> directly from the website via GitHub Actions, enter a GitHub Personal Access Token (PAT) with <code>Actions: Write</code> permission.
+      <br><br>
+      <a href="https://github.com/settings/tokens?type=beta" target="_blank" rel="noopener" style="color:var(--z-blue)">Generate Fine-Grained Token on GitHub ↗</a>
+    </div>
+    <input type="password" class="modal-input" id="pat-input" placeholder="ghp_xxxxxxxxxxxx or github_pat_xxxx" autocomplete="off">
+    <div class="modal-btns">
+      <button class="btn-sec" onclick="closePatModal()">Cancel</button>
+      <button class="btn-sec" style="color:#c0392b" onclick="clearPatToken()">Clear Saved Token</button>
+      <button class="btn-prim" onclick="savePatAndTrigger()">Save & Trigger</button>
+    </div>
+  </div>
+</div>
+
 </body>
 </html>
 

@@ -144,6 +144,17 @@ def main():
     with open(OUT_FILE, "w", encoding="utf-8") as f:
         json.dump(formatted_records, f, separators=(",", ":"), ensure_ascii=False)
 
+    # Write status.json with last fetched timestamp
+    now = datetime.now()
+    status_file = os.path.join(REPO_ROOT, "docs", "status.json")
+    status_data = {
+        "last_updated_iso": now.isoformat(),
+        "last_updated_display": now.strftime("%d %b %Y, %I:%M %p IST"),
+        "total_records": len(formatted_records)
+    }
+    with open(status_file, "w", encoding="utf-8") as f:
+        json.dump(status_data, f, indent=2, ensure_ascii=False)
+
     # Print stats
     print(f"\nIndex built: {len(formatted_records):,} total records -> {OUT_FILE}")
     size_kb = os.path.getsize(OUT_FILE) / 1024
