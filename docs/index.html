@@ -1455,6 +1455,7 @@ document.getElementById('date-to').addEventListener('change', () => {
 
 // ── Last Fetched & Action Trigger Logic ────────────────────────────────────────
 const COOLDOWN_MS = 15 * 60 * 1000; // 15 minutes
+let WORKER_PROXY_URL = localStorage.getItem('worker_proxy_url') || 'https://circulars-trigger.workers.dev/trigger';
 
 async function fetchStatus() {
   try {
@@ -1491,50 +1492,51 @@ function updateCooldownUI() {
   }
 }
 
-function handleFetchClick() {
+async function handleFetchClick() {
   const lastTs = parseInt(localStorage.getItem('circulars_last_fetch_ts') || '0', 10);
   if (Date.now() - lastTs < COOLDOWN_MS) {
     updateCooldownUI();
     return;
   }
 
-  const pat = localStorage.getItem('gh_pat');
-  if (!pat) {
-    openPatModal();
-  } else {
-    executeWorkflowDispatch(pat);
-  }
+  // 1-Click Trigger: Execute directly without popping up any token modal!
+  executeWorkflowDispatch();
 }
 
-function openPatModal() {
+function openSettingsModal() {
   const pat = localStorage.getItem('gh_pat') || '';
+  const workerUrl = localStorage.getItem('worker_proxy_url') || '';
   document.getElementById('pat-input').value = pat;
+  document.getElementById('worker-url-input').value = workerUrl;
   document.getElementById('pat-modal').classList.add('active');
 }
 
-function closePatModal() {
+function closeSettingsModal() {
   document.getElementById('pat-modal').classList.remove('active');
 }
 
-function clearPatToken() {
+function clearSettingsToken() {
   localStorage.removeItem('gh_pat');
+  localStorage.removeItem('worker_proxy_url');
   document.getElementById('pat-input').value = '';
-  alert('Saved token cleared.');
-  closePatModal();
+  document.getElementById('worker-url-input').value = '';
+  alert('Settings cleared.');
+  closeSettingsModal();
 }
 
-function savePatAndTrigger() {
+function saveSettingsAndTrigger() {
   const pat = document.getElementById('pat-input').value.trim();
-  if (!pat) {
-    alert('Please enter a valid GitHub token.');
-    return;
+  const workerUrl = document.getElementById('worker-url-input').value.trim();
+  if (pat) localStorage.setItem('gh_pat', pat);
+  if (workerUrl) {
+    localStorage.setItem('worker_proxy_url', workerUrl);
+    WORKER_PROXY_URL = workerUrl;
   }
-  localStorage.setItem('gh_pat', pat);
-  closePatModal();
-  executeWorkflowDispatch(pat);
+  closeSettingsModal();
+  executeWorkflowDispatch();
 }
 
-async function executeWorkflowDispatch(pat) {
+async function executeWorkflowDispatch() {
   const btn = document.getElementById('btn-trigger');
   if (btn) btn.disabled = true;
 
@@ -1546,16 +1548,29 @@ async function executeWorkflowDispatch(pat) {
     </div>
   `;
 
+  const pat = localStorage.getItem('gh_pat');
+
   try {
-    const res = await fetch('https://api.github.com/repos/venkatezh-13/circulars/actions/workflows/circulars_all_in_one.yml/dispatches', {
-      method: 'POST',
-      headers: {
-        'Authorization': `Bearer ${pat}`,
-        'Accept': 'application/vnd.github.v3+json',
-        'Content-Type': 'application/json'
-      },
-      body: JSON.stringify({ ref: 'main' })
-    });
+    let res;
+    if (pat) {
+      // Direct PAT API call if configured
+      res = await fetch('https://api.github.com/repos/venkatezh-13/circulars/actions/workflows/circulars_all_in_one.yml/dispatches', {
+        method: 'POST',
+        headers: {
+          'Authorization': `Bearer ${pat}`,
+          'Accept': 'application/vnd.github.v3+json',
+          'Content-Type': 'application/json'
+        },
+        body: JSON.stringify({ ref: 'main' })
+      });
+    } else {
+      // 1-Click Zero-Token Serverless Proxy Call for all site visitors
+      res = await fetch(WORKER_PROXY_URL, {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ ref: 'main' })
+      });
+    }
 
     if (res.status === 204 || res.ok) {
       localStorage.setItem('circulars_last_fetch_ts', Date.now().toString());
@@ -1564,14 +1579,15 @@ async function executeWorkflowDispatch(pat) {
     } else {
       const err = await res.json().catch(() => ({}));
       bannerWrap.innerHTML = '';
-      alert('Error triggering workflow: ' + (err.message || res.statusText || 'HTTP ' + res.status));
-      if (res.status === 401 || res.status === 403) {
-        openPatModal();
+      if (pat) {
+        alert('Error triggering workflow: ' + (err.message || res.statusText || 'HTTP ' + res.status));
+      } else {
+        openSettingsModal();
       }
     }
   } catch (e) {
     bannerWrap.innerHTML = '';
-    alert('Network error triggering workflow: ' + e.message);
+    openSettingsModal();
   }
 }
 
@@ -1606,20 +1622,23 @@ setInterval(updateCooldownUI, 1000);
 loadData();
 </script>
 
-<!-- PAT Token Modal -->
+<!-- Settings & Custom Token Modal (Optional) -->
 <div class="modal-overlay" id="pat-modal">
   <div class="modal-card">
-    <div class="modal-title">⚡ Configure GitHub Access Token</div>
+    <div class="modal-title">⚡ Trigger Settings & Proxy Configuration</div>
     <div class="modal-desc">
-      To trigger <b>Fetch Latest Circulars</b> directly from the website via GitHub Actions, enter a GitHub Personal Access Token (PAT) with <code>Actions: Write</code> permission.
-      <br><br>
-      <a href="https://github.com/settings/tokens?type=beta" target="_blank" rel="noopener" style="color:var(--z-blue)">Generate Fine-Grained Token on GitHub ↗</a>
+      Configure a custom Cloudflare Worker proxy URL or Personal Access Token (PAT) for triggering GitHub Actions.
     </div>
-    <input type="password" class="modal-input" id="pat-input" placeholder="ghp_xxxxxxxxxxxx or github_pat_xxxx" autocomplete="off">
+    <label style="font-size:12px; font-weight:600; color:var(--text-h); display:block; margin-bottom:4px;">Cloudflare Worker Proxy URL (Optional):</label>
+    <input type="text" class="modal-input" id="worker-url-input" placeholder="https://circulars-trigger.your-name.workers.dev" autocomplete="off" style="margin-bottom:12px;">
+    
+    <label style="font-size:12px; font-weight:600; color:var(--text-h); display:block; margin-bottom:4px;">GitHub PAT Token (Optional Fallback):</label>
+    <input type="password" class="modal-input" id="pat-input" placeholder="ghp_xxxxxxxxxxxx" autocomplete="off">
+
     <div class="modal-btns">
-      <button class="btn-sec" onclick="closePatModal()">Cancel</button>
-      <button class="btn-sec" style="color:#c0392b" onclick="clearPatToken()">Clear Saved Token</button>
-      <button class="btn-prim" onclick="savePatAndTrigger()">Save & Trigger</button>
+      <button class="btn-sec" onclick="closeSettingsModal()">Cancel</button>
+      <button class="btn-sec" style="color:#c0392b" onclick="clearSettingsToken()">Clear</button>
+      <button class="btn-prim" onclick="saveSettingsAndTrigger()">Save & Trigger</button>
     </div>
   </div>
 </div>
