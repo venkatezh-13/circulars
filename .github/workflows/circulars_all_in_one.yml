@@ -1,9 +1,19 @@
-name: Circulars — Daily Poll & Deploy
+name: Circulars — Daily Poll & Indexer
+
+# ──────────────────────────────────────────────────────────────────────────────
+# SCHEDULES & TRIGGERS
+#   • Native Schedule : every 15 min, 6:00 AM – 1:00 AM IST (0:30–19:30 UTC)
+#   • External Ping   : repository_dispatch event (triggered via cron-job.org or webhook)
+#   • Manual Trigger  : workflow_dispatch
+# ──────────────────────────────────────────────────────────────────────────────
 
 on:
   schedule:
-    # Run twice a day (e.g. 6:00 AM and 6:00 PM IST = 0:30 and 12:30 UTC) & market hours
+    # Poll — every 15 min during market hours (6 AM – 1 AM IST = 0:30-19:30 UTC)
     - cron: '*/15 0-19 * * *'
+
+  repository_dispatch:
+    types: [poll_circulars, schedule_trigger]
 
   workflow_dispatch:
     inputs:
@@ -14,46 +24,25 @@ on:
         type: choice
         options: [all, nse, bse, mcx, sebi]
 
+# Only allow one run at a time per ref — prevents concurrent git push conflicts
 concurrency:
   group: circulars-${{ github.ref }}
   cancel-in-progress: false
 
 jobs:
-
-  # ── Step 1: Setup exchange flags ────────────────────────────────────────────
-  setup:
-    runs-on: ubuntu-latest
-    outputs:
-      run_nse:  ${{ steps.setup_exchanges.outputs.run_nse }}
-      run_bse:  ${{ steps.setup_exchanges.outputs.run_bse }}
-      run_mcx:  ${{ steps.setup_exchanges.outputs.run_mcx }}
-      run_sebi: ${{ steps.setup_exchanges.outputs.run_sebi }}
-    steps:
-      - name: Setup exchanges
-        id: setup_exchanges
-        run: |
-          EXCHANGES="${{ github.event.inputs.exchanges || 'all' }}"
-          for EX in nse bse mcx sebi; do
-            if [ "$EXCHANGES" = "all" ] || [ "$EXCHANGES" = "$EX" ]; then
-              echo "run_${EX}=true" >> $GITHUB_OUTPUT
-            else
-              echo "run_${EX}=false" >> $GITHUB_OUTPUT
-            fi
-          done
-
-  # ── Step 2: Poll live circulars & Rebuild index ────────────────────────────
   poll-and-index:
-    needs: setup
     runs-on: ubuntu-latest
     permissions:
       contents: write
 
     steps:
-      - uses: actions/checkout@v4.2.2
+      - name: Checkout repository
+        uses: actions/checkout@v4.2.2
         with:
           fetch-depth: 1
 
-      - uses: actions/setup-python@v5.6.0
+      - name: Setup Python
+        uses: actions/setup-python@v5.6.0
         with:
           python-version: '3.12'
           cache: 'pip'
@@ -61,76 +50,56 @@ jobs:
       - name: Install dependencies
         run: pip install httpx requests beautifulsoup4
 
-      # Scrape live circulars
+      - name: Determine targeted exchanges
+        id: flags
+        run: |
+          EXCHANGES="${{ github.event.inputs.exchanges || github.event.client_payload.exchanges || 'all' }}"
+          echo "exchanges=${EXCHANGES}" >> $GITHUB_OUTPUT
+
+      # NSE
       - name: Scrape NSE
-        if: needs.setup.outputs.run_nse == 'true'
+        if: steps.flags.outputs.exchanges == 'all' || steps.flags.outputs.exchanges == 'nse'
         run: python scrapers/run_nse.py
         timeout-minutes: 10
 
+      # BSE
       - name: Scrape BSE
-        if: needs.setup.outputs.run_bse == 'true'
+        if: steps.flags.outputs.exchanges == 'all' || steps.flags.outputs.exchanges == 'bse'
         run: python scrapers/run_bse.py
         timeout-minutes: 15
 
+      # MCX
       - name: Scrape MCX
-        if: needs.setup.outputs.run_mcx == 'true'
+        if: steps.flags.outputs.exchanges == 'all' || steps.flags.outputs.exchanges == 'mcx'
         run: python scrapers/run_mcx.py
         timeout-minutes: 10
 
+      # SEBI
       - name: Scrape SEBI
-        if: needs.setup.outputs.run_sebi == 'true'
+        if: steps.flags.outputs.exchanges == 'all' || steps.flags.outputs.exchanges == 'sebi'
         run: python scrapers/run_sebi.py
         timeout-minutes: 10
 
-      # Clone Rohan's repo for historical data
-      - name: Fetch Rohan Verma circulars dataset
-        run: |
-          git clone --depth 1 https://github.com/rhnvrm/stock-market-circulars.git scratch/rhnvrm_repo
-
-      # Rebuild index combining live circulars + Rohan dataset
-      - name: Rebuild search index
+      # Rebuild search index & RSS feeds
+      - name: Rebuild search index & RSS
         run: python scripts/build_index.py
 
-      # Commit ONLY search_index.json and RSS feeds (0 raw files in git data/)
-      - name: Commit index
+      # Single commit & push for all changes
+      - name: Commit data and index changes
         run: |
           git config user.email "circulars-bot@github-actions"
           git config user.name  "Circulars Bot"
-          git add docs/search_index.json docs/rss/ || true
+          git add data/ docs/search_index.json docs/rss/ || true
           if git diff --staged --quiet; then
-            echo "No index changes."
+            echo "No new data or index changes."
           else
-            git commit -m "index: $(date -u +'%Y-%m-%d %H:%M UTC') [skip ci]"
+            git commit -m "poll & index: circulars $(date -u +'%Y-%m-%d %H:%M UTC')"
             git pull --rebase origin main
             git push
           fi
 
-  # ── Step 3: Fast GitHub Pages Deploy ──────────────────────────────────────
-  deploy-pages:
-    needs: poll-and-index
-    if: always() && needs.poll-and-index.result == 'success'
-    runs-on: ubuntu-latest
-    permissions:
-      pages: write
-      id-token: write
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
-
-    steps:
-      - uses: actions/checkout@v4.2.2
+      # Prevent GitHub from turning off workflow schedules after 60 days of repo inactivity
+      - name: Keepalive Workflow
+        uses: gautamkrishnar/keepalive-workflow@v2
         with:
-          ref: main
-          fetch-depth: 1
-
-      - name: Setup Pages
-        uses: actions/configure-pages@v5
-
-      - name: Upload docs artifact
-        uses: actions/upload-pages-artifact@v3
-        with:
-          path: 'docs'
-
-      - name: Deploy to GitHub Pages
-        id: deployment
-        uses: actions/deploy-pages@v4
+          time_elapsed: 50
