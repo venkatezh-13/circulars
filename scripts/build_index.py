@@ -17,7 +17,9 @@ import os
 import json
 import glob
 import re
-from datetime import datetime, date
+from datetime import datetime, date, timezone, timedelta
+
+IST = timezone(timedelta(hours=5, minutes=30))
 from generate_rss import generate_rss
 
 REPO_ROOT = os.path.join(os.path.dirname(__file__), "..")
@@ -160,13 +162,13 @@ def main():
     with open(OUT_FILE, "w", encoding="utf-8") as f:
         json.dump(formatted_records, f, separators=(",", ":"), ensure_ascii=False)
 
-    # Write status.json with last fetched timestamp
-    now = datetime.now()
+    # Write status.json with last fetched timestamp in IST
+    now_ist = datetime.now(timezone.utc).astimezone(IST)
     status_file = os.path.join(REPO_ROOT, "docs", "status.json")
     status_data = {
-        "last_updated_iso": now.isoformat(),
-        "last_updated_ts": int(now.timestamp() * 1000),
-        "last_updated_display": now.strftime("%d %b %Y, %I:%M %p IST"),
+        "last_updated_iso": now_ist.isoformat(),
+        "last_updated_ts": int(now_ist.timestamp() * 1000),
+        "last_updated_display": now_ist.strftime("%d %b %Y, %I:%M %p IST"),
         "total_records": len(formatted_records)
     }
     with open(status_file, "w", encoding="utf-8") as f:
