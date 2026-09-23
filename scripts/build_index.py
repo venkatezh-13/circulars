@@ -165,6 +165,7 @@ def main():
     status_file = os.path.join(REPO_ROOT, "docs", "status.json")
     status_data = {
         "last_updated_iso": now.isoformat(),
+        "last_updated_ts": int(now.timestamp() * 1000),
         "last_updated_display": now.strftime("%d %b %Y, %I:%M %p IST"),
         "total_records": len(formatted_records)
     }

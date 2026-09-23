@@ -1456,6 +1456,7 @@ document.getElementById('date-to').addEventListener('change', () => {
 // ── Last Fetched & Action Trigger Logic ────────────────────────────────────────
 const COOLDOWN_MS = 15 * 60 * 1000; // 15 minutes
 let WORKER_PROXY_URL = localStorage.getItem('worker_proxy_url') || 'https://circulars-trigger.venktezh.workers.dev';
+let serverLastFetchTs = 0;
 
 async function fetchStatus() {
   try {
@@ -1465,6 +1466,12 @@ async function fetchStatus() {
       if (data.last_updated_display) {
         document.getElementById('last-fetched-text').textContent = data.last_updated_display;
       }
+      if (data.last_updated_ts) {
+        serverLastFetchTs = data.last_updated_ts;
+      } else if (data.last_updated_iso) {
+        serverLastFetchTs = new Date(data.last_updated_iso).getTime();
+      }
+      updateCooldownUI();
     }
   } catch (e) {
     document.getElementById('last-fetched-text').textContent = '23 Sep 2026';
@@ -1472,15 +1479,16 @@ async function fetchStatus() {
 }
 
 function updateCooldownUI() {
-  const lastTs = parseInt(localStorage.getItem('circulars_last_fetch_ts') || '0', 10);
+  const localLastTs = parseInt(localStorage.getItem('circulars_last_fetch_ts') || '0', 10);
+  const maxLastTs = Math.max(localLastTs, serverLastFetchTs);
   const now = Date.now();
-  const elapsed = now - lastTs;
+  const elapsed = now - maxLastTs;
   const btn = document.getElementById('btn-trigger');
   const tooltip = document.getElementById('trigger-tooltip');
 
   if (!btn || !tooltip) return;
 
-  if (elapsed < COOLDOWN_MS) {
+  if (maxLastTs > 0 && elapsed < COOLDOWN_MS) {
     const remainingSec = Math.ceil((COOLDOWN_MS - elapsed) / 1000);
     const m = Math.floor(remainingSec / 60);
     const s = remainingSec % 60;
@@ -1492,9 +1500,12 @@ function updateCooldownUI() {
   }
 }
 
+setInterval(updateCooldownUI, 1000);
+
 async function handleFetchClick() {
-  const lastTs = parseInt(localStorage.getItem('circulars_last_fetch_ts') || '0', 10);
-  if (Date.now() - lastTs < COOLDOWN_MS) {
+  const localLastTs = parseInt(localStorage.getItem('circulars_last_fetch_ts') || '0', 10);
+  const maxLastTs = Math.max(localLastTs, serverLastFetchTs);
+  if (maxLastTs > 0 && Date.now() - maxLastTs < COOLDOWN_MS) {
     updateCooldownUI();
     return;
   }
