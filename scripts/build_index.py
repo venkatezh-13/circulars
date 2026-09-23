@@ -222,9 +222,7 @@ def main():
     # Load Rohan's dataset directly without storing raw files in git data/
     rhn_records = load_rhnvrm_records()
     
-    # Deduplicate
-    seen_keys = set()
-    formatted_records = []
+    today_iso = date.today().isoformat()
 
     for r in all_records + rhn_records:
         key = (r.get("exchange"), r.get("ref") or r.get("subject"))
@@ -232,14 +230,30 @@ def main():
             continue
         seen_keys.add(key)
 
+        diso = r.get("date_iso") or ""
+        link = r.get("link") or ""
+
+        # Auto-correct BSE date from notice link URL if present
+        if r.get("exchange") == "BSE" and link:
+            m = re.search(r'/Notices/(\d{4})(\d{2})(\d{2})-\d+/', link)
+            if m:
+                diso = f"{m.group(1)}-{m.group(2)}-{m.group(3)}"
+
+        # Safeguard against future dates (e.g. settlement calendar dates mapped to future month)
+        if diso > today_iso:
+            if r.get("ref") == "NSE/MFSS76357":
+                diso = "2026-09-01"
+            else:
+                diso = today_iso
+
         formatted_records.append({
             "exchange": r["exchange"],
-            "date": to_display(r["date_iso"]) if r.get("date_iso") else "",
-            "date_iso": r.get("date_iso") or "",
+            "date": to_display(diso) if diso else "",
+            "date_iso": diso,
             "ref": r.get("ref") or "",
             "subject": r.get("subject") or "",
             "category": r.get("category") or "",
-            "link": r.get("link") or "",
+            "link": link,
         })
 
     # Write index

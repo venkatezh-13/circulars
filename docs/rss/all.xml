@@ -5,7 +5,7 @@
     <link>https://venkatezh-13.github.io/circulars</link>
     <description>NSE, BSE and MCX circulars — last 7 days</description>
     <language>en-in</language>
-    <lastBuildDate>Wed, 23 Sep 2026 09:09:29 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 12:44:55 +0000</lastBuildDate>
     <atom:link href="https://venkatezh-13.github.io/circulars/rss/all.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Listing of Equity Shares of Sonaselection India Limited (IPO)</title>
@@ -830,14 +830,6 @@
       <description>[NSE] NSE/CMPT76415 — NSE Clearing has released the CBRICS settlement calendar and operational</description>
       <category>market-operations</category>
       <pubDate>Fri, 18 Sep 2026 07:30:00 +0530</pubDate>
-    </item>
-    <item>
-      <title>NSE has released the Mutual Fund Service System (MFSS) settlement calendar</title>
-      <link>https://nsearchives.nseindia.com/content/circulars/MFSS76357.zip</link>
-      <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/MFSS76357.zip</guid>
-      <description>[NSE] NSE/MFSS76357 — NSE has released the Mutual Fund Service System (MFSS) settlement calendar</description>
-      <category>market-operations</category>
-      <pubDate>Thu, 01 Oct 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
       <title>NSE circular regarding the shifting of trading in securities of Rajvir</title>
@@ -2064,20 +2056,12 @@
       <pubDate>Mon, 21 Sep 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
-      <title>BSE sought clarification from companies regarding news articles, receiving</title>
-      <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260909-31/20260909-31.pdf</link>
-      <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260909-31/20260909-31.pdf</guid>
-      <description>[BSE] 5bf277fcae8c3566-clarification — BSE sought clarification from companies regarding news articles, receiving</description>
-      <category>disclosure</category>
-      <pubDate>Tue, 29 Sep 2026 07:30:00 +0530</pubDate>
-    </item>
-    <item>
       <title>BSE notice regarding the non-competitive bidding facility for the auction</title>
       <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260921-2/20260921-2.pdf</link>
       <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260921-2/20260921-2.pdf</guid>
       <description>[BSE] 244790f0ec5ee5a4-non-competiti — BSE notice regarding the non-competitive bidding facility for the auction</description>
       <category>trading</category>
-      <pubDate>Sun, 20 Sep 2026 07:30:00 +0530</pubDate>
+      <pubDate>Mon, 21 Sep 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
       <title>BSE notice regarding partial redemption and reduced face value of debentures</title>
