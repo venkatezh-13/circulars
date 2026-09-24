@@ -5,7 +5,7 @@
     <link>https://venkatezh-13.github.io/circulars</link>
     <description>MCX circulars — last 7 days</description>
     <language>en-in</language>
-    <lastBuildDate>Wed, 23 Sep 2026 21:41:19 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 03:39:57 +0000</lastBuildDate>
     <atom:link href="https://venkatezh-13.github.io/circulars/rss/mcx.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Revision in tenure of Bank Guarantee receipt</title>
@@ -94,30 +94,6 @@
       <description>[MCX] 524 — Mock Trading</description>
       <category>TECH</category>
       <pubDate>Thu, 17 Sep 2026 07:30:00 +0530</pubDate>
-    </item>
-    <item>
-      <title>Implementation of New Interface - MCX UCC File Formats (Version 1.1) and UCC-API</title>
-      <link>https://www.mcxindia.com/docs/default-source/circulars/english/2026/september/circular---523---2026.pdf?sfvrsn=4873bdce_1</link>
-      <guid isPermaLink="false">https://www.mcxindia.com/docs/default-source/circulars/english/2026/september/circular---523---2026.pdf?sfvrsn=4873bdce_1</guid>
-      <description>[MCX] 523 — Implementation of New Interface - MCX UCC File Formats (Version 1.1) and UCC-API</description>
-      <category>T&amp;S</category>
-      <pubDate>Wed, 16 Sep 2026 07:30:00 +0530</pubDate>
-    </item>
-    <item>
-      <title>Guidelines in pursuance of amendment to SEBI KYC (Know Your client)</title>
-      <link>https://www.mcxindia.com/docs/default-source/circulars/english/2026/september/circular---522---2026.pdf?sfvrsn=c4491784_1</link>
-      <guid isPermaLink="false">https://www.mcxindia.com/docs/default-source/circulars/english/2026/september/circular---522---2026.pdf?sfvrsn=c4491784_1</guid>
-      <description>[MCX] 522 — Guidelines in pursuance of amendment to SEBI KYC (Know Your client)</description>
-      <category>T&amp;S</category>
-      <pubDate>Wed, 16 Sep 2026 07:30:00 +0530</pubDate>
-    </item>
-    <item>
-      <title>Due Date Rates</title>
-      <link>https://www.mcxindia.com/docs/default-source/circulars/english/2026/september/circular-521-2026.pdf?sfvrsn=c0f05c4c_1</link>
-      <guid isPermaLink="false">https://www.mcxindia.com/docs/default-source/circulars/english/2026/september/circular-521-2026.pdf?sfvrsn=c0f05c4c_1</guid>
-      <description>[MCX] 521 — Due Date Rates</description>
-      <category>MCXCCL</category>
-      <pubDate>Wed, 16 Sep 2026 07:30:00 +0530</pubDate>
     </item>
   </channel>
 </rss>
