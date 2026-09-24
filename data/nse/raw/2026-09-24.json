@@ -1,1 +1,16 @@
-[]
+[
+  {
+    "date": "September 24, 2026",
+    "department": "Surveillance & Investigation",
+    "subject": "Reversal Trade Cancellation Mechanism",
+    "circular_ref": "NSE/SURV/76510",
+    "link": "https://nsearchives.nseindia.com/content/circulars/SURV76510.zip"
+  },
+  {
+    "date": "September 24, 2026",
+    "department": "Electronic Gold Receipt",
+    "subject": "Dissemination of Quantity Freeze Report for Electronic Gold Receipt Segment",
+    "circular_ref": "NSE/EGR/76507",
+    "link": "https://nsearchives.nseindia.com/content/circulars/EGR76507.pdf"
+  }
+]
