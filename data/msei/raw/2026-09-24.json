@@ -218,5 +218,71 @@
     "category": "Capital Market",
     "department": "Surveillance",
     "link": "https://www.msei.in/SX-Content/Circulars/2026/September/Circular-19765.pdf"
+  },
+  {
+    "exchange": "MSEI",
+    "circular_no": "19790",
+    "date": "24-Sep-2026",
+    "date_iso": "2026-09-24",
+    "title": "Change in ISIN – NATURITE AGRO PRODUCTS LTD (NAPL)",
+    "subject": "Change in ISIN – NATURITE AGRO PRODUCTS LTD (NAPL)",
+    "category": "Capital Market",
+    "department": "Listing",
+    "link": "https://www.msei.in/SX-Content/Circulars/2026/September/Circular-19790.pdf"
+  },
+  {
+    "exchange": "MSEI",
+    "circular_no": "19789",
+    "date": "24-Sep-2026",
+    "date_iso": "2026-09-24",
+    "title": "Admission of Security under “Permitted to Trade” Category – Rays of Belief Limited (MOMSBELIEF)",
+    "subject": "Admission of Security under “Permitted to Trade” Category – Rays of Belief Limited (MOMSBELIEF)",
+    "category": "Capital Market",
+    "department": "Listing",
+    "link": "https://www.msei.in/SX-Content/Circulars/2026/September/Circular-19789.pdf"
+  },
+  {
+    "exchange": "MSEI",
+    "circular_no": "19788",
+    "date": "24-Sep-2026",
+    "date_iso": "2026-09-24",
+    "title": "Mock Trading in Equity Derivatives Segment from Disaster Recovery (DR) Site on Saturday, September 26,2026",
+    "subject": "Mock Trading in Equity Derivatives Segment from Disaster Recovery (DR) Site on Saturday, September 26,2026",
+    "category": "Futures & Options",
+    "department": "Trading",
+    "link": "https://www.msei.in/SX-Content/Circulars/2026/September/Circular-19788.pdf"
+  },
+  {
+    "exchange": "MSEI",
+    "circular_no": "19787",
+    "date": "24-Sep-2026",
+    "date_iso": "2026-09-24",
+    "title": "Mock Trading in Currency Derivatives Segment from Disaster Recovery (DR) Site on Saturday, September 26, 2026",
+    "subject": "Mock Trading in Currency Derivatives Segment from Disaster Recovery (DR) Site on Saturday, September 26, 2026",
+    "category": "Currency Derivatives",
+    "department": "Trading",
+    "link": "https://www.msei.in/SX-Content/Circulars/2026/September/Circular-19787.pdf"
+  },
+  {
+    "exchange": "MSEI",
+    "circular_no": "19786",
+    "date": "24-Sep-2026",
+    "date_iso": "2026-09-24",
+    "title": "Mock Trading in Capital Market Segment from Disaster Recovery (DR) Site on Saturday, September 26, 2026",
+    "subject": "Mock Trading in Capital Market Segment from Disaster Recovery (DR) Site on Saturday, September 26, 2026",
+    "category": "Capital Market",
+    "department": "Trading",
+    "link": "https://www.msei.in/SX-Content/Circulars/2026/September/Circular-19786.pdf"
+  },
+  {
+    "exchange": "MSEI",
+    "circular_no": "19785",
+    "date": "24-Sep-2026",
+    "date_iso": "2026-09-24",
+    "title": "Exclusion of Futures and Options contracts on Two Securities",
+    "subject": "Exclusion of Futures and Options contracts on Two Securities",
+    "category": "Futures & Options",
+    "department": "Trading",
+    "link": "https://www.msei.in/SX-Content/Circulars/2026/September/Circular-19785.pdf"
   }
 ]
