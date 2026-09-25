@@ -5,7 +5,7 @@
     <link>https://venkatezh-13.github.io/circulars</link>
     <description>MSEI circulars — last 7 days</description>
     <language>en-in</language>
-    <lastBuildDate>Fri, 25 Sep 2026 11:23:11 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 11:24:56 +0000</lastBuildDate>
     <atom:link href="https://venkatezh-13.github.io/circulars/rss/msei.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Applicability of Enhanced Surveillance Measure (ESM)</title>
@@ -246,6 +246,14 @@
       <description>[MSEI] 19791 — Applicability of Additional Surveillance Measure (ASM)</description>
       <category>Capital Market</category>
       <pubDate>Thu, 24 Sep 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>SEBI Order in the matter of Non-Compliance of Minimum Public Shareholding in Omaxe  Limited</title>
+      <link>https://www.msei.in/SX-Content/Circulars/2026/September/Circular-19796.pdf</link>
+      <guid isPermaLink="false">https://www.msei.in/SX-Content/Circulars/2026/September/Circular-19796.pdf</guid>
+      <description>[MSEI] 19796 — SEBI Order in the matter of Non-Compliance of Minimum Public Shareholding in Omaxe  Limited</description>
+      <category>All</category>
+      <pubDate>Fri, 25 Sep 2026 07:30:00 +0530</pubDate>
     </item>
   </channel>
 </rss>
