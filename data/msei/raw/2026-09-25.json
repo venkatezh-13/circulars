@@ -1,6 +1,7 @@
 [
   {
     "exchange": "MSEI",
+<<<<<<< HEAD
     "circular_no": "19796",
     "date": "25-Sep-2026",
     "date_iso": "2026-09-25",
@@ -12,6 +13,8 @@
   },
   {
     "exchange": "MSEI",
+=======
+>>>>>>> 6d7a3364fb056d2bd959a40de9ef08dfb2c8d151
     "circular_no": "19794",
     "date": "24-Sep-2026",
     "date_iso": "2026-09-24",
@@ -218,5 +221,30 @@
     "category": "Capital Market",
     "department": "Surveillance",
     "link": "https://www.msei.in/SX-Content/Circulars/2026/September/Circular-19776.pdf"
+<<<<<<< HEAD
+=======
+  },
+  {
+    "exchange": "MSEI",
+    "circular_no": "19775",
+    "date": "22-Sep-2026",
+    "date_iso": "2026-09-22",
+    "title": "Applicability of Enhanced Surveillance Measure (ESM)",
+    "subject": "Applicability of Enhanced Surveillance Measure (ESM)",
+    "category": "Capital Market",
+    "department": "Surveillance",
+    "link": "https://www.msei.in/SX-Content/Circulars/2026/September/Circular-19775.zip"
+  },
+  {
+    "exchange": "MSEI",
+    "circular_no": "19796",
+    "date": "25-Sep-2026",
+    "date_iso": "2026-09-25",
+    "title": "SEBI Order in the matter of Non-Compliance of Minimum Public Shareholding in Omaxe  Limited",
+    "subject": "SEBI Order in the matter of Non-Compliance of Minimum Public Shareholding in Omaxe  Limited",
+    "category": "All",
+    "department": "Investigation",
+    "link": "https://www.msei.in/SX-Content/Circulars/2026/September/Circular-19796.pdf"
+>>>>>>> 6d7a3364fb056d2bd959a40de9ef08dfb2c8d151
   }
 ]

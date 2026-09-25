@@ -1,6 +1,7 @@
 [
   {
     "date": "September 25, 2026",
+<<<<<<< HEAD
     "department": "Listing",
     "subject": "Listing of privately placed securities on the debt market segment of the Exchange",
     "circular_ref": "NSE/CML/76559",
@@ -107,6 +108,9 @@
   {
     "date": "September 25, 2026",
     "department": "Capital Market (Equities) Trade",
+=======
+    "department": "Emerge",
+>>>>>>> 6d7a3364fb056d2bd959a40de9ef08dfb2c8d151
     "subject": "Mock trading on Saturday, September 26, 2026 - No new version release",
     "circular_ref": "NSE/CMTR/76542",
     "link": "https://nsearchives.nseindia.com/content/circulars/CMTR76542.pdf"
