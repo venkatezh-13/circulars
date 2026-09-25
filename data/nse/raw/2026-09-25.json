@@ -1,7 +1,76 @@
 [
   {
     "date": "September 25, 2026",
-<<<<<<< HEAD
+    "department": "Inspection & Compliance",
+    "subject": "Submission of Associates details by Clearing Members",
+    "circular_ref": "NCL/CMPL/76570",
+    "link": "https://nsearchives.nseindia.com/content/circulars/CMPL76570.zip"
+  },
+  {
+    "date": "September 25, 2026",
+    "department": "Listing",
+    "subject": "Listing of further issues of securities",
+    "circular_ref": "NSE/CML/76569",
+    "link": "https://nsearchives.nseindia.com/content/circulars/CML76569.pdf"
+  },
+  {
+    "date": "September 25, 2026",
+    "department": "Listing",
+    "subject": "Listing of Partly Paid up Equity Shares allotted on Rights Basis of Jaykay Enterprises Limited",
+    "circular_ref": "NSE/CML/76568",
+    "link": "https://nsearchives.nseindia.com/content/circulars/CML76568.pdf"
+  },
+  {
+    "date": "September 25, 2026",
+    "department": "Emerge",
+    "subject": "Trading of Rights Entitlements pursuant to Rights Issue of Party Cruisers Limited",
+    "circular_ref": "NSE/CML/76567",
+    "link": "https://nsearchives.nseindia.com/content/circulars/CML76567.pdf"
+  },
+  {
+    "date": "September 25, 2026",
+    "department": "Surveillance & Investigation",
+    "subject": "Applicability of Enhanced Surveillance Measure (ESM)",
+    "circular_ref": "NSE/SURV/76566",
+    "link": "https://nsearchives.nseindia.com/content/circulars/SURV76566.zip"
+  },
+  {
+    "date": "September 25, 2026",
+    "department": "Surveillance & Investigation",
+    "subject": "Revised ratios for conversion of USDINR 1 million equivalent",
+    "circular_ref": "NSE/SURV/76565",
+    "link": "https://nsearchives.nseindia.com/content/circulars/SURV76565.pdf"
+  },
+  {
+    "date": "September 25, 2026",
+    "department": "Listing",
+    "subject": "Suspension of trading in equity shares - Shri Ram Switchgears Limited",
+    "circular_ref": "NSE/CML/76563",
+    "link": "https://nsearchives.nseindia.com/content/circulars/CML76563.pdf"
+  },
+  {
+    "date": "September 25, 2026",
+    "department": "Surveillance & Investigation",
+    "subject": "Applicability of Short-Term Additional Surveillance Measure (ST-ASM)",
+    "circular_ref": "NSE/SURV/76562",
+    "link": "https://nsearchives.nseindia.com/content/circulars/SURV76562.zip"
+  },
+  {
+    "date": "September 25, 2026",
+    "department": "Surveillance & Investigation",
+    "subject": "Applicability of Additional Surveillance Measure (ASM)",
+    "circular_ref": "NSE/SURV/76561",
+    "link": "https://nsearchives.nseindia.com/content/circulars/SURV76561.zip"
+  },
+  {
+    "date": "September 25, 2026",
+    "department": "Listing",
+    "subject": "Listing of further issue of securities",
+    "circular_ref": "NSE/CML/76560",
+    "link": "https://nsearchives.nseindia.com/content/circulars/CML76560.pdf"
+  },
+  {
+    "date": "September 25, 2026",
     "department": "Listing",
     "subject": "Listing of privately placed securities on the debt market segment of the Exchange",
     "circular_ref": "NSE/CML/76559",
@@ -10,9 +79,23 @@
   {
     "date": "September 25, 2026",
     "department": "Listing",
+    "subject": "Suspension of trading in T-Bills, State Government Bonds, Sovereign Gold Bonds and Government Securities - On account of redemption",
+    "circular_ref": "NSE/CML/76558",
+    "link": "https://nsearchives.nseindia.com/content/circulars/CML76558.pdf"
+  },
+  {
+    "date": "September 25, 2026",
+    "department": "Listing",
     "subject": "Suspension of trading in Non-Convertible Securities (Privately Placed",
     "circular_ref": "NSE/CML/76557",
     "link": "https://nsearchives.nseindia.com/content/circulars/CML76557.pdf"
+  },
+  {
+    "date": "September 25, 2026",
+    "department": "Listing",
+    "subject": "Early redemption facility for SGBs held in Physical Mode - October 2026 - December 2026",
+    "circular_ref": "NSE/CML/76556",
+    "link": "https://nsearchives.nseindia.com/content/circulars/CML76556.zip"
   },
   {
     "date": "September 25, 2026",
@@ -79,14 +162,14 @@
   },
   {
     "date": "September 25, 2026",
-    "department": "Emerge",
+    "department": "Listing",
     "subject": "Trade for Trade - Kheria Autocomp Limited (SME IPO)",
     "circular_ref": "NSE/CML/76546",
     "link": "https://nsearchives.nseindia.com/content/circulars/CML76546.pdf"
   },
   {
     "date": "September 25, 2026",
-    "department": "Emerge",
+    "department": "Listing",
     "subject": "Trade for Trade - SpectraA Technology Solutions Limited (SME IPO)",
     "circular_ref": "NSE/CML/76545",
     "link": "https://nsearchives.nseindia.com/content/circulars/CML76545.pdf"
@@ -108,9 +191,6 @@
   {
     "date": "September 25, 2026",
     "department": "Capital Market (Equities) Trade",
-=======
-    "department": "Emerge",
->>>>>>> 6d7a3364fb056d2bd959a40de9ef08dfb2c8d151
     "subject": "Mock trading on Saturday, September 26, 2026 - No new version release",
     "circular_ref": "NSE/CMTR/76542",
     "link": "https://nsearchives.nseindia.com/content/circulars/CMTR76542.pdf"

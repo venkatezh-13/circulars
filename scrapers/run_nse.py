@@ -18,7 +18,10 @@ def main():
     existing = []
     if os.path.exists(out_file):
         with open(out_file, encoding="utf-8") as f:
-            existing = json.load(f)
+            try:
+                existing = json.load(f)
+            except Exception:
+                existing = []
 
     existing_refs = {c.get("circular_ref") for c in existing}
     new = [c.__dict__ if hasattr(c, "__dict__") else c for c in circulars
