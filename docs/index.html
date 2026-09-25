@@ -1062,7 +1062,7 @@ async function loadData() {
   }
 
   try {
-    const res = await fetch('search_index.json');
+    const res = await fetch('search_index.json?v=' + Date.now());
     if (!res.ok) throw new Error(res.status);
     allData = await res.json();
 
