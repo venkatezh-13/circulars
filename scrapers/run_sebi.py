@@ -39,7 +39,10 @@ def main():
         existing = []
         if os.path.exists(out_file):
             with open(out_file, encoding="utf-8") as f:
-                existing = json.load(f)
+                try:
+                    existing = json.load(f)
+                except Exception:
+                    existing = []
         
         # Merge and deduplicate
         seen = {c.get("notice_no", "") for c in existing}

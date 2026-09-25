@@ -22,7 +22,10 @@ def main():
     existing = []
     if os.path.exists(out_file):
         with open(out_file, encoding="utf-8") as f:
-            existing = json.load(f)
+            try:
+                existing = json.load(f)
+            except Exception:
+                existing = []
 
     seen = {c.get("circular_no", "") or c.get("title", "") for c in existing}
     for item in circulars:
