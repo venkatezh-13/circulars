@@ -1075,7 +1075,9 @@ async function loadData() {
   }
 
   try {
-    const res = await fetch('../search_index.json?v=' + Date.now());
+    let res = await fetch('../search_index.json?v=' + Date.now());
+    if (!res.ok) res = await fetch('search_index.json?v=' + Date.now());
+    if (!res.ok) res = await fetch('/search_index.json?v=' + Date.now());
     if (!res.ok) throw new Error(res.status);
     allData = await res.json();
 
@@ -1473,7 +1475,9 @@ let serverLastFetchTs = 0;
 
 async function fetchStatus() {
   try {
-    const res = await fetch('../status.json?t=' + Date.now());
+    let res = await fetch('../status.json?t=' + Date.now());
+    if (!res.ok) res = await fetch('status.json?t=' + Date.now());
+    if (!res.ok) res = await fetch('/status.json?t=' + Date.now());
     if (res.ok) {
       const data = await res.json();
       if (data.last_updated_display) {
@@ -1487,7 +1491,7 @@ async function fetchStatus() {
       updateCooldownUI();
     }
   } catch (e) {
-    document.getElementById('last-fetched-text').textContent = '23 Sep 2026';
+    console.error('fetchStatus failed:', e);
   }
 }
 
