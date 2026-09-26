@@ -100,6 +100,6 @@ jobs:
             echo "No new data or index changes."
           else
             git commit -m "poll & index: circulars $(date -u +'%Y-%m-%d %H:%M UTC')"
-            git pull --rebase --autostash origin main
-            git push
+            git pull --rebase --autostash origin main || git rebase --skip || true
+            git push || (git pull --rebase origin main && git push)
           fi

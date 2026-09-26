@@ -53,8 +53,10 @@ def main():
                 seen.add(notice_no)
         
         # Save merged results
-        with open(out_file, "w", encoding="utf-8") as f:
+        tmp_file = out_file + ".tmp"
+        with open(tmp_file, "w", encoding="utf-8") as f:
             json.dump(existing, f, indent=2, ensure_ascii=False)
+        os.replace(tmp_file, out_file)
         
         print(f"Saved {len(existing)} SEBI circulars to {out_file}")
         

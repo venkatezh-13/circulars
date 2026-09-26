@@ -34,8 +34,10 @@ def main():
             existing.append(item)
             seen.add(key)
 
-    with open(out_file, "w", encoding="utf-8") as f:
+    tmp_file = out_file + ".tmp"
+    with open(tmp_file, "w", encoding="utf-8") as f:
         json.dump(existing, f, indent=2, ensure_ascii=False)
+    os.replace(tmp_file, out_file)
 
     print(f"Saved {len(existing)} MSEI circulars to {out_file}")
 

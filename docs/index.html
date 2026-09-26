@@ -1502,6 +1502,7 @@ function updateCooldownUI() {
 }
 
 setInterval(updateCooldownUI, 1000);
+setInterval(fetchStatus, 30000);
 
 async function handleFetchClick() {
   const localLastTs = parseInt(localStorage.getItem('circulars_last_fetch_ts') || '0', 10);

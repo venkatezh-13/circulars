@@ -37,8 +37,10 @@ def main():
             seen.add(key)
             unique.append(item)
 
-    with open(out_file, "w", encoding="utf-8") as f:
+    tmp_file = out_file + ".tmp"
+    with open(tmp_file, "w", encoding="utf-8") as f:
         json.dump(unique, f, indent=2, ensure_ascii=False)
+    os.replace(tmp_file, out_file)
 
     print(f"Saved {len(unique)} NSE circulars to {out_file}")
 
