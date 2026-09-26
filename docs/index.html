@@ -1062,7 +1062,7 @@ async function loadData() {
   }
 
   try {
-    const res = await fetch('search_index.json?v=' + Date.now());
+    const res = await fetch('search_index.json?v=' + Date.now(), { cache: 'no-store' });
     if (!res.ok) throw new Error(res.status);
     allData = await res.json();
 
@@ -1460,7 +1460,7 @@ let serverLastFetchTs = 0;
 
 async function fetchStatus() {
   try {
-    const res = await fetch('status.json?t=' + Date.now());
+    const res = await fetch('status.json?t=' + Date.now(), { cache: 'no-store' });
     if (res.ok) {
       const data = await res.json();
       const el = document.getElementById('last-fetched-text');
