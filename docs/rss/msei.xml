@@ -5,7 +5,7 @@
     <link>https://venkatezh-13.github.io/circulars</link>
     <description>MSEI circulars — last 7 days</description>
     <language>en-in</language>
-    <lastBuildDate>Mon, 28 Sep 2026 08:23:21 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 11:01:17 +0000</lastBuildDate>
     <atom:link href="https://venkatezh-13.github.io/circulars/rss/msei.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Applicability of Enhanced Surveillance Measure (ESM)</title>
@@ -286,6 +286,14 @@
       <description>[MSEI] 19766 — Shifting of trading in Securities to “BZ” Series  - Regency World Consulting Limited (RWCL)</description>
       <category>Capital Market</category>
       <pubDate>Mon, 21 Sep 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>Liquidity Enhancement Scheme - II Equity</title>
+      <link>https://www.msei.in/SX-Content/Circulars/2026/September/Circular-19801.pdf</link>
+      <guid isPermaLink="false">https://www.msei.in/SX-Content/Circulars/2026/September/Circular-19801.pdf</guid>
+      <description>[MSEI] 19801 — Liquidity Enhancement Scheme - II Equity</description>
+      <category>Capital Market</category>
+      <pubDate>Mon, 28 Sep 2026 07:30:00 +0530</pubDate>
     </item>
   </channel>
 </rss>
