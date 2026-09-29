@@ -262,5 +262,60 @@
     "category": "Capital Market",
     "department": "Listing",
     "link": "https://www.msei.in/SX-Content/Circulars/2026/September/Circular-19810.pdf"
+  },
+  {
+    "exchange": "MSEI",
+    "circular_no": "19815",
+    "date": "29-Sep-2026",
+    "date_iso": "2026-09-29",
+    "title": "Applicability of Additional Surveillance Measure under IBC",
+    "subject": "Applicability of Additional Surveillance Measure under IBC",
+    "category": "Capital Market",
+    "department": "Surveillance",
+    "link": "https://www.msei.in/SX-Content/Circulars/2026/September/Circular-19815.zip"
+  },
+  {
+    "exchange": "MSEI",
+    "circular_no": "19814",
+    "date": "29-Sep-2026",
+    "date_iso": "2026-09-29",
+    "title": "Applicability of Enhanced Surveillance Measure (ESM)",
+    "subject": "Applicability of Enhanced Surveillance Measure (ESM)",
+    "category": "Capital Market",
+    "department": "Surveillance",
+    "link": "https://www.msei.in/SX-Content/Circulars/2026/September/Circular-19814.zip"
+  },
+  {
+    "exchange": "MSEI",
+    "circular_no": "19813",
+    "date": "29-Sep-2026",
+    "date_iso": "2026-09-29",
+    "title": "Applicability of Short Term Additional Surveillance Measure (ST-ASM)",
+    "subject": "Applicability of Short Term Additional Surveillance Measure (ST-ASM)",
+    "category": "Capital Market",
+    "department": "Surveillance",
+    "link": "https://www.msei.in/SX-Content/Circulars/2026/September/Circular-19813.zip"
+  },
+  {
+    "exchange": "MSEI",
+    "circular_no": "19812",
+    "date": "29-Sep-2026",
+    "date_iso": "2026-09-29",
+    "title": "Applicability of Additional Surveillance Measure (ASM)",
+    "subject": "Applicability of Additional Surveillance Measure (ASM)",
+    "category": "Capital Market",
+    "department": "Surveillance",
+    "link": "https://www.msei.in/SX-Content/Circulars/2026/September/Circular-19812.zip"
+  },
+  {
+    "exchange": "MSEI",
+    "circular_no": "19809",
+    "date": "29-Sep-2026",
+    "date_iso": "2026-09-29",
+    "title": "Lot Size - Introduction of Futures & Options Contracts on Individual securities",
+    "subject": "Lot Size - Introduction of Futures & Options Contracts on Individual securities",
+    "category": "Futures & Options",
+    "department": "Trading",
+    "link": "https://www.msei.in/SX-Content/Circulars/2026/September/Circular-19809.pdf"
   }
 ]
