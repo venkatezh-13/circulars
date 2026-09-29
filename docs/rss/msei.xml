@@ -5,7 +5,7 @@
     <link>https://venkatezh-13.github.io/circulars</link>
     <description>MSEI circulars — last 7 days</description>
     <language>en-in</language>
-    <lastBuildDate>Tue, 29 Sep 2026 04:46:32 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 09:19:57 +0000</lastBuildDate>
     <atom:link href="https://venkatezh-13.github.io/circulars/rss/msei.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Applicability of Enhanced Surveillance Measure (ESM)</title>
@@ -294,6 +294,22 @@
       <description>[MSEI] 19802 — Admission of Security under “Permitted to Trade” Category – Varmora Granito Limited (VARMORA)</description>
       <category>Capital Market</category>
       <pubDate>Mon, 28 Sep 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>SEBI Final Order in the matter of Growpital Platform</title>
+      <link>https://www.msei.in/SX-Content/Circulars/2026/September/Circular-19808.pdf</link>
+      <guid isPermaLink="false">https://www.msei.in/SX-Content/Circulars/2026/September/Circular-19808.pdf</guid>
+      <description>[MSEI] 19808 — SEBI Final Order in the matter of Growpital Platform</description>
+      <category>All</category>
+      <pubDate>Tue, 29 Sep 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>Public Notification for Surrender of Membership-HTS Securities Pvt. Ltd</title>
+      <link>https://www.msei.in/SX-Content/Circulars/2026/September/Circular-19807.pdf</link>
+      <guid isPermaLink="false">https://www.msei.in/SX-Content/Circulars/2026/September/Circular-19807.pdf</guid>
+      <description>[MSEI] 19807 — Public Notification for Surrender of Membership-HTS Securities Pvt. Ltd</description>
+      <category>Currency Derivatives, Capital Market, Futures &amp; Options</category>
+      <pubDate>Tue, 29 Sep 2026 07:30:00 +0530</pubDate>
     </item>
   </channel>
 </rss>

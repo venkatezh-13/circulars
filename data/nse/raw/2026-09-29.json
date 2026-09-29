@@ -1,1 +1,23 @@
-[]
+[
+  {
+    "date": "September 29, 2026",
+    "department": "Listing",
+    "subject": "Listing of Equity Shares of Swastika Infra Limited (IPO)",
+    "circular_ref": "NSE/CML/76601",
+    "link": "https://nsearchives.nseindia.com/content/circulars/CML76601.pdf"
+  },
+  {
+    "date": "September 29, 2026",
+    "department": "Listing",
+    "subject": "Listing of Equity Shares of Adroit Industries (India) Limited (IPO)",
+    "circular_ref": "NSE/CML/76599",
+    "link": "https://nsearchives.nseindia.com/content/circulars/CML76599.pdf"
+  },
+  {
+    "date": "September 29, 2026",
+    "department": "Mutual Fund",
+    "subject": "Launch of Whiteoak Capital Diversified Equity Small Cap Active FOF on NSE MF Invest Platform",
+    "circular_ref": "NSE/NMF/76596",
+    "link": "https://nsearchives.nseindia.com/content/circulars/NMF76596.pdf"
+  }
+]

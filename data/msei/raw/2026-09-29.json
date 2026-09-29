@@ -218,5 +218,27 @@
     "category": "Currency Derivatives",
     "department": "Trading",
     "link": "https://www.msei.in/SX-Content/Circulars/2026/September/Circular-19787.pdf"
+  },
+  {
+    "exchange": "MSEI",
+    "circular_no": "19808",
+    "date": "29-Sep-2026",
+    "date_iso": "2026-09-29",
+    "title": "SEBI Final Order in the matter of Growpital Platform",
+    "subject": "SEBI Final Order in the matter of Growpital Platform",
+    "category": "All",
+    "department": "Investigation",
+    "link": "https://www.msei.in/SX-Content/Circulars/2026/September/Circular-19808.pdf"
+  },
+  {
+    "exchange": "MSEI",
+    "circular_no": "19807",
+    "date": "29-Sep-2026",
+    "date_iso": "2026-09-29",
+    "title": "Public Notification for Surrender of Membership-HTS Securities Pvt. Ltd",
+    "subject": "Public Notification for Surrender of Membership-HTS Securities Pvt. Ltd",
+    "category": "Currency Derivatives, Capital Market, Futures & Options",
+    "department": "Membership",
+    "link": "https://www.msei.in/SX-Content/Circulars/2026/September/Circular-19807.pdf"
   }
 ]
