@@ -5,7 +5,7 @@
     <link>https://venkatezh-13.github.io/circulars</link>
     <description>NSE, BSE and MCX circulars — last 7 days</description>
     <language>en-in</language>
-    <lastBuildDate>Wed, 30 Sep 2026 10:27:26 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 10:45:34 +0000</lastBuildDate>
     <atom:link href="https://venkatezh-13.github.io/circulars/rss/all.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Submission of Associates details by Clearing Members</title>
@@ -909,6 +909,30 @@
       <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/CML76636.pdf</guid>
       <description>[NSE] NSE/CML/76636 — Listing of Equity Shares of A-One Steels India Limited (IPO)</description>
       <category>Listing</category>
+      <pubDate>Wed, 30 Sep 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>Buyback Offer under Tender Offer scheme of Global Pet Industries Limited</title>
+      <link>https://nsearchives.nseindia.com/content/circulars/CML76641.pdf</link>
+      <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/CML76641.pdf</guid>
+      <description>[NSE] NSE/CML/76641 — Buyback Offer under Tender Offer scheme of Global Pet Industries Limited</description>
+      <category>Listing</category>
+      <pubDate>Wed, 30 Sep 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>Due Date Rates (DDR) - Monthly Electricity Futures in Commodity Derivatives Segment</title>
+      <link>https://nsearchives.nseindia.com/content/circulars/COM76639.pdf</link>
+      <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/COM76639.pdf</guid>
+      <description>[NSE] NCL/COM/76639 — Due Date Rates (DDR) - Monthly Electricity Futures in Commodity Derivatives Segment</description>
+      <category>Commodity Derivatives</category>
+      <pubDate>Wed, 30 Sep 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>Non-Business Day for certain schemes of Mutual Fund on NSE MF Invest Platform for October 2026</title>
+      <link>https://nsearchives.nseindia.com/content/circulars/NMF76637.zip</link>
+      <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/NMF76637.zip</guid>
+      <description>[NSE] NSE/NMF/76637 — Non-Business Day for certain schemes of Mutual Fund on NSE MF Invest Platform for October 2026</description>
+      <category>Mutual Fund</category>
       <pubDate>Wed, 30 Sep 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
@@ -2530,6 +2554,14 @@ Solutions Ltd</description>
       <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260930-10/20260930-10.pdf</link>
       <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260930-10/20260930-10.pdf</guid>
       <description>[BSE] 20260930-10 — Demat Auction 725</description>
+      <category>General / Circular</category>
+      <pubDate>Wed, 30 Sep 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>Quarterly Cyber Incident reporting under Cyber Security &amp; Cyber Resilience Framework for Regulated Entities (REs).</title>
+      <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20260930-23/20260930-23.pdf</link>
+      <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20260930-23/20260930-23.pdf</guid>
+      <description>[BSE] 20260930-23 — Quarterly Cyber Incident reporting under Cyber Security &amp; Cyber Resilience Framework for Regulated Entities (REs).</description>
       <category>General / Circular</category>
       <pubDate>Wed, 30 Sep 2026 07:30:00 +0530</pubDate>
     </item>
