@@ -16,17 +16,24 @@ MONTH_MAP = {
 def parse_date_iso(date_str: str, default_iso: str) -> str:
     if not date_str:
         return default_iso
-    m = re.search(r'(\d{1,2})[\s\-]+([A-Za-z]{3})[\s\-]+(\d{4})', str(date_str))
+    s = str(date_str).strip().replace(',', ', ').replace('  ', ' ')
+    for fmt in ("%B %d, %Y", "%b %d, %Y", "%d %B %Y", "%d %b %Y"):
+        try:
+            return datetime.strptime(s, fmt).strftime("%Y-%m-%d")
+        except ValueError:
+            pass
+    m = re.search(r'(\d{1,2})[\s\-]+([A-Za-z]{3,9})[\s\-]+(\d{4})', s)
     if m:
-        day, month_name, year = m.group(1), m.group(2).lower(), m.group(3)
+        day, month_name, year = m.group(1), m.group(2).lower()[:3], m.group(3)
         month = MONTH_MAP.get(month_name, '01')
         return f"{year}-{month}-{day.zfill(2)}"
-    m2 = re.search(r'(\d{4})(\d{2})(\d{2})', str(date_str))
+    m2 = re.search(r'(\d{4})(\d{2})(\d{2})', s)
     if m2:
         return f"{m2.group(1)}-{m2.group(2)}-{m2.group(3)}"
-    if re.match(r'^\d{4}-\d{2}-\d{2}$', str(date_str)):
-        return str(date_str)
+    if re.match(r'^\d{4}-\d{2}-\d{2}$', s):
+        return s
     return default_iso
+
 
 def get_start_date(out_dir: str, default_lookback_days: int = 7) -> date:
     today = date.today()

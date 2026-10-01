@@ -1,1 +1,23 @@
-[]
+[
+  {
+    "date": "30 Sep 2026",
+    "category": "MCXCCL",
+    "title": "Due Date Rates",
+    "circular_no": "555",
+    "link": "https://www.mcxindia.com/docs/default-source/circulars/english/2026/september/circular---555---2026.pdf?sfvrsn=329c212a_1"
+  },
+  {
+    "date": "30 Sep 2026",
+    "category": "TECH",
+    "title": "Information sharing on Cyber Security Incident",
+    "circular_no": "554",
+    "link": "https://www.mcxindia.com/docs/default-source/circulars/english/2026/september/mcxtech5542026--information-sharing-on-cyber-security-incident.pdf?sfvrsn=20f44001_1"
+  },
+  {
+    "date": "30 Sep 2026",
+    "category": "TECH",
+    "title": "Reporting of Artificial Intelligence (AI) and Machine Learning (ML) and systems offered and used by members of the Exchange.",
+    "circular_no": "553",
+    "link": "https://www.mcxindia.com/docs/default-source/circulars/english/2026/september/mcxtech5532026---artificial-intelligence-(ai)-and-machine-learning-(ml).pdf?sfvrsn=a934178a_1"
+  }
+]
