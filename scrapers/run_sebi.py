@@ -83,9 +83,9 @@ def main():
                     except Exception:
                         existing = []
 
-            seen = {c.get("notice_no", "") or c.get("subject", "") for c in existing}
+            seen = {c.get("pdf_url", "") or c.get("notice_no", "") or c.get("subject", "") for c in existing}
             for c in new_items:
-                notice_no = c.get("notice_no", "") or c.get("subject", "")
+                notice_no = c.get("pdf_url", "") or c.get("notice_no", "") or c.get("subject", "")
                 if notice_no and notice_no not in seen:
                     existing.append(c)
                     seen.add(notice_no)

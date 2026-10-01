@@ -291,7 +291,6 @@ def scrape_mcx_circulars(
 
     log.info(f"Done — {len(all_circulars)} circulars parsed")
     return all_circulars
-    return circulars
 
 
 # ── Bulk fetch (multiple date ranges) ────────────────────────────────────────

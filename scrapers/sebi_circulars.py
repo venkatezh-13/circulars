@@ -380,9 +380,22 @@ def main():
     session = make_session()
     all_circulars = []
 
-    # Determine which endpoints to use
-    use_recent = args.recent or (not args.archive)
-    use_archive = args.archive or (not args.recent)
+    # Determine which endpoints to use based on date range
+    # SEBI "recent" endpoint covers roughly the last 60 days; archive for older
+    RECENT_CUTOFF_DAYS = 60
+    today_date = date.today()
+    is_recent = (today_date - from_dt).days <= RECENT_CUTOFF_DAYS
+
+    if args.archive:
+        use_recent, use_archive = False, True
+    elif args.recent:
+        use_recent, use_archive = True, False
+    elif is_recent:
+        # Within 60-day window — recent only
+        use_recent, use_archive = True, False
+    else:
+        # Older dates — archive only
+        use_recent, use_archive = False, True
 
     if use_recent:
         print("\n[*] Fetching from Recent circulars...")

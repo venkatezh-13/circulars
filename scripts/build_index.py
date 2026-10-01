@@ -17,6 +17,8 @@ import os
 import json
 import glob
 import re
+import sys
+sys.path.insert(0, os.path.dirname(__file__))
 from datetime import datetime, date, timezone, timedelta
 
 IST = timezone(timedelta(hours=5, minutes=30))
@@ -174,10 +176,7 @@ def main():
 
         # Safeguard against future dates
         if diso > today_iso:
-            if ref == "NSE/MFSS76357":
-                diso = "2026-09-01"
-            else:
-                diso = today_iso
+            diso = today_iso
 
         formatted_records.append({
             "exchange": ex,

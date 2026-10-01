@@ -44,14 +44,39 @@ def scrape_msei_circulars() -> list:
         # Clean unescaped quotes/slashes in Next.js stream payload
         clean_html = html.replace('\\"', '"').replace('\\/', '/')
 
-        # Find rows JSON array in Next.js hydration payload
-        m = re.search(r'"rows"\s*:\s*(\[\s*\{.*?\}\s*\])', clean_html)
-        if not m:
-            print("  [!] Could not locate 'rows' array in MSEI payload")
+        # Find the start of the "rows" JSON array using bracket counting
+        # so nested objects inside rows don't cause truncation
+        key_marker = '"rows":'
+        key_pos = clean_html.find(key_marker)
+        if key_pos == -1:
+            print("  [!] Could not locate 'rows' key in MSEI payload")
             return []
 
-        rows_json = m.group(1)
-        raw_rows = json.loads(rows_json)
+        array_start = clean_html.find('[', key_pos + len(key_marker))
+        if array_start == -1:
+            print("  [!] Could not locate 'rows' array start in MSEI payload")
+            return []
+
+        # Walk forward counting brackets to find the matching ']'
+        depth = 0
+        array_end = array_start
+        for i, ch in enumerate(clean_html[array_start:], array_start):
+            if ch == '[':
+                depth += 1
+            elif ch == ']':
+                depth -= 1
+                if depth == 0:
+                    array_end = i
+                    break
+        else:
+            print("  [!] Could not find closing bracket for 'rows' array in MSEI payload")
+            return []
+
+        try:
+            raw_rows = json.loads(clean_html[array_start:array_end + 1])
+        except json.JSONDecodeError as e:
+            print(f"  [!] JSON parse error for MSEI rows: {e}")
+            return []
 
         circulars = []
         for r in raw_rows:
