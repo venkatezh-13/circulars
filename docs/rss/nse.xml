@@ -5,7 +5,7 @@
     <link>https://venkatezh-13.github.io/circulars</link>
     <description>NSE circulars — last 7 days</description>
     <language>en-in</language>
-    <lastBuildDate>Thu, 01 Oct 2026 04:43:53 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 08:02:27 +0000</lastBuildDate>
     <atom:link href="https://venkatezh-13.github.io/circulars/rss/nse.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Submission of Associates details by Clearing Members</title>
@@ -1142,6 +1142,54 @@
       <description>[NSE] NSE/INVG/76650 — SAT order in the matter of Vedprakash Devkinandan Chiripal &amp; Savitridevi V. Chiripal</description>
       <category>Surveillance &amp; Investigation</category>
       <pubDate>Wed, 30 Sep 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>Mock trading on Saturday, October 03, 2026 - No new Version Release</title>
+      <link>https://nsearchives.nseindia.com/content/circulars/FAOP76666.pdf</link>
+      <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/FAOP76666.pdf</guid>
+      <description>[NSE] NSE/FAOP/76666 — Mock trading on Saturday, October 03, 2026 - No new Version Release</description>
+      <category>Futures &amp; Options</category>
+      <pubDate>Thu, 01 Oct 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>Mock trading on Saturday, October 03, 2026 - No new version release</title>
+      <link>https://nsearchives.nseindia.com/content/circulars/CMTR76663.pdf</link>
+      <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/CMTR76663.pdf</guid>
+      <description>[NSE] NSE/CMTR/76663 — Mock trading on Saturday, October 03, 2026 - No new version release</description>
+      <category>Capital Market (Equities) Trade</category>
+      <pubDate>Thu, 01 Oct 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>Mock trading on Saturday, October 03, 2026 - No new version release</title>
+      <link>https://nsearchives.nseindia.com/content/circulars/EGR76662.pdf</link>
+      <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/EGR76662.pdf</guid>
+      <description>[NSE] NSE/EGR/76662 — Mock trading on Saturday, October 03, 2026 - No new version release</description>
+      <category>Electronic Gold Receipt</category>
+      <pubDate>Thu, 01 Oct 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>Mock trading on Saturday, October 03, 2026 - No new version release</title>
+      <link>https://nsearchives.nseindia.com/content/circulars/SLBS76660.pdf</link>
+      <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/SLBS76660.pdf</guid>
+      <description>[NSE] NSE/SLBS/76660 — Mock trading on Saturday, October 03, 2026 - No new version release</description>
+      <category>Securities Lending &amp; Borrowing Scheme</category>
+      <pubDate>Thu, 01 Oct 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>Mock session on Saturday, October 03, 2026 - No new version release</title>
+      <link>https://nsearchives.nseindia.com/content/circulars/COM76659.pdf</link>
+      <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/COM76659.pdf</guid>
+      <description>[NSE] NSE/COM/76659 — Mock session on Saturday, October 03, 2026 - No new version release</description>
+      <category>Commodity Derivatives</category>
+      <pubDate>Thu, 01 Oct 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>Mock trading on Saturday, October 03, 2026 - No new version release</title>
+      <link>https://nsearchives.nseindia.com/content/circulars/CD76658.pdf</link>
+      <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/CD76658.pdf</guid>
+      <description>[NSE] NSE/CD/76658 — Mock trading on Saturday, October 03, 2026 - No new version release</description>
+      <category>Currency Derivatives</category>
+      <pubDate>Thu, 01 Oct 2026 07:30:00 +0530</pubDate>
     </item>
   </channel>
 </rss>

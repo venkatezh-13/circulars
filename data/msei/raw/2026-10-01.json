@@ -1,1 +1,24 @@
-[]
+[
+  {
+    "exchange": "MSEI",
+    "circular_no": "19831",
+    "date": "01-Oct-2026",
+    "date_iso": "2026-10-01",
+    "title": "Revision in Market Lot of Derivative Contracts on Individual Stocks",
+    "subject": "Revision in Market Lot of Derivative Contracts on Individual Stocks",
+    "category": "Futures & Options",
+    "department": "Trading",
+    "link": "https://www.msei.in/SX-Content/Circulars/2026/October/Circular-19831.zip"
+  },
+  {
+    "exchange": "MSEI",
+    "circular_no": "19830",
+    "date": "01-Oct-2026",
+    "date_iso": "2026-10-01",
+    "title": "SEBI directions pursuant to SAT Order in the matter of Vedprakash Devkinandan Chiripal & Savitridevi V. Chiripal",
+    "subject": "SEBI directions pursuant to SAT Order in the matter of Vedprakash Devkinandan Chiripal & Savitridevi V. Chiripal",
+    "category": "All",
+    "department": "Investigation",
+    "link": "https://www.msei.in/SX-Content/Circulars/2026/October/Circular-19830.pdf"
+  }
+]

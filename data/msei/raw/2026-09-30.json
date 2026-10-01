@@ -119,5 +119,38 @@
     "category": "Capital Market",
     "department": "Listing",
     "link": "https://www.msei.in/SX-Content/Circulars/2026/September/Circular-19820.pdf"
+  },
+  {
+    "exchange": "MSEI",
+    "circular_no": "19819",
+    "date": "30-Sep-2026",
+    "date_iso": "2026-09-30",
+    "title": "Mock Trading in Equity Derivatives Segment on Saturday, October 03, 2026",
+    "subject": "Mock Trading in Equity Derivatives Segment on Saturday, October 03, 2026",
+    "category": "Futures & Options",
+    "department": "Trading",
+    "link": "https://www.msei.in/SX-Content/Circulars/2026/September/Circular-19819.pdf"
+  },
+  {
+    "exchange": "MSEI",
+    "circular_no": "19818",
+    "date": "30-Sep-2026",
+    "date_iso": "2026-09-30",
+    "title": "Mock Trading in Currency Derivatives Segment on Saturday,  October 03, 2026",
+    "subject": "Mock Trading in Currency Derivatives Segment on Saturday,  October 03, 2026",
+    "category": "Currency Derivatives",
+    "department": "Trading",
+    "link": "https://www.msei.in/SX-Content/Circulars/2026/September/Circular-19818.pdf"
+  },
+  {
+    "exchange": "MSEI",
+    "circular_no": "19817",
+    "date": "30-Sep-2026",
+    "date_iso": "2026-09-30",
+    "title": "Mock Trading in Capital Market Segment  on Saturday, October 03, 2026",
+    "subject": "Mock Trading in Capital Market Segment  on Saturday, October 03, 2026",
+    "category": "Capital Market",
+    "department": "Trading",
+    "link": "https://www.msei.in/SX-Content/Circulars/2026/September/Circular-19817.pdf"
   }
 ]
