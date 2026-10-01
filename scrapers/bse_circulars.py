@@ -116,8 +116,15 @@ def _parse_rows(rows: list) -> list:
         else:
             pdf_url = pdf_url_from_notice(notice_no)
 
+        # Derive date_iso from notice_no (format: YYYYMMDD-NNN)
+        date_iso = ""
+        m_date = re.match(r'^(\d{4})(\d{2})(\d{2})-', notice_no)
+        if m_date:
+            date_iso = f"{m_date.group(1)}-{m_date.group(2)}-{m_date.group(3)}"
+
         results.append({
             "notice_no":  notice_no,
+            "date_iso":   date_iso,
             "subject":    subject,
             "segment":    segment,
             "category":   category,

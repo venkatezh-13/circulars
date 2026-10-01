@@ -105,7 +105,8 @@ def random_delay():
 
 def is_off_peak() -> bool:
     """Check if current IST time is between 00:00 and 07:00."""
-    ist_hour = (datetime.utcnow().hour + 5) % 24   # UTC+5:30 approx
+    ist_minutes = (datetime.utcnow().hour * 60 + datetime.utcnow().minute + 330) % (24 * 60)
+    ist_hour = ist_minutes // 60
     return 0 <= ist_hour < 7
 
 

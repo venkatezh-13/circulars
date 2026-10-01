@@ -80,9 +80,10 @@ def load_exchange_json(exchange: str):
                         "link": item.get("link", ""),
                     })
                 elif exchange == "BSE":
+                    item_date_iso = item.get("date_iso") or date_iso
                     records.append({
                         "exchange": "BSE",
-                        "date_iso": date_iso,
+                        "date_iso": item_date_iso,
                         "ref": item.get("notice_no", ""),
                         "subject": item.get("subject", ""),
                         "category": f"{item.get('segment','')} / {item.get('category','')}".strip(" /"),

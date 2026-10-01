@@ -112,7 +112,8 @@ def random_delay():
 
 
 def is_off_peak() -> bool:
-    ist_hour = (datetime.utcnow().hour + 5) % 24
+    ist_minutes = (datetime.utcnow().hour * 60 + datetime.utcnow().minute + 330) % (24 * 60)
+    ist_hour = ist_minutes // 60
     return 0 <= ist_hour < 7
 
 

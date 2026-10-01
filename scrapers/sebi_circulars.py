@@ -307,8 +307,9 @@ def fetch_circulars(
                 row_date = None
 
             if row_date and from_date <= row_date <= to_date:
-                # Deduplicate by notice_no
-                key = row.get("notice_no", "")
+                # Deduplicate by pdf_url (full detail URL) — notice_no is only
+                # the last 4 digits of the URL ID and can collide across circulars
+                key = row.get("pdf_url", "") or row.get("notice_no", "")
                 if key not in seen_titles:
                     seen_titles.add(key)
                     all_rows.append(row)
@@ -438,8 +439,8 @@ def main():
     except (FileNotFoundError, json.JSONDecodeError):
         cache = []
 
-    existing_ids = {c.get("notice_no") for c in cache}
-    added = [c for c in all_circulars if c.get("notice_no") not in existing_ids]
+    existing_ids = {c.get("pdf_url") or c.get("notice_no") for c in cache}
+    added = [c for c in all_circulars if (c.get("pdf_url") or c.get("notice_no")) not in existing_ids]
     cache.extend(added)
     cache = sorted(cache, key=lambda x: x.get("date_iso", ""), reverse=True)
 
