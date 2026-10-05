@@ -1,1 +1,35 @@
-[]
+[
+  {
+    "exchange": "MSEI",
+    "circular_no": "19842",
+    "date": "05-Oct-2026",
+    "date_iso": "2026-10-05",
+    "title": "Reporting for Artificial Intelligence (AI) and Machine Learning (ML) and systems offered and used by Market Intermediaries",
+    "subject": "Reporting for Artificial Intelligence (AI) and Machine Learning (ML) and systems offered and used by Market Intermediaries",
+    "category": "All",
+    "department": "Membership",
+    "link": "https://www.msei.in/SX-Content/Circulars/2026/October/Circular-19842.pdf"
+  },
+  {
+    "exchange": "MSEI",
+    "circular_no": "19840",
+    "date": "05-Oct-2026",
+    "date_iso": "2026-10-05",
+    "title": "Face Value Split – Meenakshi India Ltd (MEEIND)",
+    "subject": "Face Value Split – Meenakshi India Ltd (MEEIND)",
+    "category": "Capital Market",
+    "department": "Listing",
+    "link": "https://www.msei.in/SX-Content/Circulars/2026/October/Circular-19840.pdf"
+  },
+  {
+    "exchange": "MSEI",
+    "circular_no": "19839",
+    "date": "05-Oct-2026",
+    "date_iso": "2026-10-05",
+    "title": "Change in ISIN – BLS E-Services Limited (BLSE)",
+    "subject": "Change in ISIN – BLS E-Services Limited (BLSE)",
+    "category": "Capital Market",
+    "department": "Listing",
+    "link": "https://www.msei.in/SX-Content/Circulars/2026/October/Circular-19839.pdf"
+  }
+]
