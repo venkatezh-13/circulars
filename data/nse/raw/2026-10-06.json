@@ -1,1 +1,58 @@
-[]
+[
+  {
+    "date": "October 06, 2026",
+    "department": "Electronic Gold Receipt",
+    "subject": "EGR - Settlement calendar for November 2026",
+    "circular_ref": "NCL/EGR/76732",
+    "link": "https://nsearchives.nseindia.com/content/circulars/EGR76732.pdf"
+  },
+  {
+    "date": "October 06, 2026",
+    "department": "Debt Segment",
+    "subject": "Settlement calendar for November 2026 - Debt Segment",
+    "circular_ref": "NCL/DS/76730",
+    "link": "https://nsearchives.nseindia.com/content/circulars/DS76730.pdf"
+  },
+  {
+    "date": "October 06, 2026",
+    "department": "NSE Clearing - Capital Market",
+    "subject": "Settlement calendar for November 2026 - Capital Market Segment of T+1 & T+0 settlement",
+    "circular_ref": "NCL/CMPT/76729",
+    "link": "https://nsearchives.nseindia.com/content/circulars/CMPT76729.pdf"
+  },
+  {
+    "date": "October 06, 2026",
+    "department": "Securities Lending & Borrowing Scheme",
+    "subject": "SLBS - Settlement Calendar for November 2026",
+    "circular_ref": "NCL/CMPT/76728",
+    "link": "https://nsearchives.nseindia.com/content/circulars/CMPT76728.pdf"
+  },
+  {
+    "date": "October 06, 2026",
+    "department": "NSE Clearing - Capital Market",
+    "subject": "Settlement Calendar for Delisting Offer under Tender Offer scheme by Hitech Corporation Limited",
+    "circular_ref": "NCL/CMPT/76727",
+    "link": "https://nsearchives.nseindia.com/content/circulars/CMPT76727.pdf"
+  },
+  {
+    "date": "October 06, 2026",
+    "department": "Surveillance & Investigation",
+    "subject": "Review of Position Limits for Clients and Penalty Provisions for Violation/ Breach of Position Limits for Commodity Derivatives Segment",
+    "circular_ref": "NSE/SURV/76726",
+    "link": "https://nsearchives.nseindia.com/content/circulars/SURV76726.zip"
+  },
+  {
+    "date": "October 06, 2026",
+    "department": "Listing",
+    "subject": "Trade for Trade - Shah Investor's Home Limited (IPO)",
+    "circular_ref": "NSE/CML/76725",
+    "link": "https://nsearchives.nseindia.com/content/circulars/CML76725.pdf"
+  },
+  {
+    "date": "October 06, 2026",
+    "department": "Listing",
+    "subject": "Trade for Trade - SRIT India Limited (IPO)",
+    "circular_ref": "NSE/CML/76724",
+    "link": "https://nsearchives.nseindia.com/content/circulars/CML76724.pdf"
+  }
+]

@@ -5,7 +5,7 @@
     <link>https://venkatezh-13.github.io/circulars</link>
     <description>NSE circulars — last 7 days</description>
     <language>en-in</language>
-    <lastBuildDate>Tue, 06 Oct 2026 05:23:47 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 10:49:13 +0000</lastBuildDate>
     <atom:link href="https://venkatezh-13.github.io/circulars/rss/nse.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Listing of Equity Shares of Swastika Infra Limited (IPO)</title>
@@ -1238,6 +1238,70 @@
       <description>[NSE] NSE/CML/76706 — Listing of Equity Shares of SRIT India Limited (IPO)</description>
       <category>Listing</category>
       <pubDate>Mon, 05 Oct 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>EGR - Settlement calendar for November 2026</title>
+      <link>https://nsearchives.nseindia.com/content/circulars/EGR76732.pdf</link>
+      <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/EGR76732.pdf</guid>
+      <description>[NSE] NCL/EGR/76732 — EGR - Settlement calendar for November 2026</description>
+      <category>Electronic Gold Receipt</category>
+      <pubDate>Tue, 06 Oct 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>Settlement calendar for November 2026 - Debt Segment</title>
+      <link>https://nsearchives.nseindia.com/content/circulars/DS76730.pdf</link>
+      <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/DS76730.pdf</guid>
+      <description>[NSE] NCL/DS/76730 — Settlement calendar for November 2026 - Debt Segment</description>
+      <category>Debt Segment</category>
+      <pubDate>Tue, 06 Oct 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>Settlement calendar for November 2026 - Capital Market Segment of T+1 &amp; T+0 settlement</title>
+      <link>https://nsearchives.nseindia.com/content/circulars/CMPT76729.pdf</link>
+      <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/CMPT76729.pdf</guid>
+      <description>[NSE] NCL/CMPT/76729 — Settlement calendar for November 2026 - Capital Market Segment of T+1 &amp; T+0 settlement</description>
+      <category>NSE Clearing - Capital Market</category>
+      <pubDate>Tue, 06 Oct 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>SLBS - Settlement Calendar for November 2026</title>
+      <link>https://nsearchives.nseindia.com/content/circulars/CMPT76728.pdf</link>
+      <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/CMPT76728.pdf</guid>
+      <description>[NSE] NCL/CMPT/76728 — SLBS - Settlement Calendar for November 2026</description>
+      <category>Securities Lending &amp; Borrowing Scheme</category>
+      <pubDate>Tue, 06 Oct 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>Settlement Calendar for Delisting Offer under Tender Offer scheme by Hitech Corporation Limited</title>
+      <link>https://nsearchives.nseindia.com/content/circulars/CMPT76727.pdf</link>
+      <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/CMPT76727.pdf</guid>
+      <description>[NSE] NCL/CMPT/76727 — Settlement Calendar for Delisting Offer under Tender Offer scheme by Hitech Corporation Limited</description>
+      <category>NSE Clearing - Capital Market</category>
+      <pubDate>Tue, 06 Oct 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>Review of Position Limits for Clients and Penalty Provisions for Violation/ Breach of Position Limits for Commodity Derivatives Segment</title>
+      <link>https://nsearchives.nseindia.com/content/circulars/SURV76726.zip</link>
+      <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/SURV76726.zip</guid>
+      <description>[NSE] NSE/SURV/76726 — Review of Position Limits for Clients and Penalty Provisions for Violation/ Breach of Position Limits for Commodity Derivatives Segment</description>
+      <category>Surveillance &amp; Investigation</category>
+      <pubDate>Tue, 06 Oct 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>Trade for Trade - Shah Investor's Home Limited (IPO)</title>
+      <link>https://nsearchives.nseindia.com/content/circulars/CML76725.pdf</link>
+      <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/CML76725.pdf</guid>
+      <description>[NSE] NSE/CML/76725 — Trade for Trade - Shah Investor's Home Limited (IPO)</description>
+      <category>Listing</category>
+      <pubDate>Tue, 06 Oct 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>Trade for Trade - SRIT India Limited (IPO)</title>
+      <link>https://nsearchives.nseindia.com/content/circulars/CML76724.pdf</link>
+      <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/CML76724.pdf</guid>
+      <description>[NSE] NSE/CML/76724 — Trade for Trade - SRIT India Limited (IPO)</description>
+      <category>Listing</category>
+      <pubDate>Tue, 06 Oct 2026 07:30:00 +0530</pubDate>
     </item>
   </channel>
 </rss>
