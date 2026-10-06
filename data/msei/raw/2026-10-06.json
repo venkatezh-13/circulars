@@ -31,5 +31,38 @@
     "category": "All",
     "department": "Investigation",
     "link": "https://www.msei.in/SX-Content/Circulars/2026/October/Circular-19848.rar"
+  },
+  {
+    "exchange": "MSEI",
+    "circular_no": "19853",
+    "date": "06-Oct-2026",
+    "date_iso": "2026-10-06",
+    "title": "Change in ISIN – Shankara Buildpro Limited (BUILDPRO)",
+    "subject": "Change in ISIN – Shankara Buildpro Limited (BUILDPRO)",
+    "category": "Capital Market",
+    "department": "Listing",
+    "link": "https://www.msei.in/SX-Content/Circulars/2026/October/Circular-19853.pdf"
+  },
+  {
+    "exchange": "MSEI",
+    "circular_no": "19852",
+    "date": "06-Oct-2026",
+    "date_iso": "2026-10-06",
+    "title": "Permanent Suspension of Trading in Equity Shares – Poddar Housing and Development Limited (PODDARHOUS)",
+    "subject": "Permanent Suspension of Trading in Equity Shares – Poddar Housing and Development Limited (PODDARHOUS)",
+    "category": "Capital Market",
+    "department": "Listing",
+    "link": "https://www.msei.in/SX-Content/Circulars/2026/October/Circular-19852.pdf"
+  },
+  {
+    "exchange": "MSEI",
+    "circular_no": "19851",
+    "date": "06-Oct-2026",
+    "date_iso": "2026-10-06",
+    "title": "Change in ISIN due to Consolidation of Equity Shares – SANMIT INFRA LIMITED (SANINFRA)",
+    "subject": "Change in ISIN due to Consolidation of Equity Shares – SANMIT INFRA LIMITED (SANINFRA)",
+    "category": "Capital Market",
+    "department": "Listing",
+    "link": "https://www.msei.in/SX-Content/Circulars/2026/October/Circular-19851.pdf"
   }
 ]
