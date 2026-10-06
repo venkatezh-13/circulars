@@ -64,5 +64,71 @@
     "category": "Capital Market",
     "department": "Listing",
     "link": "https://www.msei.in/SX-Content/Circulars/2026/October/Circular-19851.pdf"
+  },
+  {
+    "exchange": "MSEI",
+    "circular_no": "19859",
+    "date": "06-Oct-2026",
+    "date_iso": "2026-10-06",
+    "title": "List of security under Stage I of Graded Surveillance Measure (GSM)",
+    "subject": "List of security under Stage I of Graded Surveillance Measure (GSM)",
+    "category": "Capital Market",
+    "department": "Surveillance",
+    "link": "https://www.msei.in/SX-Content/Circulars/2026/October/Circular-19859.pdf"
+  },
+  {
+    "exchange": "MSEI",
+    "circular_no": "19858",
+    "date": "06-Oct-2026",
+    "date_iso": "2026-10-06",
+    "title": "Measure in respect of companies with high Promoter as well as non- Promoter ‘Encumbrance’ as per Reg. 28(3) of SEBI (SAST) Regulation 2011",
+    "subject": "Measure in respect of companies with high Promoter as well as non- Promoter ‘Encumbrance’ as per Reg. 28(3) of SEBI (SAST) Regulation 2011",
+    "category": "Capital Market",
+    "department": "Surveillance",
+    "link": "https://www.msei.in/SX-Content/Circulars/2026/October/Circular-19858.zip"
+  },
+  {
+    "exchange": "MSEI",
+    "circular_no": "19857",
+    "date": "06-Oct-2026",
+    "date_iso": "2026-10-06",
+    "title": "Applicability of Enhanced Surveillance Measure (ESM)",
+    "subject": "Applicability of Enhanced Surveillance Measure (ESM)",
+    "category": "Capital Market",
+    "department": "Surveillance",
+    "link": "https://www.msei.in/SX-Content/Circulars/2026/October/Circular-19857.zip"
+  },
+  {
+    "exchange": "MSEI",
+    "circular_no": "19856",
+    "date": "06-Oct-2026",
+    "date_iso": "2026-10-06",
+    "title": "Applicability of Short Term Additional Surveillance Measure (ST-ASM)",
+    "subject": "Applicability of Short Term Additional Surveillance Measure (ST-ASM)",
+    "category": "Capital Market",
+    "department": "Surveillance",
+    "link": "https://www.msei.in/SX-Content/Circulars/2026/October/Circular-19856.zip"
+  },
+  {
+    "exchange": "MSEI",
+    "circular_no": "19855",
+    "date": "06-Oct-2026",
+    "date_iso": "2026-10-06",
+    "title": "Applicability of Additional Surveillance Measure (ASM)",
+    "subject": "Applicability of Additional Surveillance Measure (ASM)",
+    "category": "Capital Market",
+    "department": "Surveillance",
+    "link": "https://www.msei.in/SX-Content/Circulars/2026/October/Circular-19855.zip"
+  },
+  {
+    "exchange": "MSEI",
+    "circular_no": "19854",
+    "date": "06-Oct-2026",
+    "date_iso": "2026-10-06",
+    "title": "Quarterly Cyber Incident reporting under Cyber Security & Cyber Resilience Framework  for Regulated Entities (REs)",
+    "subject": "Quarterly Cyber Incident reporting under Cyber Security & Cyber Resilience Framework  for Regulated Entities (REs)",
+    "category": "All",
+    "department": "Inspection",
+    "link": "https://www.msei.in/SX-Content/Circulars/2026/October/Circular-19854.pdf"
   }
 ]
