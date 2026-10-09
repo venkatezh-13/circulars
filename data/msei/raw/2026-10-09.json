@@ -1,1 +1,46 @@
-[]
+[
+  {
+    "exchange": "MSEI",
+    "circular_no": "19881",
+    "date": "09-Oct-2026",
+    "date_iso": "2026-10-09",
+    "title": "Admission of Security under “Permitted to Trade” Category - Shiv Aum Steels Limited (SHIVAUM)",
+    "subject": "Admission of Security under “Permitted to Trade” Category - Shiv Aum Steels Limited (SHIVAUM)",
+    "category": "Capital Market",
+    "department": "Listing",
+    "link": "https://www.msei.in/SX-Content/Circulars/2026/October/Circular-19881.pdf"
+  },
+  {
+    "exchange": "MSEI",
+    "circular_no": "19880",
+    "date": "09-Oct-2026",
+    "date_iso": "2026-10-09",
+    "title": "Suspension of trading on account of Consolidation of Equity Shares – AvenuesAI Limited",
+    "subject": "Suspension of trading on account of Consolidation of Equity Shares – AvenuesAI Limited",
+    "category": "Capital Market",
+    "department": "Listing",
+    "link": "https://www.msei.in/SX-Content/Circulars/2026/October/Circular-19880.pdf"
+  },
+  {
+    "exchange": "MSEI",
+    "circular_no": "19879",
+    "date": "09-Oct-2026",
+    "date_iso": "2026-10-09",
+    "title": "Master Circular – Computer to Computer Link (CTCL)",
+    "subject": "Master Circular – Computer to Computer Link (CTCL)",
+    "category": "All",
+    "department": "CTCL",
+    "link": "https://www.msei.in/SX-Content/Circulars/2026/October/Circular-19879.zip"
+  },
+  {
+    "exchange": "MSEI",
+    "circular_no": "19878",
+    "date": "09-Oct-2026",
+    "date_iso": "2026-10-09",
+    "title": "Admission of Security under “Permitted to Trade” Category - Belding India Limited (BELDING)",
+    "subject": "Admission of Security under “Permitted to Trade” Category - Belding India Limited (BELDING)",
+    "category": "Capital Market",
+    "department": "Listing",
+    "link": "https://www.msei.in/SX-Content/Circulars/2026/October/Circular-19878.pdf"
+  }
+]
