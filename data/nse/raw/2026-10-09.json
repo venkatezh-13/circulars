@@ -1,1 +1,51 @@
-[]
+[
+  {
+    "date": "October 09, 2026",
+    "department": "Emerge",
+    "subject": "Mock trading on Saturday, October 10, 2026 - No new version release",
+    "circular_ref": "NSE/CMTR/76826",
+    "link": "https://nsearchives.nseindia.com/content/circulars/CMTR76826.pdf"
+  },
+  {
+    "date": "October 09, 2026",
+    "department": "Currency Derivatives",
+    "subject": "Mock trading on Saturday, October 10, 2026 - No new version release",
+    "circular_ref": "NSE/CD/76824",
+    "link": "https://nsearchives.nseindia.com/content/circulars/CD76824.pdf"
+  },
+  {
+    "date": "October 09, 2026",
+    "department": "NSE Clearing - Capital Market",
+    "subject": "Change in timings for Early Pay-in",
+    "circular_ref": "NCL/CMPT/76819",
+    "link": "https://nsearchives.nseindia.com/content/circulars/CMPT76819.pdf"
+  },
+  {
+    "date": "October 09, 2026",
+    "department": "Electronic Gold Receipt",
+    "subject": "Mock trading on Saturday, October 10, 2026 - New version of NEAT+ 1.0.2",
+    "circular_ref": "NSE/EGR/76818",
+    "link": "https://nsearchives.nseindia.com/content/circulars/EGR76818.pdf"
+  },
+  {
+    "date": "October 09, 2026",
+    "department": "Commodity Derivatives",
+    "subject": "Mock Session on Saturday, October 10, 2026 - No new release",
+    "circular_ref": "NSE/COM/76817",
+    "link": "https://nsearchives.nseindia.com/content/circulars/COM76817.pdf"
+  },
+  {
+    "date": "October 09, 2026",
+    "department": "Securities Lending & Borrowing Scheme",
+    "subject": "Mock trading on Saturday, October 10, 2026 - No new version release",
+    "circular_ref": "NSE/SLBS/76816",
+    "link": "https://nsearchives.nseindia.com/content/circulars/SLBS76816.pdf"
+  },
+  {
+    "date": "October 09, 2026",
+    "department": "Inspection & Compliance",
+    "subject": "Total Surrender of Membership",
+    "circular_ref": "NSE/COMP/76808",
+    "link": "https://nsearchives.nseindia.com/content/circulars/COMP76808.pdf"
+  }
+]
