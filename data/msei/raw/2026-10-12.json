@@ -1,1 +1,35 @@
-[]
+[
+  {
+    "exchange": "MSEI",
+    "circular_no": "19890",
+    "date": "12-Oct-2026",
+    "date_iso": "2026-10-12",
+    "title": "Admission of Security under “Permitted to Trade” Category - Shah Investor's Home Limited (SHAHINVEST) & Sonaselection India Limited (SONA)",
+    "subject": "Admission of Security under “Permitted to Trade” Category - Shah Investor's Home Limited (SHAHINVEST) & Sonaselection India Limited (SONA)",
+    "category": "Capital Market",
+    "department": "Listing",
+    "link": "https://www.msei.in/SX-Content/Circulars/2026/October/Circular-19890.pdf"
+  },
+  {
+    "exchange": "MSEI",
+    "circular_no": "19889",
+    "date": "12-Oct-2026",
+    "date_iso": "2026-10-12",
+    "title": "Permanent Suspension of Trading in Equity Shares – Suumaya Industries Limited (SUULD)",
+    "subject": "Permanent Suspension of Trading in Equity Shares – Suumaya Industries Limited (SUULD)",
+    "category": "Capital Market",
+    "department": "Listing",
+    "link": "https://www.msei.in/SX-Content/Circulars/2026/October/Circular-19889.pdf"
+  },
+  {
+    "exchange": "MSEI",
+    "circular_no": "19888",
+    "date": "12-Oct-2026",
+    "date_iso": "2026-10-12",
+    "title": "Revocation Order in the matter of LS Industries Limited",
+    "subject": "Revocation Order in the matter of LS Industries Limited",
+    "category": "All",
+    "department": "Investigation",
+    "link": "https://www.msei.in/SX-Content/Circulars/2026/October/Circular-19888.pdf"
+  }
+]
