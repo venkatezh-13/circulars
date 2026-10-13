@@ -1,1 +1,35 @@
-[]
+[
+  {
+    "exchange": "MSEI",
+    "circular_no": "19902",
+    "date": "13-Oct-2026",
+    "date_iso": "2026-10-13",
+    "title": "Face Value Split – Galaxy Agrico Exports Limited (GALAGEX)",
+    "subject": "Face Value Split – Galaxy Agrico Exports Limited (GALAGEX)",
+    "category": "Capital Market",
+    "department": "Listing",
+    "link": "https://www.msei.in/SX-Content/Circulars/2026/October/Circular-19902.pdf"
+  },
+  {
+    "exchange": "MSEI",
+    "circular_no": "19900",
+    "date": "13-Oct-2026",
+    "date_iso": "2026-10-13",
+    "title": "Exclusion of Futures and Options contracts on POLYCAB",
+    "subject": "Exclusion of Futures and Options contracts on POLYCAB",
+    "category": "Futures & Options",
+    "department": "Trading",
+    "link": "https://www.msei.in/SX-Content/Circulars/2026/October/Circular-19900.pdf"
+  },
+  {
+    "exchange": "MSEI",
+    "circular_no": "19899",
+    "date": "13-Oct-2026",
+    "date_iso": "2026-10-13",
+    "title": "Exclusion of futures and options contracts in Polycab India Limited (POLYCAB)",
+    "subject": "Exclusion of futures and options contracts in Polycab India Limited (POLYCAB)",
+    "category": "Futures & Options",
+    "department": "Surveillance",
+    "link": "https://www.msei.in/SX-Content/Circulars/2026/October/Circular-19899.pdf"
+  }
+]
