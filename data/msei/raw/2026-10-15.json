@@ -1,1 +1,35 @@
-[]
+[
+  {
+    "exchange": "MSEI",
+    "circular_no": "19919",
+    "date": "15-Oct-2026",
+    "date_iso": "2026-10-15",
+    "title": "Compliance with TRAI directions and guidelines",
+    "subject": "Compliance with TRAI directions and guidelines",
+    "category": "All",
+    "department": "Membership",
+    "link": "https://www.msei.in/SX-Content/Circulars/2026/October/Circular-19919.pdf"
+  },
+  {
+    "exchange": "MSEI",
+    "circular_no": "19918",
+    "date": "15-Oct-2026",
+    "date_iso": "2026-10-15",
+    "title": "Introduction of Futures and Options contracts on Six Individual securities",
+    "subject": "Introduction of Futures and Options contracts on Six Individual securities",
+    "category": "Futures & Options",
+    "department": "Trading",
+    "link": "https://www.msei.in/SX-Content/Circulars/2026/October/Circular-19918.pdf"
+  },
+  {
+    "exchange": "MSEI",
+    "circular_no": "19917",
+    "date": "15-Oct-2026",
+    "date_iso": "2026-10-15",
+    "title": "Confirmatory order in the matter of Rajesh Exports Limited",
+    "subject": "Confirmatory order in the matter of Rajesh Exports Limited",
+    "category": "All",
+    "department": "Investigation",
+    "link": "https://www.msei.in/SX-Content/Circulars/2026/October/Circular-19917.pdf"
+  }
+]

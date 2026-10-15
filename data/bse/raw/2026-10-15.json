@@ -1,1 +1,34 @@
-[]
+[
+  {
+    "notice_no": "20261015-4",
+    "subject": "Listing of new Treasury Bills (T-Bills)",
+    "segment": "General",
+    "category": "Circular",
+    "department": "BSE",
+    "pdf_url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261015-4/20261015-4.pdf"
+  },
+  {
+    "notice_no": "20261015-3",
+    "subject": "Demat Auction 735",
+    "segment": "General",
+    "category": "Circular",
+    "department": "BSE",
+    "pdf_url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261015-3/20261015-3.pdf"
+  },
+  {
+    "notice_no": "20261015-2",
+    "subject": "Part Redemption of Debentures of the Companies",
+    "segment": "General",
+    "category": "Circular",
+    "department": "BSE",
+    "pdf_url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261015-2/20261015-2.pdf"
+  },
+  {
+    "notice_no": "20261015-1",
+    "subject": "Listing of New Securities of Continental Securities Limited",
+    "segment": "General",
+    "category": "Circular",
+    "department": "BSE",
+    "pdf_url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261015-1/20261015-1.pdf"
+  }
+]
