@@ -53,5 +53,49 @@
     "category": "All",
     "department": "Inspection",
     "link": "https://www.msei.in/SX-Content/Circulars/2026/October/Circular-19930.pdf"
+  },
+  {
+    "exchange": "MSEI",
+    "circular_no": "19934",
+    "date": "16-Oct-2026",
+    "date_iso": "2026-10-16",
+    "title": "Applicability of Enhanced Surveillance Measure (ESM)",
+    "subject": "Applicability of Enhanced Surveillance Measure (ESM)",
+    "category": "Capital Market",
+    "department": "Surveillance",
+    "link": "https://www.msei.in/SX-Content/Circulars/2026/October/Circular-19934.zip"
+  },
+  {
+    "exchange": "MSEI",
+    "circular_no": "19933",
+    "date": "16-Oct-2026",
+    "date_iso": "2026-10-16",
+    "title": "Applicability of Short Term Additional Surveillance Measure (ST-ASM)",
+    "subject": "Applicability of Short Term Additional Surveillance Measure (ST-ASM)",
+    "category": "Capital Market",
+    "department": "Surveillance",
+    "link": "https://www.msei.in/SX-Content/Circulars/2026/October/Circular-19933.zip"
+  },
+  {
+    "exchange": "MSEI",
+    "circular_no": "19932",
+    "date": "16-Oct-2026",
+    "date_iso": "2026-10-16",
+    "title": "Applicability of Additional Surveillance Measure (ASM)",
+    "subject": "Applicability of Additional Surveillance Measure (ASM)",
+    "category": "Capital Market",
+    "department": "Surveillance",
+    "link": "https://www.msei.in/SX-Content/Circulars/2026/October/Circular-19932.zip"
+  },
+  {
+    "exchange": "MSEI",
+    "circular_no": "19929",
+    "date": "16-Oct-2026",
+    "date_iso": "2026-10-16",
+    "title": "Change in Symbol of Northlink Fiscal and Capital Services Limited and Superior Finlease Limited",
+    "subject": "Change in Symbol of Northlink Fiscal and Capital Services Limited and Superior Finlease Limited",
+    "category": "Capital Market",
+    "department": "Listing",
+    "link": "https://www.msei.in/SX-Content/Circulars/2026/October/Circular-19929.pdf"
   }
 ]

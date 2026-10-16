@@ -5,7 +5,7 @@
     <link>https://venkatezh-13.github.io/circulars</link>
     <description>MSEI circulars — last 7 days</description>
     <language>en-in</language>
-    <lastBuildDate>Fri, 16 Oct 2026 13:32:47 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 17:42:20 +0000</lastBuildDate>
     <atom:link href="https://venkatezh-13.github.io/circulars/rss/msei.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Compliance with TRAI directions and guidelines</title>
@@ -429,6 +429,38 @@
       <guid isPermaLink="false">https://www.msei.in/SX-Content/Circulars/2026/October/Circular-19930.pdf</guid>
       <description>[MSEI] 19930 — Cyber Security and Cyber Resilience Audit of Trading Members</description>
       <category>All</category>
+      <pubDate>Fri, 16 Oct 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>Applicability of Enhanced Surveillance Measure (ESM)</title>
+      <link>https://www.msei.in/SX-Content/Circulars/2026/October/Circular-19934.zip</link>
+      <guid isPermaLink="false">https://www.msei.in/SX-Content/Circulars/2026/October/Circular-19934.zip</guid>
+      <description>[MSEI] 19934 — Applicability of Enhanced Surveillance Measure (ESM)</description>
+      <category>Capital Market</category>
+      <pubDate>Fri, 16 Oct 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>Applicability of Short Term Additional Surveillance Measure (ST-ASM)</title>
+      <link>https://www.msei.in/SX-Content/Circulars/2026/October/Circular-19933.zip</link>
+      <guid isPermaLink="false">https://www.msei.in/SX-Content/Circulars/2026/October/Circular-19933.zip</guid>
+      <description>[MSEI] 19933 — Applicability of Short Term Additional Surveillance Measure (ST-ASM)</description>
+      <category>Capital Market</category>
+      <pubDate>Fri, 16 Oct 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>Applicability of Additional Surveillance Measure (ASM)</title>
+      <link>https://www.msei.in/SX-Content/Circulars/2026/October/Circular-19932.zip</link>
+      <guid isPermaLink="false">https://www.msei.in/SX-Content/Circulars/2026/October/Circular-19932.zip</guid>
+      <description>[MSEI] 19932 — Applicability of Additional Surveillance Measure (ASM)</description>
+      <category>Capital Market</category>
+      <pubDate>Fri, 16 Oct 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>Change in Symbol of Northlink Fiscal and Capital Services Limited and Superior Finlease Limited</title>
+      <link>https://www.msei.in/SX-Content/Circulars/2026/October/Circular-19929.pdf</link>
+      <guid isPermaLink="false">https://www.msei.in/SX-Content/Circulars/2026/October/Circular-19929.pdf</guid>
+      <description>[MSEI] 19929 — Change in Symbol of Northlink Fiscal and Capital Services Limited and Superior Finlease Limited</description>
+      <category>Capital Market</category>
       <pubDate>Fri, 16 Oct 2026 07:30:00 +0530</pubDate>
     </item>
   </channel>
