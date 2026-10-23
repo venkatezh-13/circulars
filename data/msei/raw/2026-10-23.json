@@ -1,1 +1,46 @@
-[]
+[
+  {
+    "exchange": "MSEI",
+    "circular_no": "19976",
+    "date": "23-Oct-2026",
+    "date_iso": "2026-10-23",
+    "title": "Internal Audit of Trading Members",
+    "subject": "Internal Audit of Trading Members",
+    "category": "All",
+    "department": "Inspection",
+    "link": "https://www.msei.in/SX-Content/Circulars/2026/October/Circular-19976.zip"
+  },
+  {
+    "exchange": "MSEI",
+    "circular_no": "19975",
+    "date": "23-Oct-2026",
+    "date_iso": "2026-10-23",
+    "title": "Mock Trading in Capital Market Segment  on Saturday October 24 2026",
+    "subject": "Mock Trading in Capital Market Segment  on Saturday October 24 2026",
+    "category": "Capital Market",
+    "department": "Trading",
+    "link": "https://www.msei.in/SX-Content/Circulars/2026/October/Circular-19975.pdf"
+  },
+  {
+    "exchange": "MSEI",
+    "circular_no": "19974",
+    "date": "23-Oct-2026",
+    "date_iso": "2026-10-23",
+    "title": "Half-Yearly Submission of details of Associate/Subsidiary Entities",
+    "subject": "Half-Yearly Submission of details of Associate/Subsidiary Entities",
+    "category": "All",
+    "department": "Membership",
+    "link": "https://www.msei.in/SX-Content/Circulars/2026/October/Circular-19974.zip"
+  },
+  {
+    "exchange": "MSEI",
+    "circular_no": "19973",
+    "date": "23-Oct-2026",
+    "date_iso": "2026-10-23",
+    "title": "Change in Symbol of BCL Enterprises Limited",
+    "subject": "Change in Symbol of BCL Enterprises Limited",
+    "category": "Capital Market",
+    "department": "Listing",
+    "link": "https://www.msei.in/SX-Content/Circulars/2026/October/Circular-19973.pdf"
+  }
+]
