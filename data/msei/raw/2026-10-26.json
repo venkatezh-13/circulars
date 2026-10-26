@@ -1,1 +1,35 @@
-[]
+[
+  {
+    "exchange": "MSEI",
+    "circular_no": "19985",
+    "date": "26-Oct-2026",
+    "date_iso": "2026-10-26",
+    "title": "Release of “National Strategy for Financial Inclusion (NSFI) 2025–30” by RBI",
+    "subject": "Release of “National Strategy for Financial Inclusion (NSFI) 2025–30” by RBI",
+    "category": "All",
+    "department": "Membership",
+    "link": "https://www.msei.in/SX-Content/Circulars/2026/October/Circular-19985.pdf"
+  },
+  {
+    "exchange": "MSEI",
+    "circular_no": "19984",
+    "date": "26-Oct-2026",
+    "date_iso": "2026-10-26",
+    "title": "Exclusion of Futures and Options contracts on INOXWIND",
+    "subject": "Exclusion of Futures and Options contracts on INOXWIND",
+    "category": "Futures & Options",
+    "department": "Trading",
+    "link": "https://www.msei.in/SX-Content/Circulars/2026/October/Circular-19984.pdf"
+  },
+  {
+    "exchange": "MSEI",
+    "circular_no": "19981",
+    "date": "26-Oct-2026",
+    "date_iso": "2026-10-26",
+    "title": "Order in the matter of Avadhut Sathe Trading Academy Private Limited.",
+    "subject": "Order in the matter of Avadhut Sathe Trading Academy Private Limited.",
+    "category": "All",
+    "department": "Investigation",
+    "link": "https://www.msei.in/SX-Content/Circulars/2026/October/Circular-19981.pdf"
+  }
+]
