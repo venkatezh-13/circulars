@@ -1,1 +1,79 @@
-[]
+[
+  {
+    "exchange": "MSEI",
+    "circular_no": "20008",
+    "date": "28-Oct-2026",
+    "date_iso": "2026-10-28",
+    "title": "Applicability of Enhanced Surveillance Measure (ESM)",
+    "subject": "Applicability of Enhanced Surveillance Measure (ESM)",
+    "category": "Capital Market",
+    "department": "Surveillance",
+    "link": "https://www.msei.in/SX-Content/Circulars/2026/October/Circular-20008.zip"
+  },
+  {
+    "exchange": "MSEI",
+    "circular_no": "20007",
+    "date": "28-Oct-2026",
+    "date_iso": "2026-10-28",
+    "title": "Applicability of Short-Term Additional Surveillance Measure (ST-ASM)",
+    "subject": "Applicability of Short-Term Additional Surveillance Measure (ST-ASM)",
+    "category": "Capital Market",
+    "department": "Surveillance",
+    "link": "https://www.msei.in/SX-Content/Circulars/2026/October/Circular-20007.zip"
+  },
+  {
+    "exchange": "MSEI",
+    "circular_no": "20006",
+    "date": "28-Oct-2026",
+    "date_iso": "2026-10-28",
+    "title": "Applicability of Additional Surveillance Measure (ASM)",
+    "subject": "Applicability of Additional Surveillance Measure (ASM)",
+    "category": "Capital Market",
+    "department": "Surveillance",
+    "link": "https://www.msei.in/SX-Content/Circulars/2026/October/Circular-20006.zip"
+  },
+  {
+    "exchange": "MSEI",
+    "circular_no": "20004",
+    "date": "28-Oct-2026",
+    "date_iso": "2026-10-28",
+    "title": "Change in ISIN – Galaxy Agrico Exports Limited (GALAGEX)",
+    "subject": "Change in ISIN – Galaxy Agrico Exports Limited (GALAGEX)",
+    "category": "Capital Market",
+    "department": "Listing",
+    "link": "https://www.msei.in/SX-Content/Circulars/2026/October/Circular-20004.pdf"
+  },
+  {
+    "exchange": "MSEI",
+    "circular_no": "20003",
+    "date": "28-Oct-2026",
+    "date_iso": "2026-10-28",
+    "title": "Face Value Split – Knowledge Marine & Engineering Works Limited (KMEW)",
+    "subject": "Face Value Split – Knowledge Marine & Engineering Works Limited (KMEW)",
+    "category": "Capital Market",
+    "department": "Listing",
+    "link": "https://www.msei.in/SX-Content/Circulars/2026/October/Circular-20003.pdf"
+  },
+  {
+    "exchange": "MSEI",
+    "circular_no": "20002",
+    "date": "28-Oct-2026",
+    "date_iso": "2026-10-28",
+    "title": "Change in name and Symbol of Sugal & Damani Share Brokers Ltd (SUGALDAM)",
+    "subject": "Change in name and Symbol of Sugal & Damani Share Brokers Ltd (SUGALDAM)",
+    "category": "Capital Market",
+    "department": "Listing",
+    "link": "https://www.msei.in/SX-Content/Circulars/2026/October/Circular-20002.pdf"
+  },
+  {
+    "exchange": "MSEI",
+    "circular_no": "20001",
+    "date": "28-Oct-2026",
+    "date_iso": "2026-10-28",
+    "title": "Change in name & symbol of A B Cotspin India Limited (ABCOTS)",
+    "subject": "Change in name & symbol of A B Cotspin India Limited (ABCOTS)",
+    "category": "Capital Market",
+    "department": "Listing",
+    "link": "https://www.msei.in/SX-Content/Circulars/2026/October/Circular-20001.pdf"
+  }
+]
