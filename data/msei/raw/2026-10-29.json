@@ -9,5 +9,104 @@
     "category": "Capital Market",
     "department": "Listing",
     "link": "https://www.msei.in/SX-Content/Circulars/2026/October/Circular-20010.pdf"
+  },
+  {
+    "exchange": "MSEI",
+    "circular_no": "20018",
+    "date": "29-Oct-2026",
+    "date_iso": "2026-10-29",
+    "title": "Trade to Trade Settlement",
+    "subject": "Trade to Trade Settlement",
+    "category": "Capital Market",
+    "department": "Surveillance",
+    "link": "https://www.msei.in/SX-Content/Circulars/2026/October/Circular-20018.zip"
+  },
+  {
+    "exchange": "MSEI",
+    "circular_no": "20017",
+    "date": "29-Oct-2026",
+    "date_iso": "2026-10-29",
+    "title": "Applicability of Short-Term Additional Surveillance Measure (ST-ASM)",
+    "subject": "Applicability of Short-Term Additional Surveillance Measure (ST-ASM)",
+    "category": "Capital Market",
+    "department": "Surveillance",
+    "link": "https://www.msei.in/SX-Content/Circulars/2026/October/Circular-20017.zip"
+  },
+  {
+    "exchange": "MSEI",
+    "circular_no": "20016",
+    "date": "29-Oct-2026",
+    "date_iso": "2026-10-29",
+    "title": "Applicability of Additional Surveillance Measure (ASM)",
+    "subject": "Applicability of Additional Surveillance Measure (ASM)",
+    "category": "Capital Market",
+    "department": "Surveillance",
+    "link": "https://www.msei.in/SX-Content/Circulars/2026/October/Circular-20016.zip"
+  },
+  {
+    "exchange": "MSEI",
+    "circular_no": "20015",
+    "date": "29-Oct-2026",
+    "date_iso": "2026-10-29",
+    "title": "Mock Trading in Equity Derivatives Segment from Disaster Recovery (DR) Site on Saturday October 31, 2026",
+    "subject": "Mock Trading in Equity Derivatives Segment from Disaster Recovery (DR) Site on Saturday October 31, 2026",
+    "category": "Futures & Options",
+    "department": "Trading",
+    "link": "https://www.msei.in/SX-Content/Circulars/2026/October/Circular-20015.pdf"
+  },
+  {
+    "exchange": "MSEI",
+    "circular_no": "20014",
+    "date": "29-Oct-2026",
+    "date_iso": "2026-10-29",
+    "title": "Mock Trading in Currency Derivatives Segment from Disaster Recovery (DR) Site on Saturday, October 31, 2026",
+    "subject": "Mock Trading in Currency Derivatives Segment from Disaster Recovery (DR) Site on Saturday, October 31, 2026",
+    "category": "Currency Derivatives",
+    "department": "Trading",
+    "link": "https://www.msei.in/SX-Content/Circulars/2026/October/Circular-20014.pdf"
+  },
+  {
+    "exchange": "MSEI",
+    "circular_no": "20013",
+    "date": "29-Oct-2026",
+    "date_iso": "2026-10-29",
+    "title": "Mock Trading in Capital Market Segment from Disaster Recovery (DR) Site on Saturday, October 31, 2026",
+    "subject": "Mock Trading in Capital Market Segment from Disaster Recovery (DR) Site on Saturday, October 31, 2026",
+    "category": "Capital Market",
+    "department": "Trading",
+    "link": "https://www.msei.in/SX-Content/Circulars/2026/October/Circular-20013.pdf"
+  },
+  {
+    "exchange": "MSEI",
+    "circular_no": "20012",
+    "date": "29-Oct-2026",
+    "date_iso": "2026-10-29",
+    "title": "Admission of Security under “Permitted to Trade” Category - Arham Technologies Limited (ARHAM)",
+    "subject": "Admission of Security under “Permitted to Trade” Category - Arham Technologies Limited (ARHAM)",
+    "category": "Capital Market",
+    "department": "Listing",
+    "link": "https://www.msei.in/SX-Content/Circulars/2026/October/Circular-20012.pdf"
+  },
+  {
+    "exchange": "MSEI",
+    "circular_no": "20011",
+    "date": "29-Oct-2026",
+    "date_iso": "2026-10-29",
+    "title": "Change in ISIN – Meenakshi India Limited (MEEIND)",
+    "subject": "Change in ISIN – Meenakshi India Limited (MEEIND)",
+    "category": "Capital Market",
+    "department": "Listing",
+    "link": "https://www.msei.in/SX-Content/Circulars/2026/October/Circular-20011.pdf"
+  },
+  {
+    "exchange": "MSEI",
+    "circular_no": "20009",
+    "date": "29-Oct-2026",
+    "date_iso": "2026-10-29",
+    "title": "Change in name and Symbol of Virat Industries Ltd (VIRAT)",
+    "subject": "Change in name and Symbol of Virat Industries Ltd (VIRAT)",
+    "category": "Capital Market",
+    "department": "Listing",
+    "link": "https://www.msei.in/SX-Content/Circulars/2026/October/Circular-20009.pdf"
   }
 ]
