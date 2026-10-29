@@ -1,1 +1,37 @@
-[]
+[
+  {
+    "date": "October 29, 2026",
+    "department": "Listing",
+    "subject": "Listing of privately placed securities on capital market segment",
+    "circular_ref": "NSE/CML/77167",
+    "link": "https://nsearchives.nseindia.com/content/circulars/CML77167.pdf"
+  },
+  {
+    "date": "October 29, 2026",
+    "department": "Debt Segment",
+    "subject": "Listing of privately placed securities on the debt market segment of the Exchange",
+    "circular_ref": "NSE/CML/77166",
+    "link": "https://nsearchives.nseindia.com/content/circulars/CML77166.pdf"
+  },
+  {
+    "date": "October 29, 2026",
+    "department": "Inspection & Compliance",
+    "subject": "Segmental Surrender of Membership",
+    "circular_ref": "NSE/COMP/77163",
+    "link": "https://nsearchives.nseindia.com/content/circulars/COMP77163.pdf"
+  },
+  {
+    "date": "October 29, 2026",
+    "department": "Mutual Fund",
+    "subject": "Non-Business Day for certain schemes of Mutual Fund on NSE MF Invest Platform for November 2026",
+    "circular_ref": "NSE/NMF/77162",
+    "link": "https://nsearchives.nseindia.com/content/circulars/NMF77162.zip"
+  },
+  {
+    "date": "October 29, 2026",
+    "department": "Mutual Fund",
+    "subject": "Launch of Edelweiss Nifty Energy ETF NFO on NSE MF Invest Platform",
+    "circular_ref": "NSE/NMF/77159",
+    "link": "https://nsearchives.nseindia.com/content/circulars/NMF77159.pdf"
+  }
+]
