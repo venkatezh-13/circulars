@@ -1,1 +1,35 @@
-[]
+[
+  {
+    "exchange": "MSEI",
+    "circular_no": "20038",
+    "date": "02-Nov-2026",
+    "date_iso": "2026-11-02",
+    "title": "Admission of Security under “Permitted to Trade” Category",
+    "subject": "Admission of Security under “Permitted to Trade” Category",
+    "category": "Capital Market",
+    "department": "Listing",
+    "link": "https://www.msei.in/SX-Content/Circulars/2026/November/Circular-20038.pdf"
+  },
+  {
+    "exchange": "MSEI",
+    "circular_no": "20037",
+    "date": "02-Nov-2026",
+    "date_iso": "2026-11-02",
+    "title": "Final Order in the matter of EKI Energy Services Ltd",
+    "subject": "Final Order in the matter of EKI Energy Services Ltd",
+    "category": "All",
+    "department": "Investigation",
+    "link": "https://www.msei.in/SX-Content/Circulars/2026/November/Circular-20037.pdf"
+  },
+  {
+    "exchange": "MSEI",
+    "circular_no": "20036",
+    "date": "02-Nov-2026",
+    "date_iso": "2026-11-02",
+    "title": "Change in Symbol of Swati Projects Limited",
+    "subject": "Change in Symbol of Swati Projects Limited",
+    "category": "Capital Market",
+    "department": "Listing",
+    "link": "https://www.msei.in/SX-Content/Circulars/2026/November/Circular-20036.pdf"
+  }
+]
