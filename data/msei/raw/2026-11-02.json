@@ -31,5 +31,49 @@
     "category": "Capital Market",
     "department": "Listing",
     "link": "https://www.msei.in/SX-Content/Circulars/2026/November/Circular-20036.pdf"
+  },
+  {
+    "exchange": "MSEI",
+    "circular_no": "20042",
+    "date": "02-Nov-2026",
+    "date_iso": "2026-11-02",
+    "title": "Revision of Scrips in Trade to Trade Settlement",
+    "subject": "Revision of Scrips in Trade to Trade Settlement",
+    "category": "Capital Market",
+    "department": "Surveillance",
+    "link": "https://www.msei.in/SX-Content/Circulars/2026/November/Circular-20042.pdf"
+  },
+  {
+    "exchange": "MSEI",
+    "circular_no": "20041",
+    "date": "02-Nov-2026",
+    "date_iso": "2026-11-02",
+    "title": "List of security under Stage I of Graded Surveillance Measure (GSM)",
+    "subject": "List of security under Stage I of Graded Surveillance Measure (GSM)",
+    "category": "Capital Market",
+    "department": "Surveillance",
+    "link": "https://www.msei.in/SX-Content/Circulars/2026/November/Circular-20041.pdf"
+  },
+  {
+    "exchange": "MSEI",
+    "circular_no": "20040",
+    "date": "02-Nov-2026",
+    "date_iso": "2026-11-02",
+    "title": "Applicability of Enhanced Surveillance Measure (ESM)",
+    "subject": "Applicability of Enhanced Surveillance Measure (ESM)",
+    "category": "Capital Market",
+    "department": "Surveillance",
+    "link": "https://www.msei.in/SX-Content/Circulars/2026/November/Circular-20040.zip"
+  },
+  {
+    "exchange": "MSEI",
+    "circular_no": "20039",
+    "date": "02-Nov-2026",
+    "date_iso": "2026-11-02",
+    "title": "Applicability of Short-Term Additional Surveillance Measure (ST-ASM)",
+    "subject": "Applicability of Short-Term Additional Surveillance Measure (ST-ASM)",
+    "category": "Capital Market",
+    "department": "Surveillance",
+    "link": "https://www.msei.in/SX-Content/Circulars/2026/November/Circular-20039.zip"
   }
 ]
