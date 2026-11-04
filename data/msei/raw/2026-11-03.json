@@ -97,5 +97,27 @@
     "category": "All",
     "department": "Investigation",
     "link": "https://www.msei.in/SX-Content/Circulars/2026/November/Circular-20046.pdf"
+  },
+  {
+    "exchange": "MSEI",
+    "circular_no": "20045",
+    "date": "03-Nov-2026",
+    "date_iso": "2026-11-03",
+    "title": "Change in ISIN - Gujarat Natural Resources Ltd (GNRL)",
+    "subject": "Change in ISIN - Gujarat Natural Resources Ltd (GNRL)",
+    "category": "Capital Market",
+    "department": "Listing",
+    "link": "https://www.msei.in/SX-Content/Circulars/2026/November/Circular-20045.pdf"
+  },
+  {
+    "exchange": "MSEI",
+    "circular_no": "20044",
+    "date": "03-Nov-2026",
+    "date_iso": "2026-11-03",
+    "title": "Change in ISIN – Knowledge Marine & Engineering Works Limited (KMEW)",
+    "subject": "Change in ISIN – Knowledge Marine & Engineering Works Limited (KMEW)",
+    "category": "Capital Market",
+    "department": "Listing",
+    "link": "https://www.msei.in/SX-Content/Circulars/2026/November/Circular-20044.pdf"
   }
 ]
