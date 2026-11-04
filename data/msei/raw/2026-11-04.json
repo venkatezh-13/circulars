@@ -1,1 +1,24 @@
-[]
+[
+  {
+    "exchange": "MSEI",
+    "circular_no": "20055",
+    "date": "04-Nov-2026",
+    "date_iso": "2026-11-04",
+    "title": "Admission of Security under “Permitted to Trade” Category – Bombay Coated and Special Steels Limited (BCSSL)",
+    "subject": "Admission of Security under “Permitted to Trade” Category – Bombay Coated and Special Steels Limited (BCSSL)",
+    "category": "Capital Market",
+    "department": "Listing",
+    "link": "https://www.msei.in/SX-Content/Circulars/2026/November/Circular-20055.pdf"
+  },
+  {
+    "exchange": "MSEI",
+    "circular_no": "20054",
+    "date": "04-Nov-2026",
+    "date_iso": "2026-11-04",
+    "title": "DIVIDEND: Adjustment of Futures and Options contracts in the security PETRONET",
+    "subject": "DIVIDEND: Adjustment of Futures and Options contracts in the security PETRONET",
+    "category": "Futures & Options",
+    "department": "Trading",
+    "link": "https://www.msei.in/SX-Content/Circulars/2026/November/Circular-20054.pdf"
+  }
+]
