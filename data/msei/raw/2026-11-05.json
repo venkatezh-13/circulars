@@ -1,1 +1,24 @@
-[]
+[
+  {
+    "exchange": "MSEI",
+    "circular_no": "20060",
+    "date": "05-Nov-2026",
+    "date_iso": "2026-11-05",
+    "title": "Trade for Trade – IGL Spirits Limited (IGLSPIRITS)",
+    "subject": "Trade for Trade – IGL Spirits Limited (IGLSPIRITS)",
+    "category": "Capital Market",
+    "department": "Listing",
+    "link": "https://www.msei.in/SX-Content/Circulars/2026/November/Circular-20060.pdf"
+  },
+  {
+    "exchange": "MSEI",
+    "circular_no": "20059",
+    "date": "05-Nov-2026",
+    "date_iso": "2026-11-05",
+    "title": "Trade for Trade – Ennature Bio Pharma Limited (ENNATURE)",
+    "subject": "Trade for Trade – Ennature Bio Pharma Limited (ENNATURE)",
+    "category": "Capital Market",
+    "department": "Listing",
+    "link": "https://www.msei.in/SX-Content/Circulars/2026/November/Circular-20059.pdf"
+  }
+]

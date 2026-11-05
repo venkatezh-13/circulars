@@ -1,1 +1,32 @@
-[]
+[
+  {
+    "notice_no": "5618",
+    "date": "Nov 05, 2026",
+    "date_iso": "2026-11-05",
+    "subject": "Review of the framework for Accredited Investors",
+    "segment": "General",
+    "category": "Circular",
+    "department": "SEBI",
+    "pdf_url": "https://www.sebi.gov.in/legal/circulars/nov-2026/review-of-the-framework-for-accredited-investors_105618.html"
+  },
+  {
+    "notice_no": "5616",
+    "date": "Nov 05, 2026",
+    "date_iso": "2026-11-05",
+    "subject": "Framework for net settlement of funds for transactions undertaken by mutual fund schemes in cash market",
+    "segment": "General",
+    "category": "Circular",
+    "department": "SEBI",
+    "pdf_url": "https://www.sebi.gov.in/legal/circulars/nov-2026/framework-for-net-settlement-of-funds-for-transactions-undertaken-by-mutual-fund-schemes-in-cash-market_105616.html"
+  },
+  {
+    "notice_no": "5614",
+    "date": "Nov 05, 2026",
+    "date_iso": "2026-11-05",
+    "subject": "Revision of limits relating to requirement of underlying exposure for currency derivatives contracts",
+    "segment": "General",
+    "category": "Circular",
+    "department": "SEBI",
+    "pdf_url": "https://www.sebi.gov.in/legal/circulars/nov-2026/revision-of-limits-relating-to-requirement-of-underlying-exposure-for-currency-derivatives-contracts_105614.html"
+  }
+]
