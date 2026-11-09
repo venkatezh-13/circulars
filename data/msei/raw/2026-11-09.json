@@ -64,5 +64,71 @@
     "category": "Futures & Options",
     "department": "Trading",
     "link": "https://www.msei.in/SX-Content/Circulars/2026/November/Circular-20074.pdf"
+  },
+  {
+    "exchange": "MSEI",
+    "circular_no": "20085",
+    "date": "09-Nov-2026",
+    "date_iso": "2026-11-09",
+    "title": "Trade to Trade Settlement",
+    "subject": "Trade to Trade Settlement",
+    "category": "Capital Market",
+    "department": "Surveillance",
+    "link": "https://www.msei.in/SX-Content/Circulars/2026/November/Circular-20085.zip"
+  },
+  {
+    "exchange": "MSEI",
+    "circular_no": "20084",
+    "date": "09-Nov-2026",
+    "date_iso": "2026-11-09",
+    "title": "Applicability of Enhanced Surveillance Measure (ESM)",
+    "subject": "Applicability of Enhanced Surveillance Measure (ESM)",
+    "category": "Capital Market",
+    "department": "Surveillance",
+    "link": "https://www.msei.in/SX-Content/Circulars/2026/November/Circular-20084.zip"
+  },
+  {
+    "exchange": "MSEI",
+    "circular_no": "20083",
+    "date": "09-Nov-2026",
+    "date_iso": "2026-11-09",
+    "title": "Applicability of Short Term Additional Surveillance Measure (ST-ASM)",
+    "subject": "Applicability of Short Term Additional Surveillance Measure (ST-ASM)",
+    "category": "Capital Market",
+    "department": "Surveillance",
+    "link": "https://www.msei.in/SX-Content/Circulars/2026/November/Circular-20083.zip"
+  },
+  {
+    "exchange": "MSEI",
+    "circular_no": "20082",
+    "date": "09-Nov-2026",
+    "date_iso": "2026-11-09",
+    "title": "Applicability of Additional Surveillance Measure (ASM)",
+    "subject": "Applicability of Additional Surveillance Measure (ASM)",
+    "category": "Capital Market",
+    "department": "Surveillance",
+    "link": "https://www.msei.in/SX-Content/Circulars/2026/November/Circular-20082.zip"
+  },
+  {
+    "exchange": "MSEI",
+    "circular_no": "20081",
+    "date": "09-Nov-2026",
+    "date_iso": "2026-11-09",
+    "title": "Revision of limits relating to requirement of underlying exposure for currency derivatives contracts",
+    "subject": "Revision of limits relating to requirement of underlying exposure for currency derivatives contracts",
+    "category": "Currency Derivatives",
+    "department": "Trading",
+    "link": "https://www.msei.in/SX-Content/Circulars/2026/November/Circular-20081.zip"
+  },
+  {
+    "exchange": "MSEI",
+    "circular_no": "20080",
+    "date": "09-Nov-2026",
+    "date_iso": "2026-11-09",
+    "title": "Admission of Security under “Permitted to Trade” Category – VEEFIN",
+    "subject": "Admission of Security under “Permitted to Trade” Category – VEEFIN",
+    "category": "Capital Market",
+    "department": "Listing",
+    "link": "https://www.msei.in/SX-Content/Circulars/2026/November/Circular-20080.pdf"
   }
 ]

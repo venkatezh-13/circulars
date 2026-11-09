@@ -5,7 +5,7 @@
     <link>https://venkatezh-13.github.io/circulars</link>
     <description>NSE circulars — last 7 days</description>
     <language>en-in</language>
-    <lastBuildDate>Mon, 09 Nov 2026 13:55:07 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 23:18:10 +0000</lastBuildDate>
     <atom:link href="https://venkatezh-13.github.io/circulars/rss/nse.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Applicability of Enhanced Surveillance Measure (ESM)</title>
@@ -1261,6 +1261,14 @@
       <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/CMPT77348.pdf</guid>
       <description>[NSE] NCL/CMPT/77348 — Adjustment of Futures and Options contracts in the security OIL &amp; NATURAL GAS CORPORATION LIMITED (ONGC)</description>
       <category>Futures &amp; Options</category>
+      <pubDate>Mon, 09 Nov 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>Settlement Calendar for Exit Offer to the Dissenting Unitholders of Oriental InfraTrust (InvIT)</title>
+      <link>https://nsearchives.nseindia.com/content/circulars/CMPT77379.pdf</link>
+      <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/CMPT77379.pdf</guid>
+      <description>[NSE] NCL/CMPT/77379 — Settlement Calendar for Exit Offer to the Dissenting Unitholders of Oriental InfraTrust (InvIT)</description>
+      <category>NSE Clearing - Capital Market</category>
       <pubDate>Mon, 09 Nov 2026 07:30:00 +0530</pubDate>
     </item>
   </channel>
