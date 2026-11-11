@@ -158,5 +158,85 @@
     "category": "Circular",
     "department": "BSE",
     "pdf_url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261111-10/20261111-10.pdf"
+  },
+  {
+    "notice_no": "20261111-30",
+    "subject": "Daily Bulletin",
+    "segment": "General",
+    "category": "Circular",
+    "department": "BSE",
+    "pdf_url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261111-30/20261111-30.pdf"
+  },
+  {
+    "notice_no": "20261111-29",
+    "subject": "CHANGES IN PRICE BAND",
+    "segment": "General",
+    "category": "Circular",
+    "department": "BSE",
+    "pdf_url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261111-29/20261111-29.pdf"
+  },
+  {
+    "notice_no": "20261111-28",
+    "subject": "Graded Surveillance Measure (GSM) - List of securities moving into their respective GSM Stages",
+    "segment": "General",
+    "category": "Circular",
+    "department": "BSE",
+    "pdf_url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261111-28/20261111-28.pdf"
+  },
+  {
+    "notice_no": "20261111-27",
+    "subject": "Applicability of Short Term Additional Surveillance Measure (ST-ASM)",
+    "segment": "General",
+    "category": "Circular",
+    "department": "BSE",
+    "pdf_url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261111-27/20261111-27.pdf"
+  },
+  {
+    "notice_no": "20261111-26",
+    "subject": "Surveillance Measure for securities under IBC",
+    "segment": "General",
+    "category": "Circular",
+    "department": "BSE",
+    "pdf_url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261111-26/20261111-26.pdf"
+  },
+  {
+    "notice_no": "20261111-25",
+    "subject": "Applicability of Long Term Additional Surveillance Measure (LT-ASM)",
+    "segment": "General",
+    "category": "Circular",
+    "department": "BSE",
+    "pdf_url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261111-25/20261111-25.pdf"
+  },
+  {
+    "notice_no": "20261111-24",
+    "subject": "Enhanced Surveillance Measure (ESM)",
+    "segment": "General",
+    "category": "Circular",
+    "department": "BSE",
+    "pdf_url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261111-24/20261111-24.pdf"
+  },
+  {
+    "notice_no": "20261111-23",
+    "subject": "Part Redemption of  Debenture of Keystone Realtors Ltd",
+    "segment": "General",
+    "category": "Circular",
+    "department": "BSE",
+    "pdf_url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261111-23/20261111-23.pdf"
+  },
+  {
+    "notice_no": "20261111-22",
+    "subject": "Clarification Received from the Company on News Article",
+    "segment": "General",
+    "category": "Circular",
+    "department": "BSE",
+    "pdf_url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261111-22/20261111-22.pdf"
+  },
+  {
+    "notice_no": "20261111-21",
+    "subject": "Online submission of Change in compliance officer and KMP Details through IEFS",
+    "segment": "General",
+    "category": "Circular",
+    "department": "BSE",
+    "pdf_url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261111-21/20261111-21.pdf"
   }
 ]

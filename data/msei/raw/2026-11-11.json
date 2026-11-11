@@ -20,5 +20,38 @@
     "category": "Capital Market",
     "department": "Listing",
     "link": "https://www.msei.in/SX-Content/Circulars/2026/November/Circular-20086.pdf"
+  },
+  {
+    "exchange": "MSEI",
+    "circular_no": "20090",
+    "date": "11-Nov-2026",
+    "date_iso": "2026-11-11",
+    "title": "Applicability of Enhanced Surveillance Measure (ESM)",
+    "subject": "Applicability of Enhanced Surveillance Measure (ESM)",
+    "category": "Capital Market",
+    "department": "Surveillance",
+    "link": "https://www.msei.in/SX-Content/Circulars/2026/November/Circular-20090.7z"
+  },
+  {
+    "exchange": "MSEI",
+    "circular_no": "20089",
+    "date": "11-Nov-2026",
+    "date_iso": "2026-11-11",
+    "title": "Applicability of Short Term Additional Surveillance Measure (ST-ASM)",
+    "subject": "Applicability of Short Term Additional Surveillance Measure (ST-ASM)",
+    "category": "Capital Market",
+    "department": "Surveillance",
+    "link": "https://www.msei.in/SX-Content/Circulars/2026/November/Circular-20089.7z"
+  },
+  {
+    "exchange": "MSEI",
+    "circular_no": "20088",
+    "date": "11-Nov-2026",
+    "date_iso": "2026-11-11",
+    "title": "Introduction of Tender Offer Platform at MSE with interoperability mechanism with Clearing Corporations.",
+    "subject": "Introduction of Tender Offer Platform at MSE with interoperability mechanism with Clearing Corporations.",
+    "category": "Capital Market",
+    "department": "Trading",
+    "link": "https://www.msei.in/SX-Content/Circulars/2026/November/Circular-20088.pdf"
   }
 ]
