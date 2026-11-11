@@ -1,1 +1,24 @@
-[]
+[
+  {
+    "exchange": "MSEI",
+    "circular_no": "20087",
+    "date": "11-Nov-2026",
+    "date_iso": "2026-11-11",
+    "title": "Permanent Suspension of Trading in Equity Shares Elpro International Limited (ELPROINTL)",
+    "subject": "Permanent Suspension of Trading in Equity Shares Elpro International Limited (ELPROINTL)",
+    "category": "Capital Market",
+    "department": "Listing",
+    "link": "https://www.msei.in/SX-Content/Circulars/2026/November/Circular-20087.pdf"
+  },
+  {
+    "exchange": "MSEI",
+    "circular_no": "20086",
+    "date": "11-Nov-2026",
+    "date_iso": "2026-11-11",
+    "title": "Change in Series of Equity shares of Investment Companies (ICs) and Investment Holding",
+    "subject": "Change in Series of Equity shares of Investment Companies (ICs) and Investment Holding",
+    "category": "Capital Market",
+    "department": "Listing",
+    "link": "https://www.msei.in/SX-Content/Circulars/2026/November/Circular-20086.pdf"
+  }
+]
