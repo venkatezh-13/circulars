@@ -1,1 +1,90 @@
-[]
+[
+  {
+    "exchange": "MSEI",
+    "circular_no": "20099",
+    "date": "12-Nov-2026",
+    "date_iso": "2026-11-12",
+    "title": "List of securities under Stage III of Graded Surveillance Measure",
+    "subject": "List of securities under Stage III of Graded Surveillance Measure",
+    "category": "Capital Market",
+    "department": "Surveillance",
+    "link": "https://www.msei.in/SX-Content/Circulars/2026/November/Circular-20099.pdf"
+  },
+  {
+    "exchange": "MSEI",
+    "circular_no": "20098",
+    "date": "12-Nov-2026",
+    "date_iso": "2026-11-12",
+    "title": "List of securities under Stage II of Graded Surveillance Measure",
+    "subject": "List of securities under Stage II of Graded Surveillance Measure",
+    "category": "Capital Market",
+    "department": "Surveillance",
+    "link": "https://www.msei.in/SX-Content/Circulars/2026/November/Circular-20098.pdf"
+  },
+  {
+    "exchange": "MSEI",
+    "circular_no": "20097",
+    "date": "12-Nov-2026",
+    "date_iso": "2026-11-12",
+    "title": "Applicability of Enhanced Surveillance Measure (ESM)",
+    "subject": "Applicability of Enhanced Surveillance Measure (ESM)",
+    "category": "Capital Market",
+    "department": "Surveillance",
+    "link": "https://www.msei.in/SX-Content/Circulars/2026/November/Circular-20097.7z"
+  },
+  {
+    "exchange": "MSEI",
+    "circular_no": "20096",
+    "date": "12-Nov-2026",
+    "date_iso": "2026-11-12",
+    "title": "Applicability of Short Term Additional Surveillance Measure (ST-ASM)",
+    "subject": "Applicability of Short Term Additional Surveillance Measure (ST-ASM)",
+    "category": "Capital Market",
+    "department": "Surveillance",
+    "link": "https://www.msei.in/SX-Content/Circulars/2026/November/Circular-20096.7z"
+  },
+  {
+    "exchange": "MSEI",
+    "circular_no": "20094",
+    "date": "12-Nov-2026",
+    "date_iso": "2026-11-12",
+    "title": "Mock Trading in Currency Derivatives Segment on Saturday  November 14 2026.",
+    "subject": "Mock Trading in Currency Derivatives Segment on Saturday  November 14 2026.",
+    "category": "Currency Derivatives",
+    "department": "Trading",
+    "link": "https://www.msei.in/SX-Content/Circulars/2026/November/Circular-20094.pdf"
+  },
+  {
+    "exchange": "MSEI",
+    "circular_no": "20093",
+    "date": "12-Nov-2026",
+    "date_iso": "2026-11-12",
+    "title": "Mock Trading in Equity Derivatives Segment on Saturday, November 14, 2026",
+    "subject": "Mock Trading in Equity Derivatives Segment on Saturday, November 14, 2026",
+    "category": "Futures & Options",
+    "department": "Trading",
+    "link": "https://www.msei.in/SX-Content/Circulars/2026/November/Circular-20093.pdf"
+  },
+  {
+    "exchange": "MSEI",
+    "circular_no": "20092",
+    "date": "12-Nov-2026",
+    "date_iso": "2026-11-12",
+    "title": "Mock Trading in Capital Market Segment  on Saturday November 14 2026",
+    "subject": "Mock Trading in Capital Market Segment  on Saturday November 14 2026",
+    "category": "Capital Market",
+    "department": "Trading",
+    "link": "https://www.msei.in/SX-Content/Circulars/2026/November/Circular-20092.pdf"
+  },
+  {
+    "exchange": "MSEI",
+    "circular_no": "20091",
+    "date": "12-Nov-2026",
+    "date_iso": "2026-11-12",
+    "title": "Reminder for submission of Half Yearly Networth Certificate as on September 30, 2026",
+    "subject": "Reminder for submission of Half Yearly Networth Certificate as on September 30, 2026",
+    "category": "All",
+    "department": "Membership",
+    "link": "https://www.msei.in/SX-Content/Circulars/2026/November/Circular-20091.pdf"
+  }
+]
