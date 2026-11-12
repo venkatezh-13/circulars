@@ -230,5 +230,21 @@
     "category": "Circular",
     "department": "BSE",
     "pdf_url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261112-10/20261112-10.pdf"
+  },
+  {
+    "notice_no": "20261112-31",
+    "subject": "Daily Bulletin",
+    "segment": "General",
+    "category": "Circular",
+    "department": "BSE",
+    "pdf_url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261112-31/20261112-31.pdf"
+  },
+  {
+    "notice_no": "20261112-30",
+    "subject": "Part Redemption of Trading in Debentures and PTCs of Companies",
+    "segment": "General",
+    "category": "Circular",
+    "department": "BSE",
+    "pdf_url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261112-30/20261112-30.pdf"
   }
 ]
