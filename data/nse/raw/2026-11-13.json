@@ -1,1 +1,30 @@
-[]
+[
+  {
+    "date": "November 13, 2026",
+    "department": "Futures & Options",
+    "subject": "Mock trading on Saturday, November 14, 2026 - No new version release",
+    "circular_ref": "NSE/FAOP/77418",
+    "link": "https://nsearchives.nseindia.com/content/circulars/FAOP77418.pdf"
+  },
+  {
+    "date": "November 13, 2026",
+    "department": "Commodity Derivatives",
+    "subject": "Mock session on Saturday, November 14, 2026 - No new version release",
+    "circular_ref": "NSE/COM/77416",
+    "link": "https://nsearchives.nseindia.com/content/circulars/COM77416.pdf"
+  },
+  {
+    "date": "November 13, 2026",
+    "department": "Capital Market (Equities) Trade",
+    "subject": "Mock trading on Saturday, November 14, 2026 - No new version release",
+    "circular_ref": "NSE/CMTR/77415",
+    "link": "https://nsearchives.nseindia.com/content/circulars/CMTR77415.pdf"
+  },
+  {
+    "date": "November 13, 2026",
+    "department": "Currency Derivatives",
+    "subject": "Mock trading on Saturday, November 14, 2026 - New version of NEAT 3.5.5",
+    "circular_ref": "NSE/CD/77414",
+    "link": "https://nsearchives.nseindia.com/content/circulars/CD77414.pdf"
+  }
+]
