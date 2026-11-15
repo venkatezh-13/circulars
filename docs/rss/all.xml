@@ -5,7 +5,7 @@
     <link>https://venkatezh-13.github.io/circulars</link>
     <description>NSE, BSE and MCX circulars — last 7 days</description>
     <language>en-in</language>
-    <lastBuildDate>Sun, 15 Nov 2026 05:22:21 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 12:54:31 +0000</lastBuildDate>
     <atom:link href="https://venkatezh-13.github.io/circulars/rss/all.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Listing of further issues of securities</title>
@@ -126,14 +126,6 @@
       <description>[NSE] NSE/CML/77393 — Suspension of trading in Non-Convertible Securities (Privately Placed)</description>
       <category>Debt Segment</category>
       <pubDate>Thu, 12 Nov 2026 07:30:00 +0530</pubDate>
-    </item>
-    <item>
-      <title>DIVIDEND: Adjustment of Futures and Options contracts in the security ONGC</title>
-      <link>https://nsearchives.nseindia.com/content/circulars/FAOP77325.pdf</link>
-      <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/FAOP77325.pdf</guid>
-      <description>[NSE] NSE/FAOP/77325 — DIVIDEND: Adjustment of Futures and Options contracts in the security ONGC</description>
-      <category>Futures &amp; Options</category>
-      <pubDate>Sun, 08 Nov 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
       <title>EGR - Multiple Settlements Scheduled on November 11, 2026</title>
@@ -286,6 +278,14 @@
       <description>[NSE] NSE/SURV/77386 — Applicability of Enhanced Surveillance Measure (ESM)</description>
       <category>Surveillance &amp; Investigation</category>
       <pubDate>Wed, 11 Nov 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>Market making compliance file dissemination - Update</title>
+      <link>https://nsearchives.nseindia.in/content/circulars/SURV77439.pdf</link>
+      <guid isPermaLink="false">https://nsearchives.nseindia.in/content/circulars/SURV77439.pdf</guid>
+      <description>[NSE] NSE/SURV/77439 — Market making compliance file dissemination - Update</description>
+      <category>Surveillance &amp; Investigation</category>
+      <pubDate>Sat, 14 Nov 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
       <title>Mock trading on Saturday, November 14, 2026 - No new version release</title>
@@ -488,12 +488,12 @@
       <pubDate>Fri, 13 Nov 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
-      <title>Market making compliance file dissemination - Update</title>
-      <link>https://nsearchives.nseindia.in/content/circulars/SURV77439.pdf</link>
-      <guid isPermaLink="false">https://nsearchives.nseindia.in/content/circulars/SURV77439.pdf</guid>
-      <description>[NSE] NSE/SURV/77439 — Market making compliance file dissemination - Update</description>
-      <category>Surveillance &amp; Investigation</category>
-      <pubDate>Sat, 14 Nov 2026 07:30:00 +0530</pubDate>
+      <title>DIVIDEND: Adjustment of Futures and Options contracts in the security ONGC</title>
+      <link>https://nsearchives.nseindia.com/content/circulars/FAOP77325.pdf</link>
+      <guid isPermaLink="false">https://nsearchives.nseindia.com/content/circulars/FAOP77325.pdf</guid>
+      <description>[NSE] NSE/FAOP/77325 — DIVIDEND: Adjustment of Futures and Options contracts in the security ONGC</description>
+      <category>Futures &amp; Options</category>
+      <pubDate>Sun, 08 Nov 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
       <title>Listing of further issues of securities</title>
@@ -942,22 +942,6 @@ LIMITED from Open Market through Stock Exchanges</description>
       <description>[BSE] 20261112-30 — Part Redemption of Trading in Debentures and PTCs of Companies</description>
       <category>General / Circular</category>
       <pubDate>Thu, 12 Nov 2026 07:30:00 +0530</pubDate>
-    </item>
-    <item>
-      <title>Clarification Received from the Companies</title>
-      <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20261108-1/20261108-1.pdf</link>
-      <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20261108-1/20261108-1.pdf</guid>
-      <description>[BSE] 20261108-1 — Clarification Received from the Companies</description>
-      <category>General / Circular</category>
-      <pubDate>Sun, 08 Nov 2026 07:30:00 +0530</pubDate>
-    </item>
-    <item>
-      <title>CHANGES IN PRICE BAND</title>
-      <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20261108-2/20261108-2.pdf</link>
-      <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20261108-2/20261108-2.pdf</guid>
-      <description>[BSE] 20261108-2 — CHANGES IN PRICE BAND</description>
-      <category>General / Circular</category>
-      <pubDate>Sun, 08 Nov 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
       <title> Non-Competitive Bidding for Auction of GoI dated Securities (G-secs) on November 13, 2026  </title>
@@ -1410,6 +1394,22 @@ TWS/ETI/BOLTPLUS Location information for the month October
       <description>[BSE] 20261113-15 — CHANGES IN PRICE BAND</description>
       <category>General / Circular</category>
       <pubDate>Fri, 13 Nov 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>Clarification Received from the Companies</title>
+      <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20261108-1/20261108-1.pdf</link>
+      <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20261108-1/20261108-1.pdf</guid>
+      <description>[BSE] 20261108-1 — Clarification Received from the Companies</description>
+      <category>General / Circular</category>
+      <pubDate>Sun, 08 Nov 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>CHANGES IN PRICE BAND</title>
+      <link>https://www.bseindia.com/downloads/UploadDocs/Notices/20261108-2/20261108-2.pdf</link>
+      <guid isPermaLink="false">https://www.bseindia.com/downloads/UploadDocs/Notices/20261108-2/20261108-2.pdf</guid>
+      <description>[BSE] 20261108-2 — CHANGES IN PRICE BAND</description>
+      <category>General / Circular</category>
+      <pubDate>Sun, 08 Nov 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
       <title>Listing of further securities issued by the companies under ESOP / ESOS</title>
