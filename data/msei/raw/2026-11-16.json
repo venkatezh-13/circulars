@@ -9,5 +9,38 @@
     "category": "Capital Market",
     "department": "Listing",
     "link": "https://www.msei.in/SX-Content/Circulars/2026/November/Circular-20104.pdf"
+  },
+  {
+    "exchange": "MSEI",
+    "circular_no": "20107",
+    "date": "16-Nov-2026",
+    "date_iso": "2026-11-16",
+    "title": "Applicability of Enhanced Surveillance Measure (ESM)",
+    "subject": "Applicability of Enhanced Surveillance Measure (ESM)",
+    "category": "Capital Market",
+    "department": "Surveillance",
+    "link": "https://www.msei.in/SX-Content/Circulars/2026/November/Circular-20107.7z"
+  },
+  {
+    "exchange": "MSEI",
+    "circular_no": "20106",
+    "date": "16-Nov-2026",
+    "date_iso": "2026-11-16",
+    "title": "Applicability of Short Term Additional Surveillance Measure (ST-ASM)",
+    "subject": "Applicability of Short Term Additional Surveillance Measure (ST-ASM)",
+    "category": "Capital Market",
+    "department": "Surveillance",
+    "link": "https://www.msei.in/SX-Content/Circulars/2026/November/Circular-20106.7z"
+  },
+  {
+    "exchange": "MSEI",
+    "circular_no": "20105",
+    "date": "16-Nov-2026",
+    "date_iso": "2026-11-16",
+    "title": "Applicability of Additional Surveillance Measure (ASM)",
+    "subject": "Applicability of Additional Surveillance Measure (ASM)",
+    "category": "Capital Market",
+    "department": "Surveillance",
+    "link": "https://www.msei.in/SX-Content/Circulars/2026/November/Circular-20105.7z"
   }
 ]
