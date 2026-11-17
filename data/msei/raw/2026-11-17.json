@@ -1,1 +1,46 @@
-[]
+[
+  {
+    "exchange": "MSEI",
+    "circular_no": "20113",
+    "date": "17-Nov-2026",
+    "date_iso": "2026-11-17",
+    "title": "Applicability of Enhanced Surveillance Measure (ESM)",
+    "subject": "Applicability of Enhanced Surveillance Measure (ESM)",
+    "category": "Capital Market",
+    "department": "Surveillance",
+    "link": "https://www.msei.in/SX-Content/Circulars/2026/November/Circular-20113.zip"
+  },
+  {
+    "exchange": "MSEI",
+    "circular_no": "20112",
+    "date": "17-Nov-2026",
+    "date_iso": "2026-11-17",
+    "title": "Applicability of Short Term Additional Surveillance Measure (ST-ASM)",
+    "subject": "Applicability of Short Term Additional Surveillance Measure (ST-ASM)",
+    "category": "Capital Market",
+    "department": "Surveillance",
+    "link": "https://www.msei.in/SX-Content/Circulars/2026/November/Circular-20112.zip"
+  },
+  {
+    "exchange": "MSEI",
+    "circular_no": "20111",
+    "date": "17-Nov-2026",
+    "date_iso": "2026-11-17",
+    "title": "Applicability of Additional Surveillance Measure (ASM)",
+    "subject": "Applicability of Additional Surveillance Measure (ASM)",
+    "category": "Capital Market",
+    "department": "Surveillance",
+    "link": "https://www.msei.in/SX-Content/Circulars/2026/November/Circular-20111.zip"
+  },
+  {
+    "exchange": "MSEI",
+    "circular_no": "20109",
+    "date": "17-Nov-2026",
+    "date_iso": "2026-11-17",
+    "title": "Change in name & symbol of Shukra Pharmaceuticals Limited (SHUKRAPHAR)",
+    "subject": "Change in name & symbol of Shukra Pharmaceuticals Limited (SHUKRAPHAR)",
+    "category": "Capital Market",
+    "department": "Listing",
+    "link": "https://www.msei.in/SX-Content/Circulars/2026/November/Circular-20109.pdf"
+  }
+]

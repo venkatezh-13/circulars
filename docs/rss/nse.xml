@@ -5,7 +5,7 @@
     <link>https://venkatezh-13.github.io/circulars</link>
     <description>NSE circulars — last 7 days</description>
     <language>en-in</language>
-    <lastBuildDate>Tue, 17 Nov 2026 06:59:48 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 16:50:19 +0000</lastBuildDate>
     <atom:link href="https://venkatezh-13.github.io/circulars/rss/nse.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Listing of further issues of securities</title>
@@ -278,22 +278,6 @@
       <description>[NSE] NSE/SURV/77386 — Applicability of Enhanced Surveillance Measure (ESM)</description>
       <category>Surveillance &amp; Investigation</category>
       <pubDate>Wed, 11 Nov 2026 07:30:00 +0530</pubDate>
-    </item>
-    <item>
-      <title>Withdrawal of Dealings in securities under the Permitted to Trade Category - Elpro International Limited</title>
-      <link>https://nsearchives.nseindia.in/content/circulars/CML77456.pdf</link>
-      <guid isPermaLink="false">https://nsearchives.nseindia.in/content/circulars/CML77456.pdf</guid>
-      <description>[NSE] NSE/CML/77456 — Withdrawal of Dealings in securities under the Permitted to Trade Category - Elpro International Limited</description>
-      <category>Listing</category>
-      <pubDate>Tue, 17 Nov 2026 07:30:00 +0530</pubDate>
-    </item>
-    <item>
-      <title>Market making compliance file dissemination - Update</title>
-      <link>https://nsearchives.nseindia.in/content/circulars/SURV77439.pdf</link>
-      <guid isPermaLink="false">https://nsearchives.nseindia.in/content/circulars/SURV77439.pdf</guid>
-      <description>[NSE] NSE/SURV/77439 — Market making compliance file dissemination - Update</description>
-      <category>Surveillance &amp; Investigation</category>
-      <pubDate>Sat, 14 Nov 2026 07:30:00 +0530</pubDate>
     </item>
     <item>
       <title>Mock trading on Saturday, November 14, 2026 - No new version release</title>
@@ -622,6 +606,158 @@
       <description>[NSE] NSE/NMF/77440 — Launch of Kotak Nifty Pharma Index Fund NFO on NSE MF Invest Platform</description>
       <category>Mutual Fund</category>
       <pubDate>Mon, 16 Nov 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>Withdrawal of Dealings in securities under the Permitted to Trade Category - Elpro International Limited</title>
+      <link>https://nsearchives.nseindia.in/content/circulars/CML77456.pdf</link>
+      <guid isPermaLink="false">https://nsearchives.nseindia.in/content/circulars/CML77456.pdf</guid>
+      <description>[NSE] NSE/CML/77456 — Withdrawal of Dealings in securities under the Permitted to Trade Category - Elpro International Limited</description>
+      <category>Listing</category>
+      <pubDate>Tue, 17 Nov 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>Listing of further issues of securities</title>
+      <link>https://nsearchives.nseindia.in/content/circulars/CML77475.pdf</link>
+      <guid isPermaLink="false">https://nsearchives.nseindia.in/content/circulars/CML77475.pdf</guid>
+      <description>[NSE] NSE/CML/77475 — Listing of further issues of securities</description>
+      <category>Emerge</category>
+      <pubDate>Tue, 17 Nov 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>SEBI direction pursuant to SEBI order in the matter of Mauria Udyog Ltd</title>
+      <link>https://nsearchives.nseindia.in/content/circulars/INVG77474.zip</link>
+      <guid isPermaLink="false">https://nsearchives.nseindia.in/content/circulars/INVG77474.zip</guid>
+      <description>[NSE] NSE/INVG/77474 — SEBI direction pursuant to SEBI order in the matter of Mauria Udyog Ltd</description>
+      <category>Surveillance &amp; Investigation</category>
+      <pubDate>Tue, 17 Nov 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>SEBI direction pursuant to SAT Order in the matter of Cash Cow Broking and Solutions &amp; Ors </title>
+      <link>https://nsearchives.nseindia.in/content/circulars/INVG77473.zip</link>
+      <guid isPermaLink="false">https://nsearchives.nseindia.in/content/circulars/INVG77473.zip</guid>
+      <description>[NSE] NSE/INVG/77473 — SEBI direction pursuant to SAT Order in the matter of Cash Cow Broking and Solutions &amp; Ors </description>
+      <category>Surveillance &amp; Investigation</category>
+      <pubDate>Tue, 17 Nov 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>Change in name and symbol of Virat Industries Limited</title>
+      <link>https://nsearchives.nseindia.in/content/circulars/CML77472.pdf</link>
+      <guid isPermaLink="false">https://nsearchives.nseindia.in/content/circulars/CML77472.pdf</guid>
+      <description>[NSE] NSE/CML/77472 — Change in name and symbol of Virat Industries Limited</description>
+      <category>Listing</category>
+      <pubDate>Tue, 17 Nov 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>Removal of Exclusively listed companies of De-recognized/Non-operational/Exited Stock Exchanges placed on the Dissemination Board (DB)</title>
+      <link>https://nsearchives.nseindia.in/content/circulars/CML77471.pdf</link>
+      <guid isPermaLink="false">https://nsearchives.nseindia.in/content/circulars/CML77471.pdf</guid>
+      <description>[NSE] NSE/CML/77471 — Removal of Exclusively listed companies of De-recognized/Non-operational/Exited Stock Exchanges placed on the Dissemination Board (DB)</description>
+      <category>Listing</category>
+      <pubDate>Tue, 17 Nov 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>Listing of privately placed securities on the debt market segment of the Exchange</title>
+      <link>https://nsearchives.nseindia.in/content/circulars/CML77470.pdf</link>
+      <guid isPermaLink="false">https://nsearchives.nseindia.in/content/circulars/CML77470.pdf</guid>
+      <description>[NSE] NSE/CML/77470 — Listing of privately placed securities on the debt market segment of the Exchange</description>
+      <category>Debt Segment</category>
+      <pubDate>Tue, 17 Nov 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>Listing of privately placed securities on capital market segment</title>
+      <link>https://nsearchives.nseindia.in/content/circulars/CML77469.pdf</link>
+      <guid isPermaLink="false">https://nsearchives.nseindia.in/content/circulars/CML77469.pdf</guid>
+      <description>[NSE] NSE/CML/77469 — Listing of privately placed securities on capital market segment</description>
+      <category>Listing</category>
+      <pubDate>Tue, 17 Nov 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>Suspension of trading in Non-Convertible Debentures - Cholamandalam Investment and Finance Company Limited</title>
+      <link>https://nsearchives.nseindia.in/content/circulars/CML77467.pdf</link>
+      <guid isPermaLink="false">https://nsearchives.nseindia.in/content/circulars/CML77467.pdf</guid>
+      <description>[NSE] NSE/CML/77467 — Suspension of trading in Non-Convertible Debentures - Cholamandalam Investment and Finance Company Limited</description>
+      <category>Listing</category>
+      <pubDate>Tue, 17 Nov 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>Applicability of Enhanced Surveillance Measure (ESM)</title>
+      <link>https://nsearchives.nseindia.in/content/circulars/SURV77466.zip</link>
+      <guid isPermaLink="false">https://nsearchives.nseindia.in/content/circulars/SURV77466.zip</guid>
+      <description>[NSE] NSE/SURV/77466 — Applicability of Enhanced Surveillance Measure (ESM)</description>
+      <category>Surveillance &amp; Investigation</category>
+      <pubDate>Tue, 17 Nov 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>List of Securities Moving to Stage IV of Graded Surveillance Measure (GSM)</title>
+      <link>https://nsearchives.nseindia.in/content/circulars/SURV77465.pdf</link>
+      <guid isPermaLink="false">https://nsearchives.nseindia.in/content/circulars/SURV77465.pdf</guid>
+      <description>[NSE] NSE/SURV/77465 — List of Securities Moving to Stage IV of Graded Surveillance Measure (GSM)</description>
+      <category>Surveillance &amp; Investigation</category>
+      <pubDate>Tue, 17 Nov 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>Listing of further issues of securities</title>
+      <link>https://nsearchives.nseindia.in/content/circulars/CML77464.pdf</link>
+      <guid isPermaLink="false">https://nsearchives.nseindia.in/content/circulars/CML77464.pdf</guid>
+      <description>[NSE] NSE/CML/77464 — Listing of further issues of securities</description>
+      <category>Listing</category>
+      <pubDate>Tue, 17 Nov 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>Additional Exposure Margin on Securities under MWPL</title>
+      <link>https://nsearchives.nseindia.in/content/circulars/CMPT77463.zip</link>
+      <guid isPermaLink="false">https://nsearchives.nseindia.in/content/circulars/CMPT77463.zip</guid>
+      <description>[NSE] NCL/CMPT/77463 — Additional Exposure Margin on Securities under MWPL</description>
+      <category>Futures &amp; Options</category>
+      <pubDate>Tue, 17 Nov 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>Applicability of Short-Term Additional Surveillance Measure (ST-ASM)</title>
+      <link>https://nsearchives.nseindia.in/content/circulars/SURV77462.zip</link>
+      <guid isPermaLink="false">https://nsearchives.nseindia.in/content/circulars/SURV77462.zip</guid>
+      <description>[NSE] NSE/SURV/77462 — Applicability of Short-Term Additional Surveillance Measure (ST-ASM)</description>
+      <category>Surveillance &amp; Investigation</category>
+      <pubDate>Tue, 17 Nov 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>Applicability of Additional Surveillance Measure (ASM)</title>
+      <link>https://nsearchives.nseindia.in/content/circulars/SURV77461.zip</link>
+      <guid isPermaLink="false">https://nsearchives.nseindia.in/content/circulars/SURV77461.zip</guid>
+      <description>[NSE] NSE/SURV/77461 — Applicability of Additional Surveillance Measure (ASM)</description>
+      <category>Surveillance &amp; Investigation</category>
+      <pubDate>Tue, 17 Nov 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>Availability of Kotak Nifty Realty Index Fund on NSE MF Invest Platform</title>
+      <link>https://nsearchives.nseindia.in/content/circulars/NMF77459.pdf</link>
+      <guid isPermaLink="false">https://nsearchives.nseindia.in/content/circulars/NMF77459.pdf</guid>
+      <description>[NSE] NSE/NMF/77459 — Availability of Kotak Nifty Realty Index Fund on NSE MF Invest Platform</description>
+      <category>Mutual Fund</category>
+      <pubDate>Tue, 17 Nov 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>Launch of Nippon India Crisil - IBX SDL - June 2037 Index Fund NFO on NSE MF Invest Platform</title>
+      <link>https://nsearchives.nseindia.in/content/circulars/NMF77458.pdf</link>
+      <guid isPermaLink="false">https://nsearchives.nseindia.in/content/circulars/NMF77458.pdf</guid>
+      <description>[NSE] NSE/NMF/77458 — Launch of Nippon India Crisil - IBX SDL - June 2037 Index Fund NFO on NSE MF Invest Platform</description>
+      <category>Mutual Fund</category>
+      <pubDate>Tue, 17 Nov 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>Suspension of trading in Non-Convertible Securities (Privately Placed)</title>
+      <link>https://nsearchives.nseindia.in/content/circulars/CML77457.pdf</link>
+      <guid isPermaLink="false">https://nsearchives.nseindia.in/content/circulars/CML77457.pdf</guid>
+      <description>[NSE] NSE/CML/77457 — Suspension of trading in Non-Convertible Securities (Privately Placed)</description>
+      <category>Listing</category>
+      <pubDate>Tue, 17 Nov 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>Market making compliance file dissemination - Update</title>
+      <link>https://nsearchives.nseindia.in/content/circulars/SURV77439.pdf</link>
+      <guid isPermaLink="false">https://nsearchives.nseindia.in/content/circulars/SURV77439.pdf</guid>
+      <description>[NSE] NSE/SURV/77439 — Market making compliance file dissemination - Update</description>
+      <category>Surveillance &amp; Investigation</category>
+      <pubDate>Sat, 14 Nov 2026 07:30:00 +0530</pubDate>
     </item>
   </channel>
 </rss>
