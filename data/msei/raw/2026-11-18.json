@@ -1,1 +1,57 @@
-[]
+[
+  {
+    "exchange": "MSEI",
+    "circular_no": "20118",
+    "date": "18-Nov-2026",
+    "date_iso": "2026-11-18",
+    "title": "Applicability of Enhanced Surveillance Measure (ESM)",
+    "subject": "Applicability of Enhanced Surveillance Measure (ESM)",
+    "category": "Capital Market",
+    "department": "Surveillance",
+    "link": "https://www.msei.in/SX-Content/Circulars/2026/November/Circular-20118.zip"
+  },
+  {
+    "exchange": "MSEI",
+    "circular_no": "20117",
+    "date": "18-Nov-2026",
+    "date_iso": "2026-11-18",
+    "title": "Applicability of Short Term Additional Surveillance Measure (ST-ASM)",
+    "subject": "Applicability of Short Term Additional Surveillance Measure (ST-ASM)",
+    "category": "Capital Market",
+    "department": "Surveillance",
+    "link": "https://www.msei.in/SX-Content/Circulars/2026/November/Circular-20117.zip"
+  },
+  {
+    "exchange": "MSEI",
+    "circular_no": "20116",
+    "date": "18-Nov-2026",
+    "date_iso": "2026-11-18",
+    "title": "Applicability of Additional Surveillance Measure (ASM)",
+    "subject": "Applicability of Additional Surveillance Measure (ASM)",
+    "category": "Capital Market",
+    "department": "Surveillance",
+    "link": "https://www.msei.in/SX-Content/Circulars/2026/November/Circular-20116.zip"
+  },
+  {
+    "exchange": "MSEI",
+    "circular_no": "20115",
+    "date": "18-Nov-2026",
+    "date_iso": "2026-11-18",
+    "title": "SEBI directions pursuant to SAT Order in the matter of Mauria Udyog Ltd",
+    "subject": "SEBI directions pursuant to SAT Order in the matter of Mauria Udyog Ltd",
+    "category": "All",
+    "department": "Investigation",
+    "link": "https://www.msei.in/SX-Content/Circulars/2026/November/Circular-20115.rar"
+  },
+  {
+    "exchange": "MSEI",
+    "circular_no": "20114",
+    "date": "18-Nov-2026",
+    "date_iso": "2026-11-18",
+    "title": "SEBI directions pursuant to SAT Order in the matter of Cash Cow Broking and Solutions",
+    "subject": "SEBI directions pursuant to SAT Order in the matter of Cash Cow Broking and Solutions",
+    "category": "All",
+    "department": "Investigation",
+    "link": "https://www.msei.in/SX-Content/Circulars/2026/November/Circular-20114.pdf"
+  }
+]
