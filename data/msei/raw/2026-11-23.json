@@ -1,1 +1,68 @@
-[]
+[
+  {
+    "exchange": "MSEI",
+    "circular_no": "20145",
+    "date": "23-Nov-2026",
+    "date_iso": "2026-11-23",
+    "title": "Trade to Trade Settlement",
+    "subject": "Trade to Trade Settlement",
+    "category": "Capital Market",
+    "department": "Surveillance",
+    "link": "https://www.msei.in/SX-Content/Circulars/2026/November/Circular-20145.7z"
+  },
+  {
+    "exchange": "MSEI",
+    "circular_no": "20144",
+    "date": "23-Nov-2026",
+    "date_iso": "2026-11-23",
+    "title": "Applicability of Enhanced Surveillance Measure (ESM)",
+    "subject": "Applicability of Enhanced Surveillance Measure (ESM)",
+    "category": "Capital Market",
+    "department": "Surveillance",
+    "link": "https://www.msei.in/SX-Content/Circulars/2026/November/Circular-20144.7z"
+  },
+  {
+    "exchange": "MSEI",
+    "circular_no": "20143",
+    "date": "23-Nov-2026",
+    "date_iso": "2026-11-23",
+    "title": "Applicability of Short Term Additional Surveillance Measure (ST-ASM)",
+    "subject": "Applicability of Short Term Additional Surveillance Measure (ST-ASM)",
+    "category": "Capital Market",
+    "department": "Surveillance",
+    "link": "https://www.msei.in/SX-Content/Circulars/2026/November/Circular-20143.7z"
+  },
+  {
+    "exchange": "MSEI",
+    "circular_no": "20142",
+    "date": "23-Nov-2026",
+    "date_iso": "2026-11-23",
+    "title": "Change in name & symbol of Lorenzini Apparels Limited (LAL)",
+    "subject": "Change in name & symbol of Lorenzini Apparels Limited (LAL)",
+    "category": "Capital Market",
+    "department": "Listing",
+    "link": "https://www.msei.in/SX-Content/Circulars/2026/November/Circular-20142.pdf"
+  },
+  {
+    "exchange": "MSEI",
+    "circular_no": "20141",
+    "date": "23-Nov-2026",
+    "date_iso": "2026-11-23",
+    "title": "Lot Size Introduction of Futures and Options contracts on Individual securities",
+    "subject": "Lot Size Introduction of Futures and Options contracts on Individual securities",
+    "category": "Futures & Options",
+    "department": "Trading",
+    "link": "https://www.msei.in/SX-Content/Circulars/2026/November/Circular-20141.pdf"
+  },
+  {
+    "exchange": "MSEI",
+    "circular_no": "20140",
+    "date": "23-Nov-2026",
+    "date_iso": "2026-11-23",
+    "title": "Reminder for Submission of Risk Based Supervision Data for the period April 01, 2026 – September 30, 2026",
+    "subject": "Reminder for Submission of Risk Based Supervision Data for the period April 01, 2026 – September 30, 2026",
+    "category": "All",
+    "department": "Inspection",
+    "link": "https://www.msei.in/SX-Content/Circulars/2026/November/Circular-20140.pdf"
+  }
+]
