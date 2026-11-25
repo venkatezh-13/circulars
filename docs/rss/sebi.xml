@@ -5,15 +5,23 @@
     <link>https://venkatezh-13.github.io/circulars</link>
     <description>SEBI circulars — last 7 days</description>
     <language>en-in</language>
-    <lastBuildDate>Tue, 24 Nov 2026 23:47:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 18:08:28 +0000</lastBuildDate>
     <atom:link href="https://venkatezh-13.github.io/circulars/rss/sebi.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Review of Margin Framework for Commodity Derivatives Segment</title>
-      <link>https://www.sebi.gov.in/legal/circulars/nov-2026/review-of-margin-framework-for-commodity-derivatives-segment_105799.html</link>
-      <guid isPermaLink="false">https://www.sebi.gov.in/legal/circulars/nov-2026/review-of-margin-framework-for-commodity-derivatives-segment_105799.html</guid>
-      <description>[SEBI] 5799 — Review of Margin Framework for Commodity Derivatives Segment</description>
+      <title>Half-yearly review of -Significant Indices- under SEBI (Index Providers) Regulations, 2024</title>
+      <link>https://www.sebi.gov.in/legal/circulars/nov-2026/half-yearly-review-of-significant-indices-under-sebi-index-providers-regulations-2024_105853.html</link>
+      <guid isPermaLink="false">https://www.sebi.gov.in/legal/circulars/nov-2026/half-yearly-review-of-significant-indices-under-sebi-index-providers-regulations-2024_105853.html</guid>
+      <description>[SEBI] 5853 — Half-yearly review of -Significant Indices- under SEBI (Index Providers) Regulations, 2024</description>
       <category>Circular</category>
-      <pubDate>Tue, 17 Nov 2026 07:30:00 +0530</pubDate>
+      <pubDate>Wed, 25 Nov 2026 07:30:00 +0530</pubDate>
+    </item>
+    <item>
+      <title>Simplification of client on-boarding and rationalisation of risk management framework at KYC Registration Agencies</title>
+      <link>https://www.sebi.gov.in/legal/circulars/nov-2026/simplification-of-client-on-boarding-and-rationalisation-of-risk-management-framework-at-kyc-registration-agencies_105839.html</link>
+      <guid isPermaLink="false">https://www.sebi.gov.in/legal/circulars/nov-2026/simplification-of-client-on-boarding-and-rationalisation-of-risk-management-framework-at-kyc-registration-agencies_105839.html</guid>
+      <description>[SEBI] 5839 — Simplification of client on-boarding and rationalisation of risk management framework at KYC Registration Agencies</description>
+      <category>Circular</category>
+      <pubDate>Wed, 25 Nov 2026 07:30:00 +0530</pubDate>
     </item>
   </channel>
 </rss>
