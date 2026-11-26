@@ -1,1 +1,23 @@
-[]
+[
+  {
+    "date": "November 26, 2026",
+    "department": "Listing",
+    "subject": "Listing of Equity Shares of Mahanadi Coalfields Limited (IPO)",
+    "circular_ref": "NSE/CML/77620",
+    "link": "https://nsearchives.nseindia.in/content/circulars/CML77620.pdf"
+  },
+  {
+    "date": "November 26, 2026",
+    "department": "NSE Clearing - Capital Market",
+    "subject": "Early Pay-in of Securities for Interarch Building Solutions Limited (INTERARCH)",
+    "circular_ref": "NCL/CMPT/77615",
+    "link": "https://nsearchives.nseindia.in/content/circulars/CMPT77615.pdf"
+  },
+  {
+    "date": "November 26, 2026",
+    "department": "Futures & Options",
+    "subject": "Adjustment of Futures and Options Contracts in the security TECH MAHINDRA LIMITED (TECHM)",
+    "circular_ref": "NCL/CMPT/77593",
+    "link": "https://nsearchives.nseindia.in/content/circulars/CMPT77593.pdf"
+  }
+]
